@@ -1,0 +1,247 @@
+political_subdivision,election_date,election_name,Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,2,3,Straight Party,,1,1,Republican Party,C,1,REP,198,106,82,0,0,0,0,0,124,62,56,0,74,44,26,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,198,10,82,0,0,0,0,0,124,6,56,0,74,4,26,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,198,0,82,0,0,0,0,0,124,0,56,0,74,0,26,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,2,3,Straight Party,,1,4,Green Party,C,4,GRN,198,0,82,0,0,0,0,0,124,0,56,0,74,0,26,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,1,Donald J. Trump / Mike Pence,C,1,REP,198,169,2,0,0,0,0,0,124,103,1,0,74,66,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,2,Hillary Clinton / Tim Kaine,C,2,DEM,198,25,2,0,0,0,0,0,124,20,1,0,74,5,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,3,Gary Johnson / William Weld,C,3,LIB,198,1,2,0,0,0,0,0,124,0,1,0,74,1,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,4,Jill Stein / Ajamu Baraka,C,4,GRN,198,1,2,0,0,0,0,0,124,0,1,0,74,1,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,6,Darrell L. Castle/Scott N. Bradley,W,5,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,7,Scott Cubbler/Michaelo Rodriguez,W,6,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,8,Cherunda Fox/Roger Kushner,W,7,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,9,Tom Hoefling/Steve Schulin,W,8,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,10,Laurence Kotlikoff/Edward Leamer,W,9,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,11,Jonathan Lee/Jeffrey Erskine,W,10,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,12,Michael A. Maturen/Juan A. Munoz,W,11,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,13,Evan McMullin/Nathan Johnson,W,12,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,14,Monica Moorehead/Lamont Lilly,W,13,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,15,Robert Morrow/Todd Sanders,W,14,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,16,Emidio Soltysik/Angela Walker,W,15,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,17,Dale Steffes/Paul E. Case,W,16,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,3,4,President and Vice President,,1,18,Tony Valdivia/Aaron Barriere,W,17,,198,0,2,0,0,0,0,0,124,0,1,0,74,0,1,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,4,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,198,178,11,0,0,0,0,0,124,110,7,0,74,68,4,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,4,5,"United States Representative, District 11",,1,2,Nicholas Landholt,C,2,LIB,198,9,11,0,0,0,0,0,124,7,7,0,74,2,4,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,5,6,Railroad Commissioner,,1,1,Wayne Christian,C,1,REP,198,160,4,0,0,0,0,0,124,97,2,0,74,63,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,5,6,Railroad Commissioner,,1,2,Grady Yarbrough,C,2,DEM,198,22,4,0,0,0,0,0,124,16,2,0,74,6,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,5,6,Railroad Commissioner,,1,3,Mark Miller,C,3,LIB,198,7,4,0,0,0,0,0,124,6,2,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,5,6,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,198,5,4,0,0,0,0,0,124,3,2,0,74,2,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,6,7,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,198,160,6,0,0,0,0,0,124,97,4,0,74,63,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,6,7,"Justice, Supreme Court, Place 3",,1,2,Mike Westergren,C,2,DEM,198,23,6,0,0,0,0,0,124,18,4,0,74,5,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,6,7,"Justice, Supreme Court, Place 3",,1,3,Kathie Glass,C,3,LIB,198,5,6,0,0,0,0,0,124,4,4,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,6,7,"Justice, Supreme Court, Place 3",,1,4,Rodolfo Rivera Munoz,C,4,GRN,198,4,6,0,0,0,0,0,124,1,4,0,74,3,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,7,8,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,198,165,6,0,0,0,0,0,124,100,4,0,74,65,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,7,8,"Justice, Supreme Court, Place 5",,1,2,Dori Contreras Garza,C,2,DEM,198,22,6,0,0,0,0,0,124,16,4,0,74,6,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,7,8,"Justice, Supreme Court, Place 5",,1,3,Tom Oxford,C,3,LIB,198,5,6,0,0,0,0,0,124,4,4,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,7,8,"Justice, Supreme Court, Place 5",,1,4,Charles E. Waterbury,C,4,GRN,198,0,6,0,0,0,0,0,124,0,4,0,74,0,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,8,9,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,198,160,6,0,0,0,0,0,124,97,4,0,74,63,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,8,9,"Justice, Supreme Court, Place 9",,1,2,Savannah Robinson,C,2,DEM,198,25,6,0,0,0,0,0,124,18,4,0,74,7,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,8,9,"Justice, Supreme Court, Place 9",,1,3,Don Fulton,C,3,LIB,198,4,6,0,0,0,0,0,124,4,4,0,74,0,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,8,9,"Justice, Supreme Court, Place 9",,1,4,Jim Chisholm,C,4,GRN,198,3,6,0,0,0,0,0,124,1,4,0,74,2,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,1,Mary Lou Keel,C,1,REP,198,162,7,0,0,0,0,0,124,99,5,0,74,63,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,2,"Lawrence ""Larry"" Meyers",C,2,DEM,198,22,7,0,0,0,0,0,124,16,5,0,74,6,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,3,Mark Ash,C,3,LIB,198,4,7,0,0,0,0,0,124,3,5,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,4,Adam King Blackwell Reposa,C,4,GRN,198,3,7,0,0,0,0,0,124,1,5,0,74,2,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,1,Scott Walker,C,1,REP,198,160,8,0,0,0,0,0,124,98,6,0,74,62,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,2,Betsy Johnson,C,2,DEM,198,24,8,0,0,0,0,0,124,17,6,0,74,7,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,3,"William Bryan Strange, III",C,3,LIB,198,3,8,0,0,0,0,0,124,2,6,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,4,Judith Sanders-Castro,C,4,GRN,198,3,8,0,0,0,0,0,124,1,6,0,74,2,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,198,162,7,0,0,0,0,0,124,99,5,0,74,63,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,2,Robert Burns,C,2,DEM,198,24,7,0,0,0,0,0,124,16,5,0,74,8,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,3,Mark W. Bennett,C,3,LIB,198,5,7,0,0,0,0,0,124,4,5,0,74,1,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,12,13,"Member, State Board of Education, District 1",,1,1,Georgina Perez,C,1,DEM,198,55,104,0,0,0,0,0,124,40,57,0,74,15,47,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,12,13,"Member, State Board of Education, District 1",,1,2,Hugo Noyola Jr.,C,2,GRN,198,39,104,0,0,0,0,0,124,27,57,0,74,12,47,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,13,14,"State Senator, District 28",,1,1,Charles Perry,C,1,REP,198,173,25,0,0,0,0,0,124,106,18,0,74,67,7,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,14,15,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,198,176,22,0,0,0,0,0,124,108,16,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,30,16,"Justice, 3rd Court of Appeals District, Place 2 Unexpired Term",,1,1,Cindy Olson Bourland,C,1,REP,198,173,25,0,0,0,0,0,124,105,19,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,16,17,"Justice, 3rd Court of Appeals District, Place 4",,1,1,Melissa Goodwin,C,1,REP,198,173,25,0,0,0,0,0,124,105,19,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,17,18,"District Judge, 51st Judicial District",,1,1,Barbara Lane Walther,C,1,REP,198,175,23,0,0,0,0,0,124,107,17,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,18,19,"District Attorney, 51st Judicial District",,1,1,Allison Palmer,C,1,REP,198,173,25,0,0,0,0,0,124,105,19,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,20,20,County Attorney,,1,1,"James F. Ridge, Jr.",C,1,REP,198,173,25,0,0,0,0,0,124,105,19,0,74,68,6,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,21,21,Sheriff,,1,1,W.A. Estes,C,1,REP,198,167,31,0,0,0,0,0,124,103,21,0,74,64,10,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,22,22,Tax Assessor-Collector,,1,1,Joyce Gray,C,1,REP,198,182,16,0,0,0,0,0,124,110,14,0,74,72,2,0
+Irion County,11/8/2016,2016 General Election,100,,1,5,1,1,324,0.61,23,23,"County Commissioner, Precinct No. 1",,1,1,Tia J. Paxton,C,1,REP,198,177,21,0,0,0,0,0,124,107,17,0,74,70,4,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,2,3,Straight Party,,1,1,Republican Party,C,1,REP,177,89,72,0,0,0,0,0,111,52,52,0,66,37,20,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,177,16,72,0,0,0,0,0,111,7,52,0,66,9,20,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,177,0,72,0,0,0,0,0,111,0,52,0,66,0,20,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,2,3,Straight Party,,1,4,Green Party,C,4,GRN,177,0,72,0,0,0,0,0,111,0,52,0,66,0,20,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,1,Donald J. Trump / Mike Pence,C,1,REP,177,151,1,0,0,0,0,0,111,97,1,0,66,54,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,2,Hillary Clinton / Tim Kaine,C,2,DEM,177,22,1,0,0,0,0,0,111,11,1,0,66,11,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,3,Gary Johnson / William Weld,C,3,LIB,177,3,1,0,0,0,0,0,111,2,1,0,66,1,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,4,Jill Stein / Ajamu Baraka,C,4,GRN,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,6,Darrell L. Castle/Scott N. Bradley,W,5,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,7,Scott Cubbler/Michaelo Rodriguez,W,6,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,8,Cherunda Fox/Roger Kushner,W,7,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,9,Tom Hoefling/Steve Schulin,W,8,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,10,Laurence Kotlikoff/Edward Leamer,W,9,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,11,Jonathan Lee/Jeffrey Erskine,W,10,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,12,Michael A. Maturen/Juan A. Munoz,W,11,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,13,Evan McMullin/Nathan Johnson,W,12,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,14,Monica Moorehead/Lamont Lilly,W,13,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,15,Robert Morrow/Todd Sanders,W,14,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,16,Emidio Soltysik/Angela Walker,W,15,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,17,Dale Steffes/Paul E. Case,W,16,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,3,4,President and Vice President,,1,18,Tony Valdivia/Aaron Barriere,W,17,,177,0,1,0,0,0,0,0,111,0,1,0,66,0,0,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,4,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,177,152,15,0,0,0,0,0,111,100,6,0,66,52,9,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,4,5,"United States Representative, District 11",,1,2,Nicholas Landholt,C,2,LIB,177,10,15,0,0,0,0,0,111,5,6,0,66,5,9,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,5,6,Railroad Commissioner,,1,1,Wayne Christian,C,1,REP,177,137,5,0,0,0,0,0,111,87,4,0,66,50,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,5,6,Railroad Commissioner,,1,2,Grady Yarbrough,C,2,DEM,177,24,5,0,0,0,0,0,111,13,4,0,66,11,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,5,6,Railroad Commissioner,,1,3,Mark Miller,C,3,LIB,177,9,5,0,0,0,0,0,111,6,4,0,66,3,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,5,6,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,177,2,5,0,0,0,0,0,111,1,4,0,66,1,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,6,7,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,177,137,7,0,0,0,0,0,111,87,6,0,66,50,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,6,7,"Justice, Supreme Court, Place 3",,1,2,Mike Westergren,C,2,DEM,177,22,7,0,0,0,0,0,111,11,6,0,66,11,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,6,7,"Justice, Supreme Court, Place 3",,1,3,Kathie Glass,C,3,LIB,177,9,7,0,0,0,0,0,111,6,6,0,66,3,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,6,7,"Justice, Supreme Court, Place 3",,1,4,Rodolfo Rivera Munoz,C,4,GRN,177,2,7,0,0,0,0,0,111,1,6,0,66,1,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,7,8,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,177,137,9,0,0,0,0,0,111,87,7,0,66,50,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,7,8,"Justice, Supreme Court, Place 5",,1,2,Dori Contreras Garza,C,2,DEM,177,20,9,0,0,0,0,0,111,10,7,0,66,10,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,7,8,"Justice, Supreme Court, Place 5",,1,3,Tom Oxford,C,3,LIB,177,9,9,0,0,0,0,0,111,5,7,0,66,4,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,7,8,"Justice, Supreme Court, Place 5",,1,4,Charles E. Waterbury,C,4,GRN,177,2,9,0,0,0,0,0,111,2,7,0,66,0,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,8,9,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,177,136,10,0,0,0,0,0,111,87,8,0,66,49,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,8,9,"Justice, Supreme Court, Place 9",,1,2,Savannah Robinson,C,2,DEM,177,21,10,0,0,0,0,0,111,10,8,0,66,11,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,8,9,"Justice, Supreme Court, Place 9",,1,3,Don Fulton,C,3,LIB,177,10,10,0,0,0,0,0,111,6,8,0,66,4,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,8,9,"Justice, Supreme Court, Place 9",,1,4,Jim Chisholm,C,4,GRN,177,0,10,0,0,0,0,0,111,0,8,0,66,0,2,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,1,Mary Lou Keel,C,1,REP,177,135,8,0,0,0,0,0,111,86,7,0,66,49,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,2,"Lawrence ""Larry"" Meyers",C,2,DEM,177,25,8,0,0,0,0,0,111,13,7,0,66,12,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,3,Mark Ash,C,3,LIB,177,9,8,0,0,0,0,0,111,5,7,0,66,4,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,4,Adam King Blackwell Reposa,C,4,GRN,177,0,8,0,0,0,0,0,111,0,7,0,66,0,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,1,Scott Walker,C,1,REP,177,137,8,0,0,0,0,0,111,87,7,0,66,50,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,2,Betsy Johnson,C,2,DEM,177,24,8,0,0,0,0,0,111,12,7,0,66,12,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,3,"William Bryan Strange, III",C,3,LIB,177,7,8,0,0,0,0,0,111,4,7,0,66,3,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,4,Judith Sanders-Castro,C,4,GRN,177,1,8,0,0,0,0,0,111,1,7,0,66,0,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,177,138,8,0,0,0,0,0,111,89,7,0,66,49,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,2,Robert Burns,C,2,DEM,177,22,8,0,0,0,0,0,111,10,7,0,66,12,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,3,Mark W. Bennett,C,3,LIB,177,9,8,0,0,0,0,0,111,5,7,0,66,4,1,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,12,13,"Member, State Board of Education, District 1",,1,1,Georgina Perez,C,1,DEM,177,46,115,0,0,0,0,0,111,32,70,0,66,14,45,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,12,13,"Member, State Board of Education, District 1",,1,2,Hugo Noyola Jr.,C,2,GRN,177,16,115,0,0,0,0,0,111,9,70,0,66,7,45,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,13,14,"State Senator, District 28",,1,1,Charles Perry,C,1,REP,177,153,24,0,0,0,0,0,111,98,13,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,14,15,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,177,153,24,0,0,0,0,0,111,98,13,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,30,16,"Justice, 3rd Court of Appeals District, Place 2 Unexpired Term",,1,1,Cindy Olson Bourland,C,1,REP,177,148,29,0,0,0,0,0,111,93,18,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,16,17,"Justice, 3rd Court of Appeals District, Place 4",,1,1,Melissa Goodwin,C,1,REP,177,149,28,0,0,0,0,0,111,94,17,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,17,18,"District Judge, 51st Judicial District",,1,1,Barbara Lane Walther,C,1,REP,177,150,27,0,0,0,0,0,111,96,15,0,66,54,12,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,18,19,"District Attorney, 51st Judicial District",,1,1,Allison Palmer,C,1,REP,177,149,28,0,0,0,0,0,111,96,15,0,66,53,13,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,20,20,County Attorney,,1,1,"James F. Ridge, Jr.",C,1,REP,177,149,28,0,0,0,0,0,111,94,17,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,21,21,Sheriff,,1,1,W.A. Estes,C,1,REP,177,144,33,0,0,0,0,0,111,93,18,0,66,51,15,0
+Irion County,11/8/2016,2016 General Election,200,,1,5,2,2,332,0.53,22,22,Tax Assessor-Collector,,1,1,Joyce Gray,C,1,REP,177,153,24,0,0,0,0,0,111,98,13,0,66,55,11,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,2,3,Straight Party,,1,1,Republican Party,C,1,REP,145,67,66,0,0,0,0,0,87,39,39,0,58,28,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,145,11,66,0,0,0,0,0,87,8,39,0,58,3,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,145,1,66,0,0,0,0,0,87,1,39,0,58,0,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,2,3,Straight Party,,1,4,Green Party,C,4,GRN,145,0,66,0,0,0,0,0,87,0,39,0,58,0,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,1,Donald J. Trump / Mike Pence,C,1,REP,145,117,3,0,0,0,0,0,87,69,2,0,58,48,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,2,Hillary Clinton / Tim Kaine,C,2,DEM,145,20,3,0,0,0,0,0,87,12,2,0,58,8,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,3,Gary Johnson / William Weld,C,3,LIB,145,3,3,0,0,0,0,0,87,2,2,0,58,1,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,4,Jill Stein / Ajamu Baraka,C,4,GRN,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,6,Darrell L. Castle/Scott N. Bradley,W,5,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,7,Scott Cubbler/Michaelo Rodriguez,W,6,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,8,Cherunda Fox/Roger Kushner,W,7,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,9,Tom Hoefling/Steve Schulin,W,8,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,10,Laurence Kotlikoff/Edward Leamer,W,9,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,11,Jonathan Lee/Jeffrey Erskine,W,10,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,12,Michael A. Maturen/Juan A. Munoz,W,11,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,13,Evan McMullin/Nathan Johnson,W,12,,145,2,3,0,0,0,0,0,87,2,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,14,Monica Moorehead/Lamont Lilly,W,13,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,15,Robert Morrow/Todd Sanders,W,14,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,16,Emidio Soltysik/Angela Walker,W,15,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,17,Dale Steffes/Paul E. Case,W,16,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,3,4,President and Vice President,,1,18,Tony Valdivia/Aaron Barriere,W,17,,145,0,3,0,0,0,0,0,87,0,2,0,58,0,1,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,4,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,145,123,15,0,0,0,0,0,87,72,10,0,58,51,5,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,4,5,"United States Representative, District 11",,1,2,Nicholas Landholt,C,2,LIB,145,7,15,0,0,0,0,0,87,5,10,0,58,2,5,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,5,6,Railroad Commissioner,,1,1,Wayne Christian,C,1,REP,145,109,8,0,0,0,0,0,87,66,5,0,58,43,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,5,6,Railroad Commissioner,,1,2,Grady Yarbrough,C,2,DEM,145,20,8,0,0,0,0,0,87,12,5,0,58,8,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,5,6,Railroad Commissioner,,1,3,Mark Miller,C,3,LIB,145,8,8,0,0,0,0,0,87,4,5,0,58,4,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,5,6,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,145,0,8,0,0,0,0,0,87,0,5,0,58,0,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,6,7,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,145,111,11,0,0,0,0,0,87,64,7,0,58,47,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,6,7,"Justice, Supreme Court, Place 3",,1,2,Mike Westergren,C,2,DEM,145,18,11,0,0,0,0,0,87,13,7,0,58,5,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,6,7,"Justice, Supreme Court, Place 3",,1,3,Kathie Glass,C,3,LIB,145,5,11,0,0,0,0,0,87,3,7,0,58,2,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,6,7,"Justice, Supreme Court, Place 3",,1,4,Rodolfo Rivera Munoz,C,4,GRN,145,0,11,0,0,0,0,0,87,0,7,0,58,0,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,7,8,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,145,113,10,0,0,0,0,0,87,68,7,0,58,45,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,7,8,"Justice, Supreme Court, Place 5",,1,2,Dori Contreras Garza,C,2,DEM,145,16,10,0,0,0,0,0,87,10,7,0,58,6,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,7,8,"Justice, Supreme Court, Place 5",,1,3,Tom Oxford,C,3,LIB,145,5,10,0,0,0,0,0,87,2,7,0,58,3,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,7,8,"Justice, Supreme Court, Place 5",,1,4,Charles E. Waterbury,C,4,GRN,145,1,10,0,0,0,0,0,87,0,7,0,58,1,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,8,9,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,145,107,11,0,0,0,0,0,87,64,8,0,58,43,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,8,9,"Justice, Supreme Court, Place 9",,1,2,Savannah Robinson,C,2,DEM,145,19,11,0,0,0,0,0,87,11,8,0,58,8,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,8,9,"Justice, Supreme Court, Place 9",,1,3,Don Fulton,C,3,LIB,145,8,11,0,0,0,0,0,87,4,8,0,58,4,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,8,9,"Justice, Supreme Court, Place 9",,1,4,Jim Chisholm,C,4,GRN,145,0,11,0,0,0,0,0,87,0,8,0,58,0,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,1,Mary Lou Keel,C,1,REP,145,109,11,0,0,0,0,0,87,65,7,0,58,44,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,2,"Lawrence ""Larry"" Meyers",C,2,DEM,145,18,11,0,0,0,0,0,87,11,7,0,58,7,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,3,Mark Ash,C,3,LIB,145,6,11,0,0,0,0,0,87,4,7,0,58,2,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,4,Adam King Blackwell Reposa,C,4,GRN,145,1,11,0,0,0,0,0,87,0,7,0,58,1,4,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,1,Scott Walker,C,1,REP,145,114,10,0,0,0,0,0,87,67,8,0,58,47,2,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,2,Betsy Johnson,C,2,DEM,145,16,10,0,0,0,0,0,87,10,8,0,58,6,2,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,3,"William Bryan Strange, III",C,3,LIB,145,3,10,0,0,0,0,0,87,1,8,0,58,2,2,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,4,Judith Sanders-Castro,C,4,GRN,145,2,10,0,0,0,0,0,87,1,8,0,58,1,2,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,145,110,11,0,0,0,0,0,87,65,8,0,58,45,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,2,Robert Burns,C,2,DEM,145,17,11,0,0,0,0,0,87,12,8,0,58,5,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,3,Mark W. Bennett,C,3,LIB,145,7,11,0,0,0,0,0,87,2,8,0,58,5,3,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,12,13,"Member, State Board of Education, District 1",,1,1,Georgina Perez,C,1,DEM,145,48,79,0,0,0,0,0,87,26,52,0,58,22,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,12,13,"Member, State Board of Education, District 1",,1,2,Hugo Noyola Jr.,C,2,GRN,145,18,79,0,0,0,0,0,87,9,52,0,58,9,27,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,13,14,"State Senator, District 28",,1,1,Charles Perry,C,1,REP,145,115,30,0,0,0,0,0,87,68,19,0,58,47,11,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,14,15,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,145,119,26,0,0,0,0,0,87,68,19,0,58,51,7,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,30,16,"Justice, 3rd Court of Appeals District, Place 2 Unexpired Term",,1,1,Cindy Olson Bourland,C,1,REP,145,117,28,0,0,0,0,0,87,69,18,0,58,48,10,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,16,17,"Justice, 3rd Court of Appeals District, Place 4",,1,1,Melissa Goodwin,C,1,REP,145,116,29,0,0,0,0,0,87,68,19,0,58,48,10,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,17,18,"District Judge, 51st Judicial District",,1,1,Barbara Lane Walther,C,1,REP,145,124,21,0,0,0,0,0,87,73,14,0,58,51,7,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,18,19,"District Attorney, 51st Judicial District",,1,1,Allison Palmer,C,1,REP,145,117,28,0,0,0,0,0,87,68,19,0,58,49,9,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,20,20,County Attorney,,1,1,"James F. Ridge, Jr.",C,1,REP,145,117,28,0,0,0,0,0,87,68,19,0,58,49,9,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,21,21,Sheriff,,1,1,W.A. Estes,C,1,REP,145,116,29,0,0,0,0,0,87,67,20,0,58,49,9,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,22,22,Tax Assessor-Collector,,1,1,Joyce Gray,C,1,REP,145,123,22,0,0,0,0,0,87,71,16,0,58,52,6,0
+Irion County,11/8/2016,2016 General Election,300,,1,5,3,3,292,0.5,24,24,"County Commissioner, Precinct No. 3",,1,1,John Nanny,C,1,REP,145,122,23,0,0,0,0,0,87,73,14,0,58,49,9,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,2,3,Straight Party,,1,1,Republican Party,C,1,REP,259,151,95,0,0,0,0,0,188,110,72,0,71,41,23,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,259,13,95,0,0,0,0,0,188,6,72,0,71,7,23,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,259,0,95,0,0,0,0,0,188,0,72,0,71,0,23,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,2,3,Straight Party,,1,4,Green Party,C,4,GRN,259,0,95,0,0,0,0,0,188,0,72,0,71,0,23,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,1,Donald J. Trump / Mike Pence,C,1,REP,259,223,7,0,0,0,0,0,188,167,4,0,71,56,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,2,Hillary Clinton / Tim Kaine,C,2,DEM,259,23,7,0,0,0,0,0,188,12,4,0,71,11,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,3,Gary Johnson / William Weld,C,3,LIB,259,2,7,0,0,0,0,0,188,1,4,0,71,1,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,4,Jill Stein / Ajamu Baraka,C,4,GRN,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,6,Darrell L. Castle/Scott N. Bradley,W,5,,259,1,7,0,0,0,0,0,188,1,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,7,Scott Cubbler/Michaelo Rodriguez,W,6,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,8,Cherunda Fox/Roger Kushner,W,7,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,9,Tom Hoefling/Steve Schulin,W,8,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,10,Laurence Kotlikoff/Edward Leamer,W,9,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,11,Jonathan Lee/Jeffrey Erskine,W,10,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,12,Michael A. Maturen/Juan A. Munoz,W,11,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,13,Evan McMullin/Nathan Johnson,W,12,,259,2,7,0,0,0,0,0,188,2,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,14,Monica Moorehead/Lamont Lilly,W,13,,259,1,7,0,0,0,0,0,188,1,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,15,Robert Morrow/Todd Sanders,W,14,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,16,Emidio Soltysik/Angela Walker,W,15,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,17,Dale Steffes/Paul E. Case,W,16,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,3,4,President and Vice President,,1,18,Tony Valdivia/Aaron Barriere,W,17,,259,0,7,0,0,0,0,0,188,0,4,0,71,0,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,4,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,259,233,14,0,0,0,0,0,188,174,7,0,71,59,7,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,4,5,"United States Representative, District 11",,1,2,Nicholas Landholt,C,2,LIB,259,12,14,0,0,0,0,0,188,7,7,0,71,5,7,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,5,6,Railroad Commissioner,,1,1,Wayne Christian,C,1,REP,259,223,7,0,0,0,0,0,188,167,4,0,71,56,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,5,6,Railroad Commissioner,,1,2,Grady Yarbrough,C,2,DEM,259,21,7,0,0,0,0,0,188,12,4,0,71,9,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,5,6,Railroad Commissioner,,1,3,Mark Miller,C,3,LIB,259,6,7,0,0,0,0,0,188,5,4,0,71,1,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,5,6,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,259,2,7,0,0,0,0,0,188,0,4,0,71,2,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,6,7,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,259,218,7,0,0,0,0,0,188,164,4,0,71,54,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,6,7,"Justice, Supreme Court, Place 3",,1,2,Mike Westergren,C,2,DEM,259,23,7,0,0,0,0,0,188,15,4,0,71,8,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,6,7,"Justice, Supreme Court, Place 3",,1,3,Kathie Glass,C,3,LIB,259,8,7,0,0,0,0,0,188,5,4,0,71,3,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,6,7,"Justice, Supreme Court, Place 3",,1,4,Rodolfo Rivera Munoz,C,4,GRN,259,3,7,0,0,0,0,0,188,0,4,0,71,3,3,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,7,8,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,259,225,5,0,0,0,0,0,188,168,3,0,71,57,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,7,8,"Justice, Supreme Court, Place 5",,1,2,Dori Contreras Garza,C,2,DEM,259,24,5,0,0,0,0,0,188,14,3,0,71,10,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,7,8,"Justice, Supreme Court, Place 5",,1,3,Tom Oxford,C,3,LIB,259,4,5,0,0,0,0,0,188,3,3,0,71,1,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,7,8,"Justice, Supreme Court, Place 5",,1,4,Charles E. Waterbury,C,4,GRN,259,1,5,0,0,0,0,0,188,0,3,0,71,1,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,8,9,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,259,220,7,0,0,0,0,0,188,165,5,0,71,55,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,8,9,"Justice, Supreme Court, Place 9",,1,2,Savannah Robinson,C,2,DEM,259,26,7,0,0,0,0,0,188,15,5,0,71,11,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,8,9,"Justice, Supreme Court, Place 9",,1,3,Don Fulton,C,3,LIB,259,4,7,0,0,0,0,0,188,3,5,0,71,1,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,8,9,"Justice, Supreme Court, Place 9",,1,4,Jim Chisholm,C,4,GRN,259,2,7,0,0,0,0,0,188,0,5,0,71,2,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,1,Mary Lou Keel,C,1,REP,259,226,5,0,0,0,0,0,188,170,3,0,71,56,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,2,"Lawrence ""Larry"" Meyers",C,2,DEM,259,23,5,0,0,0,0,0,188,12,3,0,71,11,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,3,Mark Ash,C,3,LIB,259,3,5,0,0,0,0,0,188,2,3,0,71,1,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,9,10,"Judge, Court of Criminal Appeals, Place 2",,1,4,Adam King Blackwell Reposa,C,4,GRN,259,2,5,0,0,0,0,0,188,1,3,0,71,1,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,1,Scott Walker,C,1,REP,259,225,4,0,0,0,0,0,188,169,2,0,71,56,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,2,Betsy Johnson,C,2,DEM,259,24,4,0,0,0,0,0,188,15,2,0,71,9,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,3,"William Bryan Strange, III",C,3,LIB,259,4,4,0,0,0,0,0,188,2,2,0,71,2,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,10,11,"Judge, Court of Criminal Appeals, Place 5",,1,4,Judith Sanders-Castro,C,4,GRN,259,2,4,0,0,0,0,0,188,0,2,0,71,2,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,259,225,5,0,0,0,0,0,188,168,3,0,71,57,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,2,Robert Burns,C,2,DEM,259,21,5,0,0,0,0,0,188,11,3,0,71,10,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,11,12,"Judge, Court of Criminal Appeals, Place 6",,1,3,Mark W. Bennett,C,3,LIB,259,8,5,0,0,0,0,0,188,6,3,0,71,2,2,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,12,13,"Member, State Board of Education, District 1",,1,1,Georgina Perez,C,1,DEM,259,69,155,0,0,0,0,0,188,45,117,0,71,24,38,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,12,13,"Member, State Board of Education, District 1",,1,2,Hugo Noyola Jr.,C,2,GRN,259,35,155,0,0,0,0,0,188,26,117,0,71,9,38,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,13,14,"State Senator, District 28",,1,1,Charles Perry,C,1,REP,259,233,26,0,0,0,0,0,188,171,17,0,71,62,9,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,14,15,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,259,232,27,0,0,0,0,0,188,170,18,0,71,62,9,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,30,16,"Justice, 3rd Court of Appeals District, Place 2 Unexpired Term",,1,1,Cindy Olson Bourland,C,1,REP,259,232,27,0,0,0,0,0,188,169,19,0,71,63,8,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,16,17,"Justice, 3rd Court of Appeals District, Place 4",,1,1,Melissa Goodwin,C,1,REP,259,233,26,0,0,0,0,0,188,170,18,0,71,63,8,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,17,18,"District Judge, 51st Judicial District",,1,1,Barbara Lane Walther,C,1,REP,259,230,29,0,0,0,0,0,188,167,21,0,71,63,8,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,18,19,"District Attorney, 51st Judicial District",,1,1,Allison Palmer,C,1,REP,259,228,31,0,0,0,0,0,188,166,22,0,71,62,9,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,20,20,County Attorney,,1,1,"James F. Ridge, Jr.",C,1,REP,259,230,29,0,0,0,0,0,188,167,21,0,71,63,8,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,21,21,Sheriff,,1,1,W.A. Estes,C,1,REP,259,227,32,0,0,0,0,0,188,167,21,0,71,60,11,0
+Irion County,11/8/2016,2016 General Election,400,,1,5,4,4,375,0.69,22,22,Tax Assessor-Collector,,1,1,Joyce Gray,C,1,REP,259,238,21,0,0,0,0,0,188,174,14,0,71,64,7,0
