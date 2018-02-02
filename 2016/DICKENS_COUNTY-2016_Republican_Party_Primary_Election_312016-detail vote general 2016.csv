@@ -1,0 +1,526 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,59,7,0,0,0,0,0,0,15,2,0,0,44,5,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,59,15,0,0,0,0,0,0,15,2,0,0,44,13,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,59,1,0,0,0,0,0,0,15,1,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,59,27,0,0,0,0,0,0,15,9,0,0,44,18,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,59,3,0,0,0,0,0,0,15,0,0,0,44,3,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,59,1,0,0,0,0,0,0,15,0,0,0,44,1,0,0
+1,,1,4,1,1,208,0.28,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,59,45,9,0,0,0,0,0,15,12,2,0,44,33,7,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,59,4,17,0,0,0,0,0,15,1,4,0,44,3,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,59,8,17,0,0,0,0,0,15,2,4,0,44,6,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,59,7,17,0,0,0,0,0,15,2,4,0,44,5,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,59,5,17,0,0,0,0,0,15,0,4,0,44,5,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,59,3,17,0,0,0,0,0,15,1,4,0,44,2,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,59,3,17,0,0,0,0,0,15,0,4,0,44,3,13,0
+1,,1,4,1,1,208,0.28,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,59,8,17,0,0,0,0,0,15,5,4,0,44,3,13,0
+1,,1,4,1,1,208,0.28,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,59,14,15,0,0,0,0,0,15,2,3,0,44,12,12,0
+1,,1,4,1,1,208,0.28,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,59,25,15,0,0,0,0,0,15,9,3,0,44,16,12,0
+1,,1,4,1,1,208,0.28,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,59,18,18,0,0,0,0,0,15,3,3,0,44,15,15,0
+1,,1,4,1,1,208,0.28,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,59,18,18,0,0,0,0,0,15,8,3,0,44,10,15,0
+1,,1,4,1,1,208,0.28,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,59,19,15,0,0,0,0,0,15,10,2,0,44,9,13,0
+1,,1,4,1,1,208,0.28,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,59,20,15,0,0,0,0,0,15,2,2,0,44,18,13,0
+1,,1,4,1,1,208,0.28,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,59,11,20,0,0,0,0,0,15,3,4,0,44,8,16,0
+1,,1,4,1,1,208,0.28,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,59,18,20,0,0,0,0,0,15,7,4,0,44,11,16,0
+1,,1,4,1,1,208,0.28,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,59,5,20,0,0,0,0,0,15,0,4,0,44,5,16,0
+1,,1,4,1,1,208,0.28,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,59,14,18,0,0,0,0,0,15,1,4,0,44,13,14,0
+1,,1,4,1,1,208,0.28,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,59,7,18,0,0,0,0,0,15,5,4,0,44,2,14,0
+1,,1,4,1,1,208,0.28,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,59,10,18,0,0,0,0,0,15,1,4,0,44,9,14,0
+1,,1,4,1,1,208,0.28,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,59,5,18,0,0,0,0,0,15,3,4,0,44,2,14,0
+1,,1,4,1,1,208,0.28,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,59,13,20,0,0,0,0,0,15,2,4,0,44,11,16,0
+1,,1,4,1,1,208,0.28,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,59,21,20,0,0,0,0,0,15,8,4,0,44,13,16,0
+1,,1,4,1,1,208,0.28,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,59,32,22,0,0,0,0,0,15,10,4,0,44,22,18,0
+1,,1,4,1,1,208,0.28,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,59,42,12,0,0,0,0,0,15,11,3,0,44,31,9,0
+1,,1,4,1,1,208,0.28,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,59,42,12,0,0,0,0,0,15,12,2,0,44,30,10,0
+1,,1,4,1,1,208,0.28,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,59,33,21,0,0,0,0,0,15,10,4,0,44,23,17,0
+1,,1,4,1,1,208,0.28,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,59,24,4,0,0,0,0,0,15,5,0,0,44,19,4,0
+1,,1,4,1,1,208,0.28,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,59,18,4,0,0,0,0,0,15,8,0,0,44,10,4,0
+1,,1,4,1,1,208,0.28,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,59,8,4,0,0,0,0,0,15,1,0,0,44,7,4,0
+1,,1,4,1,1,208,0.28,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,59,44,10,0,0,0,0,0,15,12,2,0,44,32,8,0
+1,,1,4,1,1,208,0.28,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,59,42,12,0,0,0,0,0,15,11,3,0,44,31,9,0
+1,,1,4,1,1,208,0.28,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,59,45,9,0,0,0,0,0,15,13,1,0,44,32,8,0
+1,,1,4,1,1,208,0.28,26,23,"County Commissioner, Precinct No. 1",REPUBLICAN PARTY,1,1,Dennis Wyatt,C,1,,59,45,9,0,0,0,0,0,15,11,3,0,44,34,6,0
+1,,1,4,1,1,208,0.28,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,59,6,3,0,0,0,0,0,15,1,1,0,44,5,2,0
+1,,1,4,1,1,208,0.28,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,59,45,3,0,0,0,0,0,15,12,1,0,44,33,2,0
+1,,1,4,1,1,208,0.28,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,59,41,13,0,0,0,0,0,15,12,2,0,44,29,11,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,59,1,1,0,0,0,0,0,15,0,0,0,44,1,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,59,2,1,0,0,0,0,0,15,0,0,0,44,2,1,0
+1,,1,4,1,1,208,0.28,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,59,1,0,0,0,0,0,0,15,0,0,0,44,1,0,0
+1,,1,4,1,1,208,0.28,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,59,3,0,0,0,0,0,0,15,0,0,0,44,3,0,0
+1,,1,4,1,1,208,0.28,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,59,4,0,0,0,0,0,0,15,0,0,0,44,4,0,0
+1,,1,4,1,1,208,0.28,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,59,4,0,0,0,0,0,0,15,0,0,0,44,4,0,0
+1,,1,4,1,1,208,0.28,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,59,2,2,0,0,0,0,0,15,0,0,0,44,2,2,0
+1,,1,4,1,1,208,0.28,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,59,2,2,0,0,0,0,0,15,0,0,0,44,2,2,0
+1,,1,4,1,1,208,0.28,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,2,0,0,0,0,0,15,0,0,0,44,0,2,0
+1,,1,4,1,1,208,0.28,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,59,4,0,0,0,0,0,0,15,0,0,0,44,4,0,0
+1,,1,4,1,1,208,0.28,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,15,0,0,0,44,0,0,0
+1,,1,4,1,1,208,0.28,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,59,3,1,0,0,0,0,0,15,0,0,0,44,3,1,0
+1,,1,4,1,1,208,0.28,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,1,0,0,0,0,0,15,0,0,0,44,0,1,0
+1,,1,4,1,1,208,0.28,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,59,40,3,0,0,0,0,0,15,9,0,0,44,31,3,0
+1,,1,4,1,1,208,0.28,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,59,11,3,0,0,0,0,0,15,5,0,0,44,6,3,0
+1,,1,4,1,1,208,0.28,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,59,27,4,0,0,0,0,0,15,4,0,0,44,23,4,0
+1,,1,4,1,1,208,0.28,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,59,23,4,0,0,0,0,0,15,10,0,0,44,13,4,0
+1,,1,4,1,1,208,0.28,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,59,43,5,0,0,0,0,0,15,12,0,0,44,31,5,0
+1,,1,4,1,1,208,0.28,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,59,6,5,0,0,0,0,0,15,2,0,0,44,4,5,0
+1,,1,4,1,1,208,0.28,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,59,49,3,0,0,0,0,0,15,13,0,0,44,36,3,0
+1,,1,4,1,1,208,0.28,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,59,2,3,0,0,0,0,0,15,1,0,0,44,1,3,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,59,6,1,0,0,0,0,0,25,0,1,0,34,6,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,59,2,1,0,0,0,0,0,25,0,1,0,34,2,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,59,16,1,0,0,0,0,0,25,12,1,0,34,4,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,59,1,1,0,0,0,0,0,25,1,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,59,29,1,0,0,0,0,0,25,9,1,0,34,20,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,59,2,1,0,0,0,0,0,25,2,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,59,0,1,0,0,0,0,0,25,0,1,0,34,0,0,0
+2,,1,4,2,2,220,0.27,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,59,1,1,0,0,0,0,0,25,0,1,0,34,1,0,0
+2,,1,4,2,2,220,0.27,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,59,47,11,0,0,0,0,0,25,20,5,0,34,27,6,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,59,6,16,0,0,0,0,0,25,2,6,0,34,4,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,59,6,16,0,0,0,0,0,25,3,6,0,34,3,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,59,11,16,0,0,0,0,0,25,6,6,0,34,5,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,59,7,16,0,0,0,0,0,25,3,6,0,34,4,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,59,2,16,0,0,0,0,0,25,1,6,0,34,1,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,59,7,16,0,0,0,0,0,25,1,6,0,34,6,10,0
+2,,1,4,2,2,220,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,59,0,16,0,0,0,0,0,25,0,6,0,34,0,10,0
+2,,1,4,2,2,220,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,59,30,10,0,0,0,0,0,25,16,3,0,34,14,7,0
+2,,1,4,2,2,220,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,59,17,10,0,0,0,0,0,25,5,3,0,34,12,7,0
+2,,1,4,2,2,220,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,59,29,14,0,0,0,0,0,25,12,6,0,34,17,8,0
+2,,1,4,2,2,220,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,59,14,14,0,0,0,0,0,25,6,6,0,34,8,8,0
+2,,1,4,2,2,220,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,59,19,13,0,0,0,0,0,25,4,6,0,34,15,7,0
+2,,1,4,2,2,220,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,59,25,13,0,0,0,0,0,25,14,6,0,34,11,7,0
+2,,1,4,2,2,220,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,59,13,18,0,0,0,0,0,25,6,6,0,34,7,12,0
+2,,1,4,2,2,220,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,59,18,18,0,0,0,0,0,25,7,6,0,34,11,12,0
+2,,1,4,2,2,220,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,59,8,18,0,0,0,0,0,25,5,6,0,34,3,12,0
+2,,1,4,2,2,220,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,59,11,19,0,0,0,0,0,25,4,8,0,34,7,11,0
+2,,1,4,2,2,220,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,59,6,19,0,0,0,0,0,25,3,8,0,34,3,11,0
+2,,1,4,2,2,220,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,59,13,19,0,0,0,0,0,25,7,8,0,34,6,11,0
+2,,1,4,2,2,220,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,59,8,19,0,0,0,0,0,25,2,8,0,34,6,11,0
+2,,1,4,2,2,220,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,59,20,23,0,0,0,0,0,25,10,9,0,34,10,14,0
+2,,1,4,2,2,220,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,59,14,23,0,0,0,0,0,25,5,9,0,34,9,14,0
+2,,1,4,2,2,220,0.27,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,59,36,21,0,0,0,0,0,25,17,7,0,34,19,14,0
+2,,1,4,2,2,220,0.27,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,59,42,15,0,0,0,0,0,25,19,5,0,34,23,10,0
+2,,1,4,2,2,220,0.27,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,59,40,17,0,0,0,0,0,25,17,7,0,34,23,10,0
+2,,1,4,2,2,220,0.27,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,59,35,22,0,0,0,0,0,25,16,8,0,34,19,14,0
+2,,1,4,2,2,220,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,59,11,8,0,0,0,0,0,25,5,1,0,34,6,7,0
+2,,1,4,2,2,220,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,59,24,8,0,0,0,0,0,25,13,1,0,34,11,7,0
+2,,1,4,2,2,220,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,59,14,8,0,0,0,0,0,25,5,1,0,34,9,7,0
+2,,1,4,2,2,220,0.27,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,59,48,9,0,0,0,0,0,25,24,0,0,34,24,9,0
+2,,1,4,2,2,220,0.27,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,59,41,17,0,0,0,0,0,25,17,8,0,34,24,9,0
+2,,1,4,2,2,220,0.27,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,59,46,12,0,0,0,0,0,25,24,1,0,34,22,11,0
+2,,1,4,2,2,220,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,59,7,3,0,0,0,0,0,25,2,0,0,34,5,3,0
+2,,1,4,2,2,220,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,59,47,3,0,0,0,0,0,25,22,0,0,34,25,3,0
+2,,1,4,2,2,220,0.27,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,59,40,16,0,0,0,0,0,25,17,6,0,34,23,10,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,59,1,0,0,0,0,0,0,25,0,0,0,34,1,0,0
+2,,1,4,2,2,220,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,59,0,0,0,0,0,0,0,25,0,0,0,34,0,0,0
+2,,1,4,2,2,220,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,59,38,4,0,0,0,0,0,25,12,2,0,34,26,2,0
+2,,1,4,2,2,220,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,59,15,4,0,0,0,0,0,25,10,2,0,34,5,2,0
+2,,1,4,2,2,220,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,59,22,3,0,0,0,0,0,25,8,1,0,34,14,2,0
+2,,1,4,2,2,220,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,59,33,3,0,0,0,0,0,25,16,1,0,34,17,2,0
+2,,1,4,2,2,220,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,59,47,3,0,0,0,0,0,25,20,1,0,34,27,2,0
+2,,1,4,2,2,220,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,59,8,3,0,0,0,0,0,25,4,1,0,34,4,2,0
+2,,1,4,2,2,220,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,59,46,7,0,0,0,0,0,25,20,3,0,34,26,4,0
+2,,1,4,2,2,220,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,59,5,7,0,0,0,0,0,25,2,3,0,34,3,4,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,154,11,4,0,0,0,0,0,41,2,1,0,113,9,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,154,43,4,0,0,0,0,0,41,14,1,0,113,29,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,154,3,4,0,0,0,0,0,41,2,1,0,113,1,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,154,60,4,0,0,0,0,0,41,11,1,0,113,49,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,154,1,4,0,0,0,0,0,41,0,1,0,113,1,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,154,19,4,0,0,0,0,0,41,6,1,0,113,13,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,154,0,4,0,0,0,0,0,41,0,1,0,113,0,3,0
+3,,1,7,3,3,622,0.25,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,154,5,4,0,0,0,0,0,41,2,1,0,113,3,3,0
+3,,1,7,3,3,622,0.25,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,154,112,29,0,0,0,0,0,41,30,8,0,113,82,21,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,154,19,46,0,0,0,0,0,41,4,15,0,113,15,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,154,10,46,0,0,0,0,0,41,0,15,0,113,10,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,154,33,46,0,0,0,0,0,41,7,15,0,113,26,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,154,17,46,0,0,0,0,0,41,4,15,0,113,13,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,154,2,46,0,0,0,0,0,41,1,15,0,113,1,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,154,8,46,0,0,0,0,0,41,3,15,0,113,5,31,0
+3,,1,7,3,3,622,0.25,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,154,5,46,0,0,0,0,0,41,2,15,0,113,3,31,0
+3,,1,7,3,3,622,0.25,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,154,53,35,0,0,0,0,0,41,12,12,0,113,41,23,0
+3,,1,7,3,3,622,0.25,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,154,54,35,0,0,0,0,0,41,13,12,0,113,41,23,0
+3,,1,7,3,3,622,0.25,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,154,61,41,0,0,0,0,0,41,11,15,0,113,50,26,0
+3,,1,7,3,3,622,0.25,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,154,38,41,0,0,0,0,0,41,10,15,0,113,28,26,0
+3,,1,7,3,3,622,0.25,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,154,49,37,0,0,0,0,0,41,11,12,0,113,38,25,0
+3,,1,7,3,3,622,0.25,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,154,54,37,0,0,0,0,0,41,13,12,0,113,41,25,0
+3,,1,7,3,3,622,0.25,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,154,36,41,0,0,0,0,0,41,5,15,0,113,31,26,0
+3,,1,7,3,3,622,0.25,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,154,37,41,0,0,0,0,0,41,11,15,0,113,26,26,0
+3,,1,7,3,3,622,0.25,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,154,25,41,0,0,0,0,0,41,5,15,0,113,20,26,0
+3,,1,7,3,3,622,0.25,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,154,46,43,0,0,0,0,0,41,9,16,0,113,37,27,0
+3,,1,7,3,3,622,0.25,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,154,8,43,0,0,0,0,0,41,1,16,0,113,7,27,0
+3,,1,7,3,3,622,0.25,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,154,26,43,0,0,0,0,0,41,5,16,0,113,21,27,0
+3,,1,7,3,3,622,0.25,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,154,16,43,0,0,0,0,0,41,5,16,0,113,11,27,0
+3,,1,7,3,3,622,0.25,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,154,52,43,0,0,0,0,0,41,10,17,0,113,42,26,0
+3,,1,7,3,3,622,0.25,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,154,44,43,0,0,0,0,0,41,9,17,0,113,35,26,0
+3,,1,7,3,3,622,0.25,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,154,93,47,0,0,0,0,0,41,25,12,0,113,68,35,0
+3,,1,7,3,3,622,0.25,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,154,111,30,0,0,0,0,0,41,34,4,0,113,77,26,0
+3,,1,7,3,3,622,0.25,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,154,105,35,0,0,0,0,0,41,32,5,0,113,73,30,0
+3,,1,7,3,3,622,0.25,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,154,92,48,0,0,0,0,0,41,27,10,0,113,65,38,0
+3,,1,7,3,3,622,0.25,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,154,30,7,0,0,0,0,0,41,9,1,0,113,21,6,0
+3,,1,7,3,3,622,0.25,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,154,87,7,0,0,0,0,0,41,23,1,0,113,64,6,0
+3,,1,7,3,3,622,0.25,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,154,16,7,0,0,0,0,0,41,2,1,0,113,14,6,0
+3,,1,7,3,3,622,0.25,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,154,129,15,0,0,0,0,0,41,36,1,0,113,93,14,0
+3,,1,7,3,3,622,0.25,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,154,98,41,0,0,0,0,0,41,24,11,0,113,74,30,0
+3,,1,7,3,3,622,0.25,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,154,120,22,0,0,0,0,0,41,32,4,0,113,88,18,0
+3,,1,7,3,3,622,0.25,27,24,"County Commissioner, Precinct No. 3",REPUBLICAN PARTY,1,1,Charlie Morris,C,1,,154,127,17,0,0,0,0,0,41,35,3,0,113,92,14,0
+3,,1,7,3,3,622,0.25,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,154,31,1,0,0,0,0,0,41,7,1,0,113,24,0,0
+3,,1,7,3,3,622,0.25,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,154,114,1,0,0,0,0,0,41,30,1,0,113,84,0,0
+3,,1,7,3,3,622,0.25,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,154,93,47,0,0,0,0,0,41,25,12,0,113,68,35,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,154,4,0,0,0,0,0,0,41,2,0,0,113,2,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,154,3,0,0,0,0,0,0,41,0,0,0,113,3,0,0
+3,,1,7,3,3,622,0.25,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,154,2,0,0,0,0,0,0,41,2,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,154,3,0,0,0,0,0,0,41,0,0,0,113,3,0,0
+3,,1,7,3,3,622,0.25,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,154,2,0,0,0,0,0,0,41,0,0,0,113,2,0,0
+3,,1,7,3,3,622,0.25,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,154,6,1,0,0,0,0,0,41,2,0,0,113,4,1,0
+3,,1,7,3,3,622,0.25,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,154,7,0,0,0,0,0,0,41,2,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,154,6,1,0,0,0,0,0,41,2,0,0,113,4,1,0
+3,,1,7,3,3,622,0.25,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,154,7,0,0,0,0,0,0,41,2,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,154,7,0,0,0,0,0,0,41,2,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,154,7,0,0,0,0,0,0,41,2,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,154,4,0,0,0,0,0,0,41,0,0,0,113,4,0,0
+3,,1,7,3,3,622,0.25,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,154,3,0,0,0,0,0,0,41,2,0,0,113,1,0,0
+3,,1,7,3,3,622,0.25,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,154,5,0,0,0,0,0,0,41,0,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,154,2,0,0,0,0,0,0,41,2,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,154,4,0,0,0,0,0,0,41,0,0,0,113,4,0,0
+3,,1,7,3,3,622,0.25,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,154,3,0,0,0,0,0,0,41,2,0,0,113,1,0,0
+3,,1,7,3,3,622,0.25,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,154,5,0,0,0,0,0,0,41,0,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,154,2,0,0,0,0,0,0,41,2,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,154,2,0,0,0,0,0,0,41,0,0,0,113,2,0,0
+3,,1,7,3,3,622,0.25,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,154,5,0,0,0,0,0,0,41,2,0,0,113,3,0,0
+3,,1,7,3,3,622,0.25,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,154,5,0,0,0,0,0,0,41,0,0,0,113,5,0,0
+3,,1,7,3,3,622,0.25,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,154,0,0,0,0,0,0,0,41,0,0,0,113,0,0,0
+3,,1,7,3,3,622,0.25,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,154,80,21,0,0,0,0,0,41,17,8,0,113,63,13,0
+3,,1,7,3,3,622,0.25,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,154,42,21,0,0,0,0,0,41,14,8,0,113,28,13,0
+3,,1,7,3,3,622,0.25,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,154,76,16,0,0,0,0,0,41,21,6,0,113,55,10,0
+3,,1,7,3,3,622,0.25,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,154,51,16,0,0,0,0,0,41,11,6,0,113,40,10,0
+3,,1,7,3,3,622,0.25,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,154,96,18,0,0,0,0,0,41,25,7,0,113,71,11,0
+3,,1,7,3,3,622,0.25,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,154,29,18,0,0,0,0,0,41,6,7,0,113,23,11,0
+3,,1,7,3,3,622,0.25,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,154,116,20,0,0,0,0,0,41,31,7,0,113,85,13,0
+3,,1,7,3,3,622,0.25,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,154,6,20,0,0,0,0,0,41,0,7,0,113,6,13,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,88,12,4,0,0,0,0,0,27,2,1,0,61,10,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,88,1,4,0,0,0,0,0,27,0,1,0,61,1,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,88,21,4,0,0,0,0,0,27,7,1,0,61,14,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,88,4,4,0,0,0,0,0,27,3,1,0,61,1,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,88,26,4,0,0,0,0,0,27,6,1,0,61,20,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,88,9,4,0,0,0,0,0,27,3,1,0,61,6,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,88,0,4,0,0,0,0,0,27,0,1,0,61,0,3,0
+4,,1,6,4,4,506,0.17,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,88,6,4,0,0,0,0,0,27,3,1,0,61,3,3,0
+4,,1,6,4,4,506,0.17,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,88,63,17,0,0,0,0,0,27,20,2,0,61,43,15,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,88,8,25,0,0,0,0,0,27,0,5,0,61,8,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,88,14,25,0,0,0,0,0,27,5,5,0,61,9,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,88,9,25,0,0,0,0,0,27,2,5,0,61,7,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,88,9,25,0,0,0,0,0,27,4,5,0,61,5,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,88,1,25,0,0,0,0,0,27,0,5,0,61,1,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,88,8,25,0,0,0,0,0,27,4,5,0,61,4,20,0
+4,,1,6,4,4,506,0.17,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,88,4,25,0,0,0,0,0,27,0,5,0,61,4,20,0
+4,,1,6,4,4,506,0.17,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,88,35,20,0,0,0,0,0,27,11,4,0,61,24,16,0
+4,,1,6,4,4,506,0.17,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,88,23,20,0,0,0,0,0,27,5,4,0,61,18,16,0
+4,,1,6,4,4,506,0.17,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,88,38,24,0,0,0,0,0,27,11,5,0,61,27,19,0
+4,,1,6,4,4,506,0.17,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,88,18,24,0,0,0,0,0,27,6,5,0,61,12,19,0
+4,,1,6,4,4,506,0.17,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,88,21,22,0,0,0,0,0,27,2,4,0,61,19,18,0
+4,,1,6,4,4,506,0.17,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,88,35,22,0,0,0,0,0,27,14,4,0,61,21,18,0
+4,,1,6,4,4,506,0.17,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,88,26,24,0,0,0,0,0,27,8,5,0,61,18,19,0
+4,,1,6,4,4,506,0.17,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,88,16,24,0,0,0,0,0,27,4,5,0,61,12,19,0
+4,,1,6,4,4,506,0.17,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,88,12,24,0,0,0,0,0,27,3,5,0,61,9,19,0
+4,,1,6,4,4,506,0.17,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,88,32,23,0,0,0,0,0,27,10,4,0,61,22,19,0
+4,,1,6,4,4,506,0.17,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,88,1,23,0,0,0,0,0,27,1,4,0,61,0,19,0
+4,,1,6,4,4,506,0.17,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,88,11,23,0,0,0,0,0,27,1,4,0,61,10,19,0
+4,,1,6,4,4,506,0.17,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,88,11,23,0,0,0,0,0,27,4,4,0,61,7,19,0
+4,,1,6,4,4,506,0.17,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,88,32,24,0,0,0,0,0,27,8,5,0,61,24,19,0
+4,,1,6,4,4,506,0.17,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,88,22,24,0,0,0,0,0,27,7,5,0,61,15,19,0
+4,,1,6,4,4,506,0.17,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,88,53,25,0,0,0,0,0,27,16,4,0,61,37,21,0
+4,,1,6,4,4,506,0.17,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,88,59,20,0,0,0,0,0,27,18,3,0,61,41,17,0
+4,,1,6,4,4,506,0.17,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,88,57,22,0,0,0,0,0,27,18,3,0,61,39,19,0
+4,,1,6,4,4,506,0.17,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,88,55,23,0,0,0,0,0,27,16,4,0,61,39,19,0
+4,,1,6,4,4,506,0.17,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,88,17,10,0,0,0,0,0,27,4,3,0,61,13,7,0
+4,,1,6,4,4,506,0.17,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,88,44,10,0,0,0,0,0,27,11,3,0,61,33,7,0
+4,,1,6,4,4,506,0.17,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,88,8,10,0,0,0,0,0,27,3,3,0,61,5,7,0
+4,,1,6,4,4,506,0.17,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,88,71,9,0,0,0,0,0,27,20,2,0,61,51,7,0
+4,,1,6,4,4,506,0.17,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,88,53,24,0,0,0,0,0,27,15,4,0,61,38,20,0
+4,,1,6,4,4,506,0.17,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,88,66,12,0,0,0,0,0,27,18,2,0,61,48,10,0
+4,,1,6,4,4,506,0.17,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,88,17,0,0,0,0,0,0,27,7,0,0,61,10,0,0
+4,,1,6,4,4,506,0.17,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,88,66,0,0,0,0,0,0,27,18,0,0,61,48,0,0
+4,,1,6,4,4,506,0.17,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,88,54,24,0,0,0,0,0,27,18,2,0,61,36,22,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,88,1,0,0,0,0,0,0,27,0,0,0,61,1,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,88,1,0,0,0,0,0,0,27,0,0,0,61,1,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,88,3,0,0,0,0,0,0,27,2,0,0,61,1,0,0
+4,,1,6,4,4,506,0.17,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,88,0,2,0,0,0,0,0,27,0,0,0,61,0,2,0
+4,,1,6,4,4,506,0.17,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,88,3,2,0,0,0,0,0,27,2,0,0,61,1,2,0
+4,,1,6,4,4,506,0.17,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,88,0,2,0,0,0,0,0,27,0,0,0,61,0,2,0
+4,,1,6,4,4,506,0.17,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,88,4,1,0,0,0,0,0,27,2,0,0,61,2,1,0
+4,,1,6,4,4,506,0.17,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,88,5,0,0,0,0,0,0,27,2,0,0,61,3,0,0
+4,,1,6,4,4,506,0.17,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,88,4,0,0,0,0,0,0,27,2,0,0,61,2,0,0
+4,,1,6,4,4,506,0.17,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,88,1,0,0,0,0,0,0,27,0,0,0,61,1,0,0
+4,,1,6,4,4,506,0.17,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,88,4,0,0,0,0,0,0,27,2,0,0,61,2,0,0
+4,,1,6,4,4,506,0.17,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,88,1,0,0,0,0,0,0,27,0,0,0,61,1,0,0
+4,,1,6,4,4,506,0.17,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,88,3,1,0,0,0,0,0,27,2,0,0,61,1,1,0
+4,,1,6,4,4,506,0.17,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,88,1,1,0,0,0,0,0,27,0,0,0,61,1,1,0
+4,,1,6,4,4,506,0.17,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,88,3,1,0,0,0,0,0,27,2,0,0,61,1,1,0
+4,,1,6,4,4,506,0.17,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,88,1,1,0,0,0,0,0,27,0,0,0,61,1,1,0
+4,,1,6,4,4,506,0.17,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,88,5,0,0,0,0,0,0,27,2,0,0,61,3,0,0
+4,,1,6,4,4,506,0.17,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,88,0,0,0,0,0,0,0,27,0,0,0,61,0,0,0
+4,,1,6,4,4,506,0.17,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,88,50,12,0,0,0,0,0,27,17,1,0,61,33,11,0
+4,,1,6,4,4,506,0.17,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,88,21,12,0,0,0,0,0,27,7,1,0,61,14,11,0
+4,,1,6,4,4,506,0.17,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,88,42,11,0,0,0,0,0,27,12,1,0,61,30,10,0
+4,,1,6,4,4,506,0.17,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,88,30,11,0,0,0,0,0,27,12,1,0,61,18,10,0
+4,,1,6,4,4,506,0.17,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,88,64,11,0,0,0,0,0,27,22,1,0,61,42,10,0
+4,,1,6,4,4,506,0.17,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,88,8,11,0,0,0,0,0,27,2,1,0,61,6,10,0
+4,,1,6,4,4,506,0.17,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,88,66,11,0,0,0,0,0,27,24,1,0,61,42,10,0
+4,,1,6,4,4,506,0.17,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,88,6,11,0,0,0,0,0,27,0,1,0,61,6,10,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,111,3,4,0,0,0,0,0,70,1,4,0,41,2,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,111,41,4,0,0,0,0,0,70,21,4,0,41,20,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,111,1,4,0,0,0,0,0,70,1,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,111,5,4,0,0,0,0,0,70,4,4,0,41,1,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,111,50,4,0,0,0,0,0,70,33,4,0,41,17,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,111,0,4,0,0,0,0,0,70,0,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,111,3,4,0,0,0,0,0,70,3,4,0,41,0,0,0
+5,,1,5,5,5,414,0.27,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,111,82,24,0,0,0,0,0,70,54,12,0,41,28,12,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,111,11,36,0,0,0,0,0,70,7,20,0,41,4,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,111,11,36,0,0,0,0,0,70,6,20,0,41,5,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,111,18,36,0,0,0,0,0,70,13,20,0,41,5,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,111,8,36,0,0,0,0,0,70,5,20,0,41,3,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,111,1,36,0,0,0,0,0,70,0,20,0,41,1,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,111,15,36,0,0,0,0,0,70,10,20,0,41,5,16,0
+5,,1,5,5,5,414,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,111,2,36,0,0,0,0,0,70,1,20,0,41,1,16,0
+5,,1,5,5,5,414,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,111,38,33,0,0,0,0,0,70,26,19,0,41,12,14,0
+5,,1,5,5,5,414,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,111,32,33,0,0,0,0,0,70,18,19,0,41,14,14,0
+5,,1,5,5,5,414,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,111,37,38,0,0,0,0,0,70,25,22,0,41,12,16,0
+5,,1,5,5,5,414,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,111,27,38,0,0,0,0,0,70,15,22,0,41,12,16,0
+5,,1,5,5,5,414,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,111,38,29,0,0,0,0,0,70,28,13,0,41,10,16,0
+5,,1,5,5,5,414,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,111,36,29,0,0,0,0,0,70,22,13,0,41,14,16,0
+5,,1,5,5,5,414,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,111,24,37,0,0,0,0,0,70,17,21,0,41,7,16,0
+5,,1,5,5,5,414,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,111,28,37,0,0,0,0,0,70,18,21,0,41,10,16,0
+5,,1,5,5,5,414,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,111,14,37,0,0,0,0,0,70,7,21,0,41,7,16,0
+5,,1,5,5,5,414,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,111,34,37,0,0,0,0,0,70,18,21,0,41,16,16,0
+5,,1,5,5,5,414,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,111,8,37,0,0,0,0,0,70,6,21,0,41,2,16,0
+5,,1,5,5,5,414,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,111,18,37,0,0,0,0,0,70,14,21,0,41,4,16,0
+5,,1,5,5,5,414,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,111,6,37,0,0,0,0,0,70,4,21,0,41,2,16,0
+5,,1,5,5,5,414,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,111,37,39,0,0,0,0,0,70,24,21,0,41,13,18,0
+5,,1,5,5,5,414,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,111,26,39,0,0,0,0,0,70,17,21,0,41,9,18,0
+5,,1,5,5,5,414,0.27,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,111,55,49,0,0,0,0,0,70,36,28,0,41,19,21,0
+5,,1,5,5,5,414,0.27,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,111,74,32,0,0,0,0,0,70,49,17,0,41,25,15,0
+5,,1,5,5,5,414,0.27,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,111,65,40,0,0,0,0,0,70,42,23,0,41,23,17,0
+5,,1,5,5,5,414,0.27,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,111,56,47,0,0,0,0,0,70,36,27,0,41,20,20,0
+5,,1,5,5,5,414,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,111,17,16,0,0,0,0,0,70,9,8,0,41,8,8,0
+5,,1,5,5,5,414,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,111,65,16,0,0,0,0,0,70,43,8,0,41,22,8,0
+5,,1,5,5,5,414,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,111,8,16,0,0,0,0,0,70,6,8,0,41,2,8,0
+5,,1,5,5,5,414,0.27,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,111,86,20,0,0,0,0,0,70,51,15,0,41,35,5,0
+5,,1,5,5,5,414,0.27,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,111,74,32,0,0,0,0,0,70,44,22,0,41,30,10,0
+5,,1,5,5,5,414,0.27,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,111,76,29,0,0,0,0,0,70,49,16,0,41,27,13,0
+5,,1,5,5,5,414,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,111,7,1,0,0,0,0,0,70,5,0,0,41,2,1,0
+5,,1,5,5,5,414,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,111,100,1,0,0,0,0,0,70,63,0,0,41,37,1,0
+5,,1,5,5,5,414,0.27,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,111,55,49,0,0,0,0,0,70,35,29,0,41,20,20,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,111,1,0,0,0,0,0,0,70,0,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,111,1,0,0,0,0,0,0,70,0,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,111,0,0,0,0,0,0,0,70,0,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,111,1,0,0,0,0,0,0,70,1,0,0,41,0,0,0
+5,,1,5,5,5,414,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,111,2,0,0,0,0,0,0,70,1,0,0,41,1,0,0
+5,,1,5,5,5,414,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,111,64,16,0,0,0,0,0,70,39,6,0,41,25,10,0
+5,,1,5,5,5,414,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,111,27,16,0,0,0,0,0,70,22,6,0,41,5,10,0
+5,,1,5,5,5,414,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,111,42,16,0,0,0,0,0,70,26,7,0,41,16,9,0
+5,,1,5,5,5,414,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,111,49,16,0,0,0,0,0,70,34,7,0,41,15,9,0
+5,,1,5,5,5,414,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,111,77,18,0,0,0,0,0,70,49,7,0,41,28,11,0
+5,,1,5,5,5,414,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,111,12,18,0,0,0,0,0,70,11,7,0,41,1,11,0
+5,,1,5,5,5,414,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,111,82,19,0,0,0,0,0,70,54,8,0,41,28,11,0
+5,,1,5,5,5,414,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,111,6,19,0,0,0,0,0,70,5,8,0,41,1,11,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,1,Ben Carson,C,1,,159,10,4,0,0,0,0,0,57,2,2,0,102,8,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,6,John R. Kasich,C,2,,159,2,4,0,0,0,0,0,57,0,2,0,102,2,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,10,Rand Paul,C,3,,159,1,4,0,0,0,0,0,57,0,2,0,102,1,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,4,Donald J. Trump,C,4,,159,29,4,0,0,0,0,0,57,11,2,0,102,18,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,13,Elizabeth Gray,C,5,,159,0,4,0,0,0,0,0,57,0,2,0,102,0,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,3,Chris Christie,C,6,,159,0,4,0,0,0,0,0,57,0,2,0,102,0,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,9,Mike Huckabee,C,7,,159,3,4,0,0,0,0,0,57,1,2,0,102,2,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,5,Jeb Bush,C,8,,159,2,4,0,0,0,0,0,57,0,2,0,102,2,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,11,Ted Cruz,C,9,,159,75,4,0,0,0,0,0,57,28,2,0,102,47,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,7,Lindsey Graham,C,10,,159,0,4,0,0,0,0,0,57,0,2,0,102,0,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,14,Rick Santorum,C,11,,159,0,4,0,0,0,0,0,57,0,2,0,102,0,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,8,Marco Rubio,C,12,,159,21,4,0,0,0,0,0,57,9,2,0,102,12,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,2,Carly Fiorina,C,13,,159,1,4,0,0,0,0,0,57,1,2,0,102,0,2,0
+6,,1,5,6,6,598,0.27,7,6,President,REPUBLICAN PARTY,1,12,Uncommitted,C,14,,159,5,4,0,0,0,0,0,57,3,2,0,102,2,2,0
+6,,1,5,6,6,598,0.27,8,7,"United States Representative, District 13",REPUBLICAN PARTY,1,1,Mac Thornberry,C,1,,159,126,22,0,0,0,0,0,57,46,7,0,102,80,15,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,9,Doug Jeffrey,C,1,,159,25,53,0,0,0,0,0,57,8,20,0,102,17,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,8,Lance N. Christian,C,2,,159,8,53,0,0,0,0,0,57,3,20,0,102,5,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,4,Ron Hale,C,3,,159,24,53,0,0,0,0,0,57,9,20,0,102,15,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,2,Gary Gates,C,4,,159,17,53,0,0,0,0,0,57,4,20,0,102,13,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,3,John Greytok,C,5,,159,4,53,0,0,0,0,0,57,3,20,0,102,1,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,5,Wayne Christian,C,6,,159,13,53,0,0,0,0,0,57,5,20,0,102,8,33,0
+6,,1,5,6,6,598,0.27,9,8,Railroad Commissioner,REPUBLICAN PARTY,1,7,Weston Martinez,C,7,,159,4,53,0,0,0,0,0,57,1,20,0,102,3,33,0
+6,,1,5,6,6,598,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,1,Debra Lehrmann,C,1,,159,41,46,0,0,0,0,0,57,12,16,0,102,29,30,0
+6,,1,5,6,6,598,0.27,10,9,"Justice, Supreme Court, Place 3",REPUBLICAN PARTY,1,2,Michael Massengale,C,2,,159,64,46,0,0,0,0,0,57,28,16,0,102,36,30,0
+6,,1,5,6,6,598,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,1,Paul Green,C,1,,159,63,50,0,0,0,0,0,57,23,17,0,102,40,33,0
+6,,1,5,6,6,598,0.27,11,10,"Justice, Supreme Court, Place 5",REPUBLICAN PARTY,1,2,Rick Green,C,2,,159,35,50,0,0,0,0,0,57,13,17,0,102,22,33,0
+6,,1,5,6,6,598,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,1,Eva Guzman,C,1,,159,43,50,0,0,0,0,0,57,17,16,0,102,26,34,0
+6,,1,5,6,6,598,0.27,12,11,"Justice, Supreme Court, Place 9",REPUBLICAN PARTY,1,2,Joe Pool,C,2,,159,56,50,0,0,0,0,0,57,20,16,0,102,36,34,0
+6,,1,5,6,6,598,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,1,Mary Lou Keel,C,1,,159,31,56,0,0,0,0,0,57,12,19,0,102,19,37,0
+6,,1,5,6,6,598,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,2,Ray Wheless,C,2,,159,48,56,0,0,0,0,0,57,18,19,0,102,30,37,0
+6,,1,5,6,6,598,0.27,13,12,"Judge, Court of Criminal Appeals, Place 2",REPUBLICAN PARTY,1,3,Chris Oldner,C,3,,159,16,56,0,0,0,0,0,57,6,19,0,102,10,37,0
+6,,1,5,6,6,598,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,3,Scott Walker,C,1,,159,49,57,0,0,0,0,0,57,22,19,0,102,27,38,0
+6,,1,5,6,6,598,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,2,Sid Harle,C,2,,159,10,57,0,0,0,0,0,57,6,19,0,102,4,38,0
+6,,1,5,6,6,598,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,4,Steve Smith,C,3,,159,21,57,0,0,0,0,0,57,2,19,0,102,19,38,0
+6,,1,5,6,6,598,0.27,14,13,"Judge, Court of Criminal Appeals, Place 5",REPUBLICAN PARTY,1,1,Brent Webster,C,4,,159,10,57,0,0,0,0,0,57,3,19,0,102,7,38,0
+6,,1,5,6,6,598,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,2,Richard Davis,C,1,,159,59,60,0,0,0,0,0,57,23,20,0,102,36,40,0
+6,,1,5,6,6,598,0.27,15,14,"Judge, Court of Criminal Appeals, Place 6",REPUBLICAN PARTY,1,1,Michael E. Keasler,C,2,,159,28,60,0,0,0,0,0,57,9,20,0,102,19,40,0
+6,,1,5,6,6,598,0.27,16,15,"Member, State Board of Education, District 15",REPUBLICAN PARTY,1,1,Marty Rowley,C,1,,159,90,57,0,0,0,0,0,57,30,21,0,102,60,36,0
+6,,1,5,6,6,598,0.27,17,16,"State Senator, District 28",REPUBLICAN PARTY,1,1,Charles Perry,C,1,,159,117,31,0,0,0,0,0,57,41,11,0,102,76,20,0
+6,,1,5,6,6,598,0.27,18,17,"State Representative, District 68",REPUBLICAN PARTY,1,1,Drew Springer,C,1,,159,109,39,0,0,0,0,0,57,35,17,0,102,74,22,0
+6,,1,5,6,6,598,0.27,19,18,"Justice, 7th Court of Appeals District, Place 4",REPUBLICAN PARTY,1,1,Jim Campbell,C,1,,159,88,58,0,0,0,0,0,57,29,22,0,102,59,36,0
+6,,1,5,6,6,598,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,1,Rob Hamilton,C,1,,159,37,13,0,0,0,0,0,57,14,5,0,102,23,8,0
+6,,1,5,6,6,598,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,2,Shelly Drennan Marshall,C,2,,159,82,13,0,0,0,0,0,57,28,5,0,102,54,8,0
+6,,1,5,6,6,598,0.27,21,19,"District Attorney, 110th Judicial District",REPUBLICAN PARTY,1,3,Wade Jackson,C,3,,159,20,13,0,0,0,0,0,57,9,5,0,102,11,8,0
+6,,1,5,6,6,598,0.27,70,20,District and County Clerk - Unexpired Term,REPUBLICAN PARTY,1,1,Becky S. Hill,C,1,,159,144,6,0,0,0,0,0,57,52,3,0,102,92,3,0
+6,,1,5,6,6,598,0.27,24,21,Sheriff,REPUBLICAN PARTY,1,1,Terry Braly,C,1,,159,115,35,0,0,0,0,0,57,42,12,0,102,73,23,0
+6,,1,5,6,6,598,0.27,25,22,Tax Assessor-Collector,REPUBLICAN PARTY,1,1,Rebecca Haney,C,1,,159,129,20,0,0,0,0,0,57,43,11,0,102,86,9,0
+6,,1,5,6,6,598,0.27,26,23,"County Commissioner, Precinct No. 1",REPUBLICAN PARTY,1,1,Dennis Wyatt,C,1,,159,131,19,0,0,0,0,0,57,45,9,0,102,86,10,0
+6,,1,5,6,6,598,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,1,Linda Brown,C,1,,159,23,4,0,0,0,0,0,57,7,2,0,102,16,2,0
+6,,1,5,6,6,598,0.27,71,25,Justice of the Peace - Unexpired Term,REPUBLICAN PARTY,1,2,Nancy Stone,C,2,,159,125,4,0,0,0,0,0,57,47,2,0,102,78,2,0
+6,,1,5,6,6,598,0.27,32,26,County Chairman,REPUBLICAN PARTY,1,1,Malcolm Boger,C,1,,159,104,44,0,0,0,0,0,57,38,15,0,102,66,29,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,5,Martin J. O'Malley,C,1,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,7,Willie L. Wilson,C,2,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,2,Calvis L. Hawes,C,3,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,6,"Roque ""Rocky"" De La Fuente",C,4,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,1,Bernie Sanders,C,5,,159,2,0,0,0,0,0,0,57,0,0,0,102,2,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,4,Keith Judd,C,6,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,3,Hillary Clinton,C,7,,159,4,0,0,0,0,0,0,57,0,0,0,102,4,0,0
+6,,1,5,6,6,598,0.27,34,27,President,DEMOCRATIC PARTY,1,8,Star Locke,C,8,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,1,Grady Yarbrough,C,1,,159,2,0,0,0,0,0,0,57,0,0,0,102,2,0,0
+6,,1,5,6,6,598,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Cody Garrett,C,2,,159,4,0,0,0,0,0,0,57,0,0,0,102,4,0,0
+6,,1,5,6,6,598,0.27,36,28,Railroad Commissioner,DEMOCRATIC PARTY,1,3,Lon Burnam,C,3,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,37,29,"Justice, Supreme Court, Place 3",DEMOCRATIC PARTY,1,1,Mike Westergren,C,1,,159,6,0,0,0,0,0,0,57,0,0,0,102,6,0,0
+6,,1,5,6,6,598,0.27,38,30,"Justice, Supreme Court, Place 5",DEMOCRATIC PARTY,1,1,Dori Contreras Garza,C,1,,159,5,1,0,0,0,0,0,57,0,0,0,102,5,1,0
+6,,1,5,6,6,598,0.27,39,31,"Justice, Supreme Court, Place 9",DEMOCRATIC PARTY,1,1,Savannah Robinson,C,1,,159,5,1,0,0,0,0,0,57,0,0,0,102,5,1,0
+6,,1,5,6,6,598,0.27,68,32,"Judge, Court of Criminal Appeals, Place 2",DEMOCRATIC PARTY,1,1,"Lawrence ""Larry"" Meyers",C,1,,159,5,1,0,0,0,0,0,57,0,0,0,102,5,1,0
+6,,1,5,6,6,598,0.27,69,33,"Judge, Court of Criminal Appeals, Place 5",DEMOCRATIC PARTY,1,1,Betsy Johnson,C,1,,159,5,1,0,0,0,0,0,57,0,0,0,102,5,1,0
+6,,1,5,6,6,598,0.27,67,34,"Judge, Court of Criminal Appeals, Place 6",DEMOCRATIC PARTY,1,1,Robert Burns,C,1,,159,5,1,0,0,0,0,0,57,0,0,0,102,5,1,0
+6,,1,5,6,6,598,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,1,For,C,1,,159,6,0,0,0,0,0,0,57,0,0,0,102,6,0,0
+6,,1,5,6,6,598,0.27,57,35,REFERENDA ITEM #1,DEMOCRATIC PARTY,1,2,Against,C,2,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,1,For,C,1,,159,5,0,0,0,0,0,0,57,0,0,0,102,5,0,0
+6,,1,5,6,6,598,0.27,58,36,REFERENDA ITEM #2,DEMOCRATIC PARTY,1,2,Against,C,2,,159,1,0,0,0,0,0,0,57,0,0,0,102,1,0,0
+6,,1,5,6,6,598,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,1,For,C,1,,159,6,0,0,0,0,0,0,57,0,0,0,102,6,0,0
+6,,1,5,6,6,598,0.27,59,37,REFERENDA ITEM #3,DEMOCRATIC PARTY,1,2,Against,C,2,,159,0,0,0,0,0,0,0,57,0,0,0,102,0,0,0
+6,,1,5,6,6,598,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,1,For,C,1,,159,5,0,0,0,0,0,0,57,0,0,0,102,5,0,0
+6,,1,5,6,6,598,0.27,60,38,REFERENDA ITEM #4,DEMOCRATIC PARTY,1,2,Against,C,2,,159,1,0,0,0,0,0,0,57,0,0,0,102,1,0,0
+6,,1,5,6,6,598,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,1,For,C,1,,159,4,0,0,0,0,0,0,57,0,0,0,102,4,0,0
+6,,1,5,6,6,598,0.27,61,39,REFERENDA ITEM #5,DEMOCRATIC PARTY,1,2,Against,C,2,,159,2,0,0,0,0,0,0,57,0,0,0,102,2,0,0
+6,,1,5,6,6,598,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,1,For,C,1,,159,4,0,0,0,0,0,0,57,0,0,0,102,4,0,0
+6,,1,5,6,6,598,0.27,62,40,REFERENDA ITEM #6,DEMOCRATIC PARTY,1,2,Against,C,2,,159,2,0,0,0,0,0,0,57,0,0,0,102,2,0,0
+6,,1,5,6,6,598,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,1,YES,C,1,,159,92,23,0,0,0,0,0,57,31,8,0,102,61,15,0
+6,,1,5,6,6,598,0.27,63,41,Proposition 1,REPUBLICAN PARTY,1,2,NO,C,2,,159,36,23,0,0,0,0,0,57,16,8,0,102,20,15,0
+6,,1,5,6,6,598,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,1,YES,C,1,,159,70,24,0,0,0,0,0,57,26,7,0,102,44,17,0
+6,,1,5,6,6,598,0.27,64,42,Proposition 2,REPUBLICAN PARTY,1,2,NO,C,2,,159,57,24,0,0,0,0,0,57,22,7,0,102,35,17,0
+6,,1,5,6,6,598,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,1,YES,C,1,,159,104,25,0,0,0,0,0,57,43,7,0,102,61,18,0
+6,,1,5,6,6,598,0.27,65,43,Proposition 3,REPUBLICAN PARTY,1,2,NO,C,2,,159,22,25,0,0,0,0,0,57,5,7,0,102,17,18,0
+6,,1,5,6,6,598,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,1,YES,C,1,,159,114,29,0,0,0,0,0,57,47,8,0,102,67,21,0
+6,,1,5,6,6,598,0.27,66,44,Proposition 4,REPUBLICAN PARTY,1,2,NO,C,2,,159,8,29,0,0,0,0,0,57,0,8,0,102,8,21,0

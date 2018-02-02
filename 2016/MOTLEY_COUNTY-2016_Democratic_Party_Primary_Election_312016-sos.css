@@ -1,0 +1,156 @@
+a:link {
+	color: rgb(51, 0, 153); font-size: 12px; text-decoration: underline;
+}
+a:visited {
+	color: rgb(17, 6, 108); font-size: 12px; text-decoration: underline;
+}
+a:hover {
+	color: rgb(155, 30, 67); font-size: 12px; text-decoration: none;
+}
+a:active {
+	color: rgb(51, 0, 153); text-decoration: underline;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+}
+th {
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+}
+.nav {
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;
+}
+.rtnav {
+	font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold;
+}
+.rtnav a:link {
+	color: rgb(8, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.rtnav a:visited {
+	color: rgb(26, 6, 162); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.rtnav a:hover {
+	color: rgb(129, 100, 22); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.rtnav a:active {
+	color: rgb(8, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.blunav {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-image: url("/images/bg_nav-bar.gif"); background-color: rgb(8, 4, 107);
+}
+.blunav a:link {
+	color: white; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.blunav a:visited {
+	color: white; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.blunav a:hover {
+	color: rgb(239, 223, 165); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.blunav a:active {
+	color: white; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.nav-ttl {
+	color: rgb(117, 117, 117); font-size: 14px; font-weight: bold;
+}
+.quick-ttl {
+	color: rgb(117, 117, 117); font-size: 12px; font-weight: bold;
+}
+.nav-pic {
+	color: rgb(16, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 11px;
+}
+.points {
+	font-family: Arial, Helvetica, sans-serif; font-size: 13px;
+}
+.points a:link {
+	color: rgb(8, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;
+}
+.points a:visited {
+	color: rgb(26, 6, 162); font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;
+}
+.points a:hover {
+	color: rgb(129, 100, 22); font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: none;
+}
+.points a:active {
+	color: rgb(8, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-decoration: underline;
+}
+.havaheading {
+	color: rgb(8, 4, 107); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;
+}
+.havaheading a:link {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+.havaheading a:visited {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+.havaheading a:hover {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.havaheading a:active {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+.attention {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal;
+}
+.attention a:link {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-decoration: underline;
+}
+.attention a:visited {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-decoration: underline;
+}
+.attention a:hover {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-decoration: none;
+}
+.attention a:active {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-decoration: underline;
+}
+.attention_bold {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;
+}
+.attention_bold a:link {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+.attention_bold a:visited {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+.attention_bold a:hover {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none;
+}
+.attention_bold a:active {
+	color: rgb(204, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-decoration: underline;
+}
+h1 {
+	color: rgb(16, 4, 107); font-size: 18px; font-weight: bold;
+}
+h2 {
+	color: rgb(16, 4, 107); font-size: 14px; font-style: normal; font-weight: bold;
+}
+.dropdown {
+	color: rgb(0, 0, 0); font-family: Verdana; font-size: 10px; background-color: rgb(255, 255, 255);
+}
+.dropdown_hp {
+	color: rgb(0, 0, 0); font-family: Verdana; font-size: 10px; background-color: rgb(255, 255, 255);
+}
+h3 {
+	color: rgb(16, 4, 107); font-size: 12px; font-weight: normal;
+}
+.impaired {
+	font-family: Arial, Helvetica, sans-serif; font-size: 16px;
+}
+.motto {
+	color: rgb(16, 4, 107); font-family: Georgia; font-size: 18px; font-weight: bold; background-color: rgb(255, 255, 255);
+}
+.updated {
+	color: rgb(102, 102, 102); font-family: Verdana; font-size: 80%;
+}
+.prsubheading_bold {
+	color: rgb(153, 153, 153); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold;
+}
+.havaheading_white {
+	color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: rgb(153, 153, 153);
+}
+.lawsheading_grey {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: rgb(204, 204, 204);
+}
+.lawsheading_gold {
+	color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: rgb(239, 219, 165);
+}

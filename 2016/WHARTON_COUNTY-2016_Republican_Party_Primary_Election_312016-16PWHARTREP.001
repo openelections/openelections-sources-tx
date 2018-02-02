@@ -1,0 +1,900 @@
+01010010001002324          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 101                                           00 
+01010010002002310          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 102                                           00 
+01010010003001893          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 103                                           00 
+01010010004002594          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 201                                           00 
+01010010005000926          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 202                                           00 
+01010010006003075          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 203                                           00 
+01010010007002238          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 301                                           00 
+01010010008002161          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 302                                           00 
+01010010009002036          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 303                                           00 
+01010010010002605          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 401                                           00 
+01010010011001474          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 402                                           00 
+01010010012000784          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             PRECINCT 403                                           00 
+01020010001000708          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 101                                           00 
+01020010002000975          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 102                                           00 
+01020010003000599          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 103                                           00 
+01020010004000965          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 201                                           00 
+01020010005000203          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 202                                           00 
+01020010006000667          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 203                                           00 
+01020010007001041          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 301                                           00 
+01020010008000848          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 302                                           00 
+01020010009000947          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 303                                           00 
+01020010010000558          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 401                                           00 
+01020010011000372          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 402                                           00 
+01020010012000186          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  PRECINCT 403                                           00 
+01030010001000556REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 101                                           00 
+01030010002000885REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 102                                           00 
+01030010003000523REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 103                                           00 
+01030010004000882REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 201                                           00 
+01030010005000104REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 202                                           00 
+01030010006000372REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 203                                           00 
+01030010007000973REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 301                                           00 
+01030010008000755REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 302                                           00 
+01030010009000916REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 303                                           00 
+01030010010000398REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 401                                           00 
+01030010011000323REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 402                                           00 
+01030010012000144REP       BALLOTS CAST - REPUBLICAN PARTY                         BALLOTS CAST - REPUBLICAN PARTY       PRECINCT 403                                           00 
+01040010001000152DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 101                                           00 
+01040010002000090DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 102                                           00 
+01040010003000076DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 103                                           00 
+01040010004000083DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 201                                           00 
+01040010005000099DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 202                                           00 
+01040010006000295DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 203                                           00 
+01040010007000068DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 301                                           00 
+01040010008000093DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 302                                           00 
+01040010009000031DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 303                                           00 
+01040010010000160DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 401                                           00 
+01040010011000049DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 402                                           00 
+01040010012000042DEM       BALLOTS CAST - DEMOCRATIC PARTY                         BALLOTS CAST - DEMOCRATIC PARTY       PRECINCT 403                                           00 
+01050010001000000REP       President                                               Rick Santorum                         PRECINCT 101                                           01 
+01050010002000000REP       President                                               Rick Santorum                         PRECINCT 102                                           01 
+01050010003000000REP       President                                               Rick Santorum                         PRECINCT 103                                           01 
+01050010004000000REP       President                                               Rick Santorum                         PRECINCT 201                                           01 
+01050010005000000REP       President                                               Rick Santorum                         PRECINCT 202                                           01 
+01050010006000000REP       President                                               Rick Santorum                         PRECINCT 203                                           01 
+01050010007000000REP       President                                               Rick Santorum                         PRECINCT 301                                           01 
+01050010008000002REP       President                                               Rick Santorum                         PRECINCT 302                                           01 
+01050010009000000REP       President                                               Rick Santorum                         PRECINCT 303                                           01 
+01050010010000001REP       President                                               Rick Santorum                         PRECINCT 401                                           01 
+01050010011000000REP       President                                               Rick Santorum                         PRECINCT 402                                           01 
+01050010012000000REP       President                                               Rick Santorum                         PRECINCT 403                                           01 
+01050020001000000REP       President                                               Elizabeth Gray                        PRECINCT 101                                           01 
+01050020002000000REP       President                                               Elizabeth Gray                        PRECINCT 102                                           01 
+01050020003000000REP       President                                               Elizabeth Gray                        PRECINCT 103                                           01 
+01050020004000000REP       President                                               Elizabeth Gray                        PRECINCT 201                                           01 
+01050020005000000REP       President                                               Elizabeth Gray                        PRECINCT 202                                           01 
+01050020006000000REP       President                                               Elizabeth Gray                        PRECINCT 203                                           01 
+01050020007000000REP       President                                               Elizabeth Gray                        PRECINCT 301                                           01 
+01050020008000002REP       President                                               Elizabeth Gray                        PRECINCT 302                                           01 
+01050020009000002REP       President                                               Elizabeth Gray                        PRECINCT 303                                           01 
+01050020010000000REP       President                                               Elizabeth Gray                        PRECINCT 401                                           01 
+01050020011000000REP       President                                               Elizabeth Gray                        PRECINCT 402                                           01 
+01050020012000000REP       President                                               Elizabeth Gray                        PRECINCT 403                                           01 
+01050030001000157REP       President                                               Donald J. Trump                       PRECINCT 101                                           01 
+01050030002000242REP       President                                               Donald J. Trump                       PRECINCT 102                                           01 
+01050030003000159REP       President                                               Donald J. Trump                       PRECINCT 103                                           01 
+01050030004000196REP       President                                               Donald J. Trump                       PRECINCT 201                                           01 
+01050030005000035REP       President                                               Donald J. Trump                       PRECINCT 202                                           01 
+01050030006000120REP       President                                               Donald J. Trump                       PRECINCT 203                                           01 
+01050030007000304REP       President                                               Donald J. Trump                       PRECINCT 301                                           01 
+01050030008000204REP       President                                               Donald J. Trump                       PRECINCT 302                                           01 
+01050030009000273REP       President                                               Donald J. Trump                       PRECINCT 303                                           01 
+01050030010000131REP       President                                               Donald J. Trump                       PRECINCT 401                                           01 
+01050030011000094REP       President                                               Donald J. Trump                       PRECINCT 402                                           01 
+01050030012000048REP       President                                               Donald J. Trump                       PRECINCT 403                                           01 
+01050040001000000REP       President                                               Rand Paul                             PRECINCT 101                                           01 
+01050040002000004REP       President                                               Rand Paul                             PRECINCT 102                                           01 
+01050040003000000REP       President                                               Rand Paul                             PRECINCT 103                                           01 
+01050040004000003REP       President                                               Rand Paul                             PRECINCT 201                                           01 
+01050040005000000REP       President                                               Rand Paul                             PRECINCT 202                                           01 
+01050040006000001REP       President                                               Rand Paul                             PRECINCT 203                                           01 
+01050040007000003REP       President                                               Rand Paul                             PRECINCT 301                                           01 
+01050040008000003REP       President                                               Rand Paul                             PRECINCT 302                                           01 
+01050040009000003REP       President                                               Rand Paul                             PRECINCT 303                                           01 
+01050040010000003REP       President                                               Rand Paul                             PRECINCT 401                                           01 
+01050040011000001REP       President                                               Rand Paul                             PRECINCT 402                                           01 
+01050040012000001REP       President                                               Rand Paul                             PRECINCT 403                                           01 
+01050050001000067REP       President                                               Marco Rubio                           PRECINCT 101                                           01 
+01050050002000117REP       President                                               Marco Rubio                           PRECINCT 102                                           01 
+01050050003000051REP       President                                               Marco Rubio                           PRECINCT 103                                           01 
+01050050004000105REP       President                                               Marco Rubio                           PRECINCT 201                                           01 
+01050050005000013REP       President                                               Marco Rubio                           PRECINCT 202                                           01 
+01050050006000048REP       President                                               Marco Rubio                           PRECINCT 203                                           01 
+01050050007000134REP       President                                               Marco Rubio                           PRECINCT 301                                           01 
+01050050008000112REP       President                                               Marco Rubio                           PRECINCT 302                                           01 
+01050050009000084REP       President                                               Marco Rubio                           PRECINCT 303                                           01 
+01050050010000036REP       President                                               Marco Rubio                           PRECINCT 401                                           01 
+01050050011000030REP       President                                               Marco Rubio                           PRECINCT 402                                           01 
+01050050012000020REP       President                                               Marco Rubio                           PRECINCT 403                                           01 
+01050060001000014REP       President                                               Jeb Bush                              PRECINCT 101                                           01 
+01050060002000019REP       President                                               Jeb Bush                              PRECINCT 102                                           01 
+01050060003000003REP       President                                               Jeb Bush                              PRECINCT 103                                           01 
+01050060004000001REP       President                                               Jeb Bush                              PRECINCT 201                                           01 
+01050060005000002REP       President                                               Jeb Bush                              PRECINCT 202                                           01 
+01050060006000002REP       President                                               Jeb Bush                              PRECINCT 203                                           01 
+01050060007000021REP       President                                               Jeb Bush                              PRECINCT 301                                           01 
+01050060008000011REP       President                                               Jeb Bush                              PRECINCT 302                                           01 
+01050060009000006REP       President                                               Jeb Bush                              PRECINCT 303                                           01 
+01050060010000003REP       President                                               Jeb Bush                              PRECINCT 401                                           01 
+01050060011000005REP       President                                               Jeb Bush                              PRECINCT 402                                           01 
+01050060012000005REP       President                                               Jeb Bush                              PRECINCT 403                                           01 
+01050070001000248REP       President                                               Ted Cruz                              PRECINCT 101                                           01 
+01050070002000395REP       President                                               Ted Cruz                              PRECINCT 102                                           01 
+01050070003000253REP       President                                               Ted Cruz                              PRECINCT 103                                           01 
+01050070004000490REP       President                                               Ted Cruz                              PRECINCT 201                                           01 
+01050070005000044REP       President                                               Ted Cruz                              PRECINCT 202                                           01 
+01050070006000162REP       President                                               Ted Cruz                              PRECINCT 203                                           01 
+01050070007000421REP       President                                               Ted Cruz                              PRECINCT 301                                           01 
+01050070008000323REP       President                                               Ted Cruz                              PRECINCT 302                                           01 
+01050070009000475REP       President                                               Ted Cruz                              PRECINCT 303                                           01 
+01050070010000196REP       President                                               Ted Cruz                              PRECINCT 401                                           01 
+01050070011000164REP       President                                               Ted Cruz                              PRECINCT 402                                           01 
+01050070012000058REP       President                                               Ted Cruz                              PRECINCT 403                                           01 
+01050080001000001REP       President                                               Lindsey Graham                        PRECINCT 101                                           01 
+01050080002000000REP       President                                               Lindsey Graham                        PRECINCT 102                                           01 
+01050080003000000REP       President                                               Lindsey Graham                        PRECINCT 103                                           01 
+01050080004000000REP       President                                               Lindsey Graham                        PRECINCT 201                                           01 
+01050080005000000REP       President                                               Lindsey Graham                        PRECINCT 202                                           01 
+01050080006000000REP       President                                               Lindsey Graham                        PRECINCT 203                                           01 
+01050080007000000REP       President                                               Lindsey Graham                        PRECINCT 301                                           01 
+01050080008000000REP       President                                               Lindsey Graham                        PRECINCT 302                                           01 
+01050080009000000REP       President                                               Lindsey Graham                        PRECINCT 303                                           01 
+01050080010000000REP       President                                               Lindsey Graham                        PRECINCT 401                                           01 
+01050080011000000REP       President                                               Lindsey Graham                        PRECINCT 402                                           01 
+01050080012000000REP       President                                               Lindsey Graham                        PRECINCT 403                                           01 
+01050090001000001REP       President                                               Chris Christie                        PRECINCT 101                                           01 
+01050090002000003REP       President                                               Chris Christie                        PRECINCT 102                                           01 
+01050090003000000REP       President                                               Chris Christie                        PRECINCT 103                                           01 
+01050090004000000REP       President                                               Chris Christie                        PRECINCT 201                                           01 
+01050090005000000REP       President                                               Chris Christie                        PRECINCT 202                                           01 
+01050090006000000REP       President                                               Chris Christie                        PRECINCT 203                                           01 
+01050090007000000REP       President                                               Chris Christie                        PRECINCT 301                                           01 
+01050090008000001REP       President                                               Chris Christie                        PRECINCT 302                                           01 
+01050090009000001REP       President                                               Chris Christie                        PRECINCT 303                                           01 
+01050090010000000REP       President                                               Chris Christie                        PRECINCT 401                                           01 
+01050090011000000REP       President                                               Chris Christie                        PRECINCT 402                                           01 
+01050090012000001REP       President                                               Chris Christie                        PRECINCT 403                                           01 
+01050100001000000REP       President                                               Mike Huckabee                         PRECINCT 101                                           01 
+01050100002000002REP       President                                               Mike Huckabee                         PRECINCT 102                                           01 
+01050100003000000REP       President                                               Mike Huckabee                         PRECINCT 103                                           01 
+01050100004000000REP       President                                               Mike Huckabee                         PRECINCT 201                                           01 
+01050100005000000REP       President                                               Mike Huckabee                         PRECINCT 202                                           01 
+01050100006000000REP       President                                               Mike Huckabee                         PRECINCT 203                                           01 
+01050100007000000REP       President                                               Mike Huckabee                         PRECINCT 301                                           01 
+01050100008000002REP       President                                               Mike Huckabee                         PRECINCT 302                                           01 
+01050100009000001REP       President                                               Mike Huckabee                         PRECINCT 303                                           01 
+01050100010000000REP       President                                               Mike Huckabee                         PRECINCT 401                                           01 
+01050100011000001REP       President                                               Mike Huckabee                         PRECINCT 402                                           01 
+01050100012000001REP       President                                               Mike Huckabee                         PRECINCT 403                                           01 
+01050110001000021REP       President                                               Ben Carson                            PRECINCT 101                                           01 
+01050110002000046REP       President                                               Ben Carson                            PRECINCT 102                                           01 
+01050110003000020REP       President                                               Ben Carson                            PRECINCT 103                                           01 
+01050110004000022REP       President                                               Ben Carson                            PRECINCT 201                                           01 
+01050110005000002REP       President                                               Ben Carson                            PRECINCT 202                                           01 
+01050110006000009REP       President                                               Ben Carson                            PRECINCT 203                                           01 
+01050110007000021REP       President                                               Ben Carson                            PRECINCT 301                                           01 
+01050110008000030REP       President                                               Ben Carson                            PRECINCT 302                                           01 
+01050110009000021REP       President                                               Ben Carson                            PRECINCT 303                                           01 
+01050110010000011REP       President                                               Ben Carson                            PRECINCT 401                                           01 
+01050110011000011REP       President                                               Ben Carson                            PRECINCT 402                                           01 
+01050110012000003REP       President                                               Ben Carson                            PRECINCT 403                                           01 
+01050120001000018REP       President                                               John R. Kasich                        PRECINCT 101                                           01 
+01050120002000023REP       President                                               John R. Kasich                        PRECINCT 102                                           01 
+01050120003000010REP       President                                               John R. Kasich                        PRECINCT 103                                           01 
+01050120004000021REP       President                                               John R. Kasich                        PRECINCT 201                                           01 
+01050120005000003REP       President                                               John R. Kasich                        PRECINCT 202                                           01 
+01050120006000011REP       President                                               John R. Kasich                        PRECINCT 203                                           01 
+01050120007000021REP       President                                               John R. Kasich                        PRECINCT 301                                           01 
+01050120008000031REP       President                                               John R. Kasich                        PRECINCT 302                                           01 
+01050120009000005REP       President                                               John R. Kasich                        PRECINCT 303                                           01 
+01050120010000004REP       President                                               John R. Kasich                        PRECINCT 401                                           01 
+01050120011000006REP       President                                               John R. Kasich                        PRECINCT 402                                           01 
+01050120012000001REP       President                                               John R. Kasich                        PRECINCT 403                                           01 
+01050130001000011REP       President                                               Carly Fiorina                         PRECINCT 101                                           01 
+01050130002000018REP       President                                               Carly Fiorina                         PRECINCT 102                                           01 
+01050130003000011REP       President                                               Carly Fiorina                         PRECINCT 103                                           01 
+01050130004000022REP       President                                               Carly Fiorina                         PRECINCT 201                                           01 
+01050130005000002REP       President                                               Carly Fiorina                         PRECINCT 202                                           01 
+01050130006000008REP       President                                               Carly Fiorina                         PRECINCT 203                                           01 
+01050130007000019REP       President                                               Carly Fiorina                         PRECINCT 301                                           01 
+01050130008000017REP       President                                               Carly Fiorina                         PRECINCT 302                                           01 
+01050130009000016REP       President                                               Carly Fiorina                         PRECINCT 303                                           01 
+01050130010000005REP       President                                               Carly Fiorina                         PRECINCT 401                                           01 
+01050130011000004REP       President                                               Carly Fiorina                         PRECINCT 402                                           01 
+01050130012000003REP       President                                               Carly Fiorina                         PRECINCT 403                                           01 
+01050140001000012REP       President                                               Uncommitted                           PRECINCT 101                                           01 
+01050140002000008REP       President                                               Uncommitted                           PRECINCT 102                                           01 
+01050140003000011REP       President                                               Uncommitted                           PRECINCT 103                                           01 
+01050140004000017REP       President                                               Uncommitted                           PRECINCT 201                                           01 
+01050140005000002REP       President                                               Uncommitted                           PRECINCT 202                                           01 
+01050140006000009REP       President                                               Uncommitted                           PRECINCT 203                                           01 
+01050140007000019REP       President                                               Uncommitted                           PRECINCT 301                                           01 
+01050140008000012REP       President                                               Uncommitted                           PRECINCT 302                                           01 
+01050140009000017REP       President                                               Uncommitted                           PRECINCT 303                                           01 
+01050140010000006REP       President                                               Uncommitted                           PRECINCT 401                                           01 
+01050140011000004REP       President                                               Uncommitted                           PRECINCT 402                                           01 
+01050140012000003REP       President                                               Uncommitted                           PRECINCT 403                                           01 
+01050150001000000REP       President                                               OVER VOTES                            PRECINCT 101                                           01 
+01050150002000000REP       President                                               OVER VOTES                            PRECINCT 102                                           01 
+01050150003000000REP       President                                               OVER VOTES                            PRECINCT 103                                           01 
+01050150004000000REP       President                                               OVER VOTES                            PRECINCT 201                                           01 
+01050150005000000REP       President                                               OVER VOTES                            PRECINCT 202                                           01 
+01050150006000000REP       President                                               OVER VOTES                            PRECINCT 203                                           01 
+01050150007000000REP       President                                               OVER VOTES                            PRECINCT 301                                           01 
+01050150008000000REP       President                                               OVER VOTES                            PRECINCT 302                                           01 
+01050150009000000REP       President                                               OVER VOTES                            PRECINCT 303                                           01 
+01050150010000000REP       President                                               OVER VOTES                            PRECINCT 401                                           01 
+01050150011000000REP       President                                               OVER VOTES                            PRECINCT 402                                           01 
+01050150012000000REP       President                                               OVER VOTES                            PRECINCT 403                                           01 
+01050160001000006REP       President                                               UNDER VOTES                           PRECINCT 101                                           01 
+01050160002000008REP       President                                               UNDER VOTES                           PRECINCT 102                                           01 
+01050160003000005REP       President                                               UNDER VOTES                           PRECINCT 103                                           01 
+01050160004000005REP       President                                               UNDER VOTES                           PRECINCT 201                                           01 
+01050160005000001REP       President                                               UNDER VOTES                           PRECINCT 202                                           01 
+01050160006000002REP       President                                               UNDER VOTES                           PRECINCT 203                                           01 
+01050160007000010REP       President                                               UNDER VOTES                           PRECINCT 301                                           01 
+01050160008000005REP       President                                               UNDER VOTES                           PRECINCT 302                                           01 
+01050160009000012REP       President                                               UNDER VOTES                           PRECINCT 303                                           01 
+01050160010000002REP       President                                               UNDER VOTES                           PRECINCT 401                                           01 
+01050160011000003REP       President                                               UNDER VOTES                           PRECINCT 402                                           01 
+01050160012000000REP       President                                               UNDER VOTES                           PRECINCT 403                                           01 
+01060010001000310REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 101                                           01 
+01060010002000543REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 102                                           01 
+01060010003000309REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 103                                           01 
+01060010004000541REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 201                                           01 
+01060010005000061REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 202                                           01 
+01060010006000190REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 203                                           01 
+01060010007000543REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 301                                           01 
+01060010008000428REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 302                                           01 
+01060010009000482REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 303                                           01 
+01060010010000231REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 401                                           01 
+01060010011000180REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 402                                           01 
+01060010012000074REP       US Representative, District 27                          Blake Farenthold                      PRECINCT 403                                           01 
+01060020001000172REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 101                                           01 
+01060020002000257REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 102                                           01 
+01060020003000134REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 103                                           01 
+01060020004000194REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 201                                           01 
+01060020005000027REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 202                                           01 
+01060020006000113REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 203                                           01 
+01060020007000320REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 301                                           01 
+01060020008000254REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 302                                           01 
+01060020009000314REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 303                                           01 
+01060020010000110REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 401                                           01 
+01060020011000095REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 402                                           01 
+01060020012000060REP       US Representative, District 27                          Gregg Deeb                            PRECINCT 403                                           01 
+01060030001000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 101                                           01 
+01060030002000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 102                                           01 
+01060030003000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 103                                           01 
+01060030004000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 201                                           01 
+01060030005000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 202                                           01 
+01060030006000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 203                                           01 
+01060030007000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 301                                           01 
+01060030008000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 302                                           01 
+01060030009000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 303                                           01 
+01060030010000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 401                                           01 
+01060030011000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 402                                           01 
+01060030012000000REP       US Representative, District 27                          OVER VOTES                            PRECINCT 403                                           01 
+01060040001000074REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 101                                           01 
+01060040002000085REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 102                                           01 
+01060040003000080REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 103                                           01 
+01060040004000147REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 201                                           01 
+01060040005000016REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 202                                           01 
+01060040006000069REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 203                                           01 
+01060040007000110REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 301                                           01 
+01060040008000073REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 302                                           01 
+01060040009000120REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 303                                           01 
+01060040010000057REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 401                                           01 
+01060040011000048REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 402                                           01 
+01060040012000010REP       US Representative, District 27                          UNDER VOTES                           PRECINCT 403                                           01 
+01070010001000277REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 101                                           01 
+01070010002000495REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 102                                           01 
+01070010003000234REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 103                                           01 
+01070010004000421REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 201                                           01 
+01070010005000051REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 202                                           01 
+01070010006000180REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 203                                           01 
+01070010007000479REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 301                                           01 
+01070010008000390REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 302                                           01 
+01070010009000490REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 303                                           01 
+01070010010000192REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 401                                           01 
+01070010011000150REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 402                                           01 
+01070010012000070REP       Railroad Commissioner                                   Gary Gates                            PRECINCT 403                                           01 
+01070020001000045REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 101                                           01 
+01070020002000070REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 102                                           01 
+01070020003000051REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 103                                           01 
+01070020004000085REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 201                                           01 
+01070020005000009REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 202                                           01 
+01070020006000039REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 203                                           01 
+01070020007000070REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 301                                           01 
+01070020008000066REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 302                                           01 
+01070020009000064REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 303                                           01 
+01070020010000029REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 401                                           01 
+01070020011000032REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 402                                           01 
+01070020012000013REP       Railroad Commissioner                                   Ron Hale                              PRECINCT 403                                           01 
+01070030001000017REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 101                                           01 
+01070030002000029REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 102                                           01 
+01070030003000027REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 103                                           01 
+01070030004000050REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 201                                           01 
+01070030005000003REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 202                                           01 
+01070030006000012REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 203                                           01 
+01070030007000047REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 301                                           01 
+01070030008000036REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 302                                           01 
+01070030009000035REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 303                                           01 
+01070030010000018REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 401                                           01 
+01070030011000014REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 402                                           01 
+01070030012000008REP       Railroad Commissioner                                   Doug Jeffrey                          PRECINCT 403                                           01 
+01070040001000026REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 101                                           01 
+01070040002000040REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 102                                           01 
+01070040003000015REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 103                                           01 
+01070040004000050REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 201                                           01 
+01070040005000005REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 202                                           01 
+01070040006000009REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 203                                           01 
+01070040007000041REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 301                                           01 
+01070040008000031REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 302                                           01 
+01070040009000043REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 303                                           01 
+01070040010000027REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 401                                           01 
+01070040011000015REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 402                                           01 
+01070040012000009REP       Railroad Commissioner                                   Lance N. Christian                    PRECINCT 403                                           01 
+01070050001000036REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 101                                           01 
+01070050002000023REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 102                                           01 
+01070050003000027REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 103                                           01 
+01070050004000015REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 201                                           01 
+01070050005000007REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 202                                           01 
+01070050006000026REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 203                                           01 
+01070050007000040REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 301                                           01 
+01070050008000037REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 302                                           01 
+01070050009000030REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 303                                           01 
+01070050010000018REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 401                                           01 
+01070050011000019REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 402                                           01 
+01070050012000002REP       Railroad Commissioner                                   Weston Martinez                       PRECINCT 403                                           01 
+01070060001000032REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 101                                           01 
+01070060002000043REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 102                                           01 
+01070060003000033REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 103                                           01 
+01070060004000057REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 201                                           01 
+01070060005000005REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 202                                           01 
+01070060006000019REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 203                                           01 
+01070060007000062REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 301                                           01 
+01070060008000044REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 302                                           01 
+01070060009000054REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 303                                           01 
+01070060010000017REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 401                                           01 
+01070060011000024REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 402                                           01 
+01070060012000014REP       Railroad Commissioner                                   Wayne Christian                       PRECINCT 403                                           01 
+01070070001000012REP       Railroad Commissioner                                   John Greytok                          PRECINCT 101                                           01 
+01070070002000018REP       Railroad Commissioner                                   John Greytok                          PRECINCT 102                                           01 
+01070070003000016REP       Railroad Commissioner                                   John Greytok                          PRECINCT 103                                           01 
+01070070004000032REP       Railroad Commissioner                                   John Greytok                          PRECINCT 201                                           01 
+01070070005000000REP       Railroad Commissioner                                   John Greytok                          PRECINCT 202                                           01 
+01070070006000010REP       Railroad Commissioner                                   John Greytok                          PRECINCT 203                                           01 
+01070070007000028REP       Railroad Commissioner                                   John Greytok                          PRECINCT 301                                           01 
+01070070008000018REP       Railroad Commissioner                                   John Greytok                          PRECINCT 302                                           01 
+01070070009000025REP       Railroad Commissioner                                   John Greytok                          PRECINCT 303                                           01 
+01070070010000011REP       Railroad Commissioner                                   John Greytok                          PRECINCT 401                                           01 
+01070070011000006REP       Railroad Commissioner                                   John Greytok                          PRECINCT 402                                           01 
+01070070012000004REP       Railroad Commissioner                                   John Greytok                          PRECINCT 403                                           01 
+01070080001000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 101                                           01 
+01070080002000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 102                                           01 
+01070080003000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 103                                           01 
+01070080004000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 201                                           01 
+01070080005000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 202                                           01 
+01070080006000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 203                                           01 
+01070080007000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 301                                           01 
+01070080008000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 302                                           01 
+01070080009000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 303                                           01 
+01070080010000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 401                                           01 
+01070080011000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 402                                           01 
+01070080012000000REP       Railroad Commissioner                                   OVER VOTES                            PRECINCT 403                                           01 
+01070090001000111REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 101                                           01 
+01070090002000167REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 102                                           01 
+01070090003000120REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 103                                           01 
+01070090004000172REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 201                                           01 
+01070090005000024REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 202                                           01 
+01070090006000077REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 203                                           01 
+01070090007000206REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 301                                           01 
+01070090008000133REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 302                                           01 
+01070090009000175REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 303                                           01 
+01070090010000086REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 401                                           01 
+01070090011000063REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 402                                           01 
+01070090012000024REP       Railroad Commissioner                                   UNDER VOTES                           PRECINCT 403                                           01 
+01080010001000226REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 101                                           01 
+01080010002000352REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 102                                           01 
+01080010003000211REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 103                                           01 
+01080010004000356REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 201                                           01 
+01080010005000041REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 202                                           01 
+01080010006000135REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 203                                           01 
+01080010007000430REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 301                                           01 
+01080010008000321REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 302                                           01 
+01080010009000414REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 303                                           01 
+01080010010000177REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 401                                           01 
+01080010011000134REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 402                                           01 
+01080010012000059REP       Justice, Supreme Court, Place 3                         Michael Massengale                    PRECINCT 403                                           01 
+01080020001000199REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 101                                           01 
+01080020002000331REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 102                                           01 
+01080020003000193REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 103                                           01 
+01080020004000331REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 201                                           01 
+01080020005000037REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 202                                           01 
+01080020006000148REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 203                                           01 
+01080020007000306REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 301                                           01 
+01080020008000269REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 302                                           01 
+01080020009000302REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 303                                           01 
+01080020010000135REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 401                                           01 
+01080020011000105REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 402                                           01 
+01080020012000062REP       Justice, Supreme Court, Place 3                         Debra Lehrmann                        PRECINCT 403                                           01 
+01080030001000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 101                                           01 
+01080030002000001REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 102                                           01 
+01080030003000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 103                                           01 
+01080030004000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 201                                           01 
+01080030005000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 202                                           01 
+01080030006000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 203                                           01 
+01080030007000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 301                                           01 
+01080030008000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 302                                           01 
+01080030009000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 303                                           01 
+01080030010000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 401                                           01 
+01080030011000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 402                                           01 
+01080030012000000REP       Justice, Supreme Court, Place 3                         OVER VOTES                            PRECINCT 403                                           01 
+01080040001000131REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 101                                           01 
+01080040002000201REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 102                                           01 
+01080040003000119REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 103                                           01 
+01080040004000195REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 201                                           01 
+01080040005000026REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 202                                           01 
+01080040006000089REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 203                                           01 
+01080040007000237REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 301                                           01 
+01080040008000165REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 302                                           01 
+01080040009000200REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 303                                           01 
+01080040010000086REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 401                                           01 
+01080040011000084REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 402                                           01 
+01080040012000023REP       Justice, Supreme Court, Place 3                         UNDER VOTES                           PRECINCT 403                                           01 
+01090010001000248REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 101                                           01 
+01090010002000400REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 102                                           01 
+01090010003000253REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 103                                           01 
+01090010004000435REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 201                                           01 
+01090010005000039REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 202                                           01 
+01090010006000168REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 203                                           01 
+01090010007000443REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 301                                           01 
+01090010008000348REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 302                                           01 
+01090010009000426REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 303                                           01 
+01090010010000190REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 401                                           01 
+01090010011000145REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 402                                           01 
+01090010012000055REP       Justice, Supreme Court, Place 5                         Paul Green                            PRECINCT 403                                           01 
+01090020001000147REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 101                                           01 
+01090020002000243REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 102                                           01 
+01090020003000135REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 103                                           01 
+01090020004000229REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 201                                           01 
+01090020005000038REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 202                                           01 
+01090020006000107REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 203                                           01 
+01090020007000267REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 301                                           01 
+01090020008000214REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 302                                           01 
+01090020009000258REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 303                                           01 
+01090020010000113REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 401                                           01 
+01090020011000083REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 402                                           01 
+01090020012000056REP       Justice, Supreme Court, Place 5                         Rick Green                            PRECINCT 403                                           01 
+01090030001000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 101                                           01 
+01090030002000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 102                                           01 
+01090030003000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 103                                           01 
+01090030004000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 201                                           01 
+01090030005000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 202                                           01 
+01090030006000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 203                                           01 
+01090030007000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 301                                           01 
+01090030008000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 302                                           01 
+01090030009000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 303                                           01 
+01090030010000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 401                                           01 
+01090030011000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 402                                           01 
+01090030012000000REP       Justice, Supreme Court, Place 5                         OVER VOTES                            PRECINCT 403                                           01 
+01090040001000161REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 101                                           01 
+01090040002000242REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 102                                           01 
+01090040003000135REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 103                                           01 
+01090040004000218REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 201                                           01 
+01090040005000027REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 202                                           01 
+01090040006000097REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 203                                           01 
+01090040007000263REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 301                                           01 
+01090040008000193REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 302                                           01 
+01090040009000232REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 303                                           01 
+01090040010000095REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 401                                           01 
+01090040011000095REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 402                                           01 
+01090040012000033REP       Justice, Supreme Court, Place 5                         UNDER VOTES                           PRECINCT 403                                           01 
+01100010001000215REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 101                                           01 
+01100010002000329REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 102                                           01 
+01100010003000208REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 103                                           01 
+01100010004000372REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 201                                           01 
+01100010005000055REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 202                                           01 
+01100010006000156REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 203                                           01 
+01100010007000369REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 301                                           01 
+01100010008000310REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 302                                           01 
+01100010009000335REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 303                                           01 
+01100010010000150REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 401                                           01 
+01100010011000140REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 402                                           01 
+01100010012000066REP       Justice, Supreme Court, Place 9                         Eva Guzman                            PRECINCT 403                                           01 
+01100020001000187REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 101                                           01 
+01100020002000322REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 102                                           01 
+01100020003000182REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 103                                           01 
+01100020004000289REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 201                                           01 
+01100020005000025REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 202                                           01 
+01100020006000123REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 203                                           01 
+01100020007000356REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 301                                           01 
+01100020008000271REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 302                                           01 
+01100020009000358REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 303                                           01 
+01100020010000152REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 401                                           01 
+01100020011000094REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 402                                           01 
+01100020012000047REP       Justice, Supreme Court, Place 9                         Joe Pool                              PRECINCT 403                                           01 
+01100030001000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 101                                           01 
+01100030002000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 102                                           01 
+01100030003000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 103                                           01 
+01100030004000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 201                                           01 
+01100030005000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 202                                           01 
+01100030006000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 203                                           01 
+01100030007000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 301                                           01 
+01100030008000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 302                                           01 
+01100030009000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 303                                           01 
+01100030010000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 401                                           01 
+01100030011000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 402                                           01 
+01100030012000000REP       Justice, Supreme Court, Place 9                         OVER VOTES                            PRECINCT 403                                           01 
+01100040001000154REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 101                                           01 
+01100040002000234REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 102                                           01 
+01100040003000133REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 103                                           01 
+01100040004000221REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 201                                           01 
+01100040005000024REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 202                                           01 
+01100040006000093REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 203                                           01 
+01100040007000248REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 301                                           01 
+01100040008000174REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 302                                           01 
+01100040009000223REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 303                                           01 
+01100040010000096REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 401                                           01 
+01100040011000089REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 402                                           01 
+01100040012000031REP       Justice, Supreme Court, Place 9                         UNDER VOTES                           PRECINCT 403                                           01 
+01110010001000139REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 101                                           01 
+01110010002000231REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 102                                           01 
+01110010003000131REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 103                                           01 
+01110010004000248REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 201                                           01 
+01110010005000023REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 202                                           01 
+01110010006000113REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 203                                           01 
+01110010007000277REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 301                                           01 
+01110010008000207REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 302                                           01 
+01110010009000280REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 303                                           01 
+01110010010000113REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 401                                           01 
+01110010011000078REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 402                                           01 
+01110010012000033REP       Judge, CT of Criminal AP, Place 2                       Ray Wheless                           PRECINCT 403                                           01 
+01110020001000153REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 101                                           01 
+01110020002000241REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 102                                           01 
+01110020003000145REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 103                                           01 
+01110020004000246REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 201                                           01 
+01110020005000034REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 202                                           01 
+01110020006000095REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 203                                           01 
+01110020007000257REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 301                                           01 
+01110020008000229REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 302                                           01 
+01110020009000243REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 303                                           01 
+01110020010000116REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 401                                           01 
+01110020011000097REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 402                                           01 
+01110020012000052REP       Judge, CT of Criminal AP, Place 2                       Mary Lou Keel                         PRECINCT 403                                           01 
+01110030001000075REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 101                                           01 
+01110030002000137REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 102                                           01 
+01110030003000084REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 103                                           01 
+01110030004000128REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 201                                           01 
+01110030005000013REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 202                                           01 
+01110030006000045REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 203                                           01 
+01110030007000137REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 301                                           01 
+01110030008000093REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 302                                           01 
+01110030009000127REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 303                                           01 
+01110030010000061REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 401                                           01 
+01110030011000048REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 402                                           01 
+01110030012000024REP       Judge, CT of Criminal AP, Place 2                       Chris Oldner                          PRECINCT 403                                           01 
+01110040001000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 101                                           01 
+01110040002000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 102                                           01 
+01110040003000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 103                                           01 
+01110040004000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 201                                           01 
+01110040005000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 202                                           01 
+01110040006000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 203                                           01 
+01110040007000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 301                                           01 
+01110040008000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 302                                           01 
+01110040009000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 303                                           01 
+01110040010000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 401                                           01 
+01110040011000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 402                                           01 
+01110040012000000REP       Judge, CT of Criminal AP, Place 2                       OVER VOTES                            PRECINCT 403                                           01 
+01110050001000189REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 101                                           01 
+01110050002000276REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 102                                           01 
+01110050003000163REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 103                                           01 
+01110050004000260REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 201                                           01 
+01110050005000034REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 202                                           01 
+01110050006000119REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 203                                           01 
+01110050007000302REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 301                                           01 
+01110050008000226REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 302                                           01 
+01110050009000266REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 303                                           01 
+01110050010000108REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 401                                           01 
+01110050011000100REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 402                                           01 
+01110050012000035REP       Judge, CT of Criminal AP, Place 2                       UNDER VOTES                           PRECINCT 403                                           01 
+01120010001000122REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 101                                           01 
+01120010002000207REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 102                                           01 
+01120010003000124REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 103                                           01 
+01120010004000195REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 201                                           01 
+01120010005000029REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 202                                           01 
+01120010006000091REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 203                                           01 
+01120010007000229REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 301                                           01 
+01120010008000198REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 302                                           01 
+01120010009000284REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 303                                           01 
+01120010010000095REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 401                                           01 
+01120010011000082REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 402                                           01 
+01120010012000030REP       Judge, CT of Criminal AP, Place 5                       Steve Smith                           PRECINCT 403                                           01 
+01120020001000028REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 101                                           01 
+01120020002000064REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 102                                           01 
+01120020003000033REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 103                                           01 
+01120020004000075REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 201                                           01 
+01120020005000003REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 202                                           01 
+01120020006000028REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 203                                           01 
+01120020007000053REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 301                                           01 
+01120020008000048REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 302                                           01 
+01120020009000043REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 303                                           01 
+01120020010000028REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 401                                           01 
+01120020011000029REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 402                                           01 
+01120020012000021REP       Judge, CT of Criminal AP, Place 5                       Sid Harle                             PRECINCT 403                                           01 
+01120030001000065REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 101                                           01 
+01120030002000084REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 102                                           01 
+01120030003000065REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 103                                           01 
+01120030004000147REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 201                                           01 
+01120030005000013REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 202                                           01 
+01120030006000040REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 203                                           01 
+01120030007000089REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 301                                           01 
+01120030008000076REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 302                                           01 
+01120030009000072REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 303                                           01 
+01120030010000043REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 401                                           01 
+01120030011000042REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 402                                           01 
+01120030012000016REP       Judge, CT of Criminal AP, Place 5                       Brent Webster                         PRECINCT 403                                           01 
+01120040001000152REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 101                                           01 
+01120040002000248REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 102                                           01 
+01120040003000141REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 103                                           01 
+01120040004000205REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 201                                           01 
+01120040005000024REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 202                                           01 
+01120040006000093REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 203                                           01 
+01120040007000302REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 301                                           01 
+01120040008000197REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 302                                           01 
+01120040009000261REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 303                                           01 
+01120040010000125REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 401                                           01 
+01120040011000075REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 402                                           01 
+01120040012000043REP       Judge, CT of Criminal AP, Place 5                       Scott Walker                          PRECINCT 403                                           01 
+01120050001000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 101                                           01 
+01120050002000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 102                                           01 
+01120050003000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 103                                           01 
+01120050004000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 201                                           01 
+01120050005000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 202                                           01 
+01120050006000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 203                                           01 
+01120050007000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 301                                           01 
+01120050008000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 302                                           01 
+01120050009000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 303                                           01 
+01120050010000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 401                                           01 
+01120050011000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 402                                           01 
+01120050012000000REP       Judge, CT of Criminal AP, Place 5                       OVER VOTES                            PRECINCT 403                                           01 
+01120060001000189REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 101                                           01 
+01120060002000282REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 102                                           01 
+01120060003000160REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 103                                           01 
+01120060004000260REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 201                                           01 
+01120060005000035REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 202                                           01 
+01120060006000120REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 203                                           01 
+01120060007000300REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 301                                           01 
+01120060008000236REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 302                                           01 
+01120060009000256REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 303                                           01 
+01120060010000107REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 401                                           01 
+01120060011000095REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 402                                           01 
+01120060012000034REP       Judge, CT of Criminal AP, Place 5                       UNDER VOTES                           PRECINCT 403                                           01 
+01130010001000202REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 101                                           01 
+01130010002000329REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 102                                           01 
+01130010003000197REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 103                                           01 
+01130010004000324REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 201                                           01 
+01130010005000034REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 202                                           01 
+01130010006000129REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 203                                           01 
+01130010007000381REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 301                                           01 
+01130010008000288REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 302                                           01 
+01130010009000368REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 303                                           01 
+01130010010000164REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 401                                           01 
+01130010011000117REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 402                                           01 
+01130010012000065REP       Judge, CT of Criminal AP, Place 6                       Richard Davis                         PRECINCT 403                                           01 
+01130020001000159REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 101                                           01 
+01130020002000266REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 102                                           01 
+01130020003000158REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 103                                           01 
+01130020004000296REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 201                                           01 
+01130020005000032REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 202                                           01 
+01130020006000120REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 203                                           01 
+01130020007000287REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 301                                           01 
+01130020008000226REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 302                                           01 
+01130020009000284REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 303                                           01 
+01130020010000124REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 401                                           01 
+01130020011000103REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 402                                           01 
+01130020012000042REP       Judge, CT of Criminal AP, Place 6                       Michael E. Keasler                    PRECINCT 403                                           01 
+01130030001000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 101                                           01 
+01130030002000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 102                                           01 
+01130030003000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 103                                           01 
+01130030004000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 201                                           01 
+01130030005000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 202                                           01 
+01130030006000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 203                                           01 
+01130030007000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 301                                           01 
+01130030008000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 302                                           01 
+01130030009000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 303                                           01 
+01130030010000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 401                                           01 
+01130030011000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 402                                           01 
+01130030012000000REP       Judge, CT of Criminal AP, Place 6                       OVER VOTES                            PRECINCT 403                                           01 
+01130040001000195REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 101                                           01 
+01130040002000290REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 102                                           01 
+01130040003000168REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 103                                           01 
+01130040004000262REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 201                                           01 
+01130040005000038REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 202                                           01 
+01130040006000123REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 203                                           01 
+01130040007000305REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 301                                           01 
+01130040008000241REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 302                                           01 
+01130040009000264REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 303                                           01 
+01130040010000110REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 401                                           01 
+01130040011000103REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 402                                           01 
+01130040012000037REP       Judge, CT of Criminal AP, Place 6                       UNDER VOTES                           PRECINCT 403                                           01 
+01140010001000398REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 101                                           01 
+01140010002000682REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 102                                           01 
+01140010003000371REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 103                                           01 
+01140010004000686REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 201                                           01 
+01140010005000074REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 202                                           01 
+01140010006000268REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 203                                           01 
+01140010007000754REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 301                                           01 
+01140010008000589REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 302                                           01 
+01140010009000724REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 303                                           01 
+01140010010000297REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 401                                           01 
+01140010011000248REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 402                                           01 
+01140010012000112REP       State Senator, District 18                              Lois W. Kolkhorst                     PRECINCT 403                                           01 
+01140020001000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 101                                           01 
+01140020002000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 102                                           01 
+01140020003000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 103                                           01 
+01140020004000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 201                                           01 
+01140020005000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 202                                           01 
+01140020006000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 203                                           01 
+01140020007000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 301                                           01 
+01140020008000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 302                                           01 
+01140020009000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 303                                           01 
+01140020010000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 401                                           01 
+01140020011000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 402                                           01 
+01140020012000000REP       State Senator, District 18                              OVER VOTES                            PRECINCT 403                                           01 
+01140030001000158REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 101                                           01 
+01140030002000203REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 102                                           01 
+01140030003000152REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 103                                           01 
+01140030004000196REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 201                                           01 
+01140030005000030REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 202                                           01 
+01140030006000104REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 203                                           01 
+01140030007000219REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 301                                           01 
+01140030008000166REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 302                                           01 
+01140030009000192REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 303                                           01 
+01140030010000101REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 401                                           01 
+01140030011000075REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 402                                           01 
+01140030012000032REP       State Senator, District 18                              UNDER VOTES                           PRECINCT 403                                           01 
+01150010001000449REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 101                                           01 
+01150010002000779REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 102                                           01 
+01150010003000428REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 103                                           01 
+01150010004000718REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 201                                           01 
+01150010005000083REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 202                                           01 
+01150010006000297REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 203                                           01 
+01150010007000796REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 301                                           01 
+01150010008000617REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 302                                           01 
+01150010009000760REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 303                                           01 
+01150010010000309REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 401                                           01 
+01150010011000268REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 402                                           01 
+01150010012000118REP       State Rep District 85                                   Phil Stephenson                       PRECINCT 403                                           01 
+01150020001000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 101                                           01 
+01150020002000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 102                                           01 
+01150020003000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 103                                           01 
+01150020004000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 201                                           01 
+01150020005000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 202                                           01 
+01150020006000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 203                                           01 
+01150020007000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 301                                           01 
+01150020008000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 302                                           01 
+01150020009000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 303                                           01 
+01150020010000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 401                                           01 
+01150020011000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 402                                           01 
+01150020012000000REP       State Rep District 85                                   OVER VOTES                            PRECINCT 403                                           01 
+01150030001000107REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 101                                           01 
+01150030002000106REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 102                                           01 
+01150030003000095REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 103                                           01 
+01150030004000164REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 201                                           01 
+01150030005000021REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 202                                           01 
+01150030006000075REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 203                                           01 
+01150030007000177REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 301                                           01 
+01150030008000138REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 302                                           01 
+01150030009000156REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 303                                           01 
+01150030010000089REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 401                                           01 
+01150030011000055REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 402                                           01 
+01150030012000026REP       State Rep District 85                                   UNDER VOTES                           PRECINCT 403                                           01 
+01160010001000349REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 101                                           01 
+01160010002000608REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 102                                           01 
+01160010003000334REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 103                                           01 
+01160010004000620REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 201                                           01 
+01160010005000070REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 202                                           01 
+01160010006000237REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 203                                           01 
+01160010007000670REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 301                                           01 
+01160010008000529REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 302                                           01 
+01160010009000663REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 303                                           01 
+01160010010000275REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 401                                           01 
+01160010011000214REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 402                                           01 
+01160010012000102REP       Justice, 13th CT of AP DIST, P3                         Greg Perkes                           PRECINCT 403                                           01 
+01160020001000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 101                                           01 
+01160020002000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 102                                           01 
+01160020003000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 103                                           01 
+01160020004000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 201                                           01 
+01160020005000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 202                                           01 
+01160020006000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 203                                           01 
+01160020007000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 301                                           01 
+01160020008000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 302                                           01 
+01160020009000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 303                                           01 
+01160020010000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 401                                           01 
+01160020011000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 402                                           01 
+01160020012000000REP       Justice, 13th CT of AP DIST, P3                         OVER VOTES                            PRECINCT 403                                           01 
+01160030001000207REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 101                                           01 
+01160030002000277REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 102                                           01 
+01160030003000189REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 103                                           01 
+01160030004000262REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 201                                           01 
+01160030005000034REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 202                                           01 
+01160030006000135REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 203                                           01 
+01160030007000303REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 301                                           01 
+01160030008000226REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 302                                           01 
+01160030009000253REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 303                                           01 
+01160030010000123REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 401                                           01 
+01160030011000109REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 402                                           01 
+01160030012000042REP       Justice, 13th CT of AP DIST, P3                         UNDER VOTES                           PRECINCT 403                                           01 
+01170010001000369REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 101                                           01 
+01170010002000641REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 102                                           01 
+01170010003000354REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 103                                           01 
+01170010004000616REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 201                                           01 
+01170010005000067REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 202                                           01 
+01170010006000237REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 203                                           01 
+01170010007000714REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 301                                           01 
+01170010008000548REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 302                                           01 
+01170010009000689REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 303                                           01 
+01170010010000279REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 401                                           01 
+01170010011000236REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 402                                           01 
+01170010012000106REP       District Judge, 23rd Judicial District                  Ben Hardin                            PRECINCT 403                                           01 
+01170020001000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 101                                           01 
+01170020002000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 102                                           01 
+01170020003000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 103                                           01 
+01170020004000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 201                                           01 
+01170020005000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 202                                           01 
+01170020006000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 203                                           01 
+01170020007000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 301                                           01 
+01170020008000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 302                                           01 
+01170020009000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 303                                           01 
+01170020010000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 401                                           01 
+01170020011000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 402                                           01 
+01170020012000000REP       District Judge, 23rd Judicial District                  OVER VOTES                            PRECINCT 403                                           01 
+01170030001000187REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 101                                           01 
+01170030002000244REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 102                                           01 
+01170030003000169REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 103                                           01 
+01170030004000266REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 201                                           01 
+01170030005000037REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 202                                           01 
+01170030006000135REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 203                                           01 
+01170030007000259REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 301                                           01 
+01170030008000207REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 302                                           01 
+01170030009000227REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 303                                           01 
+01170030010000119REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 401                                           01 
+01170030011000087REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 402                                           01 
+01170030012000038REP       District Judge, 23rd Judicial District                  UNDER VOTES                           PRECINCT 403                                           01 
+01180010001000379REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 101                                           01 
+01180010002000669REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 102                                           01 
+01180010003000365REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 103                                           01 
+01180010004000649REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 201                                           01 
+01180010005000071REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 202                                           01 
+01180010006000251REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 203                                           01 
+01180010007000714REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 301                                           01 
+01180010008000536REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 302                                           01 
+01180010009000701REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 303                                           01 
+01180010010000288REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 401                                           01 
+01180010011000237REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 402                                           01 
+01180010012000097REP       District Attorney, 329th Judicial Distri                Ross Kurtz                            PRECINCT 403                                           01 
+01180020001000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 101                                           01 
+01180020002000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 102                                           01 
+01180020003000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 103                                           01 
+01180020004000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 201                                           01 
+01180020005000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 202                                           01 
+01180020006000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 203                                           01 
+01180020007000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 301                                           01 
+01180020008000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 302                                           01 
+01180020009000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 303                                           01 
+01180020010000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 401                                           01 
+01180020011000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 402                                           01 
+01180020012000000REP       District Attorney, 329th Judicial Distri                OVER VOTES                            PRECINCT 403                                           01 
+01180030001000177REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 101                                           01 
+01180030002000216REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 102                                           01 
+01180030003000158REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 103                                           01 
+01180030004000233REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 201                                           01 
+01180030005000033REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 202                                           01 
+01180030006000121REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 203                                           01 
+01180030007000259REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 301                                           01 
+01180030008000219REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 302                                           01 
+01180030009000215REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 303                                           01 
+01180030010000110REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 401                                           01 
+01180030011000086REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 402                                           01 
+01180030012000047REP       District Attorney, 329th Judicial Distri                UNDER VOTES                           PRECINCT 403                                           01 

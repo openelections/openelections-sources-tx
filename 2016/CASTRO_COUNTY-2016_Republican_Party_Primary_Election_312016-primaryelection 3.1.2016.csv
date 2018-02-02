@@ -1,0 +1,757 @@
+Political_Subdivision,Precinct_name,Election_Date,Election_Name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,Total Provisional Ballots,Total Provisional Ballots Counted,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,166,12,3,0,0,0,0,0,23,5,0,0,143,7,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,166,30,3,0,0,0,0,0,23,5,0,0,143,25,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,166,1,3,0,0,0,0,0,23,1,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,166,2,3,0,0,0,0,0,23,0,0,0,143,2,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,166,17,3,0,0,0,0,0,23,3,0,0,143,14,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,166,58,3,0,0,0,0,0,23,8,0,0,143,50,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,166,0,3,0,0,0,0,0,23,0,0,0,143,0,3,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,166,2,27,0,0,0,0,0,23,0,7,0,143,2,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,166,7,27,0,0,0,0,0,23,1,7,0,143,6,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,166,12,27,0,0,0,0,0,23,3,7,0,143,9,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,166,22,27,0,0,0,0,0,23,5,7,0,143,17,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,166,12,27,0,0,0,0,0,23,2,7,0,143,10,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,166,0,27,0,0,0,0,0,23,0,7,0,143,0,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,166,32,27,0,0,0,0,0,23,4,7,0,143,28,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,166,2,27,0,0,0,0,0,23,0,7,0,143,2,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,166,7,27,0,0,0,0,0,23,0,7,0,143,7,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,166,7,43,0,0,0,0,0,23,1,10,0,143,6,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,166,18,43,0,0,0,0,0,23,4,10,0,143,14,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,166,6,43,0,0,0,0,0,23,0,10,0,143,6,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,166,8,43,0,0,0,0,0,23,1,10,0,143,7,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,166,19,43,0,0,0,0,0,23,0,10,0,143,19,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,166,10,43,0,0,0,0,0,23,3,10,0,143,7,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,166,12,43,0,0,0,0,0,23,3,10,0,143,9,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,166,43,42,0,0,0,0,0,23,5,11,0,143,38,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,166,38,42,0,0,0,0,0,23,6,11,0,143,32,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,166,49,44,0,0,0,0,0,23,6,13,0,143,43,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,166,30,44,0,0,0,0,0,23,3,13,0,143,27,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,166,40,41,0,0,0,0,0,23,8,10,0,143,32,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,166,42,41,0,0,0,0,0,23,4,10,0,143,38,31,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,166,26,44,0,0,0,0,0,23,0,12,0,143,26,32,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,166,35,44,0,0,0,0,0,23,5,12,0,143,30,32,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,166,18,44,0,0,0,0,0,23,5,12,0,143,13,32,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,166,12,47,0,0,0,0,0,23,1,13,0,143,11,34,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,166,29,47,0,0,0,0,0,23,4,13,0,143,25,34,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,166,10,47,0,0,0,0,0,23,3,13,0,143,7,34,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,166,25,47,0,0,0,0,0,23,1,13,0,143,24,34,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,166,40,47,0,0,0,0,0,23,8,12,0,143,32,35,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,166,36,47,0,0,0,0,0,23,2,12,0,143,34,35,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,166,68,55,0,0,0,0,0,23,6,16,0,143,62,39,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,166,74,49,0,0,0,0,0,23,7,15,0,143,67,34,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,166,72,51,0,0,0,0,0,23,7,15,0,143,65,36,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,166,88,35,0,0,0,0,0,23,15,7,0,143,73,28,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,166,96,27,0,0,0,0,0,23,15,7,0,143,81,20,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,166,11,7,0,0,0,0,0,23,5,0,0,143,6,7,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,166,62,7,0,0,0,0,0,23,12,0,0,143,50,7,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,166,31,7,0,0,0,0,0,23,3,0,0,143,28,7,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,166,12,7,0,0,0,0,0,23,2,0,0,143,10,7,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,166,81,42,0,0,0,0,0,23,13,9,0,143,68,33,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,19,19,"County Commissioner, Precinct 1",,1,1,Rod Hales,C,1,REP,2,0,166,43,26,0,0,0,0,0,23,9,3,0,143,34,23,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,19,19,"County Commissioner, Precinct 1",,1,2,Justin Bradley,C,2,REP,2,0,166,54,26,0,0,0,0,0,23,10,3,0,143,44,23,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,166,85,38,0,0,0,0,0,23,14,8,0,143,71,30,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,23,23,1,,1,1,YES,C,1,REP,2,0,166,57,29,0,0,0,0,0,23,11,6,0,143,46,23,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,23,23,1,,1,2,NO,C,2,REP,2,0,166,37,29,0,0,0,0,0,23,5,6,0,143,32,23,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,24,24,2,,1,1,YES,C,1,REP,2,0,166,56,27,0,0,0,0,0,23,10,5,0,143,46,22,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,24,24,2,,1,2,NO,C,2,REP,2,0,166,40,27,0,0,0,0,0,23,7,5,0,143,33,22,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,25,25,3,,1,1,YES,C,1,REP,2,0,166,75,29,0,0,0,0,0,23,14,7,0,143,61,22,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,25,25,3,,1,2,NO,C,2,REP,2,0,166,19,29,0,0,0,0,0,23,1,7,0,143,18,22,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,26,26,4,,1,1,YES,C,1,REP,2,0,166,81,32,0,0,0,0,0,23,14,7,0,143,67,25,0
+Castro County,101,3/1/2016,Republican Primary,1,5,1,1,754,0.22,26,26,4,,1,2,NO,C,2,REP,2,0,166,10,32,0,0,0,0,0,23,1,7,0,143,9,25,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,166,30,1,0,0,0,0,0,23,1,0,0,143,29,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,166,1,1,0,0,0,0,0,23,0,0,0,143,1,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,166,0,1,0,0,0,0,0,23,0,0,0,143,0,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,166,0,1,0,0,0,0,0,23,0,0,0,143,0,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,166,0,1,0,0,0,0,0,23,0,0,0,143,0,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,166,0,1,0,0,0,0,0,23,0,0,0,143,0,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,166,0,1,0,0,0,0,0,23,0,0,0,143,0,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,166,11,1,0,0,0,0,0,23,0,0,0,143,11,1,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,166,18,9,0,0,0,0,0,23,0,0,0,143,18,9,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,166,10,9,0,0,0,0,0,23,1,0,0,143,9,9,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,166,6,9,0,0,0,0,0,23,0,0,0,143,6,9,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,166,32,11,0,0,0,0,0,23,1,0,0,143,31,11,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,166,31,12,0,0,0,0,0,23,1,0,0,143,30,12,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,166,28,15,0,0,0,0,0,23,1,0,0,143,27,15,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,166,28,15,0,0,0,0,0,23,1,0,0,143,27,15,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,166,28,15,0,0,0,0,0,23,1,0,0,143,27,15,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,166,28,15,0,0,0,0,0,23,1,0,0,143,27,15,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,36,36,"County Commissioner, Precinct 1",,1,1,Paul Ramirez,C,1,DEM,1,0,166,32,11,0,0,0,0,0,23,1,0,0,143,31,11,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,166,25,10,0,0,0,0,0,23,1,0,0,143,24,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,166,8,10,0,0,0,0,0,23,0,0,0,143,8,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,166,32,10,0,0,0,0,0,23,1,0,0,143,31,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,166,1,10,0,0,0,0,0,23,0,0,0,143,1,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,166,23,10,0,0,0,0,0,23,1,0,0,143,22,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,166,10,10,0,0,0,0,0,23,0,0,0,143,10,10,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,166,30,11,0,0,0,0,0,23,1,0,0,143,29,11,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,166,2,11,0,0,0,0,0,23,0,0,0,143,2,11,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,166,21,6,0,0,0,0,0,23,1,0,0,143,20,6,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,166,16,6,0,0,0,0,0,23,0,0,0,143,16,6,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,166,30,9,0,0,0,0,0,23,1,0,0,143,29,9,0
+Castro County,101,3/1/2016,Democratic Primary,1,5,1,1,754,0.22,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,166,4,9,0,0,0,0,0,23,0,0,0,143,4,9,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,22,2,0,0,0,0,0,0,14,1,0,0,8,1,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,22,9,0,0,0,0,0,0,14,6,0,0,8,3,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,22,5,0,0,0,0,0,0,14,2,0,0,8,3,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,22,0,4,0,0,0,0,0,14,0,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,22,1,4,0,0,0,0,0,14,1,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,22,0,4,0,0,0,0,0,14,0,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,22,1,4,0,0,0,0,0,14,1,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,22,1,4,0,0,0,0,0,14,0,3,0,8,1,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,22,0,4,0,0,0,0,0,14,0,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,22,10,4,0,0,0,0,0,14,6,3,0,8,4,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,22,1,4,0,0,0,0,0,14,0,3,0,8,1,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,22,1,4,0,0,0,0,0,14,1,3,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,22,3,5,0,0,0,0,0,14,1,4,0,8,2,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,22,5,5,0,0,0,0,0,14,2,4,0,8,3,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,22,0,5,0,0,0,0,0,14,0,4,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,22,1,5,0,0,0,0,0,14,1,4,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,22,1,5,0,0,0,0,0,14,1,4,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,22,2,5,0,0,0,0,0,14,2,4,0,8,0,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,22,2,5,0,0,0,0,0,14,1,4,0,8,1,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,22,4,4,0,0,0,0,0,14,3,3,0,8,1,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,22,11,4,0,0,0,0,0,14,6,3,0,8,5,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,22,10,7,0,0,0,0,0,14,6,4,0,8,4,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,22,2,7,0,0,0,0,0,14,2,4,0,8,0,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,22,6,6,0,0,0,0,0,14,2,4,0,8,4,2,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,22,7,6,0,0,0,0,0,14,6,4,0,8,1,2,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,22,5,7,0,0,0,0,0,14,4,4,0,8,1,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,22,2,7,0,0,0,0,0,14,1,4,0,8,1,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,22,5,7,0,0,0,0,0,14,3,4,0,8,2,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,22,4,8,0,0,0,0,0,14,3,5,0,8,1,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,22,4,8,0,0,0,0,0,14,2,5,0,8,2,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,22,0,8,0,0,0,0,0,14,0,5,0,8,0,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,22,3,8,0,0,0,0,0,14,2,5,0,8,1,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,22,5,8,0,0,0,0,0,14,4,5,0,8,1,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,22,6,8,0,0,0,0,0,14,3,5,0,8,3,3,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,22,12,7,0,0,0,0,0,14,6,6,0,8,6,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,22,16,3,0,0,0,0,0,14,10,2,0,8,6,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,22,11,8,0,0,0,0,0,14,6,6,0,8,5,2,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,22,11,8,0,0,0,0,0,14,8,4,0,8,3,4,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,22,13,6,0,0,0,0,0,14,8,4,0,8,5,2,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,22,8,0,0,0,0,0,0,14,4,0,0,8,4,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,22,10,0,0,0,0,0,0,14,7,0,0,8,3,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,22,13,6,0,0,0,0,0,14,7,5,0,8,6,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,19,19,"County Commissioner, Precinct 1",,1,1,Rod Hales,C,1,REP,2,0,22,4,2,0,0,0,0,0,14,4,2,0,8,0,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,19,19,"County Commissioner, Precinct 1",,1,2,Justin Bradley,C,2,REP,2,0,22,13,2,0,0,0,0,0,14,6,2,0,8,7,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,22,14,5,0,0,0,0,0,14,8,4,0,8,6,1,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,23,23,1,,1,1,YES,C,1,REP,2,0,22,14,2,0,0,0,0,0,14,8,2,0,8,6,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,23,23,1,,1,2,NO,C,2,REP,2,0,22,3,2,0,0,0,0,0,14,2,2,0,8,1,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,24,24,2,,1,1,YES,C,1,REP,2,0,22,10,3,0,0,0,0,0,14,5,3,0,8,5,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,24,24,2,,1,2,NO,C,2,REP,2,0,22,6,3,0,0,0,0,0,14,4,3,0,8,2,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,25,25,3,,1,1,YES,C,1,REP,2,0,22,16,2,0,0,0,0,0,14,10,2,0,8,6,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,25,25,3,,1,2,NO,C,2,REP,2,0,22,1,2,0,0,0,0,0,14,0,2,0,8,1,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,26,26,4,,1,1,YES,C,1,REP,2,0,22,17,2,0,0,0,0,0,14,10,2,0,8,7,0,0
+Castro County,105,3/1/2016,Republican Primary,1,4,2,2,67,0.33,26,26,4,,1,2,NO,C,2,REP,2,0,22,0,2,0,0,0,0,0,14,0,2,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,22,2,0,0,0,0,0,0,14,1,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,22,1,0,0,0,0,0,0,14,0,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,36,36,"County Commissioner, Precinct 1",,1,1,Paul Ramirez,C,1,DEM,1,0,22,2,1,0,0,0,0,0,14,1,1,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,22,2,0,0,0,0,0,0,14,1,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,22,3,0,0,0,0,0,0,14,2,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,22,0,0,0,0,0,0,0,14,0,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,22,2,0,0,0,0,0,0,14,1,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,22,2,0,0,0,0,0,0,14,1,0,0,8,1,0,0
+Castro County,105,3/1/2016,Democratic Primary,1,4,2,2,67,0.33,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,22,1,0,0,0,0,0,0,14,1,0,0,8,0,0,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,174,3,17,0,0,0,0,0,59,1,3,0,115,2,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,174,1,17,0,0,0,0,0,59,0,3,0,115,1,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,174,24,17,0,0,0,0,0,59,10,3,0,115,14,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,174,2,17,0,0,0,0,0,59,0,3,0,115,2,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,174,10,17,0,0,0,0,0,59,1,3,0,115,9,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,174,0,17,0,0,0,0,0,59,0,3,0,115,0,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,174,60,17,0,0,0,0,0,59,27,3,0,115,33,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,174,10,17,0,0,0,0,0,59,5,3,0,115,5,14,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,174,6,39,0,0,0,0,0,59,2,11,0,115,4,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,174,4,39,0,0,0,0,0,59,3,11,0,115,1,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,174,4,39,0,0,0,0,0,59,3,11,0,115,1,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,174,10,39,0,0,0,0,0,59,9,11,0,115,1,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,174,10,39,0,0,0,0,0,59,4,11,0,115,6,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,174,2,39,0,0,0,0,0,59,1,11,0,115,1,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,174,30,39,0,0,0,0,0,59,8,11,0,115,22,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,174,2,39,0,0,0,0,0,59,0,11,0,115,2,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,174,20,39,0,0,0,0,0,59,6,11,0,115,14,28,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,174,11,44,0,0,0,0,0,59,6,14,0,115,5,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,174,16,44,0,0,0,0,0,59,7,14,0,115,9,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,174,1,44,0,0,0,0,0,59,0,14,0,115,1,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,174,6,44,0,0,0,0,0,59,2,14,0,115,4,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,174,14,44,0,0,0,0,0,59,5,14,0,115,9,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,174,13,44,0,0,0,0,0,59,8,14,0,115,5,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,174,22,44,0,0,0,0,0,59,5,14,0,115,17,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,174,49,45,0,0,0,0,0,59,17,15,0,115,32,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,174,33,45,0,0,0,0,0,59,15,15,0,115,18,30,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,174,47,51,0,0,0,0,0,59,20,16,0,115,27,35,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,174,29,51,0,0,0,0,0,59,11,16,0,115,18,35,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,174,53,42,0,0,0,0,0,59,20,13,0,115,33,29,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,174,32,42,0,0,0,0,0,59,14,13,0,115,18,29,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,174,19,49,0,0,0,0,0,59,9,16,0,115,10,33,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,174,36,49,0,0,0,0,0,59,11,16,0,115,25,33,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,174,23,49,0,0,0,0,0,59,11,16,0,115,12,33,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,174,10,46,0,0,0,0,0,59,4,15,0,115,6,31,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,174,30,46,0,0,0,0,0,59,12,15,0,115,18,31,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,174,5,46,0,0,0,0,0,59,4,15,0,115,1,31,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,174,36,46,0,0,0,0,0,59,12,15,0,115,24,31,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,174,42,52,0,0,0,0,0,59,20,17,0,115,22,35,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,174,33,52,0,0,0,0,0,59,10,17,0,115,23,35,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,174,71,56,0,0,0,0,0,59,29,18,0,115,42,38,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,174,74,53,0,0,0,0,0,59,29,18,0,115,45,35,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,174,75,52,0,0,0,0,0,59,31,16,0,115,44,36,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,174,91,36,0,0,0,0,0,59,37,10,0,115,54,26,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,174,96,31,0,0,0,0,0,59,31,16,0,115,65,15,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,174,29,3,0,0,0,0,0,59,16,0,0,115,13,3,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,174,57,3,0,0,0,0,0,59,19,0,0,115,38,3,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,174,27,3,0,0,0,0,0,59,10,0,0,115,17,3,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,174,11,3,0,0,0,0,0,59,2,0,0,115,9,3,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,174,90,37,0,0,0,0,0,59,33,14,0,115,57,23,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,174,87,40,0,0,0,0,0,59,34,13,0,115,53,27,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,23,23,1,,1,1,YES,C,1,REP,2,0,174,79,25,0,0,0,0,0,59,30,9,0,115,49,16,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,23,23,1,,1,2,NO,C,2,REP,2,0,174,23,25,0,0,0,0,0,59,8,9,0,115,15,16,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,24,24,2,,1,1,YES,C,1,REP,2,0,174,72,26,0,0,0,0,0,59,24,8,0,115,48,18,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,24,24,2,,1,2,NO,C,2,REP,2,0,174,29,26,0,0,0,0,0,59,15,8,0,115,14,18,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,25,25,3,,1,1,YES,C,1,REP,2,0,174,79,25,0,0,0,0,0,59,32,7,0,115,47,18,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,25,25,3,,1,2,NO,C,2,REP,2,0,174,23,25,0,0,0,0,0,59,8,7,0,115,15,18,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,26,26,4,,1,1,YES,C,1,REP,2,0,174,90,26,0,0,0,0,0,59,36,6,0,115,54,20,0
+Castro County,201,3/1/2016,Republican Primary,1,7,3,3,767,0.23,26,26,4,,1,2,NO,C,2,REP,2,0,174,11,26,0,0,0,0,0,59,5,6,0,115,6,20,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,174,41,1,0,0,0,0,0,59,10,1,0,115,31,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,174,1,1,0,0,0,0,0,59,0,1,0,115,1,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,174,0,1,0,0,0,0,0,59,0,1,0,115,0,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,174,0,1,0,0,0,0,0,59,0,1,0,115,0,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,174,0,1,0,0,0,0,0,59,0,1,0,115,0,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,174,0,1,0,0,0,0,0,59,0,1,0,115,0,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,174,0,1,0,0,0,0,0,59,0,1,0,115,0,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,174,4,1,0,0,0,0,0,59,1,1,0,115,3,0,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,174,17,19,0,0,0,0,0,59,4,4,0,115,13,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,174,11,19,0,0,0,0,0,59,4,4,0,115,7,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,174,0,19,0,0,0,0,0,59,0,4,0,115,0,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,174,24,23,0,0,0,0,0,59,8,4,0,115,16,19,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,174,28,19,0,0,0,0,0,59,9,3,0,115,19,16,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,174,23,24,0,0,0,0,0,59,7,5,0,115,16,19,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,174,23,24,0,0,0,0,0,59,6,6,0,115,17,18,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,174,24,23,0,0,0,0,0,59,7,5,0,115,17,18,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,174,22,25,0,0,0,0,0,59,5,7,0,115,17,18,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,174,28,14,1,0,0,0,0,59,9,1,1,115,19,13,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,174,4,14,1,0,0,0,0,59,1,1,1,115,3,13,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,174,29,14,0,0,0,0,0,59,10,0,0,115,19,14,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,174,4,14,0,0,0,0,0,59,2,0,0,115,2,14,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,174,27,15,0,0,0,0,0,59,9,1,0,115,18,14,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,174,5,15,0,0,0,0,0,59,2,1,0,115,3,14,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,174,27,17,0,0,0,0,0,59,9,2,0,115,18,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,174,3,17,0,0,0,0,0,59,1,2,0,115,2,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,174,21,15,0,0,0,0,0,59,9,0,0,115,12,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,174,11,15,0,0,0,0,0,59,3,0,0,115,8,15,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,174,30,14,0,0,0,0,0,59,11,0,0,115,19,14,0
+Castro County,201,3/1/2016,Democratic Primary,1,7,3,3,767,0.23,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,174,3,14,0,0,0,0,0,59,1,0,0,115,2,14,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,60,6,0,0,0,0,0,0,19,0,0,0,41,6,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,60,6,0,0,0,0,0,0,19,5,0,0,41,1,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,60,1,0,0,0,0,0,0,19,0,0,0,41,1,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,60,4,0,0,0,0,0,0,19,0,0,0,41,4,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,60,35,0,0,0,0,0,0,19,12,0,0,41,23,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,60,2,6,0,0,0,0,0,19,1,3,0,41,1,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,60,5,6,0,0,0,0,0,19,2,3,0,41,3,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,60,3,6,0,0,0,0,0,19,1,3,0,41,2,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,60,8,6,0,0,0,0,0,19,5,3,0,41,3,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,60,3,6,0,0,0,0,0,19,0,3,0,41,3,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,60,1,6,0,0,0,0,0,19,1,3,0,41,0,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,60,11,6,0,0,0,0,0,19,2,3,0,41,9,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,60,1,6,0,0,0,0,0,19,0,3,0,41,1,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,60,12,6,0,0,0,0,0,19,2,3,0,41,10,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,60,6,13,0,0,0,0,0,19,0,4,0,41,6,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,60,9,13,0,0,0,0,0,19,5,4,0,41,4,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,60,3,13,0,0,0,0,0,19,1,4,0,41,2,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,60,2,13,0,0,0,0,0,19,1,4,0,41,1,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,60,11,13,0,0,0,0,0,19,4,4,0,41,7,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,60,6,13,0,0,0,0,0,19,2,4,0,41,4,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,60,2,13,0,0,0,0,0,19,0,4,0,41,2,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,60,15,12,0,0,0,0,0,19,3,3,0,41,12,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,60,25,12,0,0,0,0,0,19,11,3,0,41,14,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,60,29,11,0,0,0,0,0,19,14,2,0,41,15,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,60,12,11,0,0,0,0,0,19,1,2,0,41,11,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,60,18,11,0,0,0,0,0,19,6,2,0,41,12,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,60,23,11,0,0,0,0,0,19,9,2,0,41,14,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,60,18,13,0,0,0,0,0,19,2,4,0,41,16,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,60,10,13,0,0,0,0,0,19,4,4,0,41,6,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,60,11,13,0,0,0,0,0,19,7,4,0,41,4,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,60,5,12,0,0,0,0,0,19,1,2,0,41,4,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,60,15,12,0,0,0,0,0,19,6,2,0,41,9,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,60,7,12,0,0,0,0,0,19,2,2,0,41,5,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,60,13,12,0,0,0,0,0,19,6,2,0,41,7,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,60,22,13,0,0,0,0,0,19,4,3,0,41,18,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,60,17,13,0,0,0,0,0,19,10,3,0,41,7,10,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,60,35,17,0,0,0,0,0,19,12,5,0,41,23,12,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,60,39,13,0,0,0,0,0,19,13,4,0,41,26,9,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,60,36,16,0,0,0,0,0,19,12,5,0,41,24,11,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,60,44,8,0,0,0,0,0,19,14,3,0,41,30,5,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,60,46,6,0,0,0,0,0,19,16,1,0,41,30,5,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,60,7,2,0,0,0,0,0,19,1,1,0,41,6,1,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,60,36,2,0,0,0,0,0,19,12,1,0,41,24,1,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,60,7,2,0,0,0,0,0,19,3,1,0,41,4,1,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,60,0,2,0,0,0,0,0,19,0,1,0,41,0,1,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,60,44,8,0,0,0,0,0,19,15,2,0,41,29,6,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,60,41,11,0,0,0,0,0,19,14,3,0,41,27,8,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,23,23,1,,1,1,YES,C,1,REP,2,0,60,36,7,0,0,0,0,0,19,13,2,0,41,23,5,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,23,23,1,,1,2,NO,C,2,REP,2,0,60,9,7,0,0,0,0,0,19,2,2,0,41,7,5,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,24,24,2,,1,1,YES,C,1,REP,2,0,60,36,5,0,0,0,0,0,19,13,2,0,41,23,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,24,24,2,,1,2,NO,C,2,REP,2,0,60,11,5,0,0,0,0,0,19,2,2,0,41,9,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,25,25,3,,1,1,YES,C,1,REP,2,0,60,42,5,0,0,0,0,0,19,13,2,0,41,29,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,25,25,3,,1,2,NO,C,2,REP,2,0,60,5,5,0,0,0,0,0,19,2,2,0,41,3,3,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,26,26,4,,1,1,YES,C,1,REP,2,0,60,44,6,0,0,0,0,0,19,15,2,0,41,29,4,0
+Castro County,206,3/1/2016,Republican Primary,1,5,4,4,137,0.44,26,26,4,,1,2,NO,C,2,REP,2,0,60,2,6,0,0,0,0,0,19,0,2,0,41,2,4,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,60,4,0,0,0,0,0,0,19,2,0,0,41,2,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,60,4,0,0,0,0,0,0,19,0,0,0,41,4,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,60,5,0,0,0,0,0,0,19,2,0,0,41,3,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,60,1,0,0,0,0,0,0,19,0,0,0,41,1,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,60,2,0,0,0,0,0,0,19,0,0,0,41,2,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,1,1,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,60,6,2,0,0,0,0,0,19,0,2,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,60,8,0,0,0,0,0,0,19,2,0,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,60,6,2,0,0,0,0,0,19,0,2,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,1,1,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,1,1,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,60,8,0,0,0,0,0,0,19,2,0,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,60,8,0,0,0,0,0,0,19,2,0,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,60,0,0,0,0,0,0,0,19,0,0,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,1,1,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,60,0,1,0,0,0,0,0,19,0,1,0,41,0,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,2,0,0,41,5,1,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,60,0,1,0,0,0,0,0,19,0,0,0,41,0,1,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,60,7,0,0,0,0,0,0,19,2,0,0,41,5,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,60,1,0,0,0,0,0,0,19,0,0,0,41,1,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,60,7,1,0,0,0,0,0,19,1,1,0,41,6,0,0
+Castro County,206,3/1/2016,Democratic Primary,1,5,4,4,137,0.44,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,60,0,1,0,0,0,0,0,19,0,1,0,41,0,0,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,422,25,4,0,0,0,0,0,178,6,3,0,244,19,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,422,2,4,0,0,0,0,0,178,1,3,0,244,1,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,422,1,4,0,0,0,0,0,178,0,3,0,244,1,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,422,107,4,0,0,0,0,0,178,50,3,0,244,57,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,422,0,4,0,0,0,0,0,178,0,3,0,244,0,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,422,10,4,0,0,0,0,0,178,6,3,0,244,4,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,422,10,4,0,0,0,0,0,178,8,3,0,244,2,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,422,0,4,0,0,0,0,0,178,0,3,0,244,0,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,422,43,4,0,0,0,0,0,178,19,3,0,244,24,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,422,2,4,0,0,0,0,0,178,0,3,0,244,2,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,422,0,4,0,0,0,0,0,178,0,3,0,244,0,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,422,0,4,0,0,0,0,0,178,0,3,0,244,0,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,422,171,4,0,0,0,0,0,178,63,3,0,244,108,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,422,7,4,0,0,0,0,0,178,7,3,0,244,0,1,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,422,9,39,0,0,0,0,0,178,5,21,0,244,4,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,422,7,39,0,0,0,0,0,178,1,21,0,244,6,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,422,16,39,0,0,0,0,0,178,6,21,0,244,10,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,422,32,39,0,0,0,0,0,178,19,21,0,244,13,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,422,34,39,0,0,0,0,0,178,15,21,0,244,19,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,422,2,39,0,0,0,0,0,178,0,21,0,244,2,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,422,169,39,0,0,0,0,0,178,61,21,0,244,108,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,422,4,39,0,0,0,0,0,178,2,21,0,244,2,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,422,70,39,0,0,0,0,0,178,33,21,0,244,37,18,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,422,43,107,0,0,0,0,0,178,15,55,0,244,28,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,422,50,107,0,0,0,0,0,178,22,55,0,244,28,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,422,11,107,0,0,0,0,0,178,3,55,0,244,8,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,422,38,107,0,0,0,0,0,178,13,55,0,244,25,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,422,65,107,0,0,0,0,0,178,27,55,0,244,38,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,422,50,107,0,0,0,0,0,178,17,55,0,244,33,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,422,18,107,0,0,0,0,0,178,11,55,0,244,7,52,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,422,138,104,0,0,0,0,0,178,56,53,0,244,82,51,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,422,140,104,0,0,0,0,0,178,54,53,0,244,86,51,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,422,174,110,0,0,0,0,0,178,68,57,0,244,106,53,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,422,98,110,0,0,0,0,0,178,38,57,0,244,60,53,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,422,102,101,0,0,0,0,0,178,38,53,0,244,64,48,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,422,179,101,0,0,0,0,0,178,72,53,0,244,107,48,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,422,94,113,0,0,0,0,0,178,34,58,0,244,60,55,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,422,111,113,0,0,0,0,0,178,46,58,0,244,65,55,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,422,64,113,0,0,0,0,0,178,25,58,0,244,39,55,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,422,35,109,0,0,0,0,0,178,12,55,0,244,23,54,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,422,103,109,0,0,0,0,0,178,46,55,0,244,57,54,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,422,21,109,0,0,0,0,0,178,9,55,0,244,12,54,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,422,114,109,0,0,0,0,0,178,41,55,0,244,73,54,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,422,166,120,0,0,0,0,0,178,67,57,0,244,99,63,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,422,96,120,0,0,0,0,0,178,39,57,0,244,57,63,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,422,261,121,0,0,0,0,0,178,102,61,0,244,159,60,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,422,286,96,0,0,0,0,0,178,117,46,0,244,169,50,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,422,263,119,0,0,0,0,0,178,102,61,0,244,161,58,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,422,314,68,0,0,0,0,0,178,125,38,0,244,189,30,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,422,320,62,0,0,0,0,0,178,129,34,0,244,191,28,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,422,75,4,0,0,0,0,0,178,38,2,0,244,37,2,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,422,238,4,0,0,0,0,0,178,98,2,0,244,140,2,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,422,54,4,0,0,0,0,0,178,17,2,0,244,37,2,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,422,11,4,0,0,0,0,0,178,8,2,0,244,3,2,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,422,310,72,0,0,0,0,0,178,133,30,0,244,177,42,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,22,20,"County Commissioner, Precinct 3",,1,1,Michael Goolsby,C,1,REP,2,0,422,168,5,0,0,0,0,0,178,73,1,0,244,95,4,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,22,20,"County Commissioner, Precinct 3",,1,2,Billy Martin,C,2,REP,2,0,422,54,5,0,0,0,0,0,178,36,1,0,244,18,4,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,22,20,"County Commissioner, Precinct 3",,1,3,Charlie Summers,C,3,REP,2,0,422,155,5,0,0,0,0,0,178,53,1,0,244,102,4,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,422,298,84,0,0,0,0,0,178,121,42,0,244,177,42,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,23,23,1,,1,1,YES,C,1,REP,2,0,422,249,39,0,0,0,0,0,178,100,18,0,244,149,21,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,23,23,1,,1,2,NO,C,2,REP,2,0,422,94,39,0,0,0,0,0,178,45,18,0,244,49,21,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,24,24,2,,1,1,YES,C,1,REP,2,0,422,210,32,0,0,0,0,0,178,78,16,0,244,132,16,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,24,24,2,,1,2,NO,C,2,REP,2,0,422,140,32,0,0,0,0,0,178,69,16,0,244,71,16,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,25,25,3,,1,1,YES,C,1,REP,2,0,422,271,46,0,0,0,0,0,178,117,20,0,244,154,26,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,25,25,3,,1,2,NO,C,2,REP,2,0,422,65,46,0,0,0,0,0,178,26,20,0,244,39,26,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,26,26,4,,1,1,YES,C,1,REP,2,0,422,315,43,0,0,0,0,0,178,128,27,0,244,187,16,0
+Castro County,301,3/1/2016,Republican Primary,1,7,5,5,872,0.48,26,26,4,,1,2,NO,C,2,REP,2,0,422,24,43,0,0,0,0,0,178,8,27,0,244,16,16,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,422,30,0,0,0,0,0,0,178,11,0,0,244,19,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,422,2,0,0,0,0,0,0,178,0,0,0,244,2,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,422,0,0,0,0,0,0,0,178,0,0,0,244,0,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,422,0,0,0,0,0,0,0,178,0,0,0,244,0,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,422,0,0,0,0,0,0,0,178,0,0,0,244,0,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,422,0,0,0,0,0,0,0,178,0,0,0,244,0,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,422,0,0,0,0,0,0,0,178,0,0,0,244,0,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,422,8,0,0,0,0,0,0,178,4,0,0,244,4,0,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,422,17,8,0,0,0,0,0,178,7,3,0,244,10,5,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,422,10,8,0,0,0,0,0,178,2,3,0,244,8,5,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,422,5,8,0,0,0,0,0,178,3,3,0,244,2,5,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,422,33,7,0,0,0,0,0,178,14,1,0,244,19,6,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,422,34,6,0,0,0,0,0,178,12,3,0,244,22,3,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,422,28,12,0,0,0,0,0,178,9,6,0,244,19,6,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,422,30,10,0,0,0,0,0,178,11,4,0,244,19,6,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,422,30,10,0,0,0,0,0,178,11,4,0,244,19,6,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,422,30,10,0,0,0,0,0,178,11,4,0,244,19,6,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,422,29,4,0,0,0,0,0,178,9,2,0,244,20,2,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,422,7,4,0,0,0,0,0,178,4,2,0,244,3,2,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,422,27,7,0,0,0,0,0,178,10,2,0,244,17,5,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,422,6,7,0,0,0,0,0,178,3,2,0,244,3,5,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,422,26,7,0,0,0,0,0,178,9,3,0,244,17,4,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,422,7,7,0,0,0,0,0,178,3,3,0,244,4,4,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,422,27,6,0,0,0,0,0,178,9,3,0,244,18,3,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,422,7,6,0,0,0,0,0,178,3,3,0,244,4,3,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,422,29,6,0,0,0,0,0,178,10,2,0,244,19,4,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,422,5,6,0,0,0,0,0,178,3,2,0,244,2,4,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,422,31,4,0,0,0,0,0,178,9,2,0,244,22,2,0
+Castro County,301,3/1/2016,Democratic Primary,1,7,5,5,872,0.48,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,422,5,4,0,0,0,0,0,178,4,2,0,244,1,2,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,51,5,1,0,0,0,0,0,19,3,1,0,32,2,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,51,16,1,0,0,0,0,0,19,6,1,0,32,10,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,51,2,1,0,0,0,0,0,19,0,1,0,32,2,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,51,1,1,0,0,0,0,0,19,0,1,0,32,1,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,51,4,1,0,0,0,0,0,19,0,1,0,32,4,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,51,0,1,0,0,0,0,0,19,0,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,51,21,1,0,0,0,0,0,19,8,1,0,32,13,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,51,1,1,0,0,0,0,0,19,1,1,0,32,0,0,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,51,2,8,0,0,0,0,0,19,2,3,0,32,0,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,51,5,8,0,0,0,0,0,19,2,3,0,32,3,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,51,8,8,0,0,0,0,0,19,2,3,0,32,6,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,51,6,8,0,0,0,0,0,19,1,3,0,32,5,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,51,5,8,0,0,0,0,0,19,3,3,0,32,2,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,51,3,8,0,0,0,0,0,19,1,3,0,32,2,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,51,10,8,0,0,0,0,0,19,3,3,0,32,7,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,51,0,8,0,0,0,0,0,19,0,3,0,32,0,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,51,4,8,0,0,0,0,0,19,2,3,0,32,2,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,51,3,13,0,0,0,0,0,19,2,5,0,32,1,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,51,8,13,0,0,0,0,0,19,4,5,0,32,4,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,51,5,13,0,0,0,0,0,19,1,5,0,32,4,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,51,3,13,0,0,0,0,0,19,1,5,0,32,2,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,51,7,13,0,0,0,0,0,19,1,5,0,32,6,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,51,11,13,0,0,0,0,0,19,4,5,0,32,7,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,51,1,13,0,0,0,0,0,19,1,5,0,32,0,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,51,22,11,0,0,0,0,0,19,7,4,0,32,15,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,51,18,11,0,0,0,0,0,19,8,4,0,32,10,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,51,23,13,0,0,0,0,0,19,10,4,0,32,13,9,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,51,15,13,0,0,0,0,0,19,5,4,0,32,10,9,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,51,20,8,0,0,0,0,0,19,7,3,0,32,13,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,51,23,8,0,0,0,0,0,19,9,3,0,32,14,5,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,51,11,12,0,0,0,0,0,19,9,6,0,32,2,6,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,51,11,12,0,0,0,0,0,19,2,6,0,32,9,6,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,51,17,12,0,0,0,0,0,19,2,6,0,32,15,6,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,51,7,12,0,0,0,0,0,19,4,5,0,32,3,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,51,17,12,0,0,0,0,0,19,7,5,0,32,10,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,51,4,12,0,0,0,0,0,19,2,5,0,32,2,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,51,11,12,0,0,0,0,0,19,1,5,0,32,10,7,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,51,21,15,0,0,0,0,0,19,7,7,0,32,14,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,51,15,15,0,0,0,0,0,19,5,7,0,32,10,8,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,51,34,17,0,0,0,0,0,19,14,5,0,32,20,12,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,51,38,13,0,0,0,0,0,19,15,4,0,32,23,9,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,51,36,15,0,0,0,0,0,19,13,6,0,32,23,9,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,51,37,14,0,0,0,0,0,19,14,5,0,32,23,9,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,51,36,15,0,0,0,0,0,19,15,4,0,32,21,11,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,51,9,1,0,0,0,0,0,19,5,0,0,32,4,1,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,51,36,1,0,0,0,0,0,19,13,0,0,32,23,1,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,51,5,1,0,0,0,0,0,19,1,0,0,32,4,1,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,51,0,1,0,0,0,0,0,19,0,0,0,32,0,1,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,51,39,12,0,0,0,0,0,19,18,1,0,32,21,11,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,22,20,"County Commissioner, Precinct 3",,1,1,Michael Goolsby,C,1,REP,2,0,51,11,2,0,0,0,0,0,19,7,0,0,32,4,2,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,22,20,"County Commissioner, Precinct 3",,1,2,Billy Martin,C,2,REP,2,0,51,13,2,0,0,0,0,0,19,3,0,0,32,10,2,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,22,20,"County Commissioner, Precinct 3",,1,3,Charlie Summers,C,3,REP,2,0,51,25,2,0,0,0,0,0,19,9,0,0,32,16,2,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,51,39,12,0,0,0,0,0,19,18,1,0,32,21,11,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,23,23,1,,1,1,YES,C,1,REP,2,0,51,30,5,0,0,0,0,0,19,12,1,0,32,18,4,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,23,23,1,,1,2,NO,C,2,REP,2,0,51,16,5,0,0,0,0,0,19,6,1,0,32,10,4,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,24,24,2,,1,1,YES,C,1,REP,2,0,51,22,5,0,0,0,0,0,19,5,2,0,32,17,3,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,24,24,2,,1,2,NO,C,2,REP,2,0,51,24,5,0,0,0,0,0,19,12,2,0,32,12,3,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,25,25,3,,1,1,YES,C,1,REP,2,0,51,39,5,0,0,0,0,0,19,15,2,0,32,24,3,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,25,25,3,,1,2,NO,C,2,REP,2,0,51,7,5,0,0,0,0,0,19,2,2,0,32,5,3,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,26,26,4,,1,1,YES,C,1,REP,2,0,51,45,5,0,0,0,0,0,19,16,2,0,32,29,3,0
+Castro County,307,3/1/2016,Republican Primary,1,4,6,6,218,0.23,26,26,4,,1,2,NO,C,2,REP,2,0,51,1,5,0,0,0,0,0,19,1,2,0,32,0,3,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,307,3/1/2016,Democratic Primary,1,4,6,6,218,0.23,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,51,0,0,0,0,0,0,0,19,0,0,0,32,0,0,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,95,11,5,0,0,0,0,0,34,4,3,0,61,7,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,95,2,5,0,0,0,0,0,34,1,3,0,61,1,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,95,19,5,0,0,0,0,0,34,5,3,0,61,14,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,95,1,5,0,0,0,0,0,34,0,3,0,61,1,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,95,4,5,0,0,0,0,0,34,2,3,0,61,2,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,95,4,5,0,0,0,0,0,34,3,3,0,61,1,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,95,0,5,0,0,0,0,0,34,0,3,0,61,0,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,95,26,5,0,0,0,0,0,34,8,3,0,61,18,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,95,1,5,0,0,0,0,0,34,0,3,0,61,1,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,95,3,17,0,0,0,0,0,34,2,9,0,61,1,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,95,2,17,0,0,0,0,0,34,2,9,0,61,0,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,95,1,17,0,0,0,0,0,34,0,9,0,61,1,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,95,8,17,0,0,0,0,0,34,2,9,0,61,6,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,95,9,17,0,0,0,0,0,34,1,9,0,61,8,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,95,1,17,0,0,0,0,0,34,1,9,0,61,0,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,95,18,17,0,0,0,0,0,34,5,9,0,61,13,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,95,2,17,0,0,0,0,0,34,2,9,0,61,0,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,95,12,17,0,0,0,0,0,34,2,9,0,61,10,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,95,11,19,0,0,0,0,0,34,2,7,0,61,9,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,95,11,19,0,0,0,0,0,34,6,7,0,61,5,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,95,2,19,0,0,0,0,0,34,2,7,0,61,0,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,95,6,19,0,0,0,0,0,34,3,7,0,61,3,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,95,9,19,0,0,0,0,0,34,3,7,0,61,6,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,95,8,19,0,0,0,0,0,34,1,7,0,61,7,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,95,7,19,0,0,0,0,0,34,2,7,0,61,5,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,95,31,21,0,0,0,0,0,34,12,8,0,61,19,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,95,21,21,0,0,0,0,0,34,6,8,0,61,15,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,95,31,22,0,0,0,0,0,34,13,9,0,61,18,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,95,20,22,0,0,0,0,0,34,4,9,0,61,16,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,95,27,20,0,0,0,0,0,34,9,8,0,61,18,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,95,26,20,0,0,0,0,0,34,9,8,0,61,17,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,95,20,21,0,0,0,0,0,34,4,7,0,61,16,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,95,26,21,0,0,0,0,0,34,11,7,0,61,15,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,95,6,21,0,0,0,0,0,34,4,7,0,61,2,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,95,5,23,0,0,0,0,0,34,4,9,0,61,1,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,95,24,23,0,0,0,0,0,34,7,9,0,61,17,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,95,2,23,0,0,0,0,0,34,1,9,0,61,1,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,95,19,23,0,0,0,0,0,34,5,9,0,61,14,14,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,95,29,23,0,0,0,0,0,34,11,8,0,61,18,15,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,95,21,23,0,0,0,0,0,34,7,8,0,61,14,15,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,95,49,24,0,0,0,0,0,34,15,11,0,61,34,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,95,50,23,0,0,0,0,0,34,16,10,0,61,34,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,95,48,25,0,0,0,0,0,34,14,12,0,61,34,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,95,52,21,0,0,0,0,0,34,16,10,0,61,36,11,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,95,47,26,0,0,0,0,0,34,13,13,0,61,34,13,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,95,11,3,0,0,0,0,0,34,6,1,0,61,5,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,95,40,3,0,0,0,0,0,34,15,1,0,61,25,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,95,13,3,0,0,0,0,0,34,4,1,0,61,9,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,95,6,3,0,0,0,0,0,34,0,1,0,61,6,2,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,95,52,21,0,0,0,0,0,34,17,9,0,61,35,12,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,95,50,23,0,0,0,0,0,34,14,12,0,61,36,11,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,23,23,1,,1,1,YES,C,1,REP,2,0,95,42,11,0,0,0,0,0,34,14,4,0,61,28,7,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,23,23,1,,1,2,NO,C,2,REP,2,0,95,20,11,0,0,0,0,0,34,8,4,0,61,12,7,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,24,24,2,,1,1,YES,C,1,REP,2,0,95,36,11,0,0,0,0,0,34,12,4,0,61,24,7,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,24,24,2,,1,2,NO,C,2,REP,2,0,95,26,11,0,0,0,0,0,34,10,4,0,61,16,7,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,25,25,3,,1,1,YES,C,1,REP,2,0,95,46,11,0,0,0,0,0,34,17,3,0,61,29,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,25,25,3,,1,2,NO,C,2,REP,2,0,95,16,11,0,0,0,0,0,34,6,3,0,61,10,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,26,26,4,,1,1,YES,C,1,REP,2,0,95,50,13,0,0,0,0,0,34,17,5,0,61,33,8,0
+Castro County,401,3/1/2016,Republican Primary,1,5,7,7,532,0.18,26,26,4,,1,2,NO,C,2,REP,2,0,95,10,13,0,0,0,0,0,34,4,5,0,61,6,8,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,95,15,1,0,0,0,0,0,34,4,1,0,61,11,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,95,0,1,0,0,0,0,0,34,0,1,0,61,0,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,95,6,1,0,0,0,0,0,34,3,1,0,61,3,0,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,95,13,3,0,0,0,0,0,34,5,1,0,61,8,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,95,6,3,0,0,0,0,0,34,2,1,0,61,4,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,95,0,3,0,0,0,0,0,34,0,1,0,61,0,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,95,17,5,0,0,0,0,0,34,6,2,0,61,11,3,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,95,19,3,0,0,0,0,0,34,7,1,0,61,12,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,95,18,4,0,0,0,0,0,34,7,1,0,61,11,3,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,95,15,7,0,0,0,0,0,34,4,4,0,61,11,3,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,95,17,5,0,0,0,0,0,34,6,2,0,61,11,3,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,95,17,5,0,0,0,0,0,34,6,2,0,61,11,3,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,95,17,3,0,0,0,0,0,34,7,1,0,61,10,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,95,2,3,0,0,0,0,0,34,0,1,0,61,2,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,95,17,3,0,0,0,0,0,34,6,1,0,61,11,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,95,2,3,0,0,0,0,0,34,1,1,0,61,1,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,95,14,3,0,0,0,0,0,34,7,1,0,61,7,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,95,5,3,0,0,0,0,0,34,0,1,0,61,5,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,95,18,3,0,0,0,0,0,34,7,1,0,61,11,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,95,1,3,0,0,0,0,0,34,0,1,0,61,1,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,95,15,3,0,0,0,0,0,34,5,1,0,61,10,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,95,4,3,0,0,0,0,0,34,2,1,0,61,2,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,95,14,3,0,0,0,0,0,34,4,1,0,61,10,2,0
+Castro County,401,3/1/2016,Democratic Primary,1,5,7,7,532,0.18,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,95,5,3,0,0,0,0,0,34,3,1,0,61,2,2,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,1,Ben Carson,C,1,REP,2,0,254,18,4,0,0,0,0,0,29,1,0,0,225,17,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,2,Carly Fiorina,C,2,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,3,Chris Christie,C,3,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,4,Donald J. Trump,C,4,REP,2,0,254,59,4,0,0,0,0,0,29,6,0,0,225,53,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,5,Elizabeth Gray,C,5,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,6,Jeb Bush,C,6,REP,2,0,254,3,4,0,0,0,0,0,29,1,0,0,225,2,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,7,John R. Kasich,C,7,REP,2,0,254,4,4,0,0,0,0,0,29,3,0,0,225,1,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,8,Lindsey Graham,C,8,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,9,Marco Rubio,C,9,REP,2,0,254,32,4,0,0,0,0,0,29,2,0,0,225,30,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,10,Mike Huckabee,C,10,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,11,Rand Paul,C,11,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,12,Rick Santorum,C,12,REP,2,0,254,0,4,0,0,0,0,0,29,0,0,0,225,0,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,13,Ted Cruz,C,13,REP,2,0,254,120,4,0,0,0,0,0,29,12,0,0,225,108,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,3,3,President,,1,14,Uncommitted,C,14,REP,2,0,254,1,4,0,0,0,0,0,29,0,0,0,225,1,4,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,1,DeRenda Warren,C,1,REP,2,0,254,11,40,0,0,0,0,0,29,4,4,0,225,7,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,2,Don Parrish,C,2,REP,2,0,254,16,40,0,0,0,0,0,29,2,4,0,225,14,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,3,Donald R. May,C,3,REP,2,0,254,11,40,0,0,0,0,0,29,1,4,0,225,10,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,4,Glen Robertson,C,4,REP,2,0,254,34,40,0,0,0,0,0,29,2,4,0,225,32,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,5,Greg Garrett,C,5,REP,2,0,254,26,40,0,0,0,0,0,29,2,4,0,225,24,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,6,Jason Corley,C,6,REP,2,0,254,2,40,0,0,0,0,0,29,0,4,0,225,2,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,7,Jodey Arrington,C,7,REP,2,0,254,61,40,0,0,0,0,0,29,9,4,0,225,52,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,8,John C. Key,C,8,REP,2,0,254,5,40,0,0,0,0,0,29,0,4,0,225,5,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,4,4,"United States Representative, District 19",,1,9,Michael Bob Starr,C,9,REP,2,0,254,35,40,0,0,0,0,0,29,1,4,0,225,34,36,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,1,Doug Jeffrey,C,1,REP,2,0,254,20,67,0,0,0,0,0,29,2,6,0,225,18,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,2,Gary Gates,C,2,REP,2,0,254,46,67,0,0,0,0,0,29,8,6,0,225,38,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,3,John Greytok,C,3,REP,2,0,254,2,67,0,0,0,0,0,29,0,6,0,225,2,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,4,Lance N. Christian,C,4,REP,2,0,254,32,67,0,0,0,0,0,29,4,6,0,225,28,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,5,Ron Hale,C,5,REP,2,0,254,38,67,0,0,0,0,0,29,5,6,0,225,33,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,6,Wayne Christian,C,6,REP,2,0,254,32,67,0,0,0,0,0,29,0,6,0,225,32,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,5,5,Railroad Commissioner,,1,7,Weston Martinez,C,7,REP,2,0,254,4,67,0,0,0,0,0,29,0,6,0,225,4,61,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,6,6,"Justice, Supreme Court, Place 3",,1,1,Debra Lehrmann,C,1,REP,2,0,254,68,64,0,0,0,0,0,29,8,7,0,225,60,57,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,6,6,"Justice, Supreme Court, Place 3",,1,2,Michael Massengale,C,2,REP,2,0,254,109,64,0,0,0,0,0,29,10,7,0,225,99,57,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,7,7,"Justice, Supreme Court, Place 5",,1,1,Paul Green,C,1,REP,2,0,254,109,74,0,0,0,0,0,29,12,9,0,225,97,65,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,7,7,"Justice, Supreme Court, Place 5",,1,2,Rick Green,C,2,REP,2,0,254,58,74,0,0,0,0,0,29,4,9,0,225,54,65,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,8,8,"Justice, Supreme Court, Place 9",,1,1,Eva Guzman,C,1,REP,2,0,254,82,65,0,0,0,0,0,29,9,6,0,225,73,59,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,8,8,"Justice, Supreme Court, Place 9",,1,2,Joe Pool,C,2,REP,2,0,254,94,65,0,0,0,0,0,29,10,6,0,225,84,59,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,1,Chris Oldner,C,1,REP,2,0,254,66,75,0,0,0,0,0,29,4,9,0,225,62,66,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,2,Mary Lou Keel,C,2,REP,2,0,254,56,75,0,0,0,0,0,29,6,9,0,225,50,66,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,9,9,"Judge, Court of Criminal Appeals, Place 2",,1,3,Ray Wheless,C,3,REP,2,0,254,44,75,0,0,0,0,0,29,6,9,0,225,38,66,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,1,Brent Webster,C,1,REP,2,0,254,41,78,0,0,0,0,0,29,4,9,0,225,37,69,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,2,Scott Walker,C,2,REP,2,0,254,61,78,0,0,0,0,0,29,5,9,0,225,56,69,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,3,Sid Harle,C,3,REP,2,0,254,25,78,0,0,0,0,0,29,3,9,0,225,22,69,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,10,10,"Judge, Court of Criminal Appeals, Place 5",,1,4,Steve Smith,C,4,REP,2,0,254,36,78,0,0,0,0,0,29,4,9,0,225,32,69,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,1,Michael E. Keasler,C,1,REP,2,0,254,95,86,0,0,0,0,0,29,10,10,0,225,85,76,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,11,11,"Judge, Court of Criminal Appeals, Place 6",,1,2,Richard Davis,C,2,REP,2,0,254,60,86,0,0,0,0,0,29,5,10,0,225,55,76,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,12,12,"Member, State Board of Education, District 15",,1,1,Marty Rowley,C,1,REP,2,0,254,157,84,0,0,0,0,0,29,16,9,0,225,141,75,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,13,13,"State Representative, District 88",,1,1,Ken King,C,1,REP,2,0,254,177,64,0,0,0,0,0,29,17,8,0,225,160,56,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,14,14,"Justice, 7th Court of Appeals District, Place 4",,1,1,Jim Campbell,C,1,REP,2,0,254,157,84,0,0,0,0,0,29,18,7,0,225,139,77,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,15,15,County Attorney,,1,1,Shalyn Hamlin,C,1,REP,2,0,254,177,64,0,0,0,0,0,29,18,7,0,225,159,57,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,16,16,Sheriff,,1,1,Sal Rivera,C,1,REP,2,0,254,191,50,0,0,0,0,0,29,21,4,0,225,170,46,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,17,17,County Tax Assessor-Collector,,1,1,Sheryl Brown,C,1,REP,2,0,254,16,8,0,0,0,0,0,29,0,1,0,225,16,7,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,17,17,County Tax Assessor-Collector,,1,2,Pamala Rickert,C,2,REP,2,0,254,101,8,0,0,0,0,0,29,16,1,0,225,85,7,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,17,17,County Tax Assessor-Collector,,1,3,Elaine Kern,C,3,REP,2,0,254,111,8,0,0,0,0,0,29,8,1,0,225,103,7,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,17,17,County Tax Assessor-Collector,,1,4,Candi E. Rodriguez,C,4,REP,2,0,254,5,8,0,0,0,0,0,29,0,1,0,225,5,7,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,18,18,"County Treasurer, Unexpired Term",,1,1,Elaine Davis Flynt,C,1,REP,2,0,254,188,53,0,0,0,0,0,29,19,6,0,225,169,47,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,20,21,Constable,,1,1,John W. Kropp,C,1,REP,2,0,254,176,65,0,0,0,0,0,29,18,7,0,225,158,58,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,23,23,1,,1,1,YES,C,1,REP,2,0,254,155,31,0,0,0,0,0,29,22,1,0,225,133,30,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,23,23,1,,1,2,NO,C,2,REP,2,0,254,55,31,0,0,0,0,0,29,2,1,0,225,53,30,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,24,24,2,,1,1,YES,C,1,REP,2,0,254,148,26,0,0,0,0,0,29,15,2,0,225,133,24,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,24,24,2,,1,2,NO,C,2,REP,2,0,254,67,26,0,0,0,0,0,29,8,2,0,225,59,24,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,25,25,3,,1,1,YES,C,1,REP,2,0,254,149,34,0,0,0,0,0,29,18,2,0,225,131,32,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,25,25,3,,1,2,NO,C,2,REP,2,0,254,58,34,0,0,0,0,0,29,5,2,0,225,53,32,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,26,26,4,,1,1,YES,C,1,REP,2,0,254,190,35,0,0,0,0,0,29,22,1,0,225,168,34,0
+Castro County,408,3/1/2016,Republican Primary,1,8,8,8,535,0.47,26,26,4,,1,2,NO,C,2,REP,2,0,254,16,35,0,0,0,0,0,29,2,1,0,225,14,34,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,1,Hillary Clinton,C,1,DEM,1,0,254,5,1,0,0,0,0,0,29,3,0,0,225,2,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,2,"Roque ""Rocky"" De La Fuente",C,2,DEM,1,0,254,1,1,0,0,0,0,0,29,0,0,0,225,1,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,3,Star Locke,C,3,DEM,1,0,254,0,1,0,0,0,0,0,29,0,0,0,225,0,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,4,Keith Judd,C,4,DEM,1,0,254,0,1,0,0,0,0,0,29,0,0,0,225,0,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,5,Willie L. Wilson,C,5,DEM,1,0,254,0,1,0,0,0,0,0,29,0,0,0,225,0,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,6,Calvis L. Hawes,C,6,DEM,1,0,254,0,1,0,0,0,0,0,29,0,0,0,225,0,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,7,Martin J. O'Malley,C,7,DEM,1,0,254,0,1,0,0,0,0,0,29,0,0,0,225,0,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,28,28,President,,1,8,Bernie Sanders,C,8,DEM,1,0,254,6,1,0,0,0,0,0,29,1,0,0,225,5,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,29,29,Railroad Commissioner,,1,1,Grady Yarbrough,C,1,DEM,1,0,254,6,2,0,0,0,0,0,29,3,0,0,225,3,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,29,29,Railroad Commissioner,,1,2,Cody Garrett,C,2,DEM,1,0,254,4,2,0,0,0,0,0,29,1,0,0,225,3,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,29,29,Railroad Commissioner,,1,3,Lon Burnam,C,3,DEM,1,0,254,1,2,0,0,0,0,0,29,0,0,0,225,1,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,30,30,"Justice, Supreme Court, Place 3",,1,1,Mike Westergren,C,1,DEM,1,0,254,12,1,0,0,0,0,0,29,4,0,0,225,8,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,31,31,"Justice, Supreme Court, Place 5",,1,1,Dori Contreras Garza,C,1,DEM,1,0,254,12,1,0,0,0,0,0,29,4,0,0,225,8,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,32,32,"Justice, Supreme Court, Place 9",,1,1,Savannah Robinson,C,1,DEM,1,0,254,11,2,0,0,0,0,0,29,4,0,0,225,7,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,33,33,"Judge, Court of Criminal Appeals, Place 2",,1,1,"Lawrence ""Larry"" Meyers",C,1,DEM,1,0,254,11,2,0,0,0,0,0,29,4,0,0,225,7,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,34,34,"Judge, Court of Criminal Appeals, Place 5",,1,1,Betsy Johnson,C,1,DEM,1,0,254,11,2,0,0,0,0,0,29,4,0,0,225,7,2,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,35,35,"Judge, Court of Criminal Appeals, Place 6",,1,1,Robert Burns,C,1,DEM,1,0,254,12,1,0,0,0,0,0,29,4,0,0,225,8,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,1,YES,C,1,DEM,1,0,254,10,0,0,0,0,0,0,29,4,0,0,225,6,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,38,38,REFERENDA ITEM #1: ON ECONOMIC SECURITY & PROSPERITY,,1,2,NO,C,2,DEM,1,0,254,3,0,0,0,0,0,0,29,0,0,0,225,3,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,1,YES,C,1,DEM,1,0,254,9,0,0,0,0,0,0,29,4,0,0,225,5,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,39,39,REFERENDA ITEM #2 ON A FAIR CRIMINAL JUSTICE SYSTEM,,1,2,NO,C,2,DEM,1,0,254,4,0,0,0,0,0,0,29,0,0,0,225,4,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,1,YES,C,1,DEM,1,0,254,10,0,0,0,0,0,0,29,3,0,0,225,7,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,40,40,REFERENDA ITEM #3 ON CLIMATE,,1,2,NO,C,2,DEM,1,0,254,3,0,0,0,0,0,0,29,1,0,0,225,2,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,1,YES,C,1,DEM,1,0,254,8,2,0,0,0,0,0,29,3,1,0,225,5,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,41,41,REFERENDA ITEM #4 ON THE VOTING RIGHTS ACT,,1,2,NO,C,2,DEM,1,0,254,3,2,0,0,0,0,0,29,0,1,0,225,3,1,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,1,YES,C,1,DEM,1,0,254,12,0,0,0,0,0,0,29,3,0,0,225,9,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,42,42,REFERENDA ITEM #5 ON CAMPUS CARRY,,1,2,NO,C,2,DEM,1,0,254,1,0,0,0,0,0,0,29,1,0,0,225,0,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,1,YES,C,1,DEM,1,0,254,9,0,0,0,0,0,0,29,3,0,0,225,6,0,0
+Castro County,408,3/1/2016,Democratic Primary,1,8,8,8,535,0.47,43,43,REFERENDA ITEM #6 ON COMPREHENSIVE IMMIGRATION REFORM,,1,2,NO,C,2,DEM,1,0,254,4,0,0,0,0,0,0,29,1,0,0,225,3,0,0
