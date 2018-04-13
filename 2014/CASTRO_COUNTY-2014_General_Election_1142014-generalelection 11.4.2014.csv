@@ -1,0 +1,631 @@
+Political_Subdivision,Election_Date,Election_Name,Total PV Ballots,Total PV Ballots Counted,Precinct_name,Update_count,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,early_ballots,early_votes,early_under_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,2,2,Straight Party,,1,1,Republican,C,1,REP,140,44,64,25,12,9,115,32,55,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,2,2,Straight Party,,1,2,Democratic,C,2,DEM,140,30,64,25,3,9,115,27,55,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,140,1,64,25,0,9,115,1,55,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,2,2,Straight Party,,1,4,Green,C,4,GRN,140,1,64,25,1,9,115,0,55,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,140,86,6,25,17,1,115,69,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,140,42,6,25,6,1,115,36,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,140,3,6,25,0,1,115,3,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,140,3,6,25,1,1,115,2,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,140,0,6,25,0,1,115,0,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,140,88,7,25,20,1,115,68,6,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,140,40,7,25,4,1,115,36,6,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,140,5,7,25,0,1,115,5,6,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,140,0,7,25,0,1,115,0,6,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,5,5,Governor,,1,1,Greg Abbott,C,1,REP,140,86,5,25,20,0,115,66,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,140,46,5,25,5,0,115,41,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,140,3,5,25,0,0,115,3,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,140,0,5,25,0,0,115,0,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,140,0,5,25,0,0,115,0,5,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,140,85,9,25,19,0,115,66,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,140,41,9,25,5,0,115,36,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,140,4,9,25,0,0,115,4,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,140,1,9,25,1,0,115,0,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,140,82,9,25,18,1,115,64,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,140,47,9,25,5,1,115,42,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,140,1,9,25,0,1,115,1,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,140,1,9,25,1,1,115,0,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,140,80,8,25,19,0,115,61,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,140,45,8,25,5,0,115,40,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,140,5,8,25,0,0,115,5,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,140,2,8,25,1,0,115,1,8,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,140,85,10,25,18,1,115,67,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,140,41,10,25,5,1,115,36,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,140,3,10,25,0,1,115,3,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,140,1,10,25,1,1,115,0,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,140,76,7,25,17,0,115,59,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,140,50,7,25,5,0,115,45,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,140,4,7,25,2,0,115,2,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,140,3,7,25,1,0,115,2,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,140,83,7,25,19,0,115,64,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,140,43,7,25,4,0,115,39,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,140,5,7,25,1,0,115,4,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,140,2,7,25,1,0,115,1,7,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,140,81,10,25,18,1,115,63,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,140,43,10,25,5,1,115,38,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,140,6,10,25,1,1,115,5,9,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,140,83,12,25,19,2,115,64,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,140,39,12,25,4,2,115,35,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,140,6,12,25,0,2,115,6,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,140,82,11,25,17,1,115,65,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,140,44,11,25,6,1,115,38,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,140,2,11,25,0,1,115,2,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,140,1,11,25,1,1,115,0,10,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,140,89,42,25,19,5,115,70,37,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,140,5,42,25,0,5,115,5,37,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,140,4,42,25,1,5,115,3,37,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,140,76,13,25,18,1,115,58,12,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,140,45,13,25,5,1,115,40,12,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,140,6,13,25,1,1,115,5,12,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,140,88,37,25,18,4,115,70,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,140,10,37,25,1,4,115,9,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,140,5,37,25,2,4,115,3,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,140,92,38,25,19,5,115,73,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,140,7,38,25,0,5,115,7,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,140,3,38,25,1,5,115,2,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,140,89,42,25,18,7,115,71,35,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,140,9,42,25,0,7,115,9,35,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,140,97,37,25,19,6,115,78,31,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,140,6,37,25,0,6,115,6,31,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,140,88,52,25,17,8,115,71,44,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,140,91,49,25,18,7,115,73,42,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,140,91,49,25,18,7,115,73,42,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,140,94,46,25,20,5,115,74,41,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,140,90,50,25,10,15,115,80,35,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,140,88,52,25,10,15,115,78,37,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,140,83,51,25,8,12,115,75,39,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,140,6,51,25,5,12,115,1,39,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,140,74,42,25,11,9,115,63,33,0
+Castro County,11/4/2014,General Election,3,2,101,3,1,762,0.18,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,140,24,42,25,5,9,115,19,33,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,2,2,Straight Party,,1,1,Republican,C,1,REP,22,6,15,7,1,5,15,5,10,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,2,2,Straight Party,,1,2,Democratic,C,2,DEM,22,1,15,7,1,5,15,0,10,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,22,0,15,7,0,5,15,0,10,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,2,2,Straight Party,,1,4,Green,C,4,GRN,22,0,15,7,0,5,15,0,10,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,22,19,0,7,5,0,15,14,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,22,1,0,7,1,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,22,2,0,7,1,0,15,1,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,22,19,1,7,5,0,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,22,1,1,7,1,0,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,22,1,1,7,1,0,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,22,0,1,7,0,0,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,5,5,Governor,,1,1,Greg Abbott,C,1,REP,22,21,0,7,6,0,15,15,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,22,1,0,7,1,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,22,19,0,7,4,0,15,15,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,22,3,0,7,3,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,22,20,0,7,7,0,15,13,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,22,2,0,7,0,0,15,2,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,22,16,2,7,4,2,15,12,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,22,4,2,7,1,2,15,3,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,22,0,2,7,0,2,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,22,0,2,7,0,2,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,22,18,0,7,4,0,15,14,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,22,4,0,7,3,0,15,1,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,22,0,0,7,0,0,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,22,15,1,7,2,1,15,13,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,22,3,1,7,1,1,15,2,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,22,0,1,7,0,1,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,22,3,1,7,3,1,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,22,15,1,7,2,1,15,13,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,22,3,1,7,1,1,15,2,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,22,3,1,7,3,1,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,22,0,1,7,0,1,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,22,17,3,7,5,2,15,12,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,22,2,3,7,0,2,15,2,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,22,15,2,7,2,1,15,13,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,22,1,2,7,0,1,15,1,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,22,4,2,7,4,1,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,22,16,3,7,3,2,15,13,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,22,3,3,7,2,2,15,1,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,22,19,3,7,5,2,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,22,17,3,7,5,2,15,12,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,22,2,3,7,0,2,15,2,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,22,15,3,7,2,2,15,13,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,22,4,3,7,3,2,15,1,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,22,16,3,7,2,2,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,22,3,3,7,3,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,22,0,3,7,0,2,15,0,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,22,20,1,7,6,1,15,14,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,22,1,1,7,0,1,15,1,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,22,21,1,7,6,1,15,15,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,22,0,1,7,0,1,15,0,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,22,19,3,7,5,2,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,22,19,3,7,5,2,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,22,19,3,7,5,2,15,14,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,22,21,1,7,6,1,15,15,0,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,22,13,9,7,5,2,15,8,7,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,22,13,9,7,5,2,15,8,7,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,22,11,9,7,4,3,15,7,6,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,22,2,9,7,0,3,15,2,6,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,22,17,2,7,4,1,15,13,1,0
+Castro County,11/4/2014,General Election,3,2,105,3,2,72,0.31,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,22,3,2,7,2,1,15,1,1,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,2,2,Straight Party,,1,1,Republican,C,1,REP,180,31,103,93,13,59,87,18,44,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,2,2,Straight Party,,1,2,Democratic,C,2,DEM,180,44,103,93,19,59,87,25,44,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,180,0,103,93,0,59,87,0,44,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,2,2,Straight Party,,1,4,Green,C,4,GRN,180,2,103,93,2,59,87,0,44,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,180,100,20,93,53,12,87,47,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,180,53,20,93,24,12,87,29,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,180,1,20,93,1,12,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,180,6,20,93,3,12,87,3,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,180,0,20,93,0,12,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,180,106,23,93,55,15,87,51,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,180,49,23,93,21,15,87,28,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,180,1,23,93,1,15,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,180,1,23,93,1,15,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,5,5,Governor,,1,1,Greg Abbott,C,1,REP,180,102,17,93,52,11,87,50,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,180,57,17,93,27,11,87,30,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,180,2,17,93,1,11,87,1,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,180,1,17,93,1,11,87,0,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,180,1,17,93,1,11,87,0,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,180,98,19,93,51,12,87,47,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,180,57,19,93,26,12,87,31,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,180,3,19,93,2,12,87,1,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,180,3,19,93,2,12,87,1,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,180,89,21,93,48,13,87,41,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,180,63,21,93,29,13,87,34,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,180,5,21,93,1,13,87,4,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,180,2,21,93,2,13,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,180,84,20,93,40,13,87,44,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,180,67,20,93,35,13,87,32,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,180,6,20,93,2,13,87,4,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,180,3,20,93,3,13,87,0,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,180,96,19,93,47,13,87,49,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,180,58,19,93,29,13,87,29,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,180,4,19,93,2,13,87,2,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,180,3,19,93,2,13,87,1,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,180,91,21,93,44,14,87,47,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,180,65,21,93,32,14,87,33,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,180,1,21,93,1,14,87,0,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,180,2,21,93,2,14,87,0,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,180,88,20,93,46,13,87,42,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,180,63,20,93,30,13,87,33,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,180,5,20,93,3,13,87,2,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,180,4,20,93,1,13,87,3,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,180,90,21,93,45,14,87,45,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,180,66,21,93,32,14,87,34,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,180,3,21,93,2,14,87,1,7,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,180,93,23,93,46,15,87,47,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,180,62,23,93,30,15,87,32,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,180,2,23,93,2,15,87,0,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,180,91,19,93,46,13,87,45,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,180,65,19,93,30,13,87,35,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,180,3,19,93,2,13,87,1,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,180,2,19,93,2,13,87,0,6,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,180,98,61,93,53,30,87,45,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,180,9,61,93,3,30,87,6,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,180,12,61,93,7,30,87,5,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,180,89,23,93,45,15,87,44,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,180,62,23,93,30,15,87,32,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,180,6,23,93,3,15,87,3,8,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,180,94,60,93,50,30,87,44,30,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,180,16,60,93,7,30,87,9,30,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,180,10,60,93,6,30,87,4,30,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,180,99,61,93,52,30,87,47,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,180,12,61,93,6,30,87,6,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,180,8,61,93,5,30,87,3,31,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,180,103,61,93,52,33,87,51,28,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,180,16,61,93,8,33,87,8,28,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,180,99,64,93,52,30,87,47,34,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,180,17,64,93,11,30,87,6,34,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,180,111,69,93,56,37,87,55,32,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,180,120,60,93,62,31,87,58,29,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,180,110,70,93,59,34,87,51,36,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,180,118,62,93,63,30,87,55,32,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,180,132,48,93,67,26,87,65,22,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,180,118,62,93,61,32,87,57,30,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,180,110,32,93,53,17,87,57,15,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,180,38,32,93,23,17,87,15,15,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,28,28,"County Commissioner, Precinct 2",,1,1,Tammy Martin,C,1,REP,180,61,6,93,38,5,87,23,1,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,28,28,"County Commissioner, Precinct 2",,1,2,Timothy Elliott,C,2,DEM,180,113,6,93,50,5,87,63,1,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,180,107,55,93,64,22,87,43,33,0
+Castro County,11/4/2014,General Election,3,2,201,4,3,784,0.23,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,180,18,55,93,7,22,87,11,33,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,2,2,Straight Party,,1,1,Republican,C,1,REP,59,22,33,17,5,9,42,17,24,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,2,2,Straight Party,,1,2,Democratic,C,2,DEM,59,4,33,17,3,9,42,1,24,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,59,0,33,17,0,9,42,0,24,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,2,2,Straight Party,,1,4,Green,C,4,GRN,59,0,33,17,0,9,42,0,24,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,59,46,1,17,11,0,42,35,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,59,8,1,17,5,0,42,3,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,59,4,1,17,1,0,42,3,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,59,0,1,17,0,0,42,0,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,59,0,1,17,0,0,42,0,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,59,49,1,17,11,1,42,38,0,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,59,9,1,17,5,1,42,4,0,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,59,0,1,17,0,1,42,0,0,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,59,0,1,17,0,1,42,0,0,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,5,5,Governor,,1,1,Greg Abbott,C,1,REP,59,48,2,17,12,1,42,36,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,59,8,2,17,4,1,42,4,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,59,1,2,17,0,1,42,1,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,59,0,2,17,0,1,42,0,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,59,0,2,17,0,1,42,0,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,59,47,3,17,11,1,42,36,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,59,8,3,17,4,1,42,4,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,59,1,3,17,1,1,42,0,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,59,0,3,17,0,1,42,0,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,59,46,4,17,11,1,42,35,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,59,8,4,17,4,1,42,4,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,59,1,4,17,1,1,42,0,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,59,0,4,17,0,1,42,0,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,59,44,3,17,11,0,42,33,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,59,9,3,17,5,0,42,4,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,59,3,3,17,1,0,42,2,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,59,0,3,17,0,0,42,0,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,59,45,1,17,11,0,42,34,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,59,9,1,17,5,0,42,4,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,59,4,1,17,1,0,42,3,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,59,0,1,17,0,0,42,0,1,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,59,44,2,17,10,0,42,34,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,59,10,2,17,5,0,42,5,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,59,1,2,17,1,0,42,0,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,59,2,2,17,1,0,42,1,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,59,45,2,17,10,0,42,35,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,59,10,2,17,6,0,42,4,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,59,2,2,17,1,0,42,1,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,59,0,2,17,0,0,42,0,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,59,44,2,17,11,0,42,33,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,59,8,2,17,5,0,42,3,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,59,5,2,17,1,0,42,4,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,59,44,3,17,11,0,42,33,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,59,9,3,17,5,0,42,4,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,59,3,3,17,1,0,42,2,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,59,45,3,17,11,1,42,34,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,59,7,3,17,4,1,42,3,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,59,4,3,17,1,1,42,3,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,59,0,3,17,0,1,42,0,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,59,46,6,17,11,3,42,35,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,59,3,6,17,1,3,42,2,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,59,4,6,17,2,3,42,2,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,59,45,3,17,11,1,42,34,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,59,7,3,17,4,1,42,3,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,59,4,3,17,1,1,42,3,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,59,42,6,17,9,3,42,33,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,59,9,6,17,3,3,42,6,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,59,2,6,17,2,3,42,0,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,59,48,6,17,12,3,42,36,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,59,4,6,17,1,3,42,3,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,59,1,6,17,1,3,42,0,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,59,44,5,17,11,3,42,33,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,59,10,5,17,3,3,42,7,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,59,47,6,17,12,3,42,35,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,59,6,6,17,2,3,42,4,3,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,59,47,12,17,13,4,42,34,8,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,59,48,11,17,13,4,42,35,7,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,59,49,10,17,13,4,42,36,6,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,59,46,13,17,12,5,42,34,8,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,59,26,33,17,8,9,42,18,24,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,59,22,37,17,8,9,42,14,28,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,59,18,29,17,9,7,42,9,22,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,59,12,29,17,1,7,42,11,22,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,28,28,"County Commissioner, Precinct 2",,1,1,Tammy Martin,C,1,REP,59,42,3,17,11,1,42,31,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,28,28,"County Commissioner, Precinct 2",,1,2,Timothy Elliott,C,2,DEM,59,14,3,17,5,1,42,9,2,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,59,37,6,17,12,2,42,25,4,0
+Castro County,11/4/2014,General Election,3,2,206,3,4,136,0.43,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,59,16,6,17,3,2,42,13,4,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,2,2,Straight Party,,1,1,Republican,C,1,REP,385,84,269,177,33,129,208,51,140,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,2,2,Straight Party,,1,2,Democratic,C,2,DEM,385,28,269,177,14,129,208,14,140,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,385,4,269,177,1,129,208,3,140,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,2,2,Straight Party,,1,4,Green,C,4,GRN,385,0,269,177,0,129,208,0,140,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,385,315,11,177,146,8,208,169,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,385,47,11,177,20,8,208,27,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,385,9,11,177,1,8,208,8,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,385,3,11,177,2,8,208,1,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,385,0,11,177,0,8,208,0,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,385,310,12,177,142,11,208,168,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,385,50,12,177,20,11,208,30,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,385,13,12,177,4,11,208,9,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,385,0,12,177,0,11,208,0,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,5,5,Governor,,1,1,Greg Abbott,C,1,REP,385,310,10,177,142,9,208,168,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,385,61,10,177,26,9,208,35,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,385,3,10,177,0,9,208,3,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,385,1,10,177,0,9,208,1,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,385,0,10,177,0,9,208,0,1,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,385,310,13,177,142,10,208,168,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,385,54,13,177,25,10,208,29,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,385,7,13,177,0,10,208,7,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,385,1,13,177,0,10,208,1,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,385,295,14,177,136,11,208,159,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,385,67,14,177,27,11,208,40,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,385,7,14,177,1,11,208,6,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,385,2,14,177,2,11,208,0,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,385,300,17,177,136,13,208,164,4,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,385,55,17,177,23,13,208,32,4,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,385,10,17,177,3,13,208,7,4,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,385,3,17,177,2,13,208,1,4,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,385,299,16,177,135,13,208,164,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,385,54,16,177,25,13,208,29,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,385,13,16,177,2,13,208,11,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,385,3,16,177,2,13,208,1,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,385,292,19,177,131,14,208,161,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,385,65,19,177,31,14,208,34,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,385,7,19,177,0,14,208,7,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,385,2,19,177,1,14,208,1,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,385,297,18,177,135,15,208,162,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,385,59,18,177,26,15,208,33,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,385,8,18,177,1,15,208,7,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,385,3,18,177,0,15,208,3,3,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,385,290,23,177,133,17,208,157,6,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,385,61,23,177,25,17,208,36,6,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,385,11,23,177,2,17,208,9,6,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,385,299,23,177,136,18,208,163,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,385,53,23,177,21,18,208,32,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,385,10,23,177,2,18,208,8,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,385,296,25,177,131,20,208,165,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,385,51,25,177,23,20,208,28,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,385,12,25,177,2,20,208,10,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,385,1,25,177,1,20,208,0,5,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,385,306,49,177,135,26,208,171,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,385,18,49,177,12,26,208,6,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,385,12,49,177,4,26,208,8,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,385,290,30,177,131,21,208,159,9,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,385,50,30,177,23,21,208,27,9,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,385,15,30,177,2,21,208,13,9,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,385,293,57,177,129,33,208,164,24,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,385,27,57,177,12,33,208,15,24,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,385,8,57,177,3,33,208,5,24,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,385,303,59,177,132,36,208,171,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,385,16,59,177,6,36,208,10,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,385,7,59,177,3,36,208,4,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,385,311,43,177,143,24,208,168,19,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,385,31,43,177,10,24,208,21,19,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,385,325,46,177,148,25,208,177,21,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,385,14,46,177,4,25,208,10,21,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,385,309,76,177,133,44,208,176,32,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,385,329,56,177,146,31,208,183,25,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,385,312,73,177,135,42,208,177,31,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,385,325,60,177,140,37,208,185,23,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,385,266,119,177,115,62,208,151,57,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,385,266,119,177,118,59,208,148,60,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,385,196,89,177,90,38,208,106,51,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,385,93,89,177,42,38,208,51,51,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,385,246,73,177,99,42,208,147,31,0
+Castro County,11/4/2014,General Election,3,2,301,4,5,887,0.43,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,385,66,73,177,36,42,208,30,31,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,2,2,Straight Party,,1,1,Republican,C,1,REP,67,36,27,18,9,7,49,27,20,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,2,2,Straight Party,,1,2,Democratic,C,2,DEM,67,4,27,18,2,7,49,2,20,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,67,0,27,18,0,7,49,0,20,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,2,2,Straight Party,,1,4,Green,C,4,GRN,67,0,27,18,0,7,49,0,20,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,67,57,5,18,13,3,49,44,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,67,4,5,18,2,3,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,67,1,5,18,0,3,49,1,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,67,0,5,18,0,3,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,67,0,5,18,0,3,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,67,57,4,18,15,1,49,42,3,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,67,5,4,18,2,1,49,3,3,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,67,1,4,18,0,1,49,1,3,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,67,0,4,18,0,1,49,0,3,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,5,5,Governor,,1,1,Greg Abbott,C,1,REP,67,59,3,18,14,2,49,45,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,67,5,3,18,2,2,49,3,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,67,0,3,18,0,2,49,0,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,67,0,3,18,0,2,49,0,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,67,0,3,18,0,2,49,0,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,67,61,2,18,15,1,49,46,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,67,4,2,18,2,1,49,2,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,67,0,2,18,0,1,49,0,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,67,0,2,18,0,1,49,0,1,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,67,59,3,18,15,1,49,44,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,67,5,3,18,2,1,49,3,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,67,57,3,18,15,1,49,42,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,67,5,3,18,2,1,49,3,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,67,2,3,18,0,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,67,58,3,18,15,1,49,43,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,67,4,3,18,2,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,67,2,3,18,0,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,67,58,3,18,15,1,49,43,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,67,4,3,18,2,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,67,1,3,18,0,1,49,1,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,67,1,3,18,0,1,49,1,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,67,56,3,18,15,1,49,41,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,67,6,3,18,2,1,49,4,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,67,2,3,18,0,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,67,59,3,18,15,1,49,44,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,67,4,3,18,2,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,67,1,3,18,0,1,49,1,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,67,59,3,18,15,1,49,44,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,67,5,3,18,2,1,49,3,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,67,59,3,18,15,1,49,44,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,67,4,3,18,2,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,67,1,3,18,0,1,49,1,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,67,59,7,18,15,3,49,44,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,67,0,7,18,0,3,49,0,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,67,1,7,18,0,3,49,1,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,67,60,3,18,15,1,49,45,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,67,4,3,18,2,1,49,2,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,67,0,3,18,0,1,49,0,2,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,67,58,7,18,15,3,49,43,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,67,2,7,18,0,3,49,2,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,67,0,7,18,0,3,49,0,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,67,59,7,18,15,3,49,44,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,67,1,7,18,0,3,49,1,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,67,0,7,18,0,3,49,0,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,67,61,6,18,16,2,49,45,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,67,0,6,18,0,2,49,0,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,67,59,7,18,15,3,49,44,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,67,1,7,18,0,3,49,1,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,67,60,7,18,15,3,49,45,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,67,60,5,18,15,1,49,45,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,67,60,7,18,15,3,49,45,4,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,67,58,9,18,14,4,49,44,5,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,67,24,43,18,7,11,49,17,32,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,67,23,44,18,7,11,49,16,33,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,67,18,40,18,7,11,49,11,29,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,67,9,40,18,0,11,49,9,29,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,67,39,19,18,10,3,49,29,16,0
+Castro County,11/4/2014,General Election,3,2,307,3,6,235,0.29,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,67,9,19,18,5,3,49,4,16,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,2,2,Straight Party,,1,1,Republican,C,1,REP,94,19,61,37,5,21,57,14,40,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,2,2,Straight Party,,1,2,Democratic,C,2,DEM,94,13,61,37,10,21,57,3,40,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,94,1,61,37,1,21,57,0,40,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,2,2,Straight Party,,1,4,Green,C,4,GRN,94,0,61,37,0,21,57,0,40,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,94,54,5,37,20,1,57,34,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,94,30,5,37,13,1,57,17,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,94,1,5,37,1,1,57,0,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,94,4,5,37,2,1,57,2,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,94,0,5,37,0,1,57,0,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,94,58,6,37,23,2,57,35,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,94,28,6,37,11,2,57,17,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,94,2,6,37,1,2,57,1,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,94,0,6,37,0,2,57,0,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,5,5,Governor,,1,1,Greg Abbott,C,1,REP,94,60,5,37,22,4,57,38,1,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,94,26,5,37,11,4,57,15,1,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,94,1,5,37,0,4,57,1,1,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,94,2,5,37,0,4,57,2,1,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,94,0,5,37,0,4,57,0,1,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,94,57,7,37,21,5,57,36,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,94,27,7,37,9,5,57,18,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,94,3,7,37,2,5,57,1,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,94,0,7,37,0,5,57,0,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,94,48,8,37,16,6,57,32,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,94,35,8,37,14,6,57,21,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,94,3,8,37,1,6,57,2,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,94,0,8,37,0,6,57,0,2,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,94,44,8,37,16,4,57,28,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,94,37,8,37,15,4,57,22,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,94,4,8,37,2,4,57,2,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,94,1,8,37,0,4,57,1,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,94,54,7,37,19,4,57,35,3,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,94,33,7,37,14,4,57,19,3,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,94,0,7,37,0,4,57,0,3,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,94,0,7,37,0,4,57,0,3,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,94,46,8,37,15,4,57,31,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,94,39,8,37,17,4,57,22,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,94,1,8,37,1,4,57,0,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,94,0,8,37,0,4,57,0,4,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,94,43,9,37,16,4,57,27,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,94,36,9,37,16,4,57,20,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,94,2,9,37,1,4,57,1,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,94,4,9,37,0,4,57,4,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,94,46,10,37,17,5,57,29,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,94,35,10,37,13,5,57,22,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,94,3,10,37,2,5,57,1,5,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,94,48,10,37,18,4,57,30,6,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,94,33,10,37,13,4,57,20,6,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,94,3,10,37,2,4,57,1,6,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,94,48,12,37,18,5,57,30,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,94,32,12,37,12,5,57,20,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,94,2,12,37,2,5,57,0,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,94,0,12,37,0,5,57,0,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,94,55,26,37,18,14,57,37,12,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,94,9,26,37,3,14,57,6,12,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,94,4,26,37,2,14,57,2,12,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,94,43,12,37,16,5,57,27,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,94,33,12,37,13,5,57,20,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,94,6,12,37,3,5,57,3,7,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,94,52,22,37,18,12,57,34,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,94,13,22,37,4,12,57,9,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,94,7,22,37,3,12,57,4,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,94,56,24,37,20,13,57,36,11,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,94,8,24,37,2,13,57,6,11,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,94,6,24,37,2,13,57,4,11,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,94,62,20,37,22,12,57,40,8,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,94,12,20,37,3,12,57,9,8,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,94,60,24,37,20,14,57,40,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,94,10,24,37,3,14,57,7,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,94,64,30,37,23,14,57,41,16,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,94,73,21,37,26,11,57,47,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,94,68,26,37,24,13,57,44,13,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,94,71,23,37,22,15,57,49,8,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,94,66,28,37,25,12,57,41,16,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,94,65,29,37,27,10,57,38,19,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,94,51,17,37,19,5,57,32,12,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,94,25,17,37,12,5,57,13,12,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,29,29,"County Commissioner, Precinct 4",,1,1,Ralph Brockman,C,1,REP,94,69,25,37,22,15,57,47,10,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,94,64,13,37,22,7,57,42,6,0
+Castro County,11/4/2014,General Election,3,2,401,3,7,555,0.17,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,94,17,13,37,8,7,57,9,6,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,2,2,Straight Party,,1,1,Republican,C,1,REP,251,90,156,35,12,23,216,78,133,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,2,2,Straight Party,,1,2,Democratic,C,2,DEM,251,3,156,35,0,23,216,3,133,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,251,2,156,35,0,23,216,2,133,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,2,2,Straight Party,,1,4,Green,C,4,GRN,251,0,156,35,0,23,216,0,133,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,3,3,United States Senator,,1,1,John Cornyn,C,1,REP,251,226,7,35,29,0,216,197,7,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,3,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,251,15,7,35,6,0,216,9,7,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,3,3,United States Senator,,1,3,Rebecca Paddock,C,3,LIB,251,2,7,35,0,0,216,2,7,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,3,3,United States Senator,,1,4,"Emily ""Spicybrown"" Sanchez",C,4,GRN,251,1,7,35,0,0,216,1,7,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,3,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,251,0,7,35,0,0,216,0,7,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,4,4,"United States Representative, District 19",,1,1,Randy Neugebauer,C,1,REP,251,221,6,35,27,0,216,194,6,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,4,4,"United States Representative, District 19",,1,2,Neal Marchbanks,C,2,DEM,251,15,6,35,4,0,216,11,6,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,4,4,"United States Representative, District 19",,1,3,"Richard ""Chip"" Peterson",C,3,LIB,251,9,6,35,4,0,216,5,6,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,4,4,"United States Representative, District 19",,1,5,Donald L. Vance,W,4,,251,0,6,35,0,0,216,0,6,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,5,5,Governor,,1,1,Greg Abbott,C,1,REP,251,231,4,35,32,0,216,199,4,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,5,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,251,13,4,35,3,0,216,10,4,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,5,5,Governor,,1,3,Kathie Glass,C,3,LIB,251,3,4,35,0,0,216,3,4,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,5,5,Governor,,1,4,Brandon Parmer,C,4,GRN,251,0,4,35,0,0,216,0,4,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,5,5,Governor,,1,6,Sarah M. Pavitt,W,5,,251,0,4,35,0,0,216,0,4,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,251,224,8,35,33,0,216,191,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,6,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,251,13,8,35,2,0,216,11,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,6,6,Lieutenant Governor,,1,3,Robert D. Butler,C,3,LIB,251,6,8,35,0,0,216,6,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,6,6,Lieutenant Governor,,1,4,Chandrakantha Courtney,C,4,GRN,251,0,8,35,0,0,216,0,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,251,216,9,35,31,1,216,185,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,7,7,Attorney General,,1,2,Sam Houston,C,2,DEM,251,24,9,35,3,1,216,21,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,7,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,251,2,9,35,0,1,216,2,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,7,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,251,0,9,35,0,1,216,0,8,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,251,207,14,35,28,3,216,179,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,8,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,251,26,14,35,4,3,216,22,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,251,4,14,35,0,3,216,4,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,8,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,251,0,14,35,0,3,216,0,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,251,203,11,35,28,0,216,175,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,9,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,251,25,11,35,5,0,216,20,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,9,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,251,11,11,35,2,0,216,9,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,9,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,251,1,11,35,0,0,216,1,11,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,251,199,14,35,28,0,216,171,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,10,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,251,32,14,35,7,0,216,25,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,10,10,Commissioner of Agriculture,,1,3,"David ""Rocky"" Palmquist",C,3,LIB,251,6,14,35,0,0,216,6,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,10,10,Commissioner of Agriculture,,1,4,Kenneth Kendrick,C,4,GRN,251,0,14,35,0,0,216,0,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,11,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,251,199,14,35,28,0,216,171,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,11,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,251,25,14,35,7,0,216,18,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,11,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,251,10,14,35,0,0,216,10,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,11,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,251,3,14,35,0,0,216,3,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,12,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,251,204,16,35,28,0,216,176,16,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,12,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,251,22,16,35,6,0,216,16,16,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,12,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,251,9,16,35,1,0,216,8,16,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,1,Jeff Brown,C,1,REP,251,213,14,35,28,0,216,185,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,251,20,14,35,6,0,216,14,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,13,13,"Justice, Supreme Court, Place 6, Unexpired Term",,1,3,Mark Ash,C,3,LIB,251,4,14,35,1,0,216,3,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,14,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,251,208,19,35,28,1,216,180,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,14,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,251,18,19,35,6,1,216,12,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,14,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,251,4,19,35,0,1,216,4,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,14,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,251,2,19,35,0,1,216,2,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,15,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,251,212,25,35,30,2,216,182,23,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,15,15,"Justice, Supreme Court, Place 8",,1,2,RS Roberto Koelsch,C,2,LIB,251,8,25,35,1,2,216,7,23,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,15,15,"Justice, Supreme Court, Place 8",,1,3,Jim Chisolm,C,3,GRN,251,6,25,35,2,2,216,4,23,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,REP,251,200,22,35,27,2,216,173,20,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,2,John Granberg,C,2,DEM,251,20,22,35,5,2,216,15,20,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,16,16,"Judge, Court of Criminal Appeals, Place 3",,1,3,Mark W. Bennett,C,3,LIB,251,9,22,35,1,2,216,8,20,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,251,207,20,35,28,2,216,179,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,2,Quanah Parker,C,2,LIB,251,22,20,35,4,2,216,18,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,17,17,"Judge, Court of Criminal Appeals, Place 4",,1,3,Judith Sanders-Castro,C,3,GRN,251,2,20,35,1,2,216,1,18,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,1,REP,251,217,24,35,29,2,216,188,22,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,2,"William Bryan Strange, III",C,2,LIB,251,8,24,35,3,2,216,5,22,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,18,18,"Judge, Court of Criminal Appeals, Place 9",,1,3,George Joseph Altgelt,C,3,GRN,251,2,24,35,1,2,216,1,22,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,19,19,"State Senator, District 31",,1,1,Kel Seliger,C,1,REP,251,212,16,35,26,2,216,186,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,19,19,"State Senator, District 31",,1,2,Steven Gibson,C,2,LIB,251,23,16,35,7,2,216,16,14,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,20,20,"State Representative, District 88",,1,1,Ken King,C,1,REP,251,217,19,35,28,2,216,189,17,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,20,20,"State Representative, District 88",,1,2,Kerry McKennon,C,2,LIB,251,15,19,35,5,2,216,10,17,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,21,21,"Chief Justice, 7th Court of Appeals District",,1,1,Brian Quinn,C,1,REP,251,216,35,35,32,3,216,184,32,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,22,22,"District Judge, 64th Judicial District",,1,1,Rob Kinkaid,C,1,REP,251,223,28,35,32,3,216,191,25,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,23,23,"District Judge, 242nd Judicial District",,1,1,"Lowell ""Kregg"" Hukill",C,1,REP,251,216,35,35,33,2,216,183,33,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,24,24,County Judge,,1,1,Carroll Gerber,C,1,REP,251,237,14,35,33,2,216,204,12,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,251,129,122,35,20,15,216,109,107,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,26,26,County Treasurer,,1,1,Kristen Yorton,C,1,DEM,251,120,131,35,19,16,216,101,115,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,27,27,Justice of the Peace,,1,1,"Oreda ""Jo"" Campbell",C,1,DEM,251,114,120,35,16,15,216,98,105,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,27,27,Justice of the Peace,,1,3,Mary Ewing,W,2,,251,17,120,35,4,15,216,13,105,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,29,29,"County Commissioner, Precinct 4",,1,1,Ralph Brockman,C,1,REP,251,234,17,35,35,0,216,199,17,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,30,30,Proposed Constitutional Amendment No.1,,1,1,For,C,1,,251,166,49,35,27,5,216,139,44,0
+Castro County,11/4/2014,General Election,3,2,408,3,8,539,0.47,30,30,Proposed Constitutional Amendment No.1,,1,2,Against,C,2,,251,36,49,35,3,5,216,33,44,0

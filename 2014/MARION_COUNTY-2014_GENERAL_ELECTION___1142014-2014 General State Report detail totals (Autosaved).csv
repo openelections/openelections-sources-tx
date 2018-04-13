@@ -1,0 +1,675 @@
+political_subdivision,election-date,election-name, ,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,31,2,Straight Party,,1,1,Republican Party,C,1,REP,209,85,63,0,0,0,0,0,90,43,22,0,119,42,41,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,209,58,63,0,0,0,0,0,90,25,22,0,119,33,41,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,209,3,63,0,0,0,0,0,90,0,22,0,119,3,41,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,31,2,Straight Party,,1,4,Green Party,C,4,GRN,209,0,63,0,0,0,0,0,90,0,22,0,119,0,41,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,209,118,12,0,0,0,0,0,90,52,5,0,119,66,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,209,71,12,0,0,0,0,0,90,31,5,0,119,40,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,209,8,12,0,0,0,0,0,90,2,5,0,119,6,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,209,0,12,0,0,0,0,0,90,0,5,0,119,0,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,209,0,12,0,0,0,0,0,90,0,5,0,119,0,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,209,123,86,0,0,0,0,0,90,54,36,0,119,69,50,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,3,5,Governor,,1,1,Greg Abbott,C,1,REP,209,120,8,0,0,0,0,0,90,56,1,0,119,64,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,209,77,8,0,0,0,0,0,90,33,1,0,119,44,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,209,3,8,0,0,0,0,0,90,0,1,0,119,3,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,209,1,8,0,0,0,0,0,90,0,1,0,119,1,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,209,0,8,0,0,0,0,0,90,0,1,0,119,0,7,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,209,122,6,0,0,0,0,0,90,54,2,0,119,68,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,209,75,6,0,0,0,0,0,90,33,2,0,119,42,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,209,6,6,0,0,0,0,0,90,1,2,0,119,5,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,209,0,6,0,0,0,0,0,90,0,2,0,119,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,209,119,7,0,0,0,0,0,90,54,2,0,119,65,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,209,77,7,0,0,0,0,0,90,33,2,0,119,44,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,209,6,7,0,0,0,0,0,90,1,2,0,119,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,209,0,7,0,0,0,0,0,90,0,2,0,119,0,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,209,118,5,0,0,0,0,0,90,53,1,0,119,65,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,209,79,5,0,0,0,0,0,90,35,1,0,119,44,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,209,6,5,0,0,0,0,0,90,1,1,0,119,5,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,209,1,5,0,0,0,0,0,90,0,1,0,119,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,209,119,3,0,0,0,0,0,90,54,1,0,119,65,2,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,209,82,3,0,0,0,0,0,90,35,1,0,119,47,2,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,209,4,3,0,0,0,0,0,90,0,1,0,119,4,2,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,209,1,3,0,0,0,0,0,90,0,1,0,119,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,209,114,4,0,0,0,0,0,90,52,1,0,119,62,3,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,209,80,4,0,0,0,0,0,90,35,1,0,119,45,3,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,209,8,4,0,0,0,0,0,90,2,1,0,119,6,3,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,209,3,4,0,0,0,0,0,90,0,1,0,119,3,3,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,209,117,6,0,0,0,0,0,90,53,2,0,119,64,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,209,79,6,0,0,0,0,0,90,35,2,0,119,44,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,209,6,6,0,0,0,0,0,90,0,2,0,119,6,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,209,1,6,0,0,0,0,0,90,0,2,0,119,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,209,115,8,0,0,0,0,0,90,51,3,0,119,64,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,209,77,8,0,0,0,0,0,90,34,3,0,119,43,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,209,9,8,0,0,0,0,0,90,2,3,0,119,7,5,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,209,116,6,0,0,0,0,0,90,51,2,0,119,65,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,209,78,6,0,0,0,0,0,90,35,2,0,119,43,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,209,9,6,0,0,0,0,0,90,2,2,0,119,7,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,209,111,5,0,0,0,0,0,90,50,1,0,119,61,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,209,84,5,0,0,0,0,0,90,37,1,0,119,47,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,209,9,5,0,0,0,0,0,90,2,1,0,119,7,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,209,0,5,0,0,0,0,0,90,0,1,0,119,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,209,123,66,0,0,0,0,0,90,54,28,0,119,69,38,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,209,15,66,0,0,0,0,0,90,6,28,0,119,9,38,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,209,5,66,0,0,0,0,0,90,2,28,0,119,3,38,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,209,114,5,0,0,0,0,0,90,51,1,0,119,63,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,209,80,5,0,0,0,0,0,90,36,1,0,119,44,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,209,10,5,0,0,0,0,0,90,2,1,0,119,8,4,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,209,118,64,0,0,0,0,0,90,52,27,0,119,66,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,209,19,64,0,0,0,0,0,90,8,27,0,119,11,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,209,8,64,0,0,0,0,0,90,3,27,0,119,5,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,209,122,66,0,0,0,0,0,90,54,29,0,119,68,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,209,16,66,0,0,0,0,0,90,6,29,0,119,10,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,209,5,66,0,0,0,0,0,90,1,29,0,119,4,37,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,209,129,80,0,0,0,0,0,90,58,32,0,119,71,48,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,209,129,80,0,0,0,0,0,90,58,32,0,119,71,48,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,209,135,74,0,0,0,0,0,90,60,30,0,119,75,44,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,209,131,78,0,0,0,0,0,90,59,31,0,119,72,47,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,38,25,PROPOSITION 1,,1,1,For,C,1,,209,103,86,0,0,0,0,0,90,51,31,0,119,52,55,0
+MARION COUNTY,11/4/2014,2014 General Election,1,,1,6,1,1,605,0.35,38,25,PROPOSITION 1,,1,2,Against,C,2,,209,20,86,0,0,0,0,0,90,8,31,0,119,12,55,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,31,2,Straight Party,,1,1,Republican Party,C,1,REP,360,188,127,0,0,0,0,0,129,64,54,0,231,124,73,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,360,45,127,0,0,0,0,0,129,11,54,0,231,34,73,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,360,0,127,0,0,0,0,0,129,0,54,0,231,0,73,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,31,2,Straight Party,,1,4,Green Party,C,4,GRN,360,0,127,0,0,0,0,0,129,0,54,0,231,0,73,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,360,271,9,0,0,0,0,0,129,99,5,0,231,172,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,360,74,9,0,0,0,0,0,129,24,5,0,231,50,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,360,5,9,0,0,0,0,0,129,1,5,0,231,4,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,360,1,9,0,0,0,0,0,129,0,5,0,231,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,360,0,9,0,0,0,0,0,129,0,5,0,231,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,360,282,78,0,0,0,0,0,129,103,26,0,231,179,52,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,3,5,Governor,,1,1,Greg Abbott,C,1,REP,360,268,7,0,0,0,0,0,129,98,0,0,231,170,7,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,360,81,7,0,0,0,0,0,129,29,0,0,231,52,7,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,360,3,7,0,0,0,0,0,129,1,0,0,231,2,7,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,360,1,7,0,0,0,0,0,129,1,0,0,231,0,7,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,360,0,7,0,0,0,0,0,129,0,0,0,231,0,7,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,360,270,5,0,0,0,0,0,129,94,0,0,231,176,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,360,76,5,0,0,0,0,0,129,30,0,0,231,46,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,360,7,5,0,0,0,0,0,129,3,0,0,231,4,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,360,2,5,0,0,0,0,0,129,2,0,0,231,0,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,360,262,4,0,0,0,0,0,129,94,0,0,231,168,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,360,82,4,0,0,0,0,0,129,31,0,0,231,51,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,360,10,4,0,0,0,0,0,129,4,0,0,231,6,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,360,2,4,0,0,0,0,0,129,0,0,0,231,2,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,360,265,4,0,0,0,0,0,129,92,1,0,231,173,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,360,81,4,0,0,0,0,0,129,33,1,0,231,48,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,360,9,4,0,0,0,0,0,129,3,1,0,231,6,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,360,1,4,0,0,0,0,0,129,0,1,0,231,1,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,360,264,5,0,0,0,0,0,129,95,0,0,231,169,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,360,80,5,0,0,0,0,0,129,30,0,0,231,50,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,360,5,5,0,0,0,0,0,129,3,0,0,231,2,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,360,6,5,0,0,0,0,0,129,1,0,0,231,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,360,260,6,0,0,0,0,0,129,94,1,0,231,166,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,360,81,6,0,0,0,0,0,129,29,1,0,231,52,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,360,9,6,0,0,0,0,0,129,4,1,0,231,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,360,4,6,0,0,0,0,0,129,1,1,0,231,3,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,360,268,6,0,0,0,0,0,129,95,1,0,231,173,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,360,75,6,0,0,0,0,0,129,28,1,0,231,47,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,360,8,6,0,0,0,0,0,129,3,1,0,231,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,360,3,6,0,0,0,0,0,129,2,1,0,231,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,360,261,4,0,0,0,0,0,129,91,0,0,231,170,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,360,86,4,0,0,0,0,0,129,34,0,0,231,52,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,360,9,4,0,0,0,0,0,129,4,0,0,231,5,4,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,360,268,2,0,0,0,0,0,129,95,0,0,231,173,2,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,360,77,2,0,0,0,0,0,129,28,0,0,231,49,2,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,360,13,2,0,0,0,0,0,129,6,0,0,231,7,2,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,360,269,5,0,0,0,0,0,129,95,0,0,231,174,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,360,74,5,0,0,0,0,0,129,29,0,0,231,45,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,360,10,5,0,0,0,0,0,129,4,0,0,231,6,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,360,2,5,0,0,0,0,0,129,1,0,0,231,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,360,280,49,0,0,0,0,0,129,101,16,0,231,179,33,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,360,17,49,0,0,0,0,0,129,8,16,0,231,9,33,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,360,14,49,0,0,0,0,0,129,4,16,0,231,10,33,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,360,272,3,0,0,0,0,0,129,96,0,0,231,176,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,360,77,3,0,0,0,0,0,129,30,0,0,231,47,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,360,8,3,0,0,0,0,0,129,3,0,0,231,5,3,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,360,278,43,0,0,0,0,0,129,100,14,0,231,178,29,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,360,25,43,0,0,0,0,0,129,9,14,0,231,16,29,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,360,14,43,0,0,0,0,0,129,6,14,0,231,8,29,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,360,287,44,0,0,0,0,0,129,104,14,0,231,183,30,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,360,18,44,0,0,0,0,0,129,7,14,0,231,11,30,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,360,11,44,0,0,0,0,0,129,4,14,0,231,7,30,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,360,296,64,0,0,0,0,0,129,106,23,0,231,190,41,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,360,290,70,0,0,0,0,0,129,106,23,0,231,184,47,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,360,294,66,0,0,0,0,0,129,107,22,0,231,187,44,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,360,293,67,0,0,0,0,0,129,107,22,0,231,186,45,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,38,25,PROPOSITION 1,,1,1,For,C,1,,360,190,104,0,0,0,0,0,129,75,28,0,231,115,76,0
+MARION COUNTY,11/4/2014,2014 General Election,2,,1,6,2,2,1155,0.31,38,25,PROPOSITION 1,,1,2,Against,C,2,,360,66,104,0,0,0,0,0,129,26,28,0,231,40,76,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,31,2,Straight Party,,1,1,Republican Party,C,1,REP,190,95,67,0,0,0,0,0,72,37,21,0,118,58,46,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,190,26,67,0,0,0,0,0,72,13,21,0,118,13,46,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,190,0,67,0,0,0,0,0,72,0,21,0,118,0,46,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,31,2,Straight Party,,1,4,Green Party,C,4,GRN,190,2,67,0,0,0,0,0,72,1,21,0,118,1,46,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,190,133,4,0,0,0,0,0,72,49,0,0,118,84,4,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,190,45,4,0,0,0,0,0,72,22,0,0,118,23,4,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,190,7,4,0,0,0,0,0,72,1,0,0,118,6,4,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,190,1,4,0,0,0,0,0,72,0,0,0,118,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,190,0,4,0,0,0,0,0,72,0,0,0,118,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,190,144,46,0,0,0,0,0,72,51,21,0,118,93,25,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,3,5,Governor,,1,1,Greg Abbott,C,1,REP,190,144,0,0,0,0,0,0,72,51,0,0,118,93,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,190,45,0,0,0,0,0,0,72,21,0,0,118,24,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,190,0,0,0,0,0,0,0,72,0,0,0,118,0,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,190,1,0,0,0,0,0,0,72,0,0,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,190,0,0,0,0,0,0,0,72,0,0,0,118,0,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,190,142,0,0,0,0,0,0,72,51,0,0,118,91,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,190,46,0,0,0,0,0,0,72,21,0,0,118,25,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,190,1,0,0,0,0,0,0,72,0,0,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,190,1,0,0,0,0,0,0,72,0,0,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,190,140,1,0,0,0,0,0,72,49,1,0,118,91,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,190,48,1,0,0,0,0,0,72,22,1,0,118,26,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,190,0,1,0,0,0,0,0,72,0,1,0,118,0,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,190,1,1,0,0,0,0,0,72,0,1,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,190,139,2,0,0,0,0,0,72,48,2,0,118,91,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,190,45,2,0,0,0,0,0,72,21,2,0,118,24,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,190,2,2,0,0,0,0,0,72,1,2,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,190,2,2,0,0,0,0,0,72,0,2,0,118,2,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,190,139,0,0,0,0,0,0,72,50,0,0,118,89,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,190,46,0,0,0,0,0,0,72,21,0,0,118,25,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,190,4,0,0,0,0,0,0,72,1,0,0,118,3,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,190,1,0,0,0,0,0,0,72,0,0,0,118,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,190,140,2,0,0,0,0,0,72,49,1,0,118,91,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,190,44,2,0,0,0,0,0,72,20,1,0,118,24,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,190,1,2,0,0,0,0,0,72,0,1,0,118,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,190,3,2,0,0,0,0,0,72,2,1,0,118,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,190,136,2,0,0,0,0,0,72,49,1,0,118,87,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,190,48,2,0,0,0,0,0,72,22,1,0,118,26,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,190,2,2,0,0,0,0,0,72,0,1,0,118,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,190,2,2,0,0,0,0,0,72,0,1,0,118,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,190,146,1,0,0,0,0,0,72,52,0,0,118,94,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,190,43,1,0,0,0,0,0,72,20,0,0,118,23,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,190,0,1,0,0,0,0,0,72,0,0,0,118,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,190,144,3,0,0,0,0,0,72,52,0,0,118,92,3,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,190,42,3,0,0,0,0,0,72,20,0,0,118,22,3,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,190,1,3,0,0,0,0,0,72,0,0,0,118,1,3,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,190,141,2,0,0,0,0,0,72,49,0,0,118,92,2,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,190,44,2,0,0,0,0,0,72,22,0,0,118,22,2,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,190,2,2,0,0,0,0,0,72,1,0,0,118,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,190,1,2,0,0,0,0,0,72,0,0,0,118,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,190,148,30,0,0,0,0,0,72,52,15,0,118,96,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,190,4,30,0,0,0,0,0,72,2,15,0,118,2,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,190,8,30,0,0,0,0,0,72,3,15,0,118,5,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,190,138,6,0,0,0,0,0,72,50,1,0,118,88,5,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,190,43,6,0,0,0,0,0,72,20,1,0,118,23,5,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,190,3,6,0,0,0,0,0,72,1,1,0,118,2,5,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,190,147,29,0,0,0,0,0,72,53,15,0,118,94,14,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,190,8,29,0,0,0,0,0,72,2,15,0,118,6,14,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,190,6,29,0,0,0,0,0,72,2,15,0,118,4,14,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,190,148,30,0,0,0,0,0,72,53,15,0,118,95,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,190,7,30,0,0,0,0,0,72,3,15,0,118,4,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,190,5,30,0,0,0,0,0,72,1,15,0,118,4,15,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,190,149,41,0,0,0,0,0,72,52,20,0,118,97,21,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,190,149,41,0,0,0,0,0,72,52,20,0,118,97,21,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,190,151,39,0,0,0,0,0,72,54,18,0,118,97,21,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,190,151,39,0,0,0,0,0,72,52,20,0,118,99,19,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,38,25,PROPOSITION 1,,1,1,For,C,1,,190,105,53,0,0,0,0,0,72,45,18,0,118,60,35,0
+MARION COUNTY,11/4/2014,2014 General Election,3,,1,4,3,3,544,0.35,38,25,PROPOSITION 1,,1,2,Against,C,2,,190,32,53,0,0,0,0,0,72,9,18,0,118,23,35,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,31,2,Straight Party,,1,1,Republican Party,C,1,REP,173,82,67,0,0,0,0,0,88,43,36,0,85,39,31,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,173,24,67,0,0,0,0,0,88,9,36,0,85,15,31,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,173,0,67,0,0,0,0,0,88,0,36,0,85,0,31,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,31,2,Straight Party,,1,4,Green Party,C,4,GRN,173,0,67,0,0,0,0,0,88,0,36,0,85,0,31,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,173,125,8,0,0,0,0,0,88,66,6,0,85,59,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,173,35,8,0,0,0,0,0,88,13,6,0,85,22,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,173,3,8,0,0,0,0,0,88,2,6,0,85,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,173,2,8,0,0,0,0,0,88,1,6,0,85,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,173,0,8,0,0,0,0,0,88,0,6,0,85,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,173,130,43,0,0,0,0,0,88,70,18,0,85,60,25,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,3,5,Governor,,1,1,Greg Abbott,C,1,REP,173,124,3,0,0,0,0,0,88,68,0,0,85,56,3,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,173,41,3,0,0,0,0,0,88,17,0,0,85,24,3,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,173,2,3,0,0,0,0,0,88,1,0,0,85,1,3,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,173,3,3,0,0,0,0,0,88,2,0,0,85,1,3,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,173,0,3,0,0,0,0,0,88,0,0,0,85,0,3,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,173,129,1,0,0,0,0,0,88,68,1,0,85,61,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,173,39,1,0,0,0,0,0,88,16,1,0,85,23,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,173,2,1,0,0,0,0,0,88,2,1,0,85,0,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,173,2,1,0,0,0,0,0,88,1,1,0,85,1,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,173,121,3,0,0,0,0,0,88,66,2,0,85,55,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,173,47,3,0,0,0,0,0,88,19,2,0,85,28,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,173,1,3,0,0,0,0,0,88,1,2,0,85,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,173,1,3,0,0,0,0,0,88,0,2,0,85,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,173,123,4,0,0,0,0,0,88,67,2,0,85,56,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,173,43,4,0,0,0,0,0,88,18,2,0,85,25,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,173,1,4,0,0,0,0,0,88,0,2,0,85,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,173,2,4,0,0,0,0,0,88,1,2,0,85,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,173,127,4,0,0,0,0,0,88,67,2,0,85,60,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,173,38,4,0,0,0,0,0,88,18,2,0,85,20,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,173,2,4,0,0,0,0,0,88,1,2,0,85,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,173,2,4,0,0,0,0,0,88,0,2,0,85,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,173,121,4,0,0,0,0,0,88,64,3,0,85,57,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,173,43,4,0,0,0,0,0,88,19,3,0,85,24,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,173,0,4,0,0,0,0,0,88,0,3,0,85,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,173,5,4,0,0,0,0,0,88,2,3,0,85,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,173,120,7,0,0,0,0,0,88,62,5,0,85,58,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,173,41,7,0,0,0,0,0,88,18,5,0,85,23,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,173,1,7,0,0,0,0,0,88,1,5,0,85,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,173,4,7,0,0,0,0,0,88,2,5,0,85,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,173,126,4,0,0,0,0,0,88,66,3,0,85,60,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,173,43,4,0,0,0,0,0,88,19,3,0,85,24,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,173,0,4,0,0,0,0,0,88,0,3,0,85,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,173,123,4,0,0,0,0,0,88,65,3,0,85,58,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,173,42,4,0,0,0,0,0,88,17,3,0,85,25,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,173,4,4,0,0,0,0,0,88,3,3,0,85,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,173,128,5,0,0,0,0,0,88,68,4,0,85,60,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,173,37,5,0,0,0,0,0,88,14,4,0,85,23,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,173,1,5,0,0,0,0,0,88,1,4,0,85,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,173,2,5,0,0,0,0,0,88,1,4,0,85,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,173,128,24,0,0,0,0,0,88,68,10,0,85,60,14,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,173,9,24,0,0,0,0,0,88,4,10,0,85,5,14,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,173,12,24,0,0,0,0,0,88,6,10,0,85,6,14,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,173,125,4,0,0,0,0,0,88,67,4,0,85,58,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,173,42,4,0,0,0,0,0,88,17,4,0,85,25,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,173,2,4,0,0,0,0,0,88,0,4,0,85,2,0,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,173,125,25,0,0,0,0,0,88,68,10,0,85,57,15,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,173,13,25,0,0,0,0,0,88,5,10,0,85,8,15,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,173,10,25,0,0,0,0,0,88,5,10,0,85,5,15,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,173,128,27,0,0,0,0,0,88,69,11,0,85,59,16,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,173,9,27,0,0,0,0,0,88,5,11,0,85,4,16,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,173,9,27,0,0,0,0,0,88,3,11,0,85,6,16,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,173,131,42,0,0,0,0,0,88,69,19,0,85,62,23,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,173,133,40,0,0,0,0,0,88,69,19,0,85,64,21,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,173,134,39,0,0,0,0,0,88,70,18,0,85,64,21,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,173,129,44,0,0,0,0,0,88,68,20,0,85,61,24,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,38,25,PROPOSITION 1,,1,1,For,C,1,,173,93,48,0,0,0,0,0,88,49,21,0,85,44,27,0
+MARION COUNTY,11/4/2014,2014 General Election,4,,1,3,4,4,538,0.32,38,25,PROPOSITION 1,,1,2,Against,C,2,,173,32,48,0,0,0,0,0,88,18,21,0,85,14,27,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,31,2,Straight Party,,1,1,Republican Party,C,1,REP,216,100,79,0,0,0,0,0,99,48,38,0,117,52,41,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,216,37,79,0,0,0,0,0,99,13,38,0,117,24,41,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,216,0,79,0,0,0,0,0,99,0,38,0,117,0,41,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,31,2,Straight Party,,1,4,Green Party,C,4,GRN,216,0,79,0,0,0,0,0,99,0,38,0,117,0,41,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,216,155,6,0,0,0,0,0,99,70,2,0,117,85,4,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,216,50,6,0,0,0,0,0,99,23,2,0,117,27,4,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,216,4,6,0,0,0,0,0,99,3,2,0,117,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,216,1,6,0,0,0,0,0,99,1,2,0,117,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,216,0,6,0,0,0,0,0,99,0,2,0,117,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,216,155,61,0,0,0,0,0,99,69,30,0,117,86,31,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,3,5,Governor,,1,1,Greg Abbott,C,1,REP,216,160,2,0,0,0,0,0,99,73,1,0,117,87,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,216,53,2,0,0,0,0,0,99,25,1,0,117,28,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,216,1,2,0,0,0,0,0,99,0,1,0,117,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,216,0,2,0,0,0,0,0,99,0,1,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,216,0,2,0,0,0,0,0,99,0,1,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,216,158,4,0,0,0,0,0,99,72,3,0,117,86,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,216,54,4,0,0,0,0,0,99,24,3,0,117,30,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,216,0,4,0,0,0,0,0,99,0,3,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,216,0,4,0,0,0,0,0,99,0,3,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,216,155,3,0,0,0,0,0,99,69,2,0,117,86,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,216,57,3,0,0,0,0,0,99,27,2,0,117,30,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,216,1,3,0,0,0,0,0,99,1,2,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,216,0,3,0,0,0,0,0,99,0,2,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,216,154,2,0,0,0,0,0,99,70,1,0,117,84,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,216,53,2,0,0,0,0,0,99,24,1,0,117,29,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,216,7,2,0,0,0,0,0,99,4,1,0,117,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,216,0,2,0,0,0,0,0,99,0,1,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,216,156,2,0,0,0,0,0,99,71,1,0,117,85,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,216,56,2,0,0,0,0,0,99,25,1,0,117,31,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,216,2,2,0,0,0,0,0,99,2,1,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,216,0,2,0,0,0,0,0,99,0,1,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,216,148,7,0,0,0,0,0,99,65,5,0,117,83,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,216,58,7,0,0,0,0,0,99,26,5,0,117,32,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,216,3,7,0,0,0,0,0,99,3,5,0,117,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,216,0,7,0,0,0,0,0,99,0,5,0,117,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,216,151,3,0,0,0,0,0,99,66,2,0,117,85,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,216,57,3,0,0,0,0,0,99,26,2,0,117,31,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,216,4,3,0,0,0,0,0,99,4,2,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,216,1,3,0,0,0,0,0,99,1,2,0,117,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,216,149,4,0,0,0,0,0,99,65,2,0,117,84,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,216,59,4,0,0,0,0,0,99,29,2,0,117,30,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,216,4,4,0,0,0,0,0,99,3,2,0,117,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,216,154,2,0,0,0,0,0,99,69,1,0,117,85,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,216,55,2,0,0,0,0,0,99,25,1,0,117,30,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,216,5,2,0,0,0,0,0,99,4,1,0,117,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,216,152,5,0,0,0,0,0,99,68,3,0,117,84,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,216,53,5,0,0,0,0,0,99,25,3,0,117,28,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,216,5,5,0,0,0,0,0,99,3,3,0,117,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,216,1,5,0,0,0,0,0,99,0,3,0,117,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,216,156,38,0,0,0,0,0,99,69,14,0,117,87,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,216,13,38,0,0,0,0,0,99,10,14,0,117,3,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,216,9,38,0,0,0,0,0,99,6,14,0,117,3,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,216,151,6,0,0,0,0,0,99,65,4,0,117,86,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,216,55,6,0,0,0,0,0,99,26,4,0,117,29,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,216,4,6,0,0,0,0,0,99,4,4,0,117,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,216,156,40,0,0,0,0,0,99,68,16,0,117,88,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,216,13,40,0,0,0,0,0,99,11,16,0,117,2,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,216,7,40,0,0,0,0,0,99,4,16,0,117,3,24,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,216,156,41,0,0,0,0,0,99,69,16,0,117,87,25,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,216,13,41,0,0,0,0,0,99,10,16,0,117,3,25,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,216,6,41,0,0,0,0,0,99,4,16,0,117,2,25,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,216,164,52,0,0,0,0,0,99,73,26,0,117,91,26,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,216,159,57,0,0,0,0,0,99,69,30,0,117,90,27,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,216,163,53,0,0,0,0,0,99,73,26,0,117,90,27,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,216,161,55,0,0,0,0,0,99,73,26,0,117,88,29,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,38,25,PROPOSITION 1,,1,1,For,C,1,,216,97,73,0,0,0,0,0,99,52,23,0,117,45,50,0
+MARION COUNTY,11/4/2014,2014 General Election,5,,1,4,5,5,723,0.3,38,25,PROPOSITION 1,,1,2,Against,C,2,,216,46,73,0,0,0,0,0,99,24,23,0,117,22,50,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,31,2,Straight Party,,1,1,Republican Party,C,1,REP,310,105,115,0,0,0,0,0,94,43,29,0,216,62,86,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,310,88,115,0,0,0,0,0,94,22,29,0,216,66,86,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,310,1,115,0,0,0,0,0,94,0,29,0,216,1,86,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,31,2,Straight Party,,1,4,Green Party,C,4,GRN,310,1,115,0,0,0,0,0,94,0,29,0,216,1,86,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,310,180,17,0,0,0,0,0,94,61,4,0,216,119,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,310,109,17,0,0,0,0,0,94,27,4,0,216,82,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,310,4,17,0,0,0,0,0,94,2,4,0,216,2,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,310,0,17,0,0,0,0,0,94,0,4,0,216,0,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,310,0,17,0,0,0,0,0,94,0,4,0,216,0,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,310,178,132,0,0,0,0,0,94,58,36,0,216,120,96,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,3,5,Governor,,1,1,Greg Abbott,C,1,REP,310,181,16,0,0,0,0,0,94,60,3,0,216,121,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,310,110,16,0,0,0,0,0,94,30,3,0,216,80,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,310,1,16,0,0,0,0,0,94,1,3,0,216,0,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,310,2,16,0,0,0,0,0,94,0,3,0,216,2,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,310,0,16,0,0,0,0,0,94,0,3,0,216,0,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,310,180,15,0,0,0,0,0,94,61,4,0,216,119,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,310,108,15,0,0,0,0,0,94,27,4,0,216,81,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,310,6,15,0,0,0,0,0,94,2,4,0,216,4,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,310,1,15,0,0,0,0,0,94,0,4,0,216,1,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,310,180,17,0,0,0,0,0,94,61,3,0,216,119,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,310,110,17,0,0,0,0,0,94,29,3,0,216,81,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,310,1,17,0,0,0,0,0,94,1,3,0,216,0,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,310,2,17,0,0,0,0,0,94,0,3,0,216,2,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,310,178,16,0,0,0,0,0,94,62,4,0,216,116,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,310,110,16,0,0,0,0,0,94,27,4,0,216,83,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,310,4,16,0,0,0,0,0,94,1,4,0,216,3,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,310,2,16,0,0,0,0,0,94,0,4,0,216,2,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,310,178,14,0,0,0,0,0,94,60,5,0,216,118,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,310,108,14,0,0,0,0,0,94,26,5,0,216,82,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,310,6,14,0,0,0,0,0,94,2,5,0,216,4,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,310,4,14,0,0,0,0,0,94,1,5,0,216,3,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,310,181,12,0,0,0,0,0,94,63,3,0,216,118,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,310,111,12,0,0,0,0,0,94,27,3,0,216,84,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,310,4,12,0,0,0,0,0,94,1,3,0,216,3,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,310,2,12,0,0,0,0,0,94,0,3,0,216,2,9,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,310,181,16,0,0,0,0,0,94,62,4,0,216,119,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,310,105,16,0,0,0,0,0,94,27,4,0,216,78,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,310,5,16,0,0,0,0,0,94,1,4,0,216,4,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,310,3,16,0,0,0,0,0,94,0,4,0,216,3,12,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,310,180,18,0,0,0,0,0,94,61,4,0,216,119,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,310,107,18,0,0,0,0,0,94,27,4,0,216,80,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,310,5,18,0,0,0,0,0,94,2,4,0,216,3,14,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,310,182,20,0,0,0,0,0,94,61,4,0,216,121,16,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,310,106,20,0,0,0,0,0,94,28,4,0,216,78,16,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,310,2,20,0,0,0,0,0,94,1,4,0,216,1,16,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,310,184,16,0,0,0,0,0,94,63,3,0,216,121,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,310,105,16,0,0,0,0,0,94,27,3,0,216,78,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,310,4,16,0,0,0,0,0,94,1,3,0,216,3,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,310,1,16,0,0,0,0,0,94,0,3,0,216,1,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,310,188,100,0,0,0,0,0,94,63,24,0,216,125,76,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,310,16,100,0,0,0,0,0,94,5,24,0,216,11,76,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,310,6,100,0,0,0,0,0,94,2,24,0,216,4,76,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,310,183,16,0,0,0,0,0,94,62,3,0,216,121,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,310,108,16,0,0,0,0,0,94,28,3,0,216,80,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,310,3,16,0,0,0,0,0,94,1,3,0,216,2,13,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,310,184,99,0,0,0,0,0,94,62,26,0,216,122,73,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,310,20,99,0,0,0,0,0,94,5,26,0,216,15,73,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,310,7,99,0,0,0,0,0,94,1,26,0,216,6,73,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,310,186,101,0,0,0,0,0,94,62,26,0,216,124,75,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,310,19,101,0,0,0,0,0,94,4,26,0,216,15,75,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,310,4,101,0,0,0,0,0,94,2,26,0,216,2,75,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,310,192,118,0,0,0,0,0,94,61,33,0,216,131,85,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,310,188,122,0,0,0,0,0,94,60,34,0,216,128,88,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,310,193,117,0,0,0,0,0,94,64,30,0,216,129,87,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,310,186,124,0,0,0,0,0,94,62,32,0,216,124,92,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,27,23,"Justice of the Peace, Precinct No. 2",,1,1,Carla Biggs Bass,C,1,REP,310,132,13,0,0,0,0,0,94,54,2,0,216,78,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,27,23,"Justice of the Peace, Precinct No. 2",,1,2,JoAnn Nutt,C,2,DEM,310,165,13,0,0,0,0,0,94,38,2,0,216,127,11,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,38,25,PROPOSITION 1,,1,1,For,C,1,,310,141,128,0,0,0,0,0,94,50,35,0,216,91,93,0
+MARION COUNTY,11/4/2014,2014 General Election,6,,1,3,6,6,920,0.34,38,25,PROPOSITION 1,,1,2,Against,C,2,,310,41,128,0,0,0,0,0,94,9,35,0,216,32,93,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,31,2,Straight Party,,1,1,Republican Party,C,1,REP,225,58,60,0,0,0,0,0,107,33,31,0,118,25,29,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,225,107,60,0,0,0,0,0,107,43,31,0,118,64,29,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,225,0,60,0,0,0,0,0,107,0,31,0,118,0,29,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,31,2,Straight Party,,1,4,Green Party,C,4,GRN,225,0,60,0,0,0,0,0,107,0,31,0,118,0,29,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,225,93,7,0,0,0,0,0,107,53,4,0,118,40,3,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,225,123,7,0,0,0,0,0,107,48,4,0,118,75,3,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,225,2,7,0,0,0,0,0,107,2,4,0,118,0,3,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,225,0,7,0,0,0,0,0,107,0,4,0,118,0,3,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,225,0,7,0,0,0,0,0,107,0,4,0,118,0,3,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,225,91,134,0,0,0,0,0,107,56,51,0,118,35,83,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,3,5,Governor,,1,1,Greg Abbott,C,1,REP,225,92,4,0,0,0,0,0,107,55,2,0,118,37,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,225,128,4,0,0,0,0,0,107,49,2,0,118,79,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,225,1,4,0,0,0,0,0,107,1,2,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,225,0,4,0,0,0,0,0,107,0,2,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,225,0,4,0,0,0,0,0,107,0,2,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,225,93,4,0,0,0,0,0,107,54,2,0,118,39,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,225,126,4,0,0,0,0,0,107,49,2,0,118,77,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,225,2,4,0,0,0,0,0,107,2,2,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,225,0,4,0,0,0,0,0,107,0,2,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,225,90,7,0,0,0,0,0,107,53,3,0,118,37,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,225,126,7,0,0,0,0,0,107,49,3,0,118,77,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,225,2,7,0,0,0,0,0,107,2,3,0,118,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,225,0,7,0,0,0,0,0,107,0,3,0,118,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,225,93,5,0,0,0,0,0,107,54,3,0,118,39,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,225,123,5,0,0,0,0,0,107,47,3,0,118,76,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,225,3,5,0,0,0,0,0,107,2,3,0,118,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,225,1,5,0,0,0,0,0,107,1,3,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,225,92,2,0,0,0,0,0,107,55,1,0,118,37,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,225,128,2,0,0,0,0,0,107,49,1,0,118,79,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,225,3,2,0,0,0,0,0,107,2,1,0,118,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,225,0,2,0,0,0,0,0,107,0,1,0,118,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,225,92,4,0,0,0,0,0,107,55,2,0,118,37,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,225,124,4,0,0,0,0,0,107,48,2,0,118,76,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,225,4,4,0,0,0,0,0,107,2,2,0,118,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,225,1,4,0,0,0,0,0,107,0,2,0,118,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,225,92,3,0,0,0,0,0,107,55,1,0,118,37,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,225,125,3,0,0,0,0,0,107,49,1,0,118,76,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,225,5,3,0,0,0,0,0,107,2,1,0,118,3,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,225,0,3,0,0,0,0,0,107,0,1,0,118,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,225,91,5,0,0,0,0,0,107,54,1,0,118,37,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,225,125,5,0,0,0,0,0,107,49,1,0,118,76,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,225,4,5,0,0,0,0,0,107,3,1,0,118,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,225,92,4,0,0,0,0,0,107,55,2,0,118,37,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,225,126,4,0,0,0,0,0,107,48,2,0,118,78,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,225,3,4,0,0,0,0,0,107,2,2,0,118,1,2,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,225,89,6,0,0,0,0,0,107,55,2,0,118,34,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,225,126,6,0,0,0,0,0,107,48,2,0,118,78,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,225,3,6,0,0,0,0,0,107,2,2,0,118,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,225,1,6,0,0,0,0,0,107,0,2,0,118,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,225,91,116,0,0,0,0,0,107,55,46,0,118,36,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,225,16,116,0,0,0,0,0,107,6,46,0,118,10,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,225,2,116,0,0,0,0,0,107,0,46,0,118,2,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,225,90,7,0,0,0,0,0,107,55,2,0,118,35,5,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,225,125,7,0,0,0,0,0,107,48,2,0,118,77,5,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,225,3,7,0,0,0,0,0,107,2,2,0,118,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,225,91,115,0,0,0,0,0,107,55,46,0,118,36,69,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,225,16,115,0,0,0,0,0,107,6,46,0,118,10,69,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,225,3,115,0,0,0,0,0,107,0,46,0,118,3,69,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,225,92,116,0,0,0,0,0,107,56,46,0,118,36,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,225,15,116,0,0,0,0,0,107,5,46,0,118,10,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,225,2,116,0,0,0,0,0,107,0,46,0,118,2,70,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,225,99,126,0,0,0,0,0,107,57,50,0,118,42,76,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,225,99,126,0,0,0,0,0,107,58,49,0,118,41,77,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,225,98,127,0,0,0,0,0,107,58,49,0,118,40,78,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,225,100,125,0,0,0,0,0,107,58,49,0,118,42,76,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,27,23,"Justice of the Peace, Precinct No. 2",,1,1,Carla Biggs Bass,C,1,REP,225,90,1,0,0,0,0,0,107,53,0,0,118,37,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,27,23,"Justice of the Peace, Precinct No. 2",,1,2,JoAnn Nutt,C,2,DEM,225,134,1,0,0,0,0,0,107,54,0,0,118,80,1,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,38,25,PROPOSITION 1,,1,1,For,C,1,,225,95,100,0,0,0,0,0,107,49,42,0,118,46,58,0
+MARION COUNTY,11/4/2014,2014 General Election,7,,1,6,7,7,847,0.27,38,25,PROPOSITION 1,,1,2,Against,C,2,,225,30,100,0,0,0,0,0,107,16,42,0,118,14,58,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,31,2,Straight Party,,1,1,Republican Party,C,1,REP,318,144,118,0,0,0,0,0,174,83,56,0,144,61,62,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,318,55,118,0,0,0,0,0,174,35,56,0,144,20,62,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,318,1,118,0,0,0,0,0,174,0,56,0,144,1,62,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,31,2,Straight Party,,1,4,Green Party,C,4,GRN,318,0,118,0,0,0,0,0,174,0,56,0,144,0,62,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,318,226,12,0,0,0,0,0,174,122,6,0,144,104,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,318,69,12,0,0,0,0,0,174,41,6,0,144,28,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,318,6,12,0,0,0,0,0,174,2,6,0,144,4,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,318,5,12,0,0,0,0,0,174,3,6,0,144,2,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,318,0,12,0,0,0,0,0,174,0,6,0,144,0,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,318,227,91,0,0,0,0,0,174,121,53,0,144,106,38,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,3,5,Governor,,1,1,Greg Abbott,C,1,REP,318,229,5,0,0,0,0,0,174,123,1,0,144,106,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,318,80,5,0,0,0,0,0,174,49,1,0,144,31,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,318,3,5,0,0,0,0,0,174,0,1,0,144,3,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,318,1,5,0,0,0,0,0,174,1,1,0,144,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,318,0,5,0,0,0,0,0,174,0,1,0,144,0,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,318,225,8,0,0,0,0,0,174,123,1,0,144,102,7,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,318,78,8,0,0,0,0,0,174,48,1,0,144,30,7,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,318,6,8,0,0,0,0,0,174,2,1,0,144,4,7,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,318,1,8,0,0,0,0,0,174,0,1,0,144,1,7,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,318,218,6,0,0,0,0,0,174,120,1,0,144,98,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,318,87,6,0,0,0,0,0,174,52,1,0,144,35,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,318,6,6,0,0,0,0,0,174,1,1,0,144,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,318,1,6,0,0,0,0,0,174,0,1,0,144,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,318,219,6,0,0,0,0,0,174,120,1,0,144,99,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,318,80,6,0,0,0,0,0,174,47,1,0,144,33,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,318,9,6,0,0,0,0,0,174,4,1,0,144,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,318,4,6,0,0,0,0,0,174,2,1,0,144,2,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,318,227,8,0,0,0,0,0,174,124,2,0,144,103,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,318,70,8,0,0,0,0,0,174,42,2,0,144,28,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,318,8,8,0,0,0,0,0,174,4,2,0,144,4,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,318,5,8,0,0,0,0,0,174,2,2,0,144,3,6,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,318,221,6,0,0,0,0,0,174,121,1,0,144,100,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,318,79,6,0,0,0,0,0,174,46,1,0,144,33,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,318,10,6,0,0,0,0,0,174,5,1,0,144,5,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,318,2,6,0,0,0,0,0,174,1,1,0,144,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,318,225,5,0,0,0,0,0,174,124,1,0,144,101,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,318,79,5,0,0,0,0,0,174,46,1,0,144,33,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,318,7,5,0,0,0,0,0,174,2,1,0,144,5,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,318,2,5,0,0,0,0,0,174,1,1,0,144,1,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,318,223,8,0,0,0,0,0,174,121,5,0,144,102,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,318,77,8,0,0,0,0,0,174,43,5,0,144,34,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,318,10,8,0,0,0,0,0,174,5,5,0,144,5,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,318,227,6,0,0,0,0,0,174,123,3,0,144,104,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,318,77,6,0,0,0,0,0,174,45,3,0,144,32,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,318,8,6,0,0,0,0,0,174,3,3,0,144,5,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,318,226,5,0,0,0,0,0,174,123,2,0,144,103,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,318,79,5,0,0,0,0,0,174,45,2,0,144,34,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,318,7,5,0,0,0,0,0,174,3,2,0,144,4,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,318,1,5,0,0,0,0,0,174,1,2,0,144,0,3,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,318,232,63,0,0,0,0,0,174,125,36,0,144,107,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,318,10,63,0,0,0,0,0,174,5,36,0,144,5,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,318,13,63,0,0,0,0,0,174,8,36,0,144,5,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,318,223,7,0,0,0,0,0,174,121,3,0,144,102,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,318,76,7,0,0,0,0,0,174,44,3,0,144,32,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,318,12,7,0,0,0,0,0,174,6,3,0,144,6,4,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,318,227,61,0,0,0,0,0,174,123,36,0,144,104,25,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,318,19,61,0,0,0,0,0,174,7,36,0,144,12,25,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,318,11,61,0,0,0,0,0,174,8,36,0,144,3,25,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,318,230,64,0,0,0,0,0,174,126,37,0,144,104,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,318,13,64,0,0,0,0,0,174,4,37,0,144,9,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,318,11,64,0,0,0,0,0,174,7,37,0,144,4,27,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,318,243,75,0,0,0,0,0,174,130,44,0,144,113,31,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,318,238,80,0,0,0,0,0,174,129,45,0,144,109,35,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,318,244,74,0,0,0,0,0,174,131,43,0,144,113,31,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,318,239,79,0,0,0,0,0,174,131,43,0,144,108,36,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,38,25,PROPOSITION 1,,1,1,For,C,1,,318,153,105,0,0,0,0,0,174,91,56,0,144,62,49,0
+MARION COUNTY,11/4/2014,2014 General Election,8,,1,4,8,8,812,0.39,38,25,PROPOSITION 1,,1,2,Against,C,2,,318,60,105,0,0,0,0,0,174,27,56,0,144,33,49,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,31,2,Straight Party,,1,1,Republican Party,C,1,REP,145,70,49,0,0,0,0,0,46,17,17,0,99,53,32,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,145,26,49,0,0,0,0,0,46,12,17,0,99,14,32,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,145,0,49,0,0,0,0,0,46,0,17,0,99,0,32,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,31,2,Straight Party,,1,4,Green Party,C,4,GRN,145,0,49,0,0,0,0,0,46,0,17,0,99,0,32,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,145,101,8,0,0,0,0,0,46,30,2,0,99,71,6,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,145,34,8,0,0,0,0,0,46,14,2,0,99,20,6,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,145,1,8,0,0,0,0,0,46,0,2,0,99,1,6,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,145,1,8,0,0,0,0,0,46,0,2,0,99,1,6,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,145,0,8,0,0,0,0,0,46,0,2,0,99,0,6,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,145,102,43,0,0,0,0,0,46,29,17,0,99,73,26,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,3,5,Governor,,1,1,Greg Abbott,C,1,REP,145,104,1,0,0,0,0,0,46,28,0,0,99,76,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,145,37,1,0,0,0,0,0,46,17,0,0,99,20,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,145,2,1,0,0,0,0,0,46,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,145,1,1,0,0,0,0,0,46,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,145,0,1,0,0,0,0,0,46,0,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,145,104,1,0,0,0,0,0,46,28,0,0,99,76,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,145,35,1,0,0,0,0,0,46,17,0,0,99,18,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,145,4,1,0,0,0,0,0,46,1,0,0,99,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,145,1,1,0,0,0,0,0,46,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,145,100,1,0,0,0,0,0,46,26,0,0,99,74,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,145,41,1,0,0,0,0,0,46,19,0,0,99,22,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,145,2,1,0,0,0,0,0,46,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,145,1,1,0,0,0,0,0,46,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,145,100,1,0,0,0,0,0,46,27,0,0,99,73,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,145,37,1,0,0,0,0,0,46,17,0,0,99,20,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,145,5,1,0,0,0,0,0,46,2,0,0,99,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,145,2,1,0,0,0,0,0,46,0,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,145,105,1,0,0,0,0,0,46,29,0,0,99,76,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,145,36,1,0,0,0,0,0,46,16,0,0,99,20,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,145,1,1,0,0,0,0,0,46,1,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,145,2,1,0,0,0,0,0,46,0,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,145,97,1,0,0,0,0,0,46,28,0,0,99,69,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,145,40,1,0,0,0,0,0,46,17,0,0,99,23,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,145,2,1,0,0,0,0,0,46,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,145,5,1,0,0,0,0,0,46,0,0,0,99,5,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,145,101,1,0,0,0,0,0,46,27,0,0,99,74,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,145,40,1,0,0,0,0,0,46,18,0,0,99,22,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,145,1,1,0,0,0,0,0,46,1,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,145,2,1,0,0,0,0,0,46,0,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,145,100,1,0,0,0,0,0,46,26,0,0,99,74,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,145,41,1,0,0,0,0,0,46,19,0,0,99,22,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,145,3,1,0,0,0,0,0,46,1,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,145,107,1,0,0,0,0,0,46,30,0,0,99,77,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,145,37,1,0,0,0,0,0,46,16,0,0,99,21,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,145,0,1,0,0,0,0,0,46,0,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,145,104,1,0,0,0,0,0,46,29,0,0,99,75,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,145,37,1,0,0,0,0,0,46,16,0,0,99,21,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,145,2,1,0,0,0,0,0,46,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,145,1,1,0,0,0,0,0,46,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,145,107,27,0,0,0,0,0,46,31,13,0,99,76,14,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,145,3,27,0,0,0,0,0,46,0,13,0,99,3,14,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,145,8,27,0,0,0,0,0,46,2,13,0,99,6,14,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,145,105,1,0,0,0,0,0,46,30,0,0,99,75,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,145,37,1,0,0,0,0,0,46,15,0,0,99,22,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,145,2,1,0,0,0,0,0,46,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,145,104,26,0,0,0,0,0,46,30,13,0,99,74,13,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,145,9,26,0,0,0,0,0,46,1,13,0,99,8,13,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,145,6,26,0,0,0,0,0,46,2,13,0,99,4,13,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,145,106,28,0,0,0,0,0,46,31,13,0,99,75,15,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,145,3,28,0,0,0,0,0,46,0,13,0,99,3,15,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,145,8,28,0,0,0,0,0,46,2,13,0,99,6,15,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,145,109,36,0,0,0,0,0,46,31,15,0,99,78,21,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,145,109,36,0,0,0,0,0,46,31,15,0,99,78,21,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,145,107,38,0,0,0,0,0,46,31,15,0,99,76,23,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,145,106,39,0,0,0,0,0,46,30,16,0,99,76,23,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,38,25,PROPOSITION 1,,1,1,For,C,1,,145,66,54,0,0,0,0,0,46,25,15,0,99,41,39,0
+MARION COUNTY,11/4/2014,2014 General Election,9,,1,3,9,9,424,0.34,38,25,PROPOSITION 1,,1,2,Against,C,2,,145,25,54,0,0,0,0,0,46,6,15,0,99,19,39,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,31,2,Straight Party,,1,1,Republican Party,C,1,REP,114,37,38,0,0,0,0,0,15,10,3,0,99,27,35,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,31,2,Straight Party,,1,2,Democratic Party,C,2,DEM,114,39,38,0,0,0,0,0,15,2,3,0,99,37,35,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,31,2,Straight Party,,1,3,Libertarian Party,C,3,LIB,114,0,38,0,0,0,0,0,15,0,3,0,99,0,35,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,31,2,Straight Party,,1,4,Green Party,C,4,GRN,114,0,38,0,0,0,0,0,15,0,3,0,99,0,35,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,32,3,United States Senator,,1,1,John Cornyn,C,1,REP,114,59,5,0,0,0,0,0,15,11,0,0,99,48,5,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,32,3,United States Senator,,1,2,David M. Alameel,C,2,DEM,114,47,5,0,0,0,0,0,15,3,0,0,99,44,5,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,32,3,United States Senator,,1,4,Rebecca Paddock,C,3,LIB,114,2,5,0,0,0,0,0,15,1,0,0,99,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,32,3,United States Senator,,1,3,"Emily ""Spicybrown"" Sanchez",C,4,GRN,114,1,5,0,0,0,0,0,15,0,0,0,99,1,5,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,32,3,United States Senator,,1,6,Mohammed Tahiro,W,5,,114,0,5,0,0,0,0,0,15,0,0,0,99,0,5,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,2,4,"United States Representative, District 4",,1,1,John Ratcliffe,C,1,REP,114,63,51,0,0,0,0,0,15,12,3,0,99,51,48,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,3,5,Governor,,1,1,Greg Abbott,C,1,REP,114,58,1,0,0,0,0,0,15,11,0,0,99,47,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,3,5,Governor,,1,2,Wendy R. Davis,C,2,DEM,114,53,1,0,0,0,0,0,15,4,0,0,99,49,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,3,5,Governor,,1,4,Kathie Glass,C,3,LIB,114,1,1,0,0,0,0,0,15,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,3,5,Governor,,1,3,Brandon Parmer,C,4,GRN,114,1,1,0,0,0,0,0,15,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,3,5,Governor,,1,6,Sarah M. Pavitt,W,5,,114,0,1,0,0,0,0,0,15,0,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,4,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,114,61,1,0,0,0,0,0,15,11,0,0,99,50,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,4,6,Lieutenant Governor,,1,2,Leticia Van de Putte,C,2,DEM,114,50,1,0,0,0,0,0,15,3,0,0,99,47,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,4,6,Lieutenant Governor,,1,4,Robert D. Butler,C,3,LIB,114,2,1,0,0,0,0,0,15,1,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,4,6,Lieutenant Governor,,1,3,Chandrakantha Courtney,C,4,GRN,114,0,1,0,0,0,0,0,15,0,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,5,7,Attorney General,,1,1,Ken Paxton,C,1,REP,114,57,1,0,0,0,0,0,15,11,0,0,99,46,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,5,7,Attorney General,,1,2,Sam Houston,C,2,DEM,114,53,1,0,0,0,0,0,15,4,0,0,99,49,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,5,7,Attorney General,,1,3,Jamie Balagia,C,3,LIB,114,3,1,0,0,0,0,0,15,0,0,0,99,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,5,7,Attorney General,,1,4,Jamar Osborne,C,4,GRN,114,0,1,0,0,0,0,0,15,0,0,0,99,0,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,6,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,114,57,1,0,0,0,0,0,15,11,0,0,99,46,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,6,8,Comptroller of Public Accounts,,1,2,Mike Collier,C,2,DEM,114,51,1,0,0,0,0,0,15,3,0,0,99,48,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,6,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,114,1,1,0,0,0,0,0,15,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,6,8,Comptroller of Public Accounts,,1,4,Deb Shafto,C,4,GRN,114,4,1,0,0,0,0,0,15,1,0,0,99,3,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,7,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,114,58,1,0,0,0,0,0,15,11,0,0,99,47,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,7,9,Commissioner of the General Land Office,,1,2,John Cook,C,2,DEM,114,51,1,0,0,0,0,0,15,3,0,0,99,48,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,7,9,Commissioner of the General Land Office,,1,3,Justin Knight,C,3,LIB,114,1,1,0,0,0,0,0,15,0,0,0,99,1,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,7,9,Commissioner of the General Land Office,,1,4,Valerie Alessi,C,4,GRN,114,3,1,0,0,0,0,0,15,1,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,8,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,114,56,1,0,0,0,0,0,15,11,0,0,99,45,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,8,10,Commissioner of Agriculture,,1,2,Jim Hogan,C,2,DEM,114,50,1,0,0,0,0,0,15,3,0,0,99,47,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,8,10,Commissioner of Agriculture,,1,3,David (Rocky) Palmquist,C,3,LIB,114,5,1,0,0,0,0,0,15,1,0,0,99,4,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,8,10,Commissioner of Agriculture,,1,5,Kenneth Kendrick,C,5,GRN,114,2,1,0,0,0,0,0,15,0,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,9,11,Railroad Commissioner,,1,1,Ryan Sitton,C,1,REP,114,57,2,0,0,0,0,0,15,11,0,0,99,46,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,9,11,Railroad Commissioner,,1,2,Steve Brown,C,2,DEM,114,50,2,0,0,0,0,0,15,3,0,0,99,47,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,9,11,Railroad Commissioner,,1,3,Mark A. Miller,C,3,LIB,114,2,2,0,0,0,0,0,15,0,0,0,99,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,9,11,Railroad Commissioner,,1,4,Martina Salinas,C,4,GRN,114,3,2,0,0,0,0,0,15,1,0,0,99,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,10,12,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,REP,114,57,2,0,0,0,0,0,15,11,0,0,99,46,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,10,12,"Chief Justice, Supreme Court",,1,2,William Moody,C,2,DEM,114,53,2,0,0,0,0,0,15,4,0,0,99,49,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,10,12,"Chief Justice, Supreme Court",,1,3,Tom Oxford,C,3,LIB,114,2,2,0,0,0,0,0,15,0,0,0,99,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,1,REP,114,58,1,0,0,0,0,0,15,11,0,0,99,47,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Lawrence Edward Meyers,C,2,DEM,114,53,1,0,0,0,0,0,15,4,0,0,99,49,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,3,Mark Ash,C,3,LIB,114,2,1,0,0,0,0,0,15,0,0,0,99,2,1,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,11,14,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,REP,114,60,2,0,0,0,0,0,15,12,0,0,99,48,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,11,14,"Justice, Supreme Court, Place 7",,1,2,Gina Benavides,C,2,DEM,114,50,2,0,0,0,0,0,15,3,0,0,99,47,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,11,14,"Justice, Supreme Court, Place 7",,1,3,Don Fulton,C,3,LIB,114,2,2,0,0,0,0,0,15,0,0,0,99,2,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,11,14,"Justice, Supreme Court, Place 7",,1,4,Charles E. Waterbury,C,4,GRN,114,0,2,0,0,0,0,0,15,0,0,0,99,0,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,12,15,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,1,REP,114,59,39,0,0,0,0,0,15,12,2,0,99,47,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,12,15,"Justice, Supreme Court, Place 8",,1,3,RS Roberto Koelsch,C,2,LIB,114,12,39,0,0,0,0,0,15,1,2,0,99,11,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,12,15,"Justice, Supreme Court, Place 8",,1,2,Jim Chisolm,C,3,GRN,114,4,39,0,0,0,0,0,15,0,2,0,99,4,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,13,16,"Judge, Court of Criminal Appeals Place 3",,1,1,Bert Richardson,C,1,REP,114,57,2,0,0,0,0,0,15,11,0,0,99,46,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,13,16,"Judge, Court of Criminal Appeals Place 3",,1,2,John Granberg,C,2,DEM,114,52,2,0,0,0,0,0,15,4,0,0,99,48,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,13,16,"Judge, Court of Criminal Appeals Place 3",,1,3,Mark W. Bennett,C,3,LIB,114,3,2,0,0,0,0,0,15,0,0,0,99,3,2,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,14,17,"Judge, Court of Criminal Appeals Place 4",,1,1,Kevin Patrick Yeary,C,1,REP,114,61,38,0,0,0,0,0,15,12,2,0,99,49,36,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,14,17,"Judge, Court of Criminal Appeals Place 4",,1,2,Quanah Parker,C,2,LIB,114,11,38,0,0,0,0,0,15,0,2,0,99,11,36,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,14,17,"Judge, Court of Criminal Appeals Place 4",,1,4,Judith Sanders-Castro,C,4,GRN,114,4,38,0,0,0,0,0,15,1,2,0,99,3,36,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,15,18,"Judge, Court of Criminal Appeals Place 9",,1,1,David Newell,C,1,REP,114,61,39,0,0,0,0,0,15,12,2,0,99,49,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,15,18,"Judge, Court of Criminal Appeals Place 9",,1,3,"William Bryan Strange, III",C,2,LIB,114,11,39,0,0,0,0,0,15,1,2,0,99,10,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,15,18,"Judge, Court of Criminal Appeals Place 9",,1,2,George Joseph Altgelt,C,3,GRN,114,3,39,0,0,0,0,0,15,0,2,0,99,3,37,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,17,19,"State Representative, District 9",,1,1,Chris Paddie,C,1,REP,114,65,49,0,0,0,0,0,15,12,3,0,99,53,46,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,18,20,"Justice, 6th Court of Appeals District, Place 3",,1,1,Ralph K. Burgess,C,1,REP,114,65,49,0,0,0,0,0,15,12,3,0,99,53,46,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,19,21,"District Judge, 115th Judicial District",,1,1,"Lauren ""Laurie"" Parish",C,1,REP,114,64,50,0,0,0,0,0,15,12,3,0,99,52,47,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,39,22,"District Judge, 276th Judicial District",,1,1,Robert Rolston,C,1,REP,114,65,49,0,0,0,0,0,15,12,3,0,99,53,46,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,38,25,PROPOSITION 1,,1,1,For,C,1,,114,47,41,0,0,0,0,0,15,10,3,0,99,37,38,0
+MARION COUNTY,11/4/2014,2014 General Election,10,,1,3,10,10,479,0.24,38,25,PROPOSITION 1,,1,2,Against,C,2,,114,26,41,0,0,0,0,0,15,2,3,0,99,24,38,0

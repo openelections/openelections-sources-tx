@@ -1,0 +1,526 @@
+political_subdivision,election_date,election_name,Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,4,Reid Reasor,C,1,,381,11,21,0,0,0,0,0,181,3,17,0,200,8,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,8,Steve Stockman,C,2,,381,56,21,0,0,0,0,0,181,24,17,0,200,32,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,6,Ken Cope,C,3,,381,20,21,0,0,0,0,0,181,2,17,0,200,18,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,1,Chris Mapp,C,4,,381,12,21,0,0,0,0,0,181,4,17,0,200,8,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,381,38,21,0,0,0,0,0,181,10,17,0,200,28,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,381,1,21,0,0,0,0,0,181,1,17,0,200,0,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,5,Linda Vega,C,7,,381,16,21,0,0,0,0,0,181,8,17,0,200,8,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,4,4,United States Senator,,1,2,John Cornyn,C,8,,381,206,21,0,0,0,0,0,181,112,17,0,200,94,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,381,261,39,0,0,0,0,0,181,128,20,0,200,133,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,381,81,39,0,0,0,0,0,181,33,20,0,200,48,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,6,6,Governor,,1,2,Greg Abbott,C,1,,381,340,16,0,0,0,0,0,181,158,12,0,200,182,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,6,6,Governor,,1,3,Lisa Fritsch,C,2,,381,15,16,0,0,0,0,0,181,5,12,0,200,10,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,381,2,16,0,0,0,0,0,181,2,12,0,200,0,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,6,6,Governor,,1,1,Miriam Martinez,C,4,,381,7,16,0,0,0,0,0,181,3,12,0,200,4,4,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,381,170,17,0,0,0,0,0,181,84,11,0,200,86,6,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,381,119,17,0,0,0,0,0,181,55,11,0,200,64,6,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,381,43,17,0,0,0,0,0,181,16,11,0,200,27,6,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,381,32,17,0,0,0,0,0,181,15,11,0,200,17,6,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,8,8,Attorney General,,1,3,Ken Paxton,C,1,,381,142,21,0,0,0,0,0,181,63,12,0,200,79,9,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,8,8,Attorney General,,1,2,Dan Branch,C,2,,381,156,21,0,0,0,0,0,181,68,12,0,200,88,9,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,381,62,21,0,0,0,0,0,181,38,12,0,200,24,9,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,381,163,28,0,0,0,0,0,181,77,16,0,200,86,12,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,381,48,28,0,0,0,0,0,181,20,16,0,200,28,12,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,381,128,28,0,0,0,0,0,181,63,16,0,200,65,12,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,381,13,28,0,0,0,0,0,181,4,16,0,200,9,12,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,381,113,28,0,0,0,0,0,181,37,17,0,200,76,11,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,381,239,28,0,0,0,0,0,181,126,17,0,200,113,11,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,381,27,47,0,0,0,0,0,181,12,27,0,200,15,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,381,117,47,0,0,0,0,0,181,57,27,0,200,60,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,381,72,47,0,0,0,0,0,181,33,27,0,200,39,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,381,54,47,0,0,0,0,0,181,26,27,0,200,28,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,381,63,47,0,0,0,0,0,181,25,27,0,200,38,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,381,177,45,0,0,0,0,0,181,82,26,0,200,95,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,381,86,45,0,0,0,0,0,181,41,26,0,200,45,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,381,52,45,0,0,0,0,0,181,22,26,0,200,30,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,381,20,45,0,0,0,0,0,181,9,26,0,200,11,19,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,381,215,49,0,0,0,0,0,181,95,26,0,200,120,23,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,381,116,49,0,0,0,0,0,181,59,26,0,200,57,23,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,381,107,50,0,0,0,0,0,181,43,28,0,200,64,22,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,381,223,50,0,0,0,0,0,181,109,28,0,200,114,22,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,381,297,83,0,0,0,0,0,181,138,42,0,200,159,41,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,381,137,48,0,0,0,0,0,181,59,25,0,200,78,23,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,381,195,48,0,0,0,0,0,181,96,25,0,200,99,23,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,381,225,52,0,0,0,0,0,181,109,27,0,200,116,25,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,381,104,52,0,0,0,0,0,181,45,27,0,200,59,25,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,381,161,63,0,0,0,0,0,181,77,30,0,200,84,33,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,381,114,63,0,0,0,0,0,181,52,30,0,200,62,33,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,381,42,63,0,0,0,0,0,181,21,30,0,200,21,33,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,381,183,65,0,0,0,0,0,181,87,31,0,200,96,34,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,381,132,65,0,0,0,0,0,181,62,31,0,200,70,34,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,381,142,15,0,0,0,0,0,181,62,10,0,200,80,5,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,381,223,15,0,0,0,0,0,181,108,10,0,200,115,5,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,381,296,84,0,0,0,0,0,181,141,39,0,200,155,45,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,381,146,50,0,0,0,0,0,181,61,22,0,200,85,28,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,381,185,50,0,0,0,0,0,181,98,22,0,200,87,28,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,26,27,County Judge,,1,1,Roger Corn,C,1,,381,326,55,0,0,0,0,0,181,152,29,0,200,174,26,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,381,151,41,0,0,0,0,0,181,75,21,0,200,76,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,27,29,District Clerk,,1,2,Angela Owens,C,2,,381,188,41,0,0,0,0,0,181,84,21,0,200,104,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,28,30,County Clerk,,1,1,Donna Bell,C,1,,381,330,50,0,0,0,0,0,181,152,28,0,200,178,22,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,29,31,County Treasurer,,1,1,Jan Windham,C,1,,381,335,46,0,0,0,0,0,181,155,26,0,200,180,20,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,33,35,"Justice of the Peace, Precinct No. 1",,1,1,Alan (Tom) Rumfield,C,1,,381,209,52,0,0,0,0,0,181,94,23,0,200,115,29,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,33,35,"Justice of the Peace, Precinct No. 1",,1,2,Jerome Chaney,C,2,,381,119,52,0,0,0,0,0,181,63,23,0,200,56,29,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,381,260,120,0,0,0,0,0,181,126,54,0,200,134,66,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,81,80,Religious Freedom:,,1,1,YES,C,1,,381,367,6,0,0,0,0,0,181,175,3,0,200,192,3,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,81,80,Religious Freedom:,,1,2,NO,C,2,,381,8,6,0,0,0,0,0,181,3,3,0,200,5,3,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,82,81,Second Amendment:,,1,1,YES,C,1,,381,321,10,0,0,0,0,0,181,141,7,0,200,180,3,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,82,81,Second Amendment:,,1,2,NO,C,2,,381,49,10,0,0,0,0,0,181,32,7,0,200,17,3,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,83,82,Franchise Tax:,,1,1,YES,C,1,,381,318,17,0,0,0,0,0,181,143,7,0,200,175,10,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,83,82,Franchise Tax:,,1,2,NO,C,2,,381,45,17,0,0,0,0,0,181,30,7,0,200,15,10,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,84,83,Welfare Reform:,,1,1,YES,C,1,,381,360,4,0,0,0,0,0,181,168,2,0,200,192,2,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,84,83,Welfare Reform:,,1,2,NO,C,2,,381,16,4,0,0,0,0,0,181,10,2,0,200,6,2,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,381,375,3,0,0,0,0,0,181,178,1,0,200,197,2,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,381,2,3,0,0,0,0,0,181,1,1,0,200,1,2,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,86,85,Obamacare:,,1,1,YES,C,1,,381,349,6,0,0,0,0,0,181,163,3,0,200,186,3,0
+Callahan County,3/4/2014,Republican Primary,1,,1,13,1,1,2208,0.17,86,85,Obamacare:,,1,2,NO,C,2,,381,25,6,0,0,0,0,0,181,14,3,0,200,11,3,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,4,Reid Reasor,C,1,,270,11,16,0,0,0,0,0,113,6,6,0,157,5,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,8,Steve Stockman,C,2,,270,41,16,0,0,0,0,0,113,16,6,0,157,25,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,6,Ken Cope,C,3,,270,14,16,0,0,0,0,0,113,3,6,0,157,11,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,1,Chris Mapp,C,4,,270,2,16,0,0,0,0,0,113,1,6,0,157,1,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,270,29,16,0,0,0,0,0,113,10,6,0,157,19,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,270,2,16,0,0,0,0,0,113,0,6,0,157,2,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,5,Linda Vega,C,7,,270,6,16,0,0,0,0,0,113,3,6,0,157,3,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,4,4,United States Senator,,1,2,John Cornyn,C,8,,270,149,16,0,0,0,0,0,113,68,6,0,157,81,10,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,270,190,23,0,0,0,0,0,113,81,7,0,157,109,16,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,270,57,23,0,0,0,0,0,113,25,7,0,157,32,16,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,6,6,Governor,,1,2,Greg Abbott,C,1,,270,242,4,0,0,0,0,0,113,107,2,0,157,135,2,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,6,6,Governor,,1,3,Lisa Fritsch,C,2,,270,15,4,0,0,0,0,0,113,1,2,0,157,14,2,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,270,4,4,0,0,0,0,0,113,2,2,0,157,2,2,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,6,6,Governor,,1,1,Miriam Martinez,C,4,,270,5,4,0,0,0,0,0,113,1,2,0,157,4,2,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,270,124,9,0,0,0,0,0,113,56,3,0,157,68,6,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,270,86,9,0,0,0,0,0,113,35,3,0,157,51,6,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,270,20,9,0,0,0,0,0,113,6,3,0,157,14,6,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,270,31,9,0,0,0,0,0,113,13,3,0,157,18,6,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,8,8,Attorney General,,1,3,Ken Paxton,C,1,,270,110,16,0,0,0,0,0,113,44,5,0,157,66,11,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,8,8,Attorney General,,1,2,Dan Branch,C,2,,270,93,16,0,0,0,0,0,113,40,5,0,157,53,11,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,270,51,16,0,0,0,0,0,113,24,5,0,157,27,11,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,270,108,21,0,0,0,0,0,113,43,6,0,157,65,15,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,270,36,21,0,0,0,0,0,113,15,6,0,157,21,15,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,270,97,21,0,0,0,0,0,113,47,6,0,157,50,15,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,270,8,21,0,0,0,0,0,113,2,6,0,157,6,15,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,270,90,12,0,0,0,0,0,113,47,4,0,157,43,8,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,270,168,12,0,0,0,0,0,113,62,4,0,157,106,8,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,270,19,30,0,0,0,0,0,113,5,9,0,157,14,21,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,270,99,30,0,0,0,0,0,113,47,9,0,157,52,21,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,270,34,30,0,0,0,0,0,113,13,9,0,157,21,21,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,270,43,30,0,0,0,0,0,113,22,9,0,157,21,21,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,270,45,30,0,0,0,0,0,113,17,9,0,157,28,21,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,270,123,30,0,0,0,0,0,113,55,7,0,157,68,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,270,63,30,0,0,0,0,0,113,29,7,0,157,34,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,270,36,30,0,0,0,0,0,113,17,7,0,157,19,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,270,18,30,0,0,0,0,0,113,5,7,0,157,13,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,270,152,34,0,0,0,0,0,113,63,11,0,157,89,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,270,84,34,0,0,0,0,0,113,39,11,0,157,45,23,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,270,91,35,0,0,0,0,0,113,40,11,0,157,51,24,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,270,144,35,0,0,0,0,0,113,62,11,0,157,82,24,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,270,215,55,0,0,0,0,0,113,97,16,0,157,118,39,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,270,92,36,0,0,0,0,0,113,45,12,0,157,47,24,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,270,142,36,0,0,0,0,0,113,56,12,0,157,86,24,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,270,141,37,0,0,0,0,0,113,64,12,0,157,77,25,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,270,92,37,0,0,0,0,0,113,37,12,0,157,55,25,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,270,117,38,0,0,0,0,0,113,50,11,0,157,67,27,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,270,71,38,0,0,0,0,0,113,34,11,0,157,37,27,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,270,44,38,0,0,0,0,0,113,18,11,0,157,26,27,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,270,126,43,0,0,0,0,0,113,60,15,0,157,66,28,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,270,101,43,0,0,0,0,0,113,38,15,0,157,63,28,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,270,117,16,0,0,0,0,0,113,49,5,0,157,68,11,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,270,137,16,0,0,0,0,0,113,59,5,0,157,78,11,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,270,207,63,0,0,0,0,0,113,95,18,0,157,112,45,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,270,110,34,0,0,0,0,0,113,39,12,0,157,71,22,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,270,126,34,0,0,0,0,0,113,62,12,0,157,64,22,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,26,27,County Judge,,1,1,Roger Corn,C,1,,270,223,47,0,0,0,0,0,113,98,15,0,157,125,32,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,270,109,26,0,0,0,0,0,113,41,10,0,157,68,16,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,27,29,District Clerk,,1,2,Angela Owens,C,2,,270,135,26,0,0,0,0,0,113,62,10,0,157,73,16,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,28,30,County Clerk,,1,1,Donna Bell,C,1,,270,222,48,0,0,0,0,0,113,99,14,0,157,123,34,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,29,31,County Treasurer,,1,1,Jan Windham,C,1,,270,224,46,0,0,0,0,0,113,98,15,0,157,126,31,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,31,33,"County Commissioner, Precinct No. 2",,1,1,Bryan Farmer,C,1,,270,227,43,0,0,0,0,0,113,100,13,0,157,127,30,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,33,35,"Justice of the Peace, Precinct No. 1",,1,1,Alan (Tom) Rumfield,C,1,,270,160,32,0,0,0,0,0,113,58,10,0,157,102,22,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,33,35,"Justice of the Peace, Precinct No. 1",,1,2,Jerome Chaney,C,2,,270,78,32,0,0,0,0,0,113,45,10,0,157,33,22,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,270,206,64,0,0,0,0,0,113,94,19,0,157,112,45,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,81,80,Religious Freedom:,,1,1,YES,C,1,,270,265,3,0,0,0,0,0,113,112,0,0,157,153,3,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,81,80,Religious Freedom:,,1,2,NO,C,2,,270,2,3,0,0,0,0,0,113,1,0,0,157,1,3,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,82,81,Second Amendment:,,1,1,YES,C,1,,270,249,4,0,0,0,0,0,113,102,0,0,157,147,4,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,82,81,Second Amendment:,,1,2,NO,C,2,,270,17,4,0,0,0,0,0,113,11,0,0,157,6,4,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,83,82,Franchise Tax:,,1,1,YES,C,1,,270,234,9,0,0,0,0,0,113,95,2,0,157,139,7,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,83,82,Franchise Tax:,,1,2,NO,C,2,,270,27,9,0,0,0,0,0,113,16,2,0,157,11,7,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,84,83,Welfare Reform:,,1,1,YES,C,1,,270,258,3,0,0,0,0,0,113,112,0,0,157,146,3,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,84,83,Welfare Reform:,,1,2,NO,C,2,,270,9,3,0,0,0,0,0,113,1,0,0,157,8,3,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,270,264,5,0,0,0,0,0,113,111,1,0,157,153,4,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,270,1,5,0,0,0,0,0,113,1,1,0,157,0,4,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,86,85,Obamacare:,,1,1,YES,C,1,,270,255,5,0,0,0,0,0,113,107,0,0,157,148,5,0
+Callahan County,3/4/2014,Republican Primary,2,,1,10,2,2,1792,0.15,86,85,Obamacare:,,1,2,NO,C,2,,270,10,5,0,0,0,0,0,113,6,0,0,157,4,5,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,4,Reid Reasor,C,1,,404,7,20,0,0,0,0,0,207,6,11,0,197,1,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,8,Steve Stockman,C,2,,404,47,20,0,0,0,0,0,207,15,11,0,197,32,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,6,Ken Cope,C,3,,404,16,20,0,0,0,0,0,207,10,11,0,197,6,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,1,Chris Mapp,C,4,,404,7,20,0,0,0,0,0,207,3,11,0,197,4,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,404,38,20,0,0,0,0,0,207,19,11,0,197,19,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,404,3,20,0,0,0,0,0,207,1,11,0,197,2,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,5,Linda Vega,C,7,,404,12,20,0,0,0,0,0,207,5,11,0,197,7,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,4,4,United States Senator,,1,2,John Cornyn,C,8,,404,254,20,0,0,0,0,0,207,137,11,0,197,117,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,404,304,30,0,0,0,0,0,207,156,16,0,197,148,14,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,404,70,30,0,0,0,0,0,207,35,16,0,197,35,14,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,6,6,Governor,,1,2,Greg Abbott,C,1,,404,371,11,0,0,0,0,0,207,187,9,0,197,184,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,6,6,Governor,,1,3,Lisa Fritsch,C,2,,404,19,11,0,0,0,0,0,207,8,9,0,197,11,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,404,1,11,0,0,0,0,0,207,1,9,0,197,0,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,6,6,Governor,,1,1,Miriam Martinez,C,4,,404,2,11,0,0,0,0,0,207,2,9,0,197,0,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,404,205,14,0,0,0,0,0,207,110,11,0,197,95,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,404,101,14,0,0,0,0,0,207,53,11,0,197,48,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,404,47,14,0,0,0,0,0,207,23,11,0,197,24,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,404,37,14,0,0,0,0,0,207,10,11,0,197,27,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,8,8,Attorney General,,1,3,Ken Paxton,C,1,,404,132,28,0,0,0,0,0,207,58,17,0,197,74,11,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,8,8,Attorney General,,1,2,Dan Branch,C,2,,404,170,28,0,0,0,0,0,207,90,17,0,197,80,11,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,404,74,28,0,0,0,0,0,207,42,17,0,197,32,11,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,404,166,36,0,0,0,0,0,207,69,21,0,197,97,15,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,404,53,36,0,0,0,0,0,207,26,21,0,197,27,15,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,404,145,36,0,0,0,0,0,207,89,21,0,197,56,15,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,404,4,36,0,0,0,0,0,207,2,21,0,197,2,15,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,404,84,25,0,0,0,0,0,207,43,13,0,197,41,12,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,404,295,25,0,0,0,0,0,207,151,13,0,197,144,12,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,404,12,49,0,0,0,0,0,207,4,28,0,197,8,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,404,132,49,0,0,0,0,0,207,70,28,0,197,62,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,404,74,49,0,0,0,0,0,207,35,28,0,197,39,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,404,79,49,0,0,0,0,0,207,43,28,0,197,36,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,404,58,49,0,0,0,0,0,207,27,28,0,197,31,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,404,170,53,0,0,0,0,0,207,74,31,0,197,96,22,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,404,100,53,0,0,0,0,0,207,60,31,0,197,40,22,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,404,59,53,0,0,0,0,0,207,33,31,0,197,26,22,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,404,22,53,0,0,0,0,0,207,9,31,0,197,13,22,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,404,225,62,0,0,0,0,0,207,120,36,0,197,105,26,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,404,117,62,0,0,0,0,0,207,51,36,0,197,66,26,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,404,136,63,0,0,0,0,0,207,67,38,0,197,69,25,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,404,205,63,0,0,0,0,0,207,102,38,0,197,103,25,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,404,315,89,0,0,0,0,0,207,151,56,0,197,164,33,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,404,150,75,0,0,0,0,0,207,69,45,0,197,81,30,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,404,179,75,0,0,0,0,0,207,93,45,0,197,86,30,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,404,214,86,0,0,0,0,0,207,110,51,0,197,104,35,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,404,104,86,0,0,0,0,0,207,46,51,0,197,58,35,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,404,153,88,0,0,0,0,0,207,75,51,0,197,78,37,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,404,112,88,0,0,0,0,0,207,58,51,0,197,54,37,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,404,51,88,0,0,0,0,0,207,23,51,0,197,28,37,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,404,202,96,0,0,0,0,0,207,104,56,0,197,98,40,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,404,106,96,0,0,0,0,0,207,47,56,0,197,59,40,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,404,138,13,0,0,0,0,0,207,66,5,0,197,72,8,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,404,253,13,0,0,0,0,0,207,136,5,0,197,117,8,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,404,290,114,0,0,0,0,0,207,142,65,0,197,148,49,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,404,213,59,0,0,0,0,0,207,104,33,0,197,109,26,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,404,132,59,0,0,0,0,0,207,70,33,0,197,62,26,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,26,27,County Judge,,1,1,Roger Corn,C,1,,404,364,40,0,0,0,0,0,207,184,23,0,197,180,17,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,404,219,33,0,0,0,0,0,207,106,17,0,197,113,16,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,27,29,District Clerk,,1,2,Angela Owens,C,2,,404,152,33,0,0,0,0,0,207,84,17,0,197,68,16,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,28,30,County Clerk,,1,1,Donna Bell,C,1,,404,370,34,0,0,0,0,0,207,188,19,0,197,182,15,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,29,31,County Treasurer,,1,1,Jan Windham,C,1,,404,360,44,0,0,0,0,0,207,181,26,0,197,179,18,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,35,37,"Justice of the Peace, Precinct No. 3",,1,1,Steve Odom,C,1,,404,364,40,0,0,0,0,0,207,188,19,0,197,176,21,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,404,293,111,0,0,0,0,0,207,149,58,0,197,144,53,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,81,80,Religious Freedom:,,1,1,YES,C,1,,404,387,8,0,0,0,0,0,207,196,4,0,197,191,4,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,81,80,Religious Freedom:,,1,2,NO,C,2,,404,9,8,0,0,0,0,0,207,7,4,0,197,2,4,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,82,81,Second Amendment:,,1,1,YES,C,1,,404,359,13,0,0,0,0,0,207,187,5,0,197,172,8,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,82,81,Second Amendment:,,1,2,NO,C,2,,404,32,13,0,0,0,0,0,207,15,5,0,197,17,8,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,83,82,Franchise Tax:,,1,1,YES,C,1,,404,330,24,0,0,0,0,0,207,169,15,0,197,161,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,83,82,Franchise Tax:,,1,2,NO,C,2,,404,50,24,0,0,0,0,0,207,23,15,0,197,27,9,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,84,83,Welfare Reform:,,1,1,YES,C,1,,404,389,6,0,0,0,0,0,207,196,3,0,197,193,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,84,83,Welfare Reform:,,1,2,NO,C,2,,404,9,6,0,0,0,0,0,207,8,3,0,197,1,3,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,404,395,6,0,0,0,0,0,207,201,4,0,197,194,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,404,3,6,0,0,0,0,0,207,2,4,0,197,1,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,86,85,Obamacare:,,1,1,YES,C,1,,404,383,4,0,0,0,0,0,207,195,2,0,197,188,2,0
+Callahan County,3/4/2014,Republican Primary,3,,1,10,3,3,1991,0.2,86,85,Obamacare:,,1,2,NO,C,2,,404,17,4,0,0,0,0,0,207,10,2,0,197,7,2,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,4,Reid Reasor,C,1,,363,17,15,0,0,0,0,0,181,8,8,0,182,9,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,8,Steve Stockman,C,2,,363,70,15,0,0,0,0,0,181,31,8,0,182,39,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,6,Ken Cope,C,3,,363,12,15,0,0,0,0,0,181,6,8,0,182,6,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,1,Chris Mapp,C,4,,363,5,15,0,0,0,0,0,181,4,8,0,182,1,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,363,22,15,0,0,0,0,0,181,9,8,0,182,13,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,363,5,15,0,0,0,0,0,181,3,8,0,182,2,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,5,Linda Vega,C,7,,363,11,15,0,0,0,0,0,181,5,8,0,182,6,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,4,4,United States Senator,,1,2,John Cornyn,C,8,,363,206,15,0,0,0,0,0,181,107,8,0,182,99,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,363,249,33,0,0,0,0,0,181,126,17,0,182,123,16,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,363,81,33,0,0,0,0,0,181,38,17,0,182,43,16,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,6,6,Governor,,1,2,Greg Abbott,C,1,,363,340,6,0,0,0,0,0,181,169,3,0,182,171,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,6,6,Governor,,1,3,Lisa Fritsch,C,2,,363,10,6,0,0,0,0,0,181,7,3,0,182,3,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,363,6,6,0,0,0,0,0,181,2,3,0,182,4,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,6,6,Governor,,1,1,Miriam Martinez,C,4,,363,1,6,0,0,0,0,0,181,0,3,0,182,1,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,363,170,14,0,0,0,0,0,181,80,7,0,182,90,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,363,108,14,0,0,0,0,0,181,62,7,0,182,46,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,363,35,14,0,0,0,0,0,181,15,7,0,182,20,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,363,36,14,0,0,0,0,0,181,17,7,0,182,19,7,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,8,8,Attorney General,,1,3,Ken Paxton,C,1,,363,142,20,0,0,0,0,0,181,69,6,0,182,73,14,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,8,8,Attorney General,,1,2,Dan Branch,C,2,,363,133,20,0,0,0,0,0,181,63,6,0,182,70,14,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,363,68,20,0,0,0,0,0,181,43,6,0,182,25,14,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,363,164,30,0,0,0,0,0,181,82,12,0,182,82,18,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,363,32,30,0,0,0,0,0,181,18,12,0,182,14,18,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,363,132,30,0,0,0,0,0,181,66,12,0,182,66,18,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,363,5,30,0,0,0,0,0,181,3,12,0,182,2,18,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,363,103,24,0,0,0,0,0,181,51,12,0,182,52,12,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,363,236,24,0,0,0,0,0,181,118,12,0,182,118,12,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,363,19,50,0,0,0,0,0,181,8,21,0,182,11,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,363,131,50,0,0,0,0,0,181,64,21,0,182,67,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,363,36,50,0,0,0,0,0,181,20,21,0,182,16,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,363,54,50,0,0,0,0,0,181,28,21,0,182,26,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,363,73,50,0,0,0,0,0,181,40,21,0,182,33,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,363,173,50,0,0,0,0,0,181,79,20,0,182,94,30,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,363,75,50,0,0,0,0,0,181,48,20,0,182,27,30,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,363,41,50,0,0,0,0,0,181,17,20,0,182,24,30,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,363,24,50,0,0,0,0,0,181,17,20,0,182,7,30,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,363,203,55,0,0,0,0,0,181,92,26,0,182,111,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,363,105,55,0,0,0,0,0,181,63,26,0,182,42,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,363,101,59,0,0,0,0,0,181,49,27,0,182,52,32,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,363,203,59,0,0,0,0,0,181,105,27,0,182,98,32,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,363,290,73,0,0,0,0,0,181,147,34,0,182,143,39,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,363,118,65,0,0,0,0,0,181,64,26,0,182,54,39,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,363,180,65,0,0,0,0,0,181,91,26,0,182,89,39,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,363,216,69,0,0,0,0,0,181,115,27,0,182,101,42,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,363,78,69,0,0,0,0,0,181,39,27,0,182,39,42,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,363,159,71,0,0,0,0,0,181,82,29,0,182,77,42,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,363,103,71,0,0,0,0,0,181,56,29,0,182,47,42,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,363,30,71,0,0,0,0,0,181,14,29,0,182,16,42,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,363,161,72,0,0,0,0,0,181,78,28,0,182,83,44,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,363,130,72,0,0,0,0,0,181,75,28,0,182,55,44,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,363,156,14,0,0,0,0,0,181,78,5,0,182,78,9,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,363,193,14,0,0,0,0,0,181,98,5,0,182,95,9,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,363,271,92,0,0,0,0,0,181,141,40,0,182,130,52,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,363,132,50,0,0,0,0,0,181,65,21,0,182,67,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,363,181,50,0,0,0,0,0,181,95,21,0,182,86,29,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,26,27,County Judge,,1,1,Roger Corn,C,1,,363,321,42,0,0,0,0,0,181,159,22,0,182,162,20,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,363,165,46,0,0,0,0,0,181,75,25,0,182,90,21,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,27,29,District Clerk,,1,2,Angela Owens,C,2,,363,152,46,0,0,0,0,0,181,81,25,0,182,71,21,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,28,30,County Clerk,,1,1,Donna Bell,C,1,,363,312,51,0,0,0,0,0,181,157,24,0,182,155,27,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,29,31,County Treasurer,,1,1,Jan Windham,C,1,,363,307,56,0,0,0,0,0,181,156,25,0,182,151,31,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,32,34,"County Commissioner, Precinct No. 4",,1,1,Cliff Kirkham,C,1,,363,314,49,0,0,0,0,0,181,154,27,0,182,160,22,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,36,38,"Justice of the Peace, Precinct No. 4",,1,1,Burlie W. Taylor,C,1,,363,307,56,0,0,0,0,0,181,153,28,0,182,154,28,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,363,304,59,0,0,0,0,0,181,149,32,0,182,155,27,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,81,80,Religious Freedom:,,1,1,YES,C,1,,363,354,5,0,0,0,0,0,181,174,4,0,182,180,1,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,81,80,Religious Freedom:,,1,2,NO,C,2,,363,4,5,0,0,0,0,0,181,3,4,0,182,1,1,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,82,81,Second Amendment:,,1,1,YES,C,1,,363,333,9,0,0,0,0,0,181,166,6,0,182,167,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,82,81,Second Amendment:,,1,2,NO,C,2,,363,21,9,0,0,0,0,0,181,9,6,0,182,12,3,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,83,82,Franchise Tax:,,1,1,YES,C,1,,363,301,26,0,0,0,0,0,181,147,13,0,182,154,13,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,83,82,Franchise Tax:,,1,2,NO,C,2,,363,36,26,0,0,0,0,0,181,21,13,0,182,15,13,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,84,83,Welfare Reform:,,1,1,YES,C,1,,363,338,11,0,0,0,0,0,181,169,7,0,182,169,4,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,84,83,Welfare Reform:,,1,2,NO,C,2,,363,14,11,0,0,0,0,0,181,5,7,0,182,9,4,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,363,354,9,0,0,0,0,0,181,176,5,0,182,178,4,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,363,0,9,0,0,0,0,0,181,0,5,0,182,0,4,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,86,85,Obamacare:,,1,1,YES,C,1,,363,344,7,0,0,0,0,0,181,170,5,0,182,174,2,0
+Callahan County,3/4/2014,Republican Primary,4,,1,10,4,4,1358,0.27,86,85,Obamacare:,,1,2,NO,C,2,,363,12,7,0,0,0,0,0,181,6,5,0,182,6,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,4,Reid Reasor,C,1,,42,2,2,0,0,0,0,0,8,0,1,0,34,2,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,8,Steve Stockman,C,2,,42,5,2,0,0,0,0,0,8,1,1,0,34,4,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,6,Ken Cope,C,3,,42,0,2,0,0,0,0,0,8,0,1,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,1,Chris Mapp,C,4,,42,1,2,0,0,0,0,0,8,0,1,0,34,1,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,42,4,2,0,0,0,0,0,8,3,1,0,34,1,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,42,1,2,0,0,0,0,0,8,0,1,0,34,1,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,5,Linda Vega,C,7,,42,0,2,0,0,0,0,0,8,0,1,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,4,4,United States Senator,,1,2,John Cornyn,C,8,,42,27,2,0,0,0,0,0,8,3,1,0,34,24,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,42,30,4,0,0,0,0,0,8,5,1,0,34,25,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,42,8,4,0,0,0,0,0,8,2,1,0,34,6,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,6,6,Governor,,1,2,Greg Abbott,C,1,,42,37,1,0,0,0,0,0,8,8,0,0,34,29,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,6,6,Governor,,1,3,Lisa Fritsch,C,2,,42,4,1,0,0,0,0,0,8,0,0,0,34,4,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,42,0,1,0,0,0,0,0,8,0,0,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,6,6,Governor,,1,1,Miriam Martinez,C,4,,42,0,1,0,0,0,0,0,8,0,0,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,42,29,2,0,0,0,0,0,8,4,1,0,34,25,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,42,6,2,0,0,0,0,0,8,0,1,0,34,6,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,42,1,2,0,0,0,0,0,8,1,1,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,42,4,2,0,0,0,0,0,8,2,1,0,34,2,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,8,8,Attorney General,,1,3,Ken Paxton,C,1,,42,8,3,0,0,0,0,0,8,1,0,0,34,7,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,8,8,Attorney General,,1,2,Dan Branch,C,2,,42,22,3,0,0,0,0,0,8,7,0,0,34,15,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,42,9,3,0,0,0,0,0,8,0,0,0,34,9,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,42,20,3,0,0,0,0,0,8,4,1,0,34,16,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,42,6,3,0,0,0,0,0,8,0,1,0,34,6,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,42,13,3,0,0,0,0,0,8,3,1,0,34,10,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,42,0,3,0,0,0,0,0,8,0,1,0,34,0,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,42,4,1,0,0,0,0,0,8,2,0,0,34,2,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,42,37,1,0,0,0,0,0,8,6,0,0,34,31,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,42,2,6,0,0,0,0,0,8,0,2,0,34,2,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,42,13,6,0,0,0,0,0,8,0,2,0,34,13,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,42,6,6,0,0,0,0,0,8,2,2,0,34,4,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,42,10,6,0,0,0,0,0,8,4,2,0,34,6,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,42,5,6,0,0,0,0,0,8,0,2,0,34,5,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,42,15,4,0,0,0,0,0,8,3,2,0,34,12,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,42,10,4,0,0,0,0,0,8,1,2,0,34,9,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,42,7,4,0,0,0,0,0,8,0,2,0,34,7,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,42,6,4,0,0,0,0,0,8,2,2,0,34,4,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,42,26,5,0,0,0,0,0,8,5,1,0,34,21,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,42,11,5,0,0,0,0,0,8,2,1,0,34,9,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,42,11,5,0,0,0,0,0,8,1,2,0,34,10,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,42,26,5,0,0,0,0,0,8,5,2,0,34,21,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,42,35,7,0,0,0,0,0,8,6,2,0,34,29,5,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,42,19,5,0,0,0,0,0,8,1,2,0,34,18,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,42,18,5,0,0,0,0,0,8,5,2,0,34,13,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,42,27,7,0,0,0,0,0,8,4,2,0,34,23,5,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,42,8,7,0,0,0,0,0,8,2,2,0,34,6,5,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,42,16,8,0,0,0,0,0,8,3,2,0,34,13,6,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,42,11,8,0,0,0,0,0,8,2,2,0,34,9,6,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,42,7,8,0,0,0,0,0,8,1,2,0,34,6,6,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,42,27,8,0,0,0,0,0,8,4,2,0,34,23,6,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,42,7,8,0,0,0,0,0,8,2,2,0,34,5,6,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,42,15,1,0,0,0,0,0,8,4,0,0,34,11,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,42,26,1,0,0,0,0,0,8,4,0,0,34,22,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,42,36,6,0,0,0,0,0,8,6,2,0,34,30,4,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,42,14,2,0,0,0,0,0,8,4,1,0,34,10,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,42,26,2,0,0,0,0,0,8,3,1,0,34,23,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,26,27,County Judge,,1,1,Roger Corn,C,1,,42,40,2,0,0,0,0,0,8,8,0,0,34,32,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,42,22,4,0,0,0,0,0,8,5,1,0,34,17,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,27,29,District Clerk,,1,2,Angela Owens,C,2,,42,16,4,0,0,0,0,0,8,2,1,0,34,14,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,28,30,County Clerk,,1,1,Donna Bell,C,1,,42,42,0,0,0,0,0,0,8,8,0,0,34,34,0,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,29,31,County Treasurer,,1,1,Jan Windham,C,1,,42,42,0,0,0,0,0,0,8,8,0,0,34,34,0,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,35,37,"Justice of the Peace, Precinct No. 3",,1,1,Steve Odom,C,1,,42,42,0,0,0,0,0,0,8,8,0,0,34,34,0,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,42,34,8,0,0,0,0,0,8,7,1,0,34,27,7,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,81,80,Religious Freedom:,,1,1,YES,C,1,,42,40,1,0,0,0,0,0,8,8,0,0,34,32,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,81,80,Religious Freedom:,,1,2,NO,C,2,,42,1,1,0,0,0,0,0,8,0,0,0,34,1,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,82,81,Second Amendment:,,1,1,YES,C,1,,42,36,2,0,0,0,0,0,8,8,0,0,34,28,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,82,81,Second Amendment:,,1,2,NO,C,2,,42,4,2,0,0,0,0,0,8,0,0,0,34,4,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,83,82,Franchise Tax:,,1,1,YES,C,1,,42,34,3,0,0,0,0,0,8,8,0,0,34,26,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,83,82,Franchise Tax:,,1,2,NO,C,2,,42,5,3,0,0,0,0,0,8,0,0,0,34,5,3,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,84,83,Welfare Reform:,,1,1,YES,C,1,,42,39,1,0,0,0,0,0,8,7,0,0,34,32,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,84,83,Welfare Reform:,,1,2,NO,C,2,,42,2,1,0,0,0,0,0,8,1,0,0,34,1,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,42,41,1,0,0,0,0,0,8,8,0,0,34,33,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,42,0,1,0,0,0,0,0,8,0,0,0,34,0,1,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,86,85,Obamacare:,,1,1,YES,C,1,,42,40,2,0,0,0,0,0,8,8,0,0,34,32,2,0
+Callahan County,3/4/2014,Republican Primary,5,,1,8,5,5,124,0.34,86,85,Obamacare:,,1,2,NO,C,2,,42,0,2,0,0,0,0,0,8,0,0,0,34,0,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,4,Reid Reasor,C,1,,127,3,7,0,0,0,0,0,61,0,3,0,66,3,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,8,Steve Stockman,C,2,,127,11,7,0,0,0,0,0,61,2,3,0,66,9,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,6,Ken Cope,C,3,,127,9,7,0,0,0,0,0,61,3,3,0,66,6,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,1,Chris Mapp,C,4,,127,2,7,0,0,0,0,0,61,1,3,0,66,1,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,127,7,7,0,0,0,0,0,61,4,3,0,66,3,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,127,4,7,0,0,0,0,0,61,1,3,0,66,3,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,5,Linda Vega,C,7,,127,7,7,0,0,0,0,0,61,3,3,0,66,4,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,4,4,United States Senator,,1,2,John Cornyn,C,8,,127,77,7,0,0,0,0,0,61,44,3,0,66,33,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,127,98,7,0,0,0,0,0,61,46,3,0,66,52,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,127,22,7,0,0,0,0,0,61,12,3,0,66,10,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,6,6,Governor,,1,2,Greg Abbott,C,1,,127,113,6,0,0,0,0,0,61,54,3,0,66,59,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,6,6,Governor,,1,3,Lisa Fritsch,C,2,,127,3,6,0,0,0,0,0,61,0,3,0,66,3,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,127,1,6,0,0,0,0,0,61,1,3,0,66,0,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,6,6,Governor,,1,1,Miriam Martinez,C,4,,127,4,6,0,0,0,0,0,61,3,3,0,66,1,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,127,60,5,0,0,0,0,0,61,27,3,0,66,33,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,127,39,5,0,0,0,0,0,61,25,3,0,66,14,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,127,12,5,0,0,0,0,0,61,3,3,0,66,9,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,127,11,5,0,0,0,0,0,61,3,3,0,66,8,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,8,8,Attorney General,,1,3,Ken Paxton,C,1,,127,44,11,0,0,0,0,0,61,14,5,0,66,30,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,8,8,Attorney General,,1,2,Dan Branch,C,2,,127,45,11,0,0,0,0,0,61,23,5,0,66,22,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,127,27,11,0,0,0,0,0,61,19,5,0,66,8,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,127,51,10,0,0,0,0,0,61,23,4,0,66,28,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,127,17,10,0,0,0,0,0,61,6,4,0,66,11,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,127,47,10,0,0,0,0,0,61,27,4,0,66,20,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,127,2,10,0,0,0,0,0,61,1,4,0,66,1,6,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,127,29,8,0,0,0,0,0,61,10,5,0,66,19,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,127,90,8,0,0,0,0,0,61,46,5,0,66,44,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,127,4,16,0,0,0,0,0,61,4,8,0,66,0,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,127,51,16,0,0,0,0,0,61,27,8,0,66,24,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,127,22,16,0,0,0,0,0,61,10,8,0,66,12,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,127,17,16,0,0,0,0,0,61,9,8,0,66,8,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,127,17,16,0,0,0,0,0,61,3,8,0,66,14,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,127,38,21,0,0,0,0,0,61,9,10,0,66,29,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,127,30,21,0,0,0,0,0,61,21,10,0,66,9,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,127,28,21,0,0,0,0,0,61,14,10,0,66,14,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,127,10,21,0,0,0,0,0,61,7,10,0,66,3,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,127,63,17,0,0,0,0,0,61,28,9,0,66,35,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,127,47,17,0,0,0,0,0,61,24,9,0,66,23,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,127,30,21,0,0,0,0,0,61,10,10,0,66,20,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,127,76,21,0,0,0,0,0,61,41,10,0,66,35,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,127,100,27,0,0,0,0,0,61,48,13,0,66,52,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,127,51,20,0,0,0,0,0,61,28,10,0,66,23,10,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,127,56,20,0,0,0,0,0,61,23,10,0,66,33,10,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,127,60,27,0,0,0,0,0,61,34,13,0,66,26,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,127,40,27,0,0,0,0,0,61,14,13,0,66,26,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,127,51,27,0,0,0,0,0,61,28,13,0,66,23,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,127,26,27,0,0,0,0,0,61,9,13,0,66,17,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,127,23,27,0,0,0,0,0,61,11,13,0,66,12,14,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,127,59,27,0,0,0,0,0,61,32,14,0,66,27,13,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,127,41,27,0,0,0,0,0,61,15,14,0,66,26,13,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,127,46,8,0,0,0,0,0,61,18,4,0,66,28,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,127,73,8,0,0,0,0,0,61,39,4,0,66,34,4,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,127,91,36,0,0,0,0,0,61,41,20,0,66,50,16,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,127,42,27,0,0,0,0,0,61,19,16,0,66,23,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,127,58,27,0,0,0,0,0,61,26,16,0,66,32,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,26,27,County Judge,,1,1,Roger Corn,C,1,,127,108,19,0,0,0,0,0,61,49,12,0,66,59,7,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,127,41,19,0,0,0,0,0,61,19,11,0,66,22,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,27,29,District Clerk,,1,2,Angela Owens,C,2,,127,67,19,0,0,0,0,0,61,31,11,0,66,36,8,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,28,30,County Clerk,,1,1,Donna Bell,C,1,,127,107,20,0,0,0,0,0,61,50,11,0,66,57,9,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,29,31,County Treasurer,,1,1,Jan Windham,C,1,,127,102,25,0,0,0,0,0,61,47,14,0,66,55,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,32,34,"County Commissioner, Precinct No. 4",,1,1,Cliff Kirkham,C,1,,127,98,29,0,0,0,0,0,61,43,18,0,66,55,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,36,38,"Justice of the Peace, Precinct No. 4",,1,1,Burlie W. Taylor,C,1,,127,97,30,0,0,0,0,0,61,43,18,0,66,54,12,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,127,99,28,0,0,0,0,0,61,44,17,0,66,55,11,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,81,80,Religious Freedom:,,1,1,YES,C,1,,127,121,2,0,0,0,0,0,61,59,0,0,66,62,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,81,80,Religious Freedom:,,1,2,NO,C,2,,127,4,2,0,0,0,0,0,61,2,0,0,66,2,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,82,81,Second Amendment:,,1,1,YES,C,1,,127,112,3,0,0,0,0,0,61,54,1,0,66,58,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,82,81,Second Amendment:,,1,2,NO,C,2,,127,12,3,0,0,0,0,0,61,6,1,0,66,6,2,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,83,82,Franchise Tax:,,1,1,YES,C,1,,127,113,6,0,0,0,0,0,61,56,1,0,66,57,5,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,83,82,Franchise Tax:,,1,2,NO,C,2,,127,8,6,0,0,0,0,0,61,4,1,0,66,4,5,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,84,83,Welfare Reform:,,1,1,YES,C,1,,127,118,3,0,0,0,0,0,61,57,0,0,66,61,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,84,83,Welfare Reform:,,1,2,NO,C,2,,127,6,3,0,0,0,0,0,61,4,0,0,66,2,3,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,127,126,1,0,0,0,0,0,61,61,0,0,66,65,1,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,127,0,1,0,0,0,0,0,61,0,0,0,66,0,1,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,86,85,Obamacare:,,1,1,YES,C,1,,127,119,3,0,0,0,0,0,61,55,2,0,66,64,1,0
+Callahan County,3/4/2014,Republican Primary,6,,1,9,6,6,769,0.17,86,85,Obamacare:,,1,2,NO,C,2,,127,5,3,0,0,0,0,0,61,4,2,0,66,1,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,4,Reid Reasor,C,1,,106,2,5,0,0,0,0,0,34,1,4,0,72,1,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,8,Steve Stockman,C,2,,106,12,5,0,0,0,0,0,34,3,4,0,72,9,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,6,Ken Cope,C,3,,106,7,5,0,0,0,0,0,34,2,4,0,72,5,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,1,Chris Mapp,C,4,,106,1,5,0,0,0,0,0,34,0,4,0,72,1,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,3,Dwayne Stovall,C,5,,106,13,5,0,0,0,0,0,34,1,4,0,72,12,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,7,Curt Cleaver,C,6,,106,0,5,0,0,0,0,0,34,0,4,0,72,0,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,5,Linda Vega,C,7,,106,2,5,0,0,0,0,0,34,1,4,0,72,1,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,4,4,United States Senator,,1,2,John Cornyn,C,8,,106,64,5,0,0,0,0,0,34,22,4,0,72,42,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,5,5,"United States Representative, District 11",,1,1,Mike Conaway,C,1,,106,78,11,0,0,0,0,0,34,28,1,0,72,50,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,5,5,"United States Representative, District 11",,1,2,Wade Brown,C,2,,106,17,11,0,0,0,0,0,34,5,1,0,72,12,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,6,6,Governor,,1,2,Greg Abbott,C,1,,106,95,5,0,0,0,0,0,34,31,2,0,72,64,3,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,6,6,Governor,,1,3,Lisa Fritsch,C,2,,106,2,5,0,0,0,0,0,34,1,2,0,72,1,3,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,6,6,Governor,,1,4,SECEDE Kilgore,C,3,,106,1,5,0,0,0,0,0,34,0,2,0,72,1,3,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,6,6,Governor,,1,1,Miriam Martinez,C,4,,106,3,5,0,0,0,0,0,34,0,2,0,72,3,3,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,7,7,Lieutenant Governor,,1,1,David Dewhurst,C,1,,106,44,6,0,0,0,0,0,34,16,1,0,72,28,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,7,7,Lieutenant Governor,,1,4,Dan Patrick,C,2,,106,37,6,0,0,0,0,0,34,10,1,0,72,27,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,7,7,Lieutenant Governor,,1,3,Todd Staples,C,3,,106,12,6,0,0,0,0,0,34,4,1,0,72,8,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,7,7,Lieutenant Governor,,1,2,Jerry Patterson,C,4,,106,7,6,0,0,0,0,0,34,3,1,0,72,4,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,8,8,Attorney General,,1,3,Ken Paxton,C,1,,106,39,7,0,0,0,0,0,34,10,2,0,72,29,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,8,8,Attorney General,,1,2,Dan Branch,C,2,,106,45,7,0,0,0,0,0,34,18,2,0,72,27,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,8,8,Attorney General,,1,1,Barry Smitherman,C,3,,106,15,7,0,0,0,0,0,34,4,2,0,72,11,5,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,9,9,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,,106,52,15,0,0,0,0,0,34,11,7,0,72,41,8,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,9,9,Comptroller of Public Accounts,,1,2,Debra Medina,C,2,,106,8,15,0,0,0,0,0,34,4,7,0,72,4,8,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,9,9,Comptroller of Public Accounts,,1,3,Harvey Hilderbran,C,3,,106,29,15,0,0,0,0,0,34,11,7,0,72,18,8,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,9,9,Comptroller of Public Accounts,,1,4,Raul Torres,C,4,,106,2,15,0,0,0,0,0,34,1,7,0,72,1,8,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,10,10,Commissioner of the General Land Office,,1,1,David Watts,C,1,,106,42,7,0,0,0,0,0,34,10,3,0,72,32,4,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,10,10,Commissioner of the General Land Office,,1,2,George P. Bush,C,2,,106,57,7,0,0,0,0,0,34,21,3,0,72,36,4,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,11,11,Commissioner of Agriculture,,1,3,Eric Opiela,C,1,,106,4,13,0,0,0,0,0,34,0,4,0,72,4,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,11,11,Commissioner of Agriculture,,1,2,Sid Miller,C,2,,106,42,13,0,0,0,0,0,34,11,4,0,72,31,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,11,11,Commissioner of Agriculture,,1,5,Joe Cotten,C,3,,106,10,13,0,0,0,0,0,34,5,4,0,72,5,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,11,11,Commissioner of Agriculture,,1,1,J Allen Carnes,C,4,,106,19,13,0,0,0,0,0,34,8,4,0,72,11,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,11,11,Commissioner of Agriculture,,1,4,Tommy Merritt,C,5,,106,18,13,0,0,0,0,0,34,6,4,0,72,12,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,12,12,Railroad Commissioner,,1,2,Wayne Christian,C,1,,106,53,15,0,0,0,0,0,34,11,6,0,72,42,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,12,12,Railroad Commissioner,,1,4,Ryan Sitton,C,2,,106,26,15,0,0,0,0,0,34,13,6,0,72,13,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,12,12,Railroad Commissioner,,1,3,Becky Berger,C,3,,106,8,15,0,0,0,0,0,34,2,6,0,72,6,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,12,12,Railroad Commissioner,,1,1,Malachi Boyuls,C,4,,106,4,15,0,0,0,0,0,34,2,6,0,72,2,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,13,13,"Chief Justice, Supreme Court",,1,1,Nathan Hecht,C,1,,106,67,14,0,0,0,0,0,34,20,5,0,72,47,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,13,13,"Chief Justice, Supreme Court",,1,2,Robert Talton,C,2,,106,25,14,0,0,0,0,0,34,9,5,0,72,16,9,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,2,Joe Pool,C,1,,106,25,18,0,0,0,0,0,34,6,5,0,72,19,13,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",,1,1,Jeff Brown,C,2,,106,63,18,0,0,0,0,0,34,23,5,0,72,40,13,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,14,15,"Justice, Supreme Court, Place 7",,1,1,Jeff Boyd,C,1,,106,83,23,0,0,0,0,0,34,26,8,0,72,57,15,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,15,16,"Justice, Supreme Court, Place 8",,1,2,Sharon McCally,C,1,,106,24,17,0,0,0,0,0,34,12,6,0,72,12,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,15,16,"Justice, Supreme Court, Place 8",,1,1,Phil Johnson,C,2,,106,65,17,0,0,0,0,0,34,16,6,0,72,49,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,1,Bert Richardson,C,1,,106,58,22,0,0,0,0,0,34,15,11,0,72,43,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,16,17,"Judge, Court of Criminal Appeals, Place 3",,1,2,Barbara Walther,C,2,,106,26,22,0,0,0,0,0,34,8,11,0,72,18,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,1,Kevin Patrick Yeary,C,1,,106,49,22,0,0,0,0,0,34,11,11,0,72,38,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,3,Richard Dean Davis,C,2,,106,26,22,0,0,0,0,0,34,8,11,0,72,18,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,17,18,"Judge, Court of Criminal Appeals, Place 4",,1,2,Jani Jo Wood,C,3,,106,9,22,0,0,0,0,0,34,4,11,0,72,5,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,2,"W.C. ""Bud"" Kirkendall",C,1,,106,51,21,0,0,0,0,0,34,12,11,0,72,39,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,18,19,"Judge, Court of Criminal Appeals, Place 9",,1,1,David Newell,C,2,,106,34,21,0,0,0,0,0,34,11,11,0,72,23,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,21,22,"State Representative, District 60",,1,1,Cullen Crisp,C,1,,106,44,6,0,0,0,0,0,34,11,2,0,72,33,4,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,21,22,"State Representative, District 60",,1,2,"James L. ""Jim"" Keffer",C,2,,106,56,6,0,0,0,0,0,34,21,2,0,72,35,4,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,22,23,"Justice, 11th Court of Appeals District, Place 2",,1,1,Mike Willson,C,1,,106,81,25,0,0,0,0,0,34,24,10,0,72,57,15,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,1,Cade W. Browning,C,1,,106,48,12,0,0,0,0,0,34,15,2,0,72,33,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,23,24,"Justice, 11th Court of Appeals District, Place 3 Unexpired Term",,1,2,John Bailey,C,2,,106,46,12,0,0,0,0,0,34,17,2,0,72,29,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,26,27,County Judge,,1,1,Roger Corn,C,1,,106,91,15,0,0,0,0,0,34,29,5,0,72,62,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,27,29,District Clerk,,1,1,Amber Tinsley,C,1,,106,50,17,0,0,0,0,0,34,14,6,0,72,36,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,27,29,District Clerk,,1,2,Angela Owens,C,2,,106,39,17,0,0,0,0,0,34,14,6,0,72,25,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,28,30,County Clerk,,1,1,Donna Bell,C,1,,106,91,15,0,0,0,0,0,34,30,4,0,72,61,11,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,29,31,County Treasurer,,1,1,Jan Windham,C,1,,106,90,15,0,0,0,0,0,34,28,5,0,72,62,10,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,31,33,"County Commissioner, Precinct No. 2",,1,1,Bryan Farmer,C,1,,106,81,24,0,0,0,0,0,34,27,6,0,72,54,18,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,33,35,"Justice of the Peace, Precinct No. 1",,1,1,Alan (Tom) Rumfield,C,1,,106,79,11,0,0,0,0,0,34,27,5,0,72,52,6,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,33,35,"Justice of the Peace, Precinct No. 1",,1,2,Jerome Chaney,C,2,,106,16,11,0,0,0,0,0,34,2,5,0,72,14,6,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,76,41,County Chairman,,1,1,Reggie Pillans,C,1,,106,84,22,0,0,0,0,0,34,30,4,0,72,54,18,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,81,80,Religious Freedom:,,1,1,YES,C,1,,106,101,2,0,0,0,0,0,34,33,1,0,72,68,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,81,80,Religious Freedom:,,1,2,NO,C,2,,106,3,2,0,0,0,0,0,34,0,1,0,72,3,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,82,81,Second Amendment:,,1,1,YES,C,1,,106,93,5,0,0,0,0,0,34,26,4,0,72,67,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,82,81,Second Amendment:,,1,2,NO,C,2,,106,8,5,0,0,0,0,0,34,4,4,0,72,4,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,83,82,Franchise Tax:,,1,1,YES,C,1,,106,93,3,0,0,0,0,0,34,31,2,0,72,62,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,83,82,Franchise Tax:,,1,2,NO,C,2,,106,10,3,0,0,0,0,0,34,1,2,0,72,9,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,84,83,Welfare Reform:,,1,1,YES,C,1,,106,101,2,0,0,0,0,0,34,33,1,0,72,68,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,84,83,Welfare Reform:,,1,2,NO,C,2,,106,3,2,0,0,0,0,0,34,0,1,0,72,3,1,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,85,84,No Lawmaker Exceptions:,,1,1,YES,C,1,,106,105,1,0,0,0,0,0,34,33,1,0,72,72,0,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,85,84,No Lawmaker Exceptions:,,1,2,NO,C,2,,106,0,1,0,0,0,0,0,34,0,1,0,72,0,0,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,86,85,Obamacare:,,1,1,YES,C,1,,106,97,3,0,0,0,0,0,34,30,3,0,72,67,0,0
+Callahan County,3/4/2014,Republican Primary,7,,1,12,7,7,457,0.23,86,85,Obamacare:,,1,2,NO,C,2,,106,6,3,0,0,0,0,0,34,1,3,0,72,5,0,0

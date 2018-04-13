@@ -1,0 +1,755 @@
+political_subdivision,election-date,election_name,Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,69,5,3,0,0,0,0,0,19,0,3,0,50,5,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,6,Ken Cope,C,4,,69,1,3,0,0,0,0,0,19,0,3,0,50,1,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,2,John Cornyn,C,5,,69,36,3,0,0,0,0,0,19,12,3,0,50,24,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,69,4,3,0,0,0,0,0,19,2,3,0,50,2,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,5,Linda Vega,C,7,,69,3,3,0,0,0,0,0,19,0,3,0,50,3,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,69,22,3,0,0,0,0,0,19,4,3,0,50,18,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,69,25,3,0,0,0,0,0,19,9,3,0,50,16,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,69,1,3,0,0,0,0,0,19,1,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,69,1,3,0,0,0,0,0,19,0,3,0,50,1,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,6,6,Governor,R,1,2,Greg Abbott,C,1,,69,43,3,0,0,0,0,0,19,14,3,0,50,29,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,69,4,3,0,0,0,0,0,19,0,3,0,50,4,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,69,2,3,0,0,0,0,0,19,0,3,0,50,2,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,6,6,Governor,R,1,1,Miriam Martinez,C,4,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,69,15,3,0,0,0,0,0,19,3,3,0,50,12,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,69,10,3,0,0,0,0,0,19,4,3,0,50,6,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,69,6,3,0,0,0,0,0,19,1,3,0,50,5,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,69,18,3,0,0,0,0,0,19,6,3,0,50,12,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,69,25,4,0,0,0,0,0,19,7,4,0,50,18,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,8,8,Attorney General,R,1,2,Dan Branch,C,2,,69,17,4,0,0,0,0,0,19,2,4,0,50,15,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,69,6,4,0,0,0,0,0,19,4,4,0,50,2,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,69,19,6,0,0,0,0,0,19,2,4,0,50,17,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,69,15,6,0,0,0,0,0,19,6,4,0,50,9,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,69,1,6,0,0,0,0,0,19,0,4,0,50,1,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,69,11,6,0,0,0,0,0,19,5,4,0,50,6,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,69,37,5,0,0,0,0,0,19,10,4,0,50,27,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,69,10,5,0,0,0,0,0,19,3,4,0,50,7,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,69,13,4,0,0,0,0,0,19,2,3,0,50,11,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,69,3,4,0,0,0,0,0,19,1,3,0,50,2,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,69,11,4,0,0,0,0,0,19,6,3,0,50,5,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,69,21,4,0,0,0,0,0,19,5,3,0,50,16,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,69,0,4,0,0,0,0,0,19,0,3,0,50,0,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,69,14,5,0,0,0,0,0,19,1,4,0,50,13,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,69,25,5,0,0,0,0,0,19,7,4,0,50,18,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,69,2,5,0,0,0,0,0,19,0,4,0,50,2,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,69,6,5,0,0,0,0,0,19,5,4,0,50,1,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,69,33,6,0,0,0,0,0,19,11,4,0,50,22,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,69,13,6,0,0,0,0,0,19,2,4,0,50,11,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,69,26,8,0,0,0,0,0,19,6,4,0,50,20,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,69,18,8,0,0,0,0,0,19,7,4,0,50,11,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,69,45,7,0,0,0,0,0,19,13,4,0,50,32,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,69,29,8,0,0,0,0,0,19,11,4,0,50,18,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,69,15,8,0,0,0,0,0,19,2,4,0,50,13,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,69,29,8,0,0,0,0,0,19,9,4,0,50,20,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,69,15,8,0,0,0,0,0,19,4,4,0,50,11,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,69,23,7,0,0,0,0,0,19,4,4,0,50,19,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,69,14,7,0,0,0,0,0,19,7,4,0,50,7,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,69,8,7,0,0,0,0,0,19,2,4,0,50,6,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,69,20,7,0,0,0,0,0,19,4,4,0,50,16,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,69,25,7,0,0,0,0,0,19,9,4,0,50,16,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,69,45,7,0,0,0,0,0,19,14,3,0,50,31,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,69,45,7,0,0,0,0,0,19,14,3,0,50,31,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,69,47,5,0,0,0,0,0,19,14,3,0,50,33,2,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,69,45,7,0,0,0,0,0,19,14,3,0,50,31,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,26,27,County Judge,R,1,1,Lex Jones,C,1,,69,47,5,0,0,0,0,0,19,15,2,0,50,32,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,69,47,5,0,0,0,0,0,19,15,2,0,50,32,3,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,69,9,2,0,0,0,0,0,19,1,1,0,50,8,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,69,41,2,0,0,0,0,0,19,15,1,0,50,26,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,69,44,8,0,0,0,0,0,19,13,4,0,50,31,4,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,81,80,Religious Freedom:,R,1,1,YES,C,1,,69,49,3,0,0,0,0,0,19,14,3,0,50,35,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,81,80,Religious Freedom:,R,1,2,NO,C,2,,69,0,3,0,0,0,0,0,19,0,3,0,50,0,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,82,81,Second Amendment:,R,1,1,YES,C,1,,69,45,3,0,0,0,0,0,19,13,3,0,50,32,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,82,81,Second Amendment:,R,1,2,NO,C,2,,69,4,3,0,0,0,0,0,19,1,3,0,50,3,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,83,82,Franchise Tax:,R,1,1,YES,C,1,,69,45,3,0,0,0,0,0,19,13,3,0,50,32,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,83,82,Franchise Tax:,R,1,2,NO,C,2,,69,4,3,0,0,0,0,0,19,1,3,0,50,3,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,84,83,Welfare Reform:,R,1,1,YES,C,1,,69,46,3,0,0,0,0,0,19,13,3,0,50,33,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,84,83,Welfare Reform:,R,1,2,NO,C,2,,69,3,3,0,0,0,0,0,19,1,3,0,50,2,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,69,47,4,0,0,0,0,0,19,14,3,0,50,33,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,69,1,4,0,0,0,0,0,19,0,3,0,50,1,1,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,86,85,Obamacare:,R,1,1,YES,C,1,,69,47,3,0,0,0,0,0,19,14,3,0,50,33,0,0
+Marion County,3/4/2014,2014 Primary,1,,1,5,1,1,1226,0.06,86,85,Obamacare:,R,1,2,NO,C,2,,69,2,3,0,0,0,0,0,19,0,3,0,50,2,0,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,176,20,16,0,0,0,0,0,52,4,4,0,124,16,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,176,1,16,0,0,0,0,0,52,0,4,0,124,1,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,176,4,16,0,0,0,0,0,52,0,4,0,124,4,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,6,Ken Cope,C,4,,176,2,16,0,0,0,0,0,52,0,4,0,124,2,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,2,John Cornyn,C,5,,176,72,16,0,0,0,0,0,52,29,4,0,124,43,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,176,18,16,0,0,0,0,0,52,4,4,0,124,14,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,5,Linda Vega,C,7,,176,6,16,0,0,0,0,0,52,4,4,0,124,2,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,176,2,16,0,0,0,0,0,52,0,4,0,124,2,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,176,76,7,0,0,0,0,0,52,24,1,0,124,52,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,176,45,7,0,0,0,0,0,52,17,1,0,124,28,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,176,4,7,0,0,0,0,0,52,1,1,0,124,3,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,176,1,7,0,0,0,0,0,52,0,1,0,124,1,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,176,6,7,0,0,0,0,0,52,1,1,0,124,5,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,176,2,7,0,0,0,0,0,52,1,1,0,124,1,6,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,6,6,Governor,R,1,2,Greg Abbott,C,1,,176,112,10,0,0,0,0,0,52,36,3,0,124,76,7,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,176,14,10,0,0,0,0,0,52,4,3,0,124,10,7,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,176,1,10,0,0,0,0,0,52,0,3,0,124,1,7,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,6,6,Governor,R,1,1,Miriam Martinez,C,4,,176,4,10,0,0,0,0,0,52,2,3,0,124,2,7,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,176,18,11,0,0,0,0,0,52,6,2,0,124,12,9,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,176,37,11,0,0,0,0,0,52,14,2,0,124,23,9,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,176,21,11,0,0,0,0,0,52,11,2,0,124,10,9,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,176,54,11,0,0,0,0,0,52,12,2,0,124,42,9,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,176,58,15,0,0,0,0,0,52,18,4,0,124,40,11,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,8,8,Attorney General,R,1,2,Dan Branch,C,2,,176,39,15,0,0,0,0,0,52,9,4,0,124,30,11,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,176,29,15,0,0,0,0,0,52,14,4,0,124,15,11,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,176,39,16,0,0,0,0,0,52,13,4,0,124,26,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,176,40,16,0,0,0,0,0,52,14,4,0,124,26,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,176,11,16,0,0,0,0,0,52,3,4,0,124,8,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,176,35,16,0,0,0,0,0,52,11,4,0,124,24,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,176,84,13,0,0,0,0,0,52,31,2,0,124,53,11,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,176,44,13,0,0,0,0,0,52,12,2,0,124,32,11,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,176,26,19,0,0,0,0,0,52,5,4,0,124,21,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,176,9,19,0,0,0,0,0,52,2,4,0,124,7,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,176,25,19,0,0,0,0,0,52,15,4,0,124,10,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,176,53,19,0,0,0,0,0,52,18,4,0,124,35,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,176,9,19,0,0,0,0,0,52,1,4,0,124,8,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,176,29,15,0,0,0,0,0,52,10,3,0,124,19,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,176,70,15,0,0,0,0,0,52,20,3,0,124,50,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,176,2,15,0,0,0,0,0,52,0,3,0,124,2,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,176,25,15,0,0,0,0,0,52,12,3,0,124,13,12,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,176,83,19,0,0,0,0,0,52,29,4,0,124,54,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,176,39,19,0,0,0,0,0,52,12,4,0,124,27,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,176,52,18,0,0,0,0,0,52,13,4,0,124,39,14,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,176,71,18,0,0,0,0,0,52,28,4,0,124,43,14,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,176,110,31,0,0,0,0,0,52,35,10,0,124,75,21,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,176,58,20,0,0,0,0,0,52,22,5,0,124,36,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,176,63,20,0,0,0,0,0,52,18,5,0,124,45,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,176,84,23,0,0,0,0,0,52,27,6,0,124,57,17,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,176,34,23,0,0,0,0,0,52,12,6,0,124,22,17,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,176,48,23,0,0,0,0,0,52,10,5,0,124,38,18,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,176,46,23,0,0,0,0,0,52,21,5,0,124,25,18,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,176,24,23,0,0,0,0,0,52,9,5,0,124,15,18,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,176,56,24,0,0,0,0,0,52,11,5,0,124,45,19,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,176,61,24,0,0,0,0,0,52,29,5,0,124,32,19,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,176,113,28,0,0,0,0,0,52,34,11,0,124,79,17,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,176,111,30,0,0,0,0,0,52,35,10,0,124,76,20,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,176,117,24,0,0,0,0,0,52,37,8,0,124,80,16,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,176,114,27,0,0,0,0,0,52,33,12,0,124,81,15,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,26,27,County Judge,R,1,1,Lex Jones,C,1,,176,132,9,0,0,0,0,0,52,40,5,0,124,92,4,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,176,119,22,0,0,0,0,0,52,36,9,0,124,83,13,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,176,34,0,0,0,0,0,0,52,9,0,0,124,25,0,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,176,107,0,0,0,0,0,0,52,36,0,0,124,71,0,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,176,114,27,0,0,0,0,0,52,36,9,0,124,78,18,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,81,80,Religious Freedom:,R,1,1,YES,C,1,,176,134,5,0,0,0,0,0,52,43,2,0,124,91,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,81,80,Religious Freedom:,R,1,2,NO,C,2,,176,2,5,0,0,0,0,0,52,0,2,0,124,2,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,82,81,Second Amendment:,R,1,1,YES,C,1,,176,121,4,0,0,0,0,0,52,36,1,0,124,85,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,82,81,Second Amendment:,R,1,2,NO,C,2,,176,16,4,0,0,0,0,0,52,8,1,0,124,8,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,83,82,Franchise Tax:,R,1,1,YES,C,1,,176,124,4,0,0,0,0,0,52,39,1,0,124,85,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,83,82,Franchise Tax:,R,1,2,NO,C,2,,176,13,4,0,0,0,0,0,52,5,1,0,124,8,3,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,84,83,Welfare Reform:,R,1,1,YES,C,1,,176,129,3,0,0,0,0,0,52,42,2,0,124,87,1,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,84,83,Welfare Reform:,R,1,2,NO,C,2,,176,9,3,0,0,0,0,0,52,1,2,0,124,8,1,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,176,134,4,0,0,0,0,0,52,43,2,0,124,91,2,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,176,3,4,0,0,0,0,0,52,0,2,0,124,3,2,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,86,85,Obamacare:,R,1,1,YES,C,1,,176,128,3,0,0,0,0,0,52,41,2,0,124,87,1,0
+Marion County,3/4/2014,2014 Primary,2,,1,5,2,2,2328,0.08,86,85,Obamacare:,R,1,2,NO,C,2,,176,10,3,0,0,0,0,0,52,2,2,0,124,8,1,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,88,21,7,0,0,0,0,0,26,5,0,0,62,16,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,88,1,7,0,0,0,0,0,26,1,0,0,62,0,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,88,0,7,0,0,0,0,0,26,0,0,0,62,0,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,6,Ken Cope,C,4,,88,4,7,0,0,0,0,0,26,0,0,0,62,4,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,2,John Cornyn,C,5,,88,30,7,0,0,0,0,0,26,15,0,0,62,15,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,88,8,7,0,0,0,0,0,26,0,0,0,62,8,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,5,Linda Vega,C,7,,88,0,7,0,0,0,0,0,26,0,0,0,62,0,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,88,1,7,0,0,0,0,0,26,0,0,0,62,1,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,88,23,6,0,0,0,0,0,26,4,1,0,62,19,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,88,24,6,0,0,0,0,0,26,13,1,0,62,11,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,88,3,6,0,0,0,0,0,26,0,1,0,62,3,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,88,0,6,0,0,0,0,0,26,0,1,0,62,0,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,88,13,6,0,0,0,0,0,26,3,1,0,62,10,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,88,3,6,0,0,0,0,0,26,0,1,0,62,3,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,6,6,Governor,R,1,2,Greg Abbott,C,1,,88,57,6,0,0,0,0,0,26,19,1,0,62,38,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,88,9,6,0,0,0,0,0,26,1,1,0,62,8,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,88,0,6,0,0,0,0,0,26,0,1,0,62,0,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,6,6,Governor,R,1,1,Miriam Martinez,C,4,,88,0,6,0,0,0,0,0,26,0,1,0,62,0,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,88,13,5,0,0,0,0,0,26,3,1,0,62,10,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,88,16,5,0,0,0,0,0,26,1,1,0,62,15,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,88,11,5,0,0,0,0,0,26,6,1,0,62,5,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,88,27,5,0,0,0,0,0,26,10,1,0,62,17,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,88,31,11,0,0,0,0,0,26,7,6,0,62,24,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,8,8,Attorney General,R,1,2,Dan Branch,C,2,,88,19,11,0,0,0,0,0,26,5,6,0,62,14,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,88,11,11,0,0,0,0,0,26,3,6,0,62,8,5,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,88,21,13,0,0,0,0,0,26,7,4,0,62,14,9,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,88,14,13,0,0,0,0,0,26,4,4,0,62,10,9,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,88,4,13,0,0,0,0,0,26,1,4,0,62,3,9,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,88,20,13,0,0,0,0,0,26,5,4,0,62,15,9,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,88,51,5,0,0,0,0,0,26,19,1,0,62,32,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,88,16,5,0,0,0,0,0,26,1,1,0,62,15,4,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,88,8,12,0,0,0,0,0,26,0,5,0,62,8,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,88,6,12,0,0,0,0,0,26,1,5,0,62,5,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,88,18,12,0,0,0,0,0,26,4,5,0,62,14,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,88,23,12,0,0,0,0,0,26,7,5,0,62,16,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,88,5,12,0,0,0,0,0,26,4,5,0,62,1,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,88,13,15,0,0,0,0,0,26,1,7,0,62,12,8,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,88,29,15,0,0,0,0,0,26,8,7,0,62,21,8,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,88,4,15,0,0,0,0,0,26,2,7,0,62,2,8,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,88,11,15,0,0,0,0,0,26,3,7,0,62,8,8,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,88,37,9,0,0,0,0,0,26,9,2,0,62,28,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,88,26,9,0,0,0,0,0,26,10,2,0,62,16,7,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,88,24,14,0,0,0,0,0,26,10,3,0,62,14,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,88,34,14,0,0,0,0,0,26,8,3,0,62,26,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,88,56,16,0,0,0,0,0,26,17,4,0,62,39,12,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,88,20,14,0,0,0,0,0,26,5,3,0,62,15,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,88,38,14,0,0,0,0,0,26,13,3,0,62,25,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,88,35,13,0,0,0,0,0,26,9,2,0,62,26,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,88,24,13,0,0,0,0,0,26,10,2,0,62,14,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,88,16,15,0,0,0,0,0,26,5,4,0,62,11,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,88,31,15,0,0,0,0,0,26,9,4,0,62,22,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,88,10,15,0,0,0,0,0,26,3,4,0,62,7,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,88,33,16,0,0,0,0,0,26,9,4,0,62,24,12,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,88,23,16,0,0,0,0,0,26,8,4,0,62,15,12,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,88,60,12,0,0,0,0,0,26,20,1,0,62,40,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,88,55,17,0,0,0,0,0,26,17,4,0,62,38,13,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,88,55,17,0,0,0,0,0,26,18,3,0,62,37,14,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,88,53,19,0,0,0,0,0,26,17,4,0,62,36,15,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,26,27,County Judge,R,1,1,Lex Jones,C,1,,88,62,10,0,0,0,0,0,26,19,2,0,62,43,8,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,88,59,13,0,0,0,0,0,26,19,2,0,62,40,11,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,31,33,"County Commissioner, Precinct No. 2",R,1,1,Joe McKnight,C,1,,88,58,14,0,0,0,0,0,26,17,4,0,62,41,10,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,88,33,9,0,0,0,0,0,26,7,3,0,62,26,6,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,88,30,9,0,0,0,0,0,26,11,3,0,62,19,6,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,88,55,17,0,0,0,0,0,26,17,4,0,62,38,13,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,81,80,Religious Freedom:,R,1,1,YES,C,1,,88,70,2,0,0,0,0,0,26,21,0,0,62,49,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,81,80,Religious Freedom:,R,1,2,NO,C,2,,88,0,2,0,0,0,0,0,26,0,0,0,62,0,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,82,81,Second Amendment:,R,1,1,YES,C,1,,88,67,2,0,0,0,0,0,26,18,0,0,62,49,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,82,81,Second Amendment:,R,1,2,NO,C,2,,88,3,2,0,0,0,0,0,26,3,0,0,62,0,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,83,82,Franchise Tax:,R,1,1,YES,C,1,,88,63,6,0,0,0,0,0,26,17,3,0,62,46,3,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,83,82,Franchise Tax:,R,1,2,NO,C,2,,88,3,6,0,0,0,0,0,26,1,3,0,62,2,3,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,84,83,Welfare Reform:,R,1,1,YES,C,1,,88,68,3,0,0,0,0,0,26,20,1,0,62,48,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,84,83,Welfare Reform:,R,1,2,NO,C,2,,88,1,3,0,0,0,0,0,26,0,1,0,62,1,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,88,69,3,0,0,0,0,0,26,20,1,0,62,49,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,88,0,3,0,0,0,0,0,26,0,1,0,62,0,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,86,85,Obamacare:,R,1,1,YES,C,1,,88,68,4,0,0,0,0,0,26,19,2,0,62,49,2,0
+Marion County,3/4/2014,2014 Primary,3,,1,5,3,3,1106,0.08,86,85,Obamacare:,R,1,2,NO,C,2,,88,0,4,0,0,0,0,0,26,0,2,0,62,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,76,8,7,0,0,0,0,0,37,4,5,0,39,4,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,76,1,7,0,0,0,0,0,37,0,5,0,39,1,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,76,1,7,0,0,0,0,0,37,0,5,0,39,1,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,6,Ken Cope,C,4,,76,0,7,0,0,0,0,0,37,0,5,0,39,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,2,John Cornyn,C,5,,76,31,7,0,0,0,0,0,37,20,5,0,39,11,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,76,8,7,0,0,0,0,0,37,3,5,0,39,5,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,5,Linda Vega,C,7,,76,1,7,0,0,0,0,0,37,0,5,0,39,1,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,76,0,7,0,0,0,0,0,37,0,5,0,39,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,76,25,7,0,0,0,0,0,37,15,4,0,39,10,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,76,16,7,0,0,0,0,0,37,9,4,0,39,7,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,76,1,7,0,0,0,0,0,37,1,4,0,39,0,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,76,2,7,0,0,0,0,0,37,1,4,0,39,1,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,76,6,7,0,0,0,0,0,37,2,4,0,39,4,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,76,0,7,0,0,0,0,0,37,0,4,0,39,0,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,6,6,Governor,R,1,2,Greg Abbott,C,1,,76,42,10,0,0,0,0,0,37,23,6,0,39,19,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,76,3,10,0,0,0,0,0,37,2,6,0,39,1,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,76,2,10,0,0,0,0,0,37,1,6,0,39,1,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,6,6,Governor,R,1,1,Miriam Martinez,C,4,,76,0,10,0,0,0,0,0,37,0,6,0,39,0,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,76,9,11,0,0,0,0,0,37,7,7,0,39,2,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,76,16,11,0,0,0,0,0,37,9,7,0,39,7,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,76,9,11,0,0,0,0,0,37,4,7,0,39,5,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,76,12,11,0,0,0,0,0,37,5,7,0,39,7,4,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,76,22,15,0,0,0,0,0,37,14,8,0,39,8,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,8,8,Attorney General,R,1,2,Dan Branch,C,2,,76,9,15,0,0,0,0,0,37,4,8,0,39,5,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,76,11,15,0,0,0,0,0,37,6,8,0,39,5,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,76,18,16,0,0,0,0,0,37,12,9,0,39,6,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,76,10,16,0,0,0,0,0,37,4,9,0,39,6,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,76,3,16,0,0,0,0,0,37,1,9,0,39,2,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,76,10,16,0,0,0,0,0,37,6,9,0,39,4,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,76,31,13,0,0,0,0,0,37,15,8,0,39,16,5,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,76,13,13,0,0,0,0,0,37,9,8,0,39,4,5,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,76,5,15,0,0,0,0,0,37,2,8,0,39,3,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,76,3,15,0,0,0,0,0,37,2,8,0,39,1,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,76,13,15,0,0,0,0,0,37,10,8,0,39,3,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,76,18,15,0,0,0,0,0,37,9,8,0,39,9,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,76,3,15,0,0,0,0,0,37,1,8,0,39,2,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,76,10,14,0,0,0,0,0,37,7,8,0,39,3,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,76,29,14,0,0,0,0,0,37,13,8,0,39,16,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,76,0,14,0,0,0,0,0,37,0,8,0,39,0,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,76,4,14,0,0,0,0,0,37,4,8,0,39,0,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,76,22,15,0,0,0,0,0,37,12,8,0,39,10,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,76,20,15,0,0,0,0,0,37,12,8,0,39,8,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,76,17,15,0,0,0,0,0,37,6,8,0,39,11,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,76,25,15,0,0,0,0,0,37,18,8,0,39,7,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,76,38,19,0,0,0,0,0,37,22,10,0,39,16,9,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,76,13,16,0,0,0,0,0,37,6,8,0,39,7,8,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,76,28,16,0,0,0,0,0,37,18,8,0,39,10,8,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,76,26,15,0,0,0,0,0,37,16,8,0,39,10,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,76,16,15,0,0,0,0,0,37,8,8,0,39,8,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,76,12,16,0,0,0,0,0,37,8,9,0,39,4,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,76,21,16,0,0,0,0,0,37,12,9,0,39,9,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,76,8,16,0,0,0,0,0,37,3,9,0,39,5,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,76,18,16,0,0,0,0,0,37,10,8,0,39,8,8,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,76,23,16,0,0,0,0,0,37,14,8,0,39,9,8,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,76,39,18,0,0,0,0,0,37,20,12,0,39,19,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,76,38,19,0,0,0,0,0,37,22,10,0,39,16,9,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,76,45,12,0,0,0,0,0,37,26,6,0,39,19,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,76,39,18,0,0,0,0,0,37,23,9,0,39,16,9,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,26,27,County Judge,R,1,1,Lex Jones,C,1,,76,50,7,0,0,0,0,0,37,30,2,0,39,20,5,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,76,48,9,0,0,0,0,0,37,29,3,0,39,19,6,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,31,33,"County Commissioner, Precinct No. 2",R,1,1,Joe McKnight,C,1,,76,44,13,0,0,0,0,0,37,26,6,0,39,18,7,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,76,18,1,0,0,0,0,0,37,9,0,0,39,9,1,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,76,38,1,0,0,0,0,0,37,23,0,0,39,15,1,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,76,48,9,0,0,0,0,0,37,26,6,0,39,22,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,81,80,Religious Freedom:,R,1,1,YES,C,1,,76,53,4,0,0,0,0,0,37,29,3,0,39,24,1,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,81,80,Religious Freedom:,R,1,2,NO,C,2,,76,0,4,0,0,0,0,0,37,0,3,0,39,0,1,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,82,81,Second Amendment:,R,1,1,YES,C,1,,76,51,4,0,0,0,0,0,37,28,2,0,39,23,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,82,81,Second Amendment:,R,1,2,NO,C,2,,76,2,4,0,0,0,0,0,37,2,2,0,39,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,83,82,Franchise Tax:,R,1,1,YES,C,1,,76,45,7,0,0,0,0,0,37,25,4,0,39,20,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,83,82,Franchise Tax:,R,1,2,NO,C,2,,76,5,7,0,0,0,0,0,37,3,4,0,39,2,3,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,84,83,Welfare Reform:,R,1,1,YES,C,1,,76,52,4,0,0,0,0,0,37,29,2,0,39,23,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,84,83,Welfare Reform:,R,1,2,NO,C,2,,76,1,4,0,0,0,0,0,37,1,2,0,39,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,76,52,5,0,0,0,0,0,37,29,3,0,39,23,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,76,0,5,0,0,0,0,0,37,0,3,0,39,0,2,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,86,85,Obamacare:,R,1,1,YES,C,1,,76,51,4,0,0,0,0,0,37,28,3,0,39,23,1,0
+Marion County,3/4/2014,2014 Primary,4,,1,6,4,4,1110,0.07,86,85,Obamacare:,R,1,2,NO,C,2,,76,2,4,0,0,0,0,0,37,1,3,0,39,1,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,101,19,5,0,0,0,0,0,47,9,1,0,54,10,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,101,0,5,0,0,0,0,0,47,0,1,0,54,0,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,101,3,5,0,0,0,0,0,47,1,1,0,54,2,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,6,Ken Cope,C,4,,101,1,5,0,0,0,0,0,47,1,1,0,54,0,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,2,John Cornyn,C,5,,101,47,5,0,0,0,0,0,47,22,1,0,54,25,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,101,4,5,0,0,0,0,0,47,3,1,0,54,1,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,5,Linda Vega,C,7,,101,5,5,0,0,0,0,0,47,3,1,0,54,2,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,101,1,5,0,0,0,0,0,47,1,1,0,54,0,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,101,36,4,0,0,0,0,0,47,15,2,0,54,21,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,101,35,4,0,0,0,0,0,47,17,2,0,54,18,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,101,1,4,0,0,0,0,0,47,0,2,0,54,1,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,101,0,4,0,0,0,0,0,47,0,2,0,54,0,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,101,8,4,0,0,0,0,0,47,7,2,0,54,1,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,101,1,4,0,0,0,0,0,47,0,2,0,54,1,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,6,6,Governor,R,1,2,Greg Abbott,C,1,,101,75,6,0,0,0,0,0,47,37,2,0,54,38,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,101,3,6,0,0,0,0,0,47,2,2,0,54,1,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,101,1,6,0,0,0,0,0,47,0,2,0,54,1,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,6,6,Governor,R,1,1,Miriam Martinez,C,4,,101,0,6,0,0,0,0,0,47,0,2,0,54,0,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,101,12,9,0,0,0,0,0,47,7,4,0,54,5,5,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,101,25,9,0,0,0,0,0,47,17,4,0,54,8,5,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,101,7,9,0,0,0,0,0,47,4,4,0,54,3,5,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,101,32,9,0,0,0,0,0,47,9,4,0,54,23,5,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,101,33,16,0,0,0,0,0,47,15,7,0,54,18,9,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,8,8,Attorney General,R,1,2,Dan Branch,C,2,,101,21,16,0,0,0,0,0,47,8,7,0,54,13,9,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,101,15,16,0,0,0,0,0,47,11,7,0,54,4,9,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,101,26,22,0,0,0,0,0,47,12,8,0,54,14,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,101,21,22,0,0,0,0,0,47,14,8,0,54,7,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,101,5,22,0,0,0,0,0,47,4,8,0,54,1,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,101,11,22,0,0,0,0,0,47,3,8,0,54,8,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,101,57,16,0,0,0,0,0,47,27,9,0,54,30,7,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,101,12,16,0,0,0,0,0,47,5,9,0,54,7,7,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,101,18,18,0,0,0,0,0,47,9,8,0,54,9,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,101,1,18,0,0,0,0,0,47,0,8,0,54,1,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,101,14,18,0,0,0,0,0,47,11,8,0,54,3,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,101,30,18,0,0,0,0,0,47,11,8,0,54,19,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,101,4,18,0,0,0,0,0,47,2,8,0,54,2,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,101,13,22,0,0,0,0,0,47,6,10,0,54,7,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,101,32,22,0,0,0,0,0,47,16,10,0,54,16,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,101,2,22,0,0,0,0,0,47,2,10,0,54,0,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,101,16,22,0,0,0,0,0,47,7,10,0,54,9,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,101,37,21,0,0,0,0,0,47,17,9,0,54,20,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,101,27,21,0,0,0,0,0,47,15,9,0,54,12,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,101,37,27,0,0,0,0,0,47,17,11,0,54,20,16,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,101,21,27,0,0,0,0,0,47,13,11,0,54,8,16,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,101,52,33,0,0,0,0,0,47,25,16,0,54,27,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,101,22,25,0,0,0,0,0,47,12,11,0,54,10,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,101,38,25,0,0,0,0,0,47,18,11,0,54,20,14,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,101,49,27,0,0,0,0,0,47,24,12,0,54,25,15,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,101,9,27,0,0,0,0,0,47,5,12,0,54,4,15,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,101,25,30,0,0,0,0,0,47,9,13,0,54,16,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,101,26,30,0,0,0,0,0,47,18,13,0,54,8,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,101,4,30,0,0,0,0,0,47,1,13,0,54,3,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,101,29,29,0,0,0,0,0,47,14,12,0,54,15,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,101,27,29,0,0,0,0,0,47,15,12,0,54,12,17,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,101,63,22,0,0,0,0,0,47,31,10,0,54,32,12,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,101,58,27,0,0,0,0,0,47,30,11,0,54,28,16,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,101,66,19,0,0,0,0,0,47,32,9,0,54,34,10,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,101,64,21,0,0,0,0,0,47,31,10,0,54,33,11,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,26,27,County Judge,R,1,1,Lex Jones,C,1,,101,66,19,0,0,0,0,0,47,31,10,0,54,35,9,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,101,72,13,0,0,0,0,0,47,32,9,0,54,40,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,31,33,"County Commissioner, Precinct No. 2",R,1,1,Joe McKnight,C,1,,101,67,18,0,0,0,0,0,47,31,10,0,54,36,8,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,101,26,11,0,0,0,0,0,47,10,7,0,54,16,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,101,48,11,0,0,0,0,0,47,24,7,0,54,24,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,101,66,19,0,0,0,0,0,47,30,11,0,54,36,8,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,81,80,Religious Freedom:,R,1,1,YES,C,1,,101,82,3,0,0,0,0,0,47,39,2,0,54,43,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,81,80,Religious Freedom:,R,1,2,NO,C,2,,101,0,3,0,0,0,0,0,47,0,2,0,54,0,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,82,81,Second Amendment:,R,1,1,YES,C,1,,101,79,3,0,0,0,0,0,47,38,2,0,54,41,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,82,81,Second Amendment:,R,1,2,NO,C,2,,101,3,3,0,0,0,0,0,47,1,2,0,54,2,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,83,82,Franchise Tax:,R,1,1,YES,C,1,,101,69,8,0,0,0,0,0,47,34,4,0,54,35,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,83,82,Franchise Tax:,R,1,2,NO,C,2,,101,8,8,0,0,0,0,0,47,3,4,0,54,5,4,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,84,83,Welfare Reform:,R,1,1,YES,C,1,,101,81,3,0,0,0,0,0,47,39,2,0,54,42,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,84,83,Welfare Reform:,R,1,2,NO,C,2,,101,1,3,0,0,0,0,0,47,0,2,0,54,1,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,101,82,3,0,0,0,0,0,47,39,2,0,54,43,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,101,0,3,0,0,0,0,0,47,0,2,0,54,0,1,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,86,85,Obamacare:,R,1,1,YES,C,1,,101,80,4,0,0,0,0,0,47,39,2,0,54,41,2,0
+Marion County,3/4/2014,2014 Primary,5,,1,6,5,5,1460,0.07,86,85,Obamacare:,R,1,2,NO,C,2,,101,1,4,0,0,0,0,0,47,0,2,0,54,1,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,106,13,3,0,0,0,0,0,36,4,0,0,70,9,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,106,2,3,0,0,0,0,0,36,0,0,0,70,2,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,106,2,3,0,0,0,0,0,36,0,0,0,70,2,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,6,Ken Cope,C,4,,106,3,3,0,0,0,0,0,36,1,0,0,70,2,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,2,John Cornyn,C,5,,106,27,3,0,0,0,0,0,36,9,0,0,70,18,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,106,5,3,0,0,0,0,0,36,2,0,0,70,3,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,5,Linda Vega,C,7,,106,1,3,0,0,0,0,0,36,0,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,106,3,3,0,0,0,0,0,36,2,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,106,24,4,0,0,0,0,0,36,4,2,0,70,20,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,106,19,4,0,0,0,0,0,36,6,2,0,70,13,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,106,1,4,0,0,0,0,0,36,0,2,0,70,1,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,106,0,4,0,0,0,0,0,36,0,2,0,70,0,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,106,8,4,0,0,0,0,0,36,6,2,0,70,2,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,106,3,4,0,0,0,0,0,36,0,2,0,70,3,2,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,6,6,Governor,R,1,2,Greg Abbott,C,1,,106,52,3,0,0,0,0,0,36,18,0,0,70,34,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,106,4,3,0,0,0,0,0,36,0,0,0,70,4,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,106,0,3,0,0,0,0,0,36,0,0,0,70,0,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,6,6,Governor,R,1,1,Miriam Martinez,C,4,,106,0,3,0,0,0,0,0,36,0,0,0,70,0,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,106,11,5,0,0,0,0,0,36,2,1,0,70,9,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,106,10,5,0,0,0,0,0,36,4,1,0,70,6,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,106,12,5,0,0,0,0,0,36,5,1,0,70,7,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,106,21,5,0,0,0,0,0,36,6,1,0,70,15,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,106,22,6,0,0,0,0,0,36,8,1,0,70,14,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,8,8,Attorney General,R,1,2,Dan Branch,C,2,,106,19,6,0,0,0,0,0,36,4,1,0,70,15,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,106,12,6,0,0,0,0,0,36,5,1,0,70,7,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,106,19,7,0,0,0,0,0,36,4,2,0,70,15,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,106,15,7,0,0,0,0,0,36,6,2,0,70,9,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,106,6,7,0,0,0,0,0,36,3,2,0,70,3,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,106,12,7,0,0,0,0,0,36,3,2,0,70,9,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,106,32,5,0,0,0,0,0,36,8,1,0,70,24,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,106,22,5,0,0,0,0,0,36,9,1,0,70,13,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,106,11,6,0,0,0,0,0,36,0,2,0,70,11,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,106,2,6,0,0,0,0,0,36,2,2,0,70,0,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,106,15,6,0,0,0,0,0,36,6,2,0,70,9,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,106,19,6,0,0,0,0,0,36,4,2,0,70,15,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,106,6,6,0,0,0,0,0,36,4,2,0,70,2,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,106,10,7,0,0,0,0,0,36,3,2,0,70,7,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,106,32,7,0,0,0,0,0,36,11,2,0,70,21,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,106,1,7,0,0,0,0,0,36,0,2,0,70,1,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,106,9,7,0,0,0,0,0,36,2,2,0,70,7,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,106,35,9,0,0,0,0,0,36,7,3,0,70,28,6,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,106,15,9,0,0,0,0,0,36,8,3,0,70,7,6,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,106,31,8,0,0,0,0,0,36,7,3,0,70,24,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,106,20,8,0,0,0,0,0,36,8,3,0,70,12,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,106,51,7,0,0,0,0,0,36,16,2,0,70,35,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,106,22,6,0,0,0,0,0,36,6,2,0,70,16,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,106,31,6,0,0,0,0,0,36,10,2,0,70,21,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,106,30,10,0,0,0,0,0,36,9,5,0,70,21,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,106,19,10,0,0,0,0,0,36,4,5,0,70,15,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,106,21,10,0,0,0,0,0,36,3,5,0,70,18,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,106,17,10,0,0,0,0,0,36,7,5,0,70,10,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,106,11,10,0,0,0,0,0,36,3,5,0,70,8,5,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,106,27,10,0,0,0,0,0,36,5,6,0,70,22,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,106,22,10,0,0,0,0,0,36,7,6,0,70,15,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,106,45,13,0,0,0,0,0,36,13,5,0,70,32,8,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,106,41,17,0,0,0,0,0,36,13,5,0,70,28,12,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,106,47,11,0,0,0,0,0,36,14,4,0,70,33,7,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,106,44,14,0,0,0,0,0,36,14,4,0,70,30,10,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,26,27,County Judge,R,1,1,Lex Jones,C,1,,106,44,14,0,0,0,0,0,36,15,3,0,70,29,11,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,106,49,9,0,0,0,0,0,36,15,3,0,70,34,6,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,34,36,"Justice of the Peace, Precinct No. 2",R,1,1,Carla Biggs Bass,C,1,,106,43,15,0,0,0,0,0,36,10,8,0,70,33,7,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,106,46,12,0,0,0,0,0,36,15,3,0,70,31,9,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,81,80,Religious Freedom:,R,1,1,YES,C,1,,106,56,3,0,0,0,0,0,36,18,0,0,70,38,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,81,80,Religious Freedom:,R,1,2,NO,C,2,,106,0,3,0,0,0,0,0,36,0,0,0,70,0,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,82,81,Second Amendment:,R,1,1,YES,C,1,,106,54,3,0,0,0,0,0,36,17,0,0,70,37,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,82,81,Second Amendment:,R,1,2,NO,C,2,,106,2,3,0,0,0,0,0,36,1,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,83,82,Franchise Tax:,R,1,1,YES,C,1,,106,54,4,0,0,0,0,0,36,18,0,0,70,36,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,83,82,Franchise Tax:,R,1,2,NO,C,2,,106,1,4,0,0,0,0,0,36,0,0,0,70,1,4,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,84,83,Welfare Reform:,R,1,1,YES,C,1,,106,55,3,0,0,0,0,0,36,18,0,0,70,37,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,84,83,Welfare Reform:,R,1,2,NO,C,2,,106,1,3,0,0,0,0,0,36,0,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,106,55,3,0,0,0,0,0,36,18,0,0,70,37,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,106,1,3,0,0,0,0,0,36,0,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,86,85,Obamacare:,R,1,1,YES,C,1,,106,55,3,0,0,0,0,0,36,18,0,0,70,37,3,0
+Marion County,3/4/2014,2014 Primary,6,,1,7,6,6,1840,0.06,86,85,Obamacare:,R,1,2,NO,C,2,,106,1,3,0,0,0,0,0,36,0,0,0,70,1,3,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,92,13,1,0,0,0,0,0,43,8,0,0,49,5,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,92,0,1,0,0,0,0,0,43,0,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,92,0,1,0,0,0,0,0,43,0,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,6,Ken Cope,C,4,,92,0,1,0,0,0,0,0,43,0,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,2,John Cornyn,C,5,,92,23,1,0,0,0,0,0,43,10,0,0,49,13,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,92,4,1,0,0,0,0,0,43,4,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,5,Linda Vega,C,7,,92,2,1,0,0,0,0,0,43,2,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,92,0,1,0,0,0,0,0,43,0,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,92,14,2,0,0,0,0,0,43,9,0,0,49,5,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,92,19,2,0,0,0,0,0,43,11,0,0,49,8,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,92,2,2,0,0,0,0,0,43,1,0,0,49,1,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,92,0,2,0,0,0,0,0,43,0,0,0,49,0,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,92,6,2,0,0,0,0,0,43,3,0,0,49,3,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,92,0,2,0,0,0,0,0,43,0,0,0,49,0,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,6,6,Governor,R,1,2,Greg Abbott,C,1,,92,39,2,0,0,0,0,0,43,21,2,0,49,18,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,92,2,2,0,0,0,0,0,43,1,2,0,49,1,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,92,0,2,0,0,0,0,0,43,0,2,0,49,0,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,6,6,Governor,R,1,1,Miriam Martinez,C,4,,92,0,2,0,0,0,0,0,43,0,2,0,49,0,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,92,5,1,0,0,0,0,0,43,3,1,0,49,2,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,92,11,1,0,0,0,0,0,43,8,1,0,49,3,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,92,9,1,0,0,0,0,0,43,5,1,0,49,4,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,92,17,1,0,0,0,0,0,43,7,1,0,49,10,0,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,92,14,6,0,0,0,0,0,43,7,2,0,49,7,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,8,8,Attorney General,R,1,2,Dan Branch,C,2,,92,14,6,0,0,0,0,0,43,8,2,0,49,6,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,92,9,6,0,0,0,0,0,43,7,2,0,49,2,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,92,9,7,0,0,0,0,0,43,6,2,0,49,3,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,92,17,7,0,0,0,0,0,43,10,2,0,49,7,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,92,1,7,0,0,0,0,0,43,1,2,0,49,0,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,92,9,7,0,0,0,0,0,43,5,2,0,49,4,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,92,24,7,0,0,0,0,0,43,16,2,0,49,8,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,92,12,7,0,0,0,0,0,43,6,2,0,49,6,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,92,5,8,0,0,0,0,0,43,4,3,0,49,1,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,92,2,8,0,0,0,0,0,43,2,3,0,49,0,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,92,12,8,0,0,0,0,0,43,8,3,0,49,4,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,92,15,8,0,0,0,0,0,43,6,3,0,49,9,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,92,1,8,0,0,0,0,0,43,1,3,0,49,0,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,92,5,7,0,0,0,0,0,43,4,2,0,49,1,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,92,22,7,0,0,0,0,0,43,12,2,0,49,10,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,92,0,7,0,0,0,0,0,43,0,2,0,49,0,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,92,9,7,0,0,0,0,0,43,6,2,0,49,3,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,92,14,9,0,0,0,0,0,43,10,4,0,49,4,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,92,20,9,0,0,0,0,0,43,10,4,0,49,10,5,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,92,12,11,0,0,0,0,0,43,6,4,0,49,6,7,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,92,20,11,0,0,0,0,0,43,14,4,0,49,6,7,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,92,28,15,0,0,0,0,0,43,19,5,0,49,9,10,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,92,14,9,0,0,0,0,0,43,10,3,0,49,4,6,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,92,20,9,0,0,0,0,0,43,11,3,0,49,9,6,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,92,25,13,0,0,0,0,0,43,16,4,0,49,9,9,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,92,5,13,0,0,0,0,0,43,4,4,0,49,1,9,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,92,10,12,0,0,0,0,0,43,5,4,0,49,5,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,92,17,12,0,0,0,0,0,43,12,4,0,49,5,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,92,4,12,0,0,0,0,0,43,3,4,0,49,1,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,92,16,13,0,0,0,0,0,43,9,5,0,49,7,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,92,14,13,0,0,0,0,0,43,10,5,0,49,4,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,92,28,15,0,0,0,0,0,43,19,5,0,49,9,10,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,92,28,15,0,0,0,0,0,43,19,5,0,49,9,10,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,92,30,13,0,0,0,0,0,43,19,5,0,49,11,8,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,92,29,14,0,0,0,0,0,43,19,5,0,49,10,9,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,26,27,County Judge,R,1,1,Lex Jones,C,1,,92,33,10,0,0,0,0,0,43,18,6,0,49,15,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,92,35,8,0,0,0,0,0,43,20,4,0,49,15,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,34,36,"Justice of the Peace, Precinct No. 2",R,1,1,Carla Biggs Bass,C,1,,92,29,14,0,0,0,0,0,43,19,5,0,49,10,9,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,92,32,11,0,0,0,0,0,43,20,4,0,49,12,7,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,81,80,Religious Freedom:,R,1,1,YES,C,1,,92,42,1,0,0,0,0,0,43,24,0,0,49,18,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,81,80,Religious Freedom:,R,1,2,NO,C,2,,92,0,1,0,0,0,0,0,43,0,0,0,49,0,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,82,81,Second Amendment:,R,1,1,YES,C,1,,92,35,3,0,0,0,0,0,43,21,2,0,49,14,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,82,81,Second Amendment:,R,1,2,NO,C,2,,92,5,3,0,0,0,0,0,43,1,2,0,49,4,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,83,82,Franchise Tax:,R,1,1,YES,C,1,,92,36,4,0,0,0,0,0,43,22,0,0,49,14,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,83,82,Franchise Tax:,R,1,2,NO,C,2,,92,3,4,0,0,0,0,0,43,2,0,0,49,1,4,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,84,83,Welfare Reform:,R,1,1,YES,C,1,,92,41,2,0,0,0,0,0,43,24,0,0,49,17,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,84,83,Welfare Reform:,R,1,2,NO,C,2,,92,0,2,0,0,0,0,0,43,0,0,0,49,0,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,92,41,1,0,0,0,0,0,43,24,0,0,49,17,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,92,1,1,0,0,0,0,0,43,0,0,0,49,1,1,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,86,85,Obamacare:,R,1,1,YES,C,1,,92,41,2,0,0,0,0,0,43,24,0,0,49,17,2,0
+Marion County,3/4/2014,2014 Primary,7,,1,6,7,7,1690,0.05,86,85,Obamacare:,R,1,2,NO,C,2,,92,0,2,0,0,0,0,0,43,0,0,0,49,0,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,161,24,7,0,0,0,0,0,76,4,5,0,85,20,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,161,1,7,0,0,0,0,0,76,0,5,0,85,1,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,161,2,7,0,0,0,0,0,76,0,5,0,85,2,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,6,Ken Cope,C,4,,161,2,7,0,0,0,0,0,76,1,5,0,85,1,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,2,John Cornyn,C,5,,161,79,7,0,0,0,0,0,76,44,5,0,85,35,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,161,6,7,0,0,0,0,0,76,2,5,0,85,4,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,5,Linda Vega,C,7,,161,9,7,0,0,0,0,0,76,5,5,0,85,4,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,161,0,7,0,0,0,0,0,76,0,5,0,85,0,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,161,58,7,0,0,0,0,0,76,29,6,0,85,29,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,161,43,7,0,0,0,0,0,76,15,6,0,85,28,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,161,5,7,0,0,0,0,0,76,2,6,0,85,3,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,161,5,7,0,0,0,0,0,76,3,6,0,85,2,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,161,9,7,0,0,0,0,0,76,6,6,0,85,3,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,161,3,7,0,0,0,0,0,76,0,6,0,85,3,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,6,6,Governor,R,1,2,Greg Abbott,C,1,,161,109,5,0,0,0,0,0,76,48,4,0,85,61,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,161,7,5,0,0,0,0,0,76,2,4,0,85,5,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,161,4,5,0,0,0,0,0,76,3,4,0,85,1,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,6,6,Governor,R,1,1,Miriam Martinez,C,4,,161,5,5,0,0,0,0,0,76,4,4,0,85,1,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,161,31,9,0,0,0,0,0,76,11,6,0,85,20,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,161,31,9,0,0,0,0,0,76,15,6,0,85,16,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,161,14,9,0,0,0,0,0,76,5,6,0,85,9,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,161,45,9,0,0,0,0,0,76,24,6,0,85,21,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,161,48,15,0,0,0,0,0,76,23,8,0,85,25,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,8,8,Attorney General,R,1,2,Dan Branch,C,2,,161,42,15,0,0,0,0,0,76,16,8,0,85,26,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,161,25,15,0,0,0,0,0,76,14,8,0,85,11,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,161,36,21,0,0,0,0,0,76,20,10,0,85,16,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,161,39,21,0,0,0,0,0,76,20,10,0,85,19,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,161,6,21,0,0,0,0,0,76,4,10,0,85,2,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,161,28,21,0,0,0,0,0,76,7,10,0,85,21,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,161,97,14,0,0,0,0,0,76,45,9,0,85,52,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,161,19,14,0,0,0,0,0,76,7,9,0,85,12,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,161,23,13,0,0,0,0,0,76,11,6,0,85,12,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,161,11,13,0,0,0,0,0,76,7,6,0,85,4,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,161,28,13,0,0,0,0,0,76,19,6,0,85,9,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,161,42,13,0,0,0,0,0,76,14,6,0,85,28,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,161,13,13,0,0,0,0,0,76,4,6,0,85,9,7,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,161,26,16,0,0,0,0,0,76,8,7,0,85,18,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,161,57,16,0,0,0,0,0,76,29,7,0,85,28,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,161,6,16,0,0,0,0,0,76,4,7,0,85,2,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,161,25,16,0,0,0,0,0,76,13,7,0,85,12,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,161,58,17,0,0,0,0,0,76,27,9,0,85,31,8,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,161,55,17,0,0,0,0,0,76,25,9,0,85,30,8,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,161,40,20,0,0,0,0,0,76,17,11,0,85,23,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,161,70,20,0,0,0,0,0,76,33,11,0,85,37,9,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,161,91,39,0,0,0,0,0,76,41,20,0,85,50,19,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,161,41,20,0,0,0,0,0,76,18,10,0,85,23,10,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,161,69,20,0,0,0,0,0,76,33,10,0,85,36,10,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,161,66,21,0,0,0,0,0,76,30,11,0,85,36,10,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,161,43,21,0,0,0,0,0,76,20,11,0,85,23,10,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,161,39,22,0,0,0,0,0,76,17,11,0,85,22,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,161,43,22,0,0,0,0,0,76,20,11,0,85,23,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,161,26,22,0,0,0,0,0,76,13,11,0,85,13,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,161,57,21,0,0,0,0,0,76,24,10,0,85,33,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,161,52,21,0,0,0,0,0,76,27,10,0,85,25,11,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,161,101,29,0,0,0,0,0,76,49,12,0,85,52,17,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,161,98,32,0,0,0,0,0,76,48,13,0,85,50,19,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,161,105,25,0,0,0,0,0,76,49,12,0,85,56,13,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,161,96,34,0,0,0,0,0,76,46,15,0,85,50,19,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,26,27,County Judge,R,1,1,Lex Jones,C,1,,161,104,26,0,0,0,0,0,76,49,12,0,85,55,14,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,161,103,27,0,0,0,0,0,76,47,14,0,85,56,13,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,32,34,"County Commissioner, Precinct No. 4",R,1,1,C.W. (Charlie) Treadwell,C,1,,161,87,43,0,0,0,0,0,76,41,20,0,85,46,23,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,161,57,8,0,0,0,0,0,76,23,3,0,85,34,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,161,65,8,0,0,0,0,0,76,35,3,0,85,30,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,161,98,32,0,0,0,0,0,76,45,16,0,85,53,16,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,81,80,Religious Freedom:,R,1,1,YES,C,1,,161,123,4,0,0,0,0,0,76,57,2,0,85,66,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,81,80,Religious Freedom:,R,1,2,NO,C,2,,161,3,4,0,0,0,0,0,76,2,2,0,85,1,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,82,81,Second Amendment:,R,1,1,YES,C,1,,161,108,6,0,0,0,0,0,76,49,4,0,85,59,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,82,81,Second Amendment:,R,1,2,NO,C,2,,161,16,6,0,0,0,0,0,76,8,4,0,85,8,2,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,83,82,Franchise Tax:,R,1,1,YES,C,1,,161,98,11,0,0,0,0,0,76,45,6,0,85,53,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,83,82,Franchise Tax:,R,1,2,NO,C,2,,161,21,11,0,0,0,0,0,76,10,6,0,85,11,5,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,84,83,Welfare Reform:,R,1,1,YES,C,1,,161,117,6,0,0,0,0,0,76,54,3,0,85,63,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,84,83,Welfare Reform:,R,1,2,NO,C,2,,161,7,6,0,0,0,0,0,76,4,3,0,85,3,3,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,161,124,5,0,0,0,0,0,76,56,4,0,85,68,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,161,1,5,0,0,0,0,0,76,1,4,0,85,0,1,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,86,85,Obamacare:,R,1,1,YES,C,1,,161,117,3,0,0,0,0,0,76,52,3,0,85,65,0,0
+Marion County,3/4/2014,2014 Primary,8,,1,5,8,8,1628,0.1,86,85,Obamacare:,R,1,2,NO,C,2,,161,10,3,0,0,0,0,0,76,6,3,0,85,4,0,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,61,9,3,0,0,0,0,0,15,3,0,0,46,6,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,61,2,3,0,0,0,0,0,15,1,0,0,46,1,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,61,1,3,0,0,0,0,0,15,0,0,0,46,1,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,6,Ken Cope,C,4,,61,0,3,0,0,0,0,0,15,0,0,0,46,0,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,2,John Cornyn,C,5,,61,29,3,0,0,0,0,0,15,6,0,0,46,23,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,61,0,3,0,0,0,0,0,15,0,0,0,46,0,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,5,Linda Vega,C,7,,61,3,3,0,0,0,0,0,15,1,0,0,46,2,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,61,1,3,0,0,0,0,0,15,0,0,0,46,1,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,61,17,1,0,0,0,0,0,15,5,0,0,46,12,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,61,17,1,0,0,0,0,0,15,2,0,0,46,15,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,61,2,1,0,0,0,0,0,15,1,0,0,46,1,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,61,0,1,0,0,0,0,0,15,0,0,0,46,0,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,61,8,1,0,0,0,0,0,15,3,0,0,46,5,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,61,3,1,0,0,0,0,0,15,0,0,0,46,3,1,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,6,6,Governor,R,1,2,Greg Abbott,C,1,,61,44,2,0,0,0,0,0,15,11,0,0,46,33,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,61,2,2,0,0,0,0,0,15,0,0,0,46,2,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,61,0,2,0,0,0,0,0,15,0,0,0,46,0,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,6,6,Governor,R,1,1,Miriam Martinez,C,4,,61,0,2,0,0,0,0,0,15,0,0,0,46,0,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,61,8,4,0,0,0,0,0,15,4,0,0,46,4,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,61,10,4,0,0,0,0,0,15,2,0,0,46,8,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,61,8,4,0,0,0,0,0,15,1,0,0,46,7,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,61,18,4,0,0,0,0,0,15,4,0,0,46,14,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,61,18,5,0,0,0,0,0,15,4,0,0,46,14,5,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,8,8,Attorney General,R,1,2,Dan Branch,C,2,,61,15,5,0,0,0,0,0,15,4,0,0,46,11,5,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,61,10,5,0,0,0,0,0,15,3,0,0,46,7,5,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,61,22,8,0,0,0,0,0,15,5,0,0,46,17,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,61,11,8,0,0,0,0,0,15,4,0,0,46,7,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,61,1,8,0,0,0,0,0,15,0,0,0,46,1,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,61,6,8,0,0,0,0,0,15,2,0,0,46,4,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,61,40,3,0,0,0,0,0,15,8,0,0,46,32,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,61,5,3,0,0,0,0,0,15,3,0,0,46,2,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,61,7,7,0,0,0,0,0,15,3,0,0,46,4,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,61,0,7,0,0,0,0,0,15,0,0,0,46,0,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,61,11,7,0,0,0,0,0,15,4,0,0,46,7,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,61,23,7,0,0,0,0,0,15,4,0,0,46,19,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,61,0,7,0,0,0,0,0,15,0,0,0,46,0,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,61,7,6,0,0,0,0,0,15,2,0,0,46,5,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,61,25,6,0,0,0,0,0,15,6,0,0,46,19,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,61,1,6,0,0,0,0,0,15,0,0,0,46,1,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,61,9,6,0,0,0,0,0,15,3,0,0,46,6,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,61,25,9,0,0,0,0,0,15,4,1,0,46,21,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,61,14,9,0,0,0,0,0,15,6,1,0,46,8,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,61,19,8,0,0,0,0,0,15,2,1,0,46,17,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,61,21,8,0,0,0,0,0,15,8,1,0,46,13,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,61,38,10,0,0,0,0,0,15,10,1,0,46,28,9,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,61,8,7,0,0,0,0,0,15,2,0,0,46,6,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,61,33,7,0,0,0,0,0,15,9,0,0,46,24,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,61,36,6,0,0,0,0,0,15,8,0,0,46,28,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,61,6,6,0,0,0,0,0,15,3,0,0,46,3,6,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,61,19,8,0,0,0,0,0,15,6,0,0,46,13,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,61,18,8,0,0,0,0,0,15,4,0,0,46,14,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,61,3,8,0,0,0,0,0,15,1,0,0,46,2,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,61,22,7,0,0,0,0,0,15,6,0,0,46,16,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,61,19,7,0,0,0,0,0,15,5,0,0,46,14,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,61,40,8,0,0,0,0,0,15,10,1,0,46,30,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,61,35,13,0,0,0,0,0,15,10,1,0,46,25,12,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,61,38,10,0,0,0,0,0,15,10,1,0,46,28,9,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,61,37,11,0,0,0,0,0,15,10,1,0,46,27,10,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,26,27,County Judge,R,1,1,Lex Jones,C,1,,61,40,8,0,0,0,0,0,15,10,1,0,46,30,7,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,61,39,9,0,0,0,0,0,15,10,1,0,46,29,8,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,32,34,"County Commissioner, Precinct No. 4",R,1,1,C.W. (Charlie) Treadwell,C,1,,61,43,5,0,0,0,0,0,15,10,1,0,46,33,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,61,19,6,0,0,0,0,0,15,3,2,0,46,16,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,61,23,6,0,0,0,0,0,15,6,2,0,46,17,4,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,61,37,11,0,0,0,0,0,15,10,1,0,46,27,10,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,81,80,Religious Freedom:,R,1,1,YES,C,1,,61,45,2,0,0,0,0,0,15,11,0,0,46,34,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,81,80,Religious Freedom:,R,1,2,NO,C,2,,61,1,2,0,0,0,0,0,15,0,0,0,46,1,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,82,81,Second Amendment:,R,1,1,YES,C,1,,61,43,2,0,0,0,0,0,15,9,0,0,46,34,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,82,81,Second Amendment:,R,1,2,NO,C,2,,61,3,2,0,0,0,0,0,15,2,0,0,46,1,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,83,82,Franchise Tax:,R,1,1,YES,C,1,,61,44,3,0,0,0,0,0,15,11,0,0,46,33,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,83,82,Franchise Tax:,R,1,2,NO,C,2,,61,1,3,0,0,0,0,0,15,0,0,0,46,1,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,84,83,Welfare Reform:,R,1,1,YES,C,1,,61,44,3,0,0,0,0,0,15,11,0,0,46,33,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,84,83,Welfare Reform:,R,1,2,NO,C,2,,61,1,3,0,0,0,0,0,15,0,0,0,46,1,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,61,45,3,0,0,0,0,0,15,11,0,0,46,34,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,61,0,3,0,0,0,0,0,15,0,0,0,46,0,3,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,86,85,Obamacare:,R,1,1,YES,C,1,,61,46,2,0,0,0,0,0,15,11,0,0,46,35,2,0
+Marion County,3/4/2014,2014 Primary,9,,1,5,9,9,838,0.07,86,85,Obamacare:,R,1,2,NO,C,2,,61,0,2,0,0,0,0,0,15,0,0,0,46,0,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,8,Steve Stockman,C,1,,35,10,0,0,0,0,0,0,4,1,0,0,31,9,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,4,Reid Reasor,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,1,Chris Mapp,C,3,,35,1,0,0,0,0,0,0,4,0,0,0,31,1,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,6,Ken Cope,C,4,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,2,John Cornyn,C,5,,35,12,0,0,0,0,0,0,4,2,0,0,31,10,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,3,Dwayne Stovall,C,6,,35,1,0,0,0,0,0,0,4,0,0,0,31,1,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,5,Linda Vega,C,7,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,4,4,United States Senator,R,1,7,Curt Cleaver,C,8,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,1,John Ratcliffe,C,1,,35,7,0,0,0,0,0,0,4,1,0,0,31,6,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,2,Ralph M. Hall,C,2,,35,7,0,0,0,0,0,0,4,2,0,0,31,5,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,3,John Stacy,C,3,,35,2,0,0,0,0,0,0,4,0,0,0,31,2,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,4,Tony Arterburn,C,4,,35,1,0,0,0,0,0,0,4,0,0,0,31,1,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,5,Lou Gigliotti,C,5,,35,6,0,0,0,0,0,0,4,0,0,0,31,6,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,5,5,"United States Representative, District 4",R,1,6,Brent Lawson,C,6,,35,1,0,0,0,0,0,0,4,0,0,0,31,1,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,6,6,Governor,R,1,2,Greg Abbott,C,1,,35,23,0,0,0,0,0,0,4,3,0,0,31,20,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,6,6,Governor,R,1,3,Lisa Fritsch,C,2,,35,1,0,0,0,0,0,0,4,0,0,0,31,1,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,6,6,Governor,R,1,4,SECEDE Kilgore,C,3,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,6,6,Governor,R,1,1,Miriam Martinez,C,4,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,7,7,Lieutenant Governor,R,1,2,Jerry Patterson,C,1,,35,2,0,0,0,0,0,0,4,0,0,0,31,2,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,7,7,Lieutenant Governor,R,1,4,Dan Patrick,C,2,,35,9,0,0,0,0,0,0,4,2,0,0,31,7,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,7,7,Lieutenant Governor,R,1,3,Todd Staples,C,3,,35,8,0,0,0,0,0,0,4,1,0,0,31,7,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,7,7,Lieutenant Governor,R,1,1,David Dewhurst,C,4,,35,5,0,0,0,0,0,0,4,0,0,0,31,5,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,8,8,Attorney General,R,1,3,Ken Paxton,C,1,,35,16,0,0,0,0,0,0,4,3,0,0,31,13,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,8,8,Attorney General,R,1,2,Dan Branch,C,2,,35,6,0,0,0,0,0,0,4,0,0,0,31,6,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,8,8,Attorney General,R,1,1,Barry Smitherman,C,3,,35,2,0,0,0,0,0,0,4,0,0,0,31,2,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,9,9,Comptroller of Public Accounts,R,1,1,Glenn Hegar,C,1,,35,15,1,0,0,0,0,0,4,2,0,0,31,13,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,9,9,Comptroller of Public Accounts,R,1,3,Harvey Hilderbran,C,2,,35,7,1,0,0,0,0,0,4,1,0,0,31,6,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,9,9,Comptroller of Public Accounts,R,1,4,Raul Torres,C,3,,35,0,1,0,0,0,0,0,4,0,0,0,31,0,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,9,9,Comptroller of Public Accounts,R,1,2,Debra Medina,C,4,,35,1,1,0,0,0,0,0,4,0,0,0,31,1,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,10,10,Commissioner of the General Land Office,R,1,2,George P. Bush,C,1,,35,14,0,0,0,0,0,0,4,2,0,0,31,12,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,10,10,Commissioner of the General Land Office,R,1,1,David Watts,C,2,,35,10,0,0,0,0,0,0,4,1,0,0,31,9,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,11,11,Commissioner of Agriculture,R,1,5,Joe Cotten,C,1,,35,5,1,0,0,0,0,0,4,0,0,0,31,5,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,11,11,Commissioner of Agriculture,R,1,3,Eric Opiela,C,2,,35,1,1,0,0,0,0,0,4,0,0,0,31,1,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,11,11,Commissioner of Agriculture,R,1,2,Sid Miller,C,3,,35,9,1,0,0,0,0,0,4,2,0,0,31,7,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,11,11,Commissioner of Agriculture,R,1,4,Tommy Merritt,C,4,,35,6,1,0,0,0,0,0,4,1,0,0,31,5,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,11,11,Commissioner of Agriculture,R,1,1,J Allen Carnes,C,5,,35,2,1,0,0,0,0,0,4,0,0,0,31,2,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,12,12,Railroad Commissioner,R,1,3,Becky Berger,C,1,,35,4,2,0,0,0,0,0,4,0,0,0,31,4,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,12,12,Railroad Commissioner,R,1,2,Wayne Christian,C,2,,35,15,2,0,0,0,0,0,4,3,0,0,31,12,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,12,12,Railroad Commissioner,R,1,1,Malachi Boyuls,C,3,,35,0,2,0,0,0,0,0,4,0,0,0,31,0,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,12,12,Railroad Commissioner,R,1,4,Ryan Sitton,C,4,,35,3,2,0,0,0,0,0,4,0,0,0,31,3,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,13,13,"Chief Justice, Supreme Court",R,1,2,Robert Talton,C,1,,35,10,3,0,0,0,0,0,4,0,2,0,31,10,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,13,13,"Chief Justice, Supreme Court",R,1,1,Nathan Hecht,C,2,,35,11,3,0,0,0,0,0,4,1,2,0,31,10,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,2,Joe Pool,C,1,,35,10,1,0,0,0,0,0,4,1,0,0,31,9,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,79,14,"Justice, Supreme Court, Place 6 - Unexpired Term",R,1,1,Jeff Brown,C,2,,35,13,1,0,0,0,0,0,4,2,0,0,31,11,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,14,15,"Justice, Supreme Court, Place 7",R,1,1,Jeff Boyd,C,1,,35,17,7,0,0,0,0,0,4,1,2,0,31,16,5,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,15,16,"Justice, Supreme Court, Place 8",R,1,2,Sharon McCally,C,1,,35,8,1,0,0,0,0,0,4,0,0,0,31,8,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,15,16,"Justice, Supreme Court, Place 8",R,1,1,Phil Johnson,C,2,,35,15,1,0,0,0,0,0,4,3,0,0,31,12,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,1,Bert Richardson,C,1,,35,18,1,0,0,0,0,0,4,0,0,0,31,18,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,16,17,"Judge, Court of Criminal Appeals, Place 3",R,1,2,Barbara Walther,C,2,,35,5,1,0,0,0,0,0,4,3,0,0,31,2,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,3,Richard Dean Davis,C,1,,35,11,1,0,0,0,0,0,4,0,0,0,31,11,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,1,Kevin Patrick Yeary,C,2,,35,10,1,0,0,0,0,0,4,2,0,0,31,8,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,17,18,"Judge, Court of Criminal Appeals, Place 4",R,1,2,Jani Jo Wood,C,3,,35,2,1,0,0,0,0,0,4,1,0,0,31,1,1,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,1,David Newell,C,1,,35,15,2,0,0,0,0,0,4,3,0,0,31,12,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,18,19,"Judge, Court of Criminal Appeals, Place 9",R,1,2,"W.C. ""Bud"" Kirkendall",C,2,,35,7,2,0,0,0,0,0,4,0,0,0,31,7,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,21,22,"State Representative, District 9",R,1,1,Chris Paddie,C,1,,35,18,6,0,0,0,0,0,4,1,2,0,31,17,4,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,22,23,"Justice, 6th Court of Appeals District, Place 3",R,1,1,Ralph K. Burgess,C,1,,35,17,7,0,0,0,0,0,4,1,2,0,31,16,5,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,23,24,"District Judge, 115th Judicial District",R,1,1,"Lauren ""Laurie"" Parish",C,1,,35,19,5,0,0,0,0,0,4,1,2,0,31,18,3,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,24,25,"District Judge, 276th Judicial District",R,1,1,Robert Rolston,C,1,,35,18,6,0,0,0,0,0,4,1,2,0,31,17,4,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,26,27,County Judge,R,1,1,Lex Jones,C,1,,35,20,4,0,0,0,0,0,4,1,2,0,31,19,2,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,27,29,District Clerk,R,1,1,Susan Anderson,C,1,,35,19,5,0,0,0,0,0,4,1,2,0,31,18,3,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,32,34,"County Commissioner, Precinct No. 4",R,1,1,C.W. (Charlie) Treadwell,C,1,,35,15,9,0,0,0,0,0,4,1,2,0,31,14,7,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,33,35,"Justice of the Peace, Precinct No. 1",R,1,1,Eric Thomas,C,1,,35,10,1,0,0,0,0,0,4,0,1,0,31,10,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,33,35,"Justice of the Peace, Precinct No. 1",R,1,2,Lena Pope,C,2,,35,13,1,0,0,0,0,0,4,2,1,0,31,11,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,76,41,County Chairman,R,1,1,Ken Tomlinson,C,1,,35,16,8,0,0,0,0,0,4,1,2,0,31,15,6,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,81,80,Religious Freedom:,R,1,1,YES,C,1,,35,24,0,0,0,0,0,0,4,3,0,0,31,21,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,81,80,Religious Freedom:,R,1,2,NO,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,82,81,Second Amendment:,R,1,1,YES,C,1,,35,24,0,0,0,0,0,0,4,3,0,0,31,21,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,82,81,Second Amendment:,R,1,2,NO,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,83,82,Franchise Tax:,R,1,1,YES,C,1,,35,22,0,0,0,0,0,0,4,3,0,0,31,19,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,83,82,Franchise Tax:,R,1,2,NO,C,2,,35,2,0,0,0,0,0,0,4,0,0,0,31,2,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,84,83,Welfare Reform:,R,1,1,YES,C,1,,35,24,0,0,0,0,0,0,4,3,0,0,31,21,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,84,83,Welfare Reform:,R,1,2,NO,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,85,84,No Lawmaker Exceptions:,R,1,1,YES,C,1,,35,24,0,0,0,0,0,0,4,3,0,0,31,21,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,85,84,No Lawmaker Exceptions:,R,1,2,NO,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,86,85,Obamacare:,R,1,1,YES,C,1,,35,24,0,0,0,0,0,0,4,3,0,0,31,21,0,0
+Marion County,3/4/2014,2014 Primary,10,,1,4,10,10,954,0.04,86,85,Obamacare:,R,1,2,NO,C,2,,35,0,0,0,0,0,0,0,4,0,0,0,31,0,0,0

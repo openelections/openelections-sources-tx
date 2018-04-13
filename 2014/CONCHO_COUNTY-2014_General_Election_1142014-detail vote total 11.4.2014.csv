@@ -1,0 +1,566 @@
+"Precinct_name","Split_name","Reporting_flag","Update_count","Pct_Id","Pct_seq_nbr","Reg_voters","Turn_Out","Contest_Id","Contest_seq_nbr","Contest_title","Contest_party_name","Selectable_Options","candidate_id","candidate_name","Candidate_Type","cand_seq_nbr","Party_Code","total_ballots","total_votes","total_under_votes","total_over_votes","absentee_ballots","absentee_votes","absentee_under_votes","absentee_over_votes","early_ballots","early_votes","early_under_votes","early_over_votes","election_ballots","election_votes","election_under_votes","election_over_votes"
+"101","",1,4,1,1,373,0.43,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",159,84,60,0,0,0,0,0,84,43,31,0,75,41,29,0
+"101","",1,4,1,1,373,0.43,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",159,8,60,0,0,0,0,0,84,3,31,0,75,5,29,0
+"101","",1,4,1,1,373,0.43,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",159,0,60,0,0,0,0,0,84,0,31,0,75,0,29,0
+"101","",1,4,1,1,373,0.43,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",159,0,60,0,0,0,0,0,84,0,31,0,75,0,29,0
+"101","",1,4,1,1,373,0.43,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",159,138,5,0,0,0,0,0,84,73,3,0,75,65,2,0
+"101","",1,4,1,1,373,0.43,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",159,13,5,0,0,0,0,0,84,5,3,0,75,8,2,0
+"101","",1,4,1,1,373,0.43,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",159,2,5,0,0,0,0,0,84,2,3,0,75,0,2,0
+"101","",1,4,1,1,373,0.43,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",159,1,5,0,0,0,0,0,84,1,3,0,75,0,2,0
+"101","",1,4,1,1,373,0.43,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",159,137,5,0,0,0,0,0,84,70,1,0,75,67,4,0
+"101","",1,4,1,1,373,0.43,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",159,14,5,0,0,0,0,0,84,10,1,0,75,4,4,0
+"101","",1,4,1,1,373,0.43,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",159,137,2,0,0,0,0,0,84,70,2,0,75,67,0,0
+"101","",1,4,1,1,373,0.43,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",159,17,2,0,0,0,0,0,84,9,2,0,75,8,0,0
+"101","",1,4,1,1,373,0.43,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",159,1,2,0,0,0,0,0,84,1,2,0,75,0,0,0
+"101","",1,4,1,1,373,0.43,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",159,2,2,0,0,0,0,0,84,2,2,0,75,0,0,0
+"101","",1,4,1,1,373,0.43,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",159,132,4,0,0,0,0,0,84,70,2,0,75,62,2,0
+"101","",1,4,1,1,373,0.43,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",159,19,4,0,0,0,0,0,84,10,2,0,75,9,2,0
+"101","",1,4,1,1,373,0.43,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",159,4,4,0,0,0,0,0,84,2,2,0,75,2,2,0
+"101","",1,4,1,1,373,0.43,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",159,0,4,0,0,0,0,0,84,0,2,0,75,0,2,0
+"101","",1,4,1,1,373,0.43,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",159,132,4,0,0,0,0,0,84,70,3,0,75,62,1,0
+"101","",1,4,1,1,373,0.43,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",159,17,4,0,0,0,0,0,84,6,3,0,75,11,1,0
+"101","",1,4,1,1,373,0.43,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",159,5,4,0,0,0,0,0,84,4,3,0,75,1,1,0
+"101","",1,4,1,1,373,0.43,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",159,1,4,0,0,0,0,0,84,1,3,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",159,131,4,0,0,0,0,0,84,69,3,0,75,62,1,0
+"101","",1,4,1,1,373,0.43,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",159,19,4,0,0,0,0,0,84,8,3,0,75,11,1,0
+"101","",1,4,1,1,373,0.43,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",159,4,4,0,0,0,0,0,84,3,3,0,75,1,1,0
+"101","",1,4,1,1,373,0.43,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",159,1,4,0,0,0,0,0,84,1,3,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",159,135,3,0,0,0,0,0,84,69,3,0,75,66,0,0
+"101","",1,4,1,1,373,0.43,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",159,14,3,0,0,0,0,0,84,7,3,0,75,7,0,0
+"101","",1,4,1,1,373,0.43,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",159,6,3,0,0,0,0,0,84,5,3,0,75,1,0,0
+"101","",1,4,1,1,373,0.43,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",159,1,3,0,0,0,0,0,84,0,3,0,75,1,0,0
+"101","",1,4,1,1,373,0.43,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",159,132,4,0,0,0,0,0,84,70,3,0,75,62,1,0
+"101","",1,4,1,1,373,0.43,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",159,17,4,0,0,0,0,0,84,7,3,0,75,10,1,0
+"101","",1,4,1,1,373,0.43,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",159,5,4,0,0,0,0,0,84,3,3,0,75,2,1,0
+"101","",1,4,1,1,373,0.43,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",159,1,4,0,0,0,0,0,84,1,3,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",159,129,4,0,0,0,0,0,84,67,3,0,75,62,1,0
+"101","",1,4,1,1,373,0.43,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",159,16,4,0,0,0,0,0,84,7,3,0,75,9,1,0
+"101","",1,4,1,1,373,0.43,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",159,8,4,0,0,0,0,0,84,5,3,0,75,3,1,0
+"101","",1,4,1,1,373,0.43,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",159,1,4,0,0,0,0,0,84,1,3,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",159,132,2,0,0,0,0,0,84,68,2,0,75,64,0,0
+"101","",1,4,1,1,373,0.43,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",159,19,2,0,0,0,0,0,84,8,2,0,75,11,0,0
+"101","",1,4,1,1,373,0.43,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",159,5,2,0,0,0,0,0,84,5,2,0,75,0,0,0
+"101","",1,4,1,1,373,0.43,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",159,129,5,0,0,0,0,0,84,65,4,0,75,64,1,0
+"101","",1,4,1,1,373,0.43,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",159,17,5,0,0,0,0,0,84,7,4,0,75,10,1,0
+"101","",1,4,1,1,373,0.43,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",159,4,5,0,0,0,0,0,84,4,4,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",159,129,5,0,0,0,0,0,84,65,4,0,75,64,1,0
+"101","",1,4,1,1,373,0.43,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",159,16,5,0,0,0,0,0,84,7,4,0,75,9,1,0
+"101","",1,4,1,1,373,0.43,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",159,4,5,0,0,0,0,0,84,3,4,0,75,1,1,0
+"101","",1,4,1,1,373,0.43,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",159,1,5,0,0,0,0,0,84,1,4,0,75,0,1,0
+"101","",1,4,1,1,373,0.43,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",159,127,9,0,0,0,0,0,84,63,4,0,75,64,5,0
+"101","",1,4,1,1,373,0.43,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",159,11,9,0,0,0,0,0,84,6,4,0,75,5,5,0
+"101","",1,4,1,1,373,0.43,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",159,5,9,0,0,0,0,0,84,4,4,0,75,1,5,0
+"101","",1,4,1,1,373,0.43,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",159,126,5,0,0,0,0,0,84,62,5,0,75,64,0,0
+"101","",1,4,1,1,373,0.43,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",159,17,5,0,0,0,0,0,84,7,5,0,75,10,0,0
+"101","",1,4,1,1,373,0.43,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",159,7,5,0,0,0,0,0,84,6,5,0,75,1,0,0
+"101","",1,4,1,1,373,0.43,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",159,125,10,0,0,0,0,0,84,61,6,0,75,64,4,0
+"101","",1,4,1,1,373,0.43,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",159,15,10,0,0,0,0,0,84,9,6,0,75,6,4,0
+"101","",1,4,1,1,373,0.43,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",159,3,10,0,0,0,0,0,84,2,6,0,75,1,4,0
+"101","",1,4,1,1,373,0.43,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",159,129,9,0,0,0,0,0,84,64,4,0,75,65,5,0
+"101","",1,4,1,1,373,0.43,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",159,11,9,0,0,0,0,0,84,6,4,0,75,5,5,0
+"101","",1,4,1,1,373,0.43,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",159,3,9,0,0,0,0,0,84,3,4,0,75,0,5,0
+"101","",1,4,1,1,373,0.43,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",159,138,16,0,0,0,0,0,84,74,5,0,75,64,11,0
+"101","",1,4,1,1,373,0.43,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",159,128,6,0,0,0,0,0,84,66,4,0,75,62,2,0
+"101","",1,4,1,1,373,0.43,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",159,22,6,0,0,0,0,0,84,11,4,0,75,11,2,0
+"101","",1,4,1,1,373,0.43,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",159,139,14,0,0,0,0,0,84,74,4,0,75,65,10,0
+"101","",1,4,1,1,373,0.43,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",159,138,15,0,0,0,0,0,84,72,6,0,75,66,9,0
+"101","",1,4,1,1,373,0.43,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",159,140,13,0,0,0,0,0,84,72,6,0,75,68,7,0
+"101","",1,4,1,1,373,0.43,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",159,136,17,0,0,0,0,0,84,70,8,0,75,66,9,0
+"101","",1,4,1,1,373,0.43,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",159,135,18,0,0,0,0,0,84,69,9,0,75,66,9,0
+"101","",1,4,1,1,373,0.43,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",159,118,23,0,0,0,0,0,84,63,9,0,75,55,14,0
+"101","",1,4,1,1,373,0.43,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",159,16,23,0,0,0,0,0,84,10,9,0,75,6,14,0
+"102","",1,3,2,2,91,0.38,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",35,13,19,0,0,0,0,0,8,2,3,0,27,11,16,0
+"102","",1,3,2,2,91,0.38,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",35,0,19,0,0,0,0,0,8,0,3,0,27,0,16,0
+"102","",1,3,2,2,91,0.38,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",35,0,19,0,0,0,0,0,8,0,3,0,27,0,16,0
+"102","",1,3,2,2,91,0.38,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",35,0,19,0,0,0,0,0,8,0,3,0,27,0,16,0
+"102","",1,3,2,2,91,0.38,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",35,31,1,0,0,0,0,0,8,7,0,0,27,24,1,0
+"102","",1,3,2,2,91,0.38,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",35,3,1,0,0,0,0,0,8,1,0,0,27,2,1,0
+"102","",1,3,2,2,91,0.38,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",35,0,1,0,0,0,0,0,8,0,0,0,27,0,1,0
+"102","",1,3,2,2,91,0.38,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",35,0,1,0,0,0,0,0,8,0,0,0,27,0,1,0
+"102","",1,3,2,2,91,0.38,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",35,32,3,0,0,0,0,0,8,8,0,0,27,24,3,0
+"102","",1,3,2,2,91,0.38,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",35,0,3,0,0,0,0,0,8,0,0,0,27,0,3,0
+"102","",1,3,2,2,91,0.38,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",35,31,0,0,0,0,0,0,8,8,0,0,27,23,0,0
+"102","",1,3,2,2,91,0.38,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",35,4,0,0,0,0,0,0,8,0,0,0,27,4,0,0
+"102","",1,3,2,2,91,0.38,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",35,0,0,0,0,0,0,0,8,0,0,0,27,0,0,0
+"102","",1,3,2,2,91,0.38,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",35,0,0,0,0,0,0,0,8,0,0,0,27,0,0,0
+"102","",1,3,2,2,91,0.38,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",35,27,2,0,0,0,0,0,8,8,0,0,27,19,2,0
+"102","",1,3,2,2,91,0.38,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",35,3,2,0,0,0,0,0,8,0,0,0,27,3,2,0
+"102","",1,3,2,2,91,0.38,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",35,3,2,0,0,0,0,0,8,0,0,0,27,3,2,0
+"102","",1,3,2,2,91,0.38,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",35,0,2,0,0,0,0,0,8,0,0,0,27,0,2,0
+"102","",1,3,2,2,91,0.38,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",35,28,4,0,0,0,0,0,8,8,0,0,27,20,4,0
+"102","",1,3,2,2,91,0.38,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",35,3,4,0,0,0,0,0,8,0,0,0,27,3,4,0
+"102","",1,3,2,2,91,0.38,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",35,0,4,0,0,0,0,0,8,0,0,0,27,0,4,0
+"102","",1,3,2,2,91,0.38,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",35,0,4,0,0,0,0,0,8,0,0,0,27,0,4,0
+"102","",1,3,2,2,91,0.38,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",35,26,6,0,0,0,0,0,8,8,0,0,27,18,6,0
+"102","",1,3,2,2,91,0.38,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",35,1,6,0,0,0,0,0,8,0,0,0,27,1,6,0
+"102","",1,3,2,2,91,0.38,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",35,0,6,0,0,0,0,0,8,0,0,0,27,0,6,0
+"102","",1,3,2,2,91,0.38,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",35,31,1,0,0,0,0,0,8,8,0,0,27,23,1,0
+"102","",1,3,2,2,91,0.38,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",35,2,1,0,0,0,0,0,8,0,0,0,27,2,1,0
+"102","",1,3,2,2,91,0.38,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",35,1,1,0,0,0,0,0,8,0,0,0,27,1,1,0
+"102","",1,3,2,2,91,0.38,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",35,0,1,0,0,0,0,0,8,0,0,0,27,0,1,0
+"102","",1,3,2,2,91,0.38,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",35,27,5,0,0,0,0,0,8,8,0,0,27,19,5,0
+"102","",1,3,2,2,91,0.38,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",35,3,5,0,0,0,0,0,8,0,0,0,27,3,5,0
+"102","",1,3,2,2,91,0.38,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",35,0,5,0,0,0,0,0,8,0,0,0,27,0,5,0
+"102","",1,3,2,2,91,0.38,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",35,0,5,0,0,0,0,0,8,0,0,0,27,0,5,0
+"102","",1,3,2,2,91,0.38,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",35,26,6,0,0,0,0,0,8,8,0,0,27,18,6,0
+"102","",1,3,2,2,91,0.38,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",35,1,6,0,0,0,0,0,8,0,0,0,27,1,6,0
+"102","",1,3,2,2,91,0.38,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",35,0,6,0,0,0,0,0,8,0,0,0,27,0,6,0
+"102","",1,3,2,2,91,0.38,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",35,24,5,0,0,0,0,0,8,8,0,0,27,16,5,0
+"102","",1,3,2,2,91,0.38,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",35,2,5,0,0,0,0,0,8,0,0,0,27,2,5,0
+"102","",1,3,2,2,91,0.38,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",35,4,5,0,0,0,0,0,8,0,0,0,27,4,5,0
+"102","",1,3,2,2,91,0.38,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",35,26,5,0,0,0,0,0,8,8,0,0,27,18,5,0
+"102","",1,3,2,2,91,0.38,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",35,2,5,0,0,0,0,0,8,0,0,0,27,2,5,0
+"102","",1,3,2,2,91,0.38,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",35,2,5,0,0,0,0,0,8,0,0,0,27,2,5,0
+"102","",1,3,2,2,91,0.38,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",35,25,6,0,0,0,0,0,8,8,0,0,27,17,6,0
+"102","",1,3,2,2,91,0.38,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",35,0,6,0,0,0,0,0,8,0,0,0,27,0,6,0
+"102","",1,3,2,2,91,0.38,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",35,27,6,0,0,0,0,0,8,8,0,0,27,19,6,0
+"102","",1,3,2,2,91,0.38,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",35,0,6,0,0,0,0,0,8,0,0,0,27,0,6,0
+"102","",1,3,2,2,91,0.38,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",35,24,6,0,0,0,0,0,8,6,0,0,27,18,6,0
+"102","",1,3,2,2,91,0.38,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",35,3,6,0,0,0,0,0,8,2,0,0,27,1,6,0
+"102","",1,3,2,2,91,0.38,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",35,22,6,0,0,0,0,0,8,6,0,0,27,16,6,0
+"102","",1,3,2,2,91,0.38,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",35,6,6,0,0,0,0,0,8,2,0,0,27,4,6,0
+"102","",1,3,2,2,91,0.38,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",35,1,6,0,0,0,0,0,8,0,0,0,27,1,6,0
+"102","",1,3,2,2,91,0.38,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",35,26,6,0,0,0,0,0,8,8,0,0,27,18,6,0
+"102","",1,3,2,2,91,0.38,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",35,1,6,0,0,0,0,0,8,0,0,0,27,1,6,0
+"102","",1,3,2,2,91,0.38,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",35,32,3,0,0,0,0,0,8,8,0,0,27,24,3,0
+"102","",1,3,2,2,91,0.38,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",35,27,6,0,0,0,0,0,8,8,0,0,27,19,6,0
+"102","",1,3,2,2,91,0.38,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",35,2,6,0,0,0,0,0,8,0,0,0,27,2,6,0
+"102","",1,3,2,2,91,0.38,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",35,32,3,0,0,0,0,0,8,8,0,0,27,24,3,0
+"102","",1,3,2,2,91,0.38,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",35,32,3,0,0,0,0,0,8,8,0,0,27,24,3,0
+"102","",1,3,2,2,91,0.38,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",35,34,1,0,0,0,0,0,8,8,0,0,27,26,1,0
+"102","",1,3,2,2,91,0.38,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",35,31,4,0,0,0,0,0,8,8,0,0,27,23,4,0
+"102","",1,3,2,2,91,0.38,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",35,34,1,0,0,0,0,0,8,8,0,0,27,26,1,0
+"102","",1,3,2,2,91,0.38,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",35,29,1,0,0,0,0,0,8,7,0,0,27,22,1,0
+"102","",1,3,2,2,91,0.38,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",35,5,1,0,0,0,0,0,8,1,0,0,27,4,1,0
+"203","",1,3,3,3,122,0.40,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",49,21,25,0,0,0,0,0,19,7,9,0,30,14,16,0
+"203","",1,3,3,3,122,0.40,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",49,0,25,0,0,0,0,0,19,0,9,0,30,0,16,0
+"203","",1,3,3,3,122,0.40,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",49,0,25,0,0,0,0,0,19,0,9,0,30,0,16,0
+"203","",1,3,3,3,122,0.40,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",49,0,25,0,0,0,0,0,19,0,9,0,30,0,16,0
+"203","",1,3,3,3,122,0.40,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",49,40,4,0,0,0,0,0,19,17,1,0,30,23,3,0
+"203","",1,3,3,3,122,0.40,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",49,2,4,0,0,0,0,0,19,1,1,0,30,1,3,0
+"203","",1,3,3,3,122,0.40,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",49,3,4,0,0,0,0,0,19,0,1,0,30,3,3,0
+"203","",1,3,3,3,122,0.40,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",49,0,4,0,0,0,0,0,19,0,1,0,30,0,3,0
+"203","",1,3,3,3,122,0.40,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",49,45,2,0,0,0,0,0,19,17,1,0,30,28,1,0
+"203","",1,3,3,3,122,0.40,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",49,2,2,0,0,0,0,0,19,1,1,0,30,1,1,0
+"203","",1,3,3,3,122,0.40,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",49,45,0,0,0,0,0,0,19,18,0,0,30,27,0,0
+"203","",1,3,3,3,122,0.40,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",49,1,0,0,0,0,0,0,19,1,0,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",49,3,0,0,0,0,0,0,19,0,0,0,30,3,0,0
+"203","",1,3,3,3,122,0.40,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",49,0,0,0,0,0,0,0,19,0,0,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",49,44,4,0,0,0,0,0,19,16,2,0,30,28,2,0
+"203","",1,3,3,3,122,0.40,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",49,1,4,0,0,0,0,0,19,1,2,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",49,0,4,0,0,0,0,0,19,0,2,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",49,0,4,0,0,0,0,0,19,0,2,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",49,44,2,0,0,0,0,0,19,16,2,0,30,28,0,0
+"203","",1,3,3,3,122,0.40,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",49,3,2,0,0,0,0,0,19,1,2,0,30,2,0,0
+"203","",1,3,3,3,122,0.40,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",49,0,2,0,0,0,0,0,19,0,2,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",49,0,2,0,0,0,0,0,19,0,2,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",49,45,2,0,0,0,0,0,19,16,2,0,30,29,0,0
+"203","",1,3,3,3,122,0.40,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",49,2,2,0,0,0,0,0,19,1,2,0,30,1,0,0
+"203","",1,3,3,3,122,0.40,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",49,0,2,0,0,0,0,0,19,0,2,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",49,0,2,0,0,0,0,0,19,0,2,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",49,45,1,0,0,0,0,0,19,17,1,0,30,28,0,0
+"203","",1,3,3,3,122,0.40,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",49,2,1,0,0,0,0,0,19,1,1,0,30,1,0,0
+"203","",1,3,3,3,122,0.40,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",49,1,1,0,0,0,0,0,19,0,1,0,30,1,0,0
+"203","",1,3,3,3,122,0.40,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",49,0,1,0,0,0,0,0,19,0,1,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",49,44,3,0,0,0,0,0,19,18,0,0,30,26,3,0
+"203","",1,3,3,3,122,0.40,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",49,1,3,0,0,0,0,0,19,1,0,0,30,0,3,0
+"203","",1,3,3,3,122,0.40,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",49,0,3,0,0,0,0,0,19,0,0,0,30,0,3,0
+"203","",1,3,3,3,122,0.40,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",49,1,3,0,0,0,0,0,19,0,0,0,30,1,3,0
+"203","",1,3,3,3,122,0.40,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",49,42,0,0,0,0,0,0,19,16,0,0,30,26,0,0
+"203","",1,3,3,3,122,0.40,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",49,5,0,0,0,0,0,0,19,3,0,0,30,2,0,0
+"203","",1,3,3,3,122,0.40,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",49,2,0,0,0,0,0,0,19,0,0,0,30,2,0,0
+"203","",1,3,3,3,122,0.40,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",49,0,0,0,0,0,0,0,19,0,0,0,30,0,0,0
+"203","",1,3,3,3,122,0.40,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",49,40,4,0,0,0,0,0,19,15,2,0,30,25,2,0
+"203","",1,3,3,3,122,0.40,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",49,3,4,0,0,0,0,0,19,1,2,0,30,2,2,0
+"203","",1,3,3,3,122,0.40,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",49,1,4,0,0,0,0,0,19,0,2,0,30,1,2,0
+"203","",1,3,3,3,122,0.40,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",49,45,0,0,0,0,0,0,19,17,0,0,30,28,0,0
+"203","",1,3,3,3,122,0.40,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",49,3,0,0,0,0,0,0,19,2,0,0,30,1,0,0
+"203","",1,3,3,3,122,0.40,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",49,1,0,0,0,0,0,0,19,0,0,0,30,1,0,0
+"203","",1,3,3,3,122,0.40,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",49,44,1,0,0,0,0,0,19,17,0,0,30,27,1,0
+"203","",1,3,3,3,122,0.40,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",49,3,1,0,0,0,0,0,19,2,0,0,30,1,1,0
+"203","",1,3,3,3,122,0.40,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",49,1,1,0,0,0,0,0,19,0,0,0,30,1,1,0
+"203","",1,3,3,3,122,0.40,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",49,0,1,0,0,0,0,0,19,0,0,0,30,0,1,0
+"203","",1,3,3,3,122,0.40,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",49,45,1,0,0,0,0,0,19,17,0,0,30,28,1,0
+"203","",1,3,3,3,122,0.40,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",49,2,1,0,0,0,0,0,19,1,0,0,30,1,1,0
+"203","",1,3,3,3,122,0.40,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",49,0,1,0,0,0,0,0,19,0,0,0,30,0,1,0
+"203","",1,3,3,3,122,0.40,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",49,43,3,0,0,0,0,0,19,16,1,0,30,27,2,0
+"203","",1,3,3,3,122,0.40,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",49,1,3,0,0,0,0,0,19,1,1,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",49,1,3,0,0,0,0,0,19,0,1,0,30,1,2,0
+"203","",1,3,3,3,122,0.40,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",49,42,4,0,0,0,0,0,19,15,2,0,30,27,2,0
+"203","",1,3,3,3,122,0.40,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",49,2,4,0,0,0,0,0,19,1,2,0,30,1,2,0
+"203","",1,3,3,3,122,0.40,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",49,1,4,0,0,0,0,0,19,1,2,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",49,43,4,0,0,0,0,0,19,16,2,0,30,27,2,0
+"203","",1,3,3,3,122,0.40,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",49,2,4,0,0,0,0,0,19,1,2,0,30,1,2,0
+"203","",1,3,3,3,122,0.40,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",49,0,4,0,0,0,0,0,19,0,2,0,30,0,2,0
+"203","",1,3,3,3,122,0.40,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",49,39,9,0,0,0,0,0,19,16,2,0,30,23,7,0
+"203","",1,3,3,3,122,0.40,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",49,44,2,0,0,0,0,0,19,16,1,0,30,28,1,0
+"203","",1,3,3,3,122,0.40,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",49,3,2,0,0,0,0,0,19,2,1,0,30,1,1,0
+"203","",1,3,3,3,122,0.40,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",49,43,5,0,0,0,0,0,19,16,2,0,30,27,3,0
+"203","",1,3,3,3,122,0.40,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",49,46,3,0,0,0,0,0,19,18,1,0,30,28,2,0
+"203","",1,3,3,3,122,0.40,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",49,45,4,0,0,0,0,0,19,19,0,0,30,26,4,0
+"203","",1,3,3,3,122,0.40,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",49,46,3,0,0,0,0,0,19,19,0,0,30,27,3,0
+"203","",1,3,3,3,122,0.40,25,25,"County Commissioner, Precinct No. 2","",1,1,"Ralph H. Willberg","C",1,"REP",49,44,5,0,0,0,0,0,19,19,0,0,30,25,5,0
+"203","",1,3,3,3,122,0.40,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",49,46,3,0,0,0,0,0,19,19,0,0,30,27,3,0
+"203","",1,3,3,3,122,0.40,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",49,36,2,0,0,0,0,0,19,15,0,0,30,21,2,0
+"203","",1,3,3,3,122,0.40,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",49,10,2,0,0,0,0,0,19,3,0,0,30,7,2,0
+"204","",1,3,4,4,137,0.35,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",48,23,19,0,0,0,0,0,8,4,2,0,40,19,17,0
+"204","",1,3,4,4,137,0.35,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",48,4,19,0,0,0,0,0,8,0,2,0,40,4,17,0
+"204","",1,3,4,4,137,0.35,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",48,0,19,0,0,0,0,0,8,0,2,0,40,0,17,0
+"204","",1,3,4,4,137,0.35,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",48,0,19,0,0,0,0,0,8,0,2,0,40,0,17,0
+"204","",1,3,4,4,137,0.35,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",48,37,0,0,0,0,0,0,8,6,0,0,40,31,0,0
+"204","",1,3,4,4,137,0.35,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",48,7,0,0,0,0,0,0,8,1,0,0,40,6,0,0
+"204","",1,3,4,4,137,0.35,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",48,1,0,0,0,0,0,0,8,0,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",48,2,0,0,0,0,0,0,8,0,0,0,40,2,0,0
+"204","",1,3,4,4,137,0.35,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",48,40,4,0,0,0,0,0,8,8,0,0,40,32,4,0
+"204","",1,3,4,4,137,0.35,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",48,4,4,0,0,0,0,0,8,0,0,0,40,4,4,0
+"204","",1,3,4,4,137,0.35,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",48,40,0,0,0,0,0,0,8,7,0,0,40,33,0,0
+"204","",1,3,4,4,137,0.35,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",48,8,0,0,0,0,0,0,8,1,0,0,40,7,0,0
+"204","",1,3,4,4,137,0.35,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",48,0,0,0,0,0,0,0,8,0,0,0,40,0,0,0
+"204","",1,3,4,4,137,0.35,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",48,0,0,0,0,0,0,0,8,0,0,0,40,0,0,0
+"204","",1,3,4,4,137,0.35,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",48,40,0,0,0,0,0,0,8,8,0,0,40,32,0,0
+"204","",1,3,4,4,137,0.35,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",48,8,0,0,0,0,0,0,8,0,0,0,40,8,0,0
+"204","",1,3,4,4,137,0.35,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",48,0,0,0,0,0,0,0,8,0,0,0,40,0,0,0
+"204","",1,3,4,4,137,0.35,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",48,0,0,0,0,0,0,0,8,0,0,0,40,0,0,0
+"204","",1,3,4,4,137,0.35,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",48,37,1,0,0,0,0,0,8,6,0,0,40,31,1,0
+"204","",1,3,4,4,137,0.35,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",48,9,1,0,0,0,0,0,8,1,0,0,40,8,1,0
+"204","",1,3,4,4,137,0.35,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",48,1,1,0,0,0,0,0,8,1,0,0,40,0,1,0
+"204","",1,3,4,4,137,0.35,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",48,0,1,0,0,0,0,0,8,0,0,0,40,0,1,0
+"204","",1,3,4,4,137,0.35,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",48,37,0,0,0,0,0,0,8,7,0,0,40,30,0,0
+"204","",1,3,4,4,137,0.35,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",48,7,0,0,0,0,0,0,8,1,0,0,40,6,0,0
+"204","",1,3,4,4,137,0.35,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",48,2,0,0,0,0,0,0,8,0,0,0,40,2,0,0
+"204","",1,3,4,4,137,0.35,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",48,2,0,0,0,0,0,0,8,0,0,0,40,2,0,0
+"204","",1,3,4,4,137,0.35,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",48,37,0,0,0,0,0,0,8,6,0,0,40,31,0,0
+"204","",1,3,4,4,137,0.35,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",48,7,0,0,0,0,0,0,8,1,0,0,40,6,0,0
+"204","",1,3,4,4,137,0.35,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",48,3,0,0,0,0,0,0,8,1,0,0,40,2,0,0
+"204","",1,3,4,4,137,0.35,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",48,1,0,0,0,0,0,0,8,0,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",48,39,0,0,0,0,0,0,8,6,0,0,40,33,0,0
+"204","",1,3,4,4,137,0.35,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",48,8,0,0,0,0,0,0,8,2,0,0,40,6,0,0
+"204","",1,3,4,4,137,0.35,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",48,0,0,0,0,0,0,0,8,0,0,0,40,0,0,0
+"204","",1,3,4,4,137,0.35,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",48,1,0,0,0,0,0,0,8,0,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",48,36,1,0,0,0,0,0,8,6,0,0,40,30,1,0
+"204","",1,3,4,4,137,0.35,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",48,6,1,0,0,0,0,0,8,1,0,0,40,5,1,0
+"204","",1,3,4,4,137,0.35,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",48,3,1,0,0,0,0,0,8,1,0,0,40,2,1,0
+"204","",1,3,4,4,137,0.35,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",48,2,1,0,0,0,0,0,8,0,0,0,40,2,1,0
+"204","",1,3,4,4,137,0.35,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",48,36,1,0,0,0,0,0,8,6,0,0,40,30,1,0
+"204","",1,3,4,4,137,0.35,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",48,9,1,0,0,0,0,0,8,1,0,0,40,8,1,0
+"204","",1,3,4,4,137,0.35,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",48,2,1,0,0,0,0,0,8,1,0,0,40,1,1,0
+"204","",1,3,4,4,137,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",48,38,0,0,0,0,0,0,8,6,0,0,40,32,0,0
+"204","",1,3,4,4,137,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",48,8,0,0,0,0,0,0,8,1,0,0,40,7,0,0
+"204","",1,3,4,4,137,0.35,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",48,1,0,0,0,0,0,0,8,0,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",48,37,0,0,0,0,0,0,8,7,0,0,40,30,0,0
+"204","",1,3,4,4,137,0.35,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",48,7,0,0,0,0,0,0,8,0,0,0,40,7,0,0
+"204","",1,3,4,4,137,0.35,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",48,2,0,0,0,0,0,0,8,0,0,0,40,2,0,0
+"204","",1,3,4,4,137,0.35,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",48,1,0,0,0,0,0,0,8,0,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",48,39,3,0,0,0,0,0,8,7,0,0,40,32,3,0
+"204","",1,3,4,4,137,0.35,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",48,1,3,0,0,0,0,0,8,0,0,0,40,1,3,0
+"204","",1,3,4,4,137,0.35,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",48,4,3,0,0,0,0,0,8,0,0,0,40,4,3,0
+"204","",1,3,4,4,137,0.35,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",48,38,0,0,0,0,0,0,8,6,0,0,40,32,0,0
+"204","",1,3,4,4,137,0.35,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",48,7,0,0,0,0,0,0,8,0,0,0,40,7,0,0
+"204","",1,3,4,4,137,0.35,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",48,2,0,0,0,0,0,0,8,1,0,0,40,1,0,0
+"204","",1,3,4,4,137,0.35,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",48,38,3,0,0,0,0,0,8,7,0,0,40,31,3,0
+"204","",1,3,4,4,137,0.35,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",48,2,3,0,0,0,0,0,8,0,0,0,40,2,3,0
+"204","",1,3,4,4,137,0.35,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",48,4,3,0,0,0,0,0,8,0,0,0,40,4,3,0
+"204","",1,3,4,4,137,0.35,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",48,39,3,0,0,0,0,0,8,7,0,0,40,32,3,0
+"204","",1,3,4,4,137,0.35,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",48,1,3,0,0,0,0,0,8,0,0,0,40,1,3,0
+"204","",1,3,4,4,137,0.35,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",48,4,3,0,0,0,0,0,8,0,0,0,40,4,3,0
+"204","",1,3,4,4,137,0.35,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",48,42,6,0,0,0,0,0,8,8,0,0,40,34,6,0
+"204","",1,3,4,4,137,0.35,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",48,37,0,0,0,0,0,0,8,6,0,0,40,31,0,0
+"204","",1,3,4,4,137,0.35,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",48,10,0,0,0,0,0,0,8,1,0,0,40,9,0,0
+"204","",1,3,4,4,137,0.35,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",48,39,8,0,0,0,0,0,8,6,1,0,40,33,7,0
+"204","",1,3,4,4,137,0.35,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",48,42,5,0,0,0,0,0,8,7,0,0,40,35,5,0
+"204","",1,3,4,4,137,0.35,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",48,42,5,0,0,0,0,0,8,7,0,0,40,35,5,0
+"204","",1,3,4,4,137,0.35,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",48,42,5,0,0,0,0,0,8,7,0,0,40,35,5,0
+"204","",1,3,4,4,137,0.35,25,25,"County Commissioner, Precinct No. 2","",1,1,"Ralph H. Willberg","C",1,"REP",48,41,5,0,0,0,0,0,8,6,0,0,40,35,5,0
+"204","",1,3,4,4,137,0.35,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",48,40,7,0,0,0,0,0,8,6,1,0,40,34,6,0
+"204","",1,3,4,4,137,0.35,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",48,32,8,0,0,0,0,0,8,8,0,0,40,24,8,0
+"204","",1,3,4,4,137,0.35,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",48,8,8,0,0,0,0,0,8,0,0,0,40,8,8,0
+"205","",1,3,5,5,166,0.32,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",53,24,20,0,0,0,0,0,11,7,1,0,42,17,19,0
+"205","",1,3,5,5,166,0.32,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",53,6,20,0,0,0,0,0,11,0,1,0,42,6,19,0
+"205","",1,3,5,5,166,0.32,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",53,0,20,0,0,0,0,0,11,0,1,0,42,0,19,0
+"205","",1,3,5,5,166,0.32,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",53,0,20,0,0,0,0,0,11,0,1,0,42,0,19,0
+"205","",1,3,5,5,166,0.32,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",53,43,1,0,0,0,0,0,11,11,0,0,42,32,1,0
+"205","",1,3,5,5,166,0.32,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",53,8,1,0,0,0,0,0,11,0,0,0,42,8,1,0
+"205","",1,3,5,5,166,0.32,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",53,43,8,0,0,0,0,0,11,11,0,0,42,32,8,0
+"205","",1,3,5,5,166,0.32,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",53,2,8,0,0,0,0,0,11,0,0,0,42,2,8,0
+"205","",1,3,5,5,166,0.32,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",53,40,1,0,0,0,0,0,11,11,0,0,42,29,1,0
+"205","",1,3,5,5,166,0.32,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",53,42,1,0,0,0,0,0,11,11,0,0,42,31,1,0
+"205","",1,3,5,5,166,0.32,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",53,9,1,0,0,0,0,0,11,0,0,0,42,9,1,0
+"205","",1,3,5,5,166,0.32,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",53,39,1,0,0,0,0,0,11,11,0,0,42,28,1,0
+"205","",1,3,5,5,166,0.32,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",53,39,1,0,0,0,0,0,11,11,0,0,42,28,1,0
+"205","",1,3,5,5,166,0.32,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",53,40,1,0,0,0,0,0,11,11,0,0,42,29,1,0
+"205","",1,3,5,5,166,0.32,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",53,39,1,0,0,0,0,0,11,11,0,0,42,28,1,0
+"205","",1,3,5,5,166,0.32,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",53,0,1,0,0,0,0,0,11,0,0,0,42,0,1,0
+"205","",1,3,5,5,166,0.32,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",53,38,1,0,0,0,0,0,11,11,0,0,42,27,1,0
+"205","",1,3,5,5,166,0.32,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",53,11,1,0,0,0,0,0,11,0,0,0,42,11,1,0
+"205","",1,3,5,5,166,0.32,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",53,2,1,0,0,0,0,0,11,0,0,0,42,2,1,0
+"205","",1,3,5,5,166,0.32,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",53,39,1,0,0,0,0,0,11,11,0,0,42,28,1,0
+"205","",1,3,5,5,166,0.32,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",53,12,1,0,0,0,0,0,11,0,0,0,42,12,1,0
+"205","",1,3,5,5,166,0.32,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",53,1,1,0,0,0,0,0,11,0,0,0,42,1,1,0
+"205","",1,3,5,5,166,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",53,38,3,0,0,0,0,0,11,11,0,0,42,27,3,0
+"205","",1,3,5,5,166,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",53,11,3,0,0,0,0,0,11,0,0,0,42,11,3,0
+"205","",1,3,5,5,166,0.32,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",53,1,3,0,0,0,0,0,11,0,0,0,42,1,3,0
+"205","",1,3,5,5,166,0.32,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",53,39,3,0,0,0,0,0,11,11,0,0,42,28,3,0
+"205","",1,3,5,5,166,0.32,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",53,10,3,0,0,0,0,0,11,0,0,0,42,10,3,0
+"205","",1,3,5,5,166,0.32,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",53,1,3,0,0,0,0,0,11,0,0,0,42,1,3,0
+"205","",1,3,5,5,166,0.32,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",53,0,3,0,0,0,0,0,11,0,0,0,42,0,3,0
+"205","",1,3,5,5,166,0.32,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",53,41,10,0,0,0,0,0,11,11,0,0,42,30,10,0
+"205","",1,3,5,5,166,0.32,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",53,2,10,0,0,0,0,0,11,0,0,0,42,2,10,0
+"205","",1,3,5,5,166,0.32,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",53,0,10,0,0,0,0,0,11,0,0,0,42,0,10,0
+"205","",1,3,5,5,166,0.32,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",53,37,3,0,0,0,0,0,11,10,0,0,42,27,3,0
+"205","",1,3,5,5,166,0.32,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",53,10,3,0,0,0,0,0,11,0,0,0,42,10,3,0
+"205","",1,3,5,5,166,0.32,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",53,2,3,0,0,0,0,0,11,0,0,0,42,2,3,0
+"205","",1,3,5,5,166,0.32,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",53,39,9,0,0,0,0,0,11,11,0,0,42,28,9,0
+"205","",1,3,5,5,166,0.32,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",53,4,9,0,0,0,0,0,11,0,0,0,42,4,9,0
+"205","",1,3,5,5,166,0.32,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",53,1,9,0,0,0,0,0,11,0,0,0,42,1,9,0
+"205","",1,3,5,5,166,0.32,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",53,41,9,0,0,0,0,0,11,11,0,0,42,30,9,0
+"205","",1,3,5,5,166,0.32,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",53,3,9,0,0,0,0,0,11,0,0,0,42,3,9,0
+"205","",1,3,5,5,166,0.32,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",53,0,9,0,0,0,0,0,11,0,0,0,42,0,9,0
+"205","",1,3,5,5,166,0.32,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",53,42,10,0,0,0,0,0,11,10,0,0,42,32,10,0
+"205","",1,3,5,5,166,0.32,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",53,36,2,0,0,0,0,0,11,11,0,0,42,25,2,0
+"205","",1,3,5,5,166,0.32,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",53,15,2,0,0,0,0,0,11,0,0,0,42,15,2,0
+"205","",1,3,5,5,166,0.32,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",53,43,10,0,0,0,0,0,11,11,0,0,42,32,10,0
+"205","",1,3,5,5,166,0.32,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",53,42,11,0,0,0,0,0,11,11,0,0,42,31,11,0
+"205","",1,3,5,5,166,0.32,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",53,44,9,0,0,0,0,0,11,11,0,0,42,33,9,0
+"205","",1,3,5,5,166,0.32,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",53,43,10,0,0,0,0,0,11,11,0,0,42,32,10,0
+"205","",1,3,5,5,166,0.32,25,25,"County Commissioner, Precinct No. 2","",1,1,"Ralph H. Willberg","C",1,"REP",53,42,11,0,0,0,0,0,11,11,0,0,42,31,11,0
+"205","",1,3,5,5,166,0.32,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",53,45,8,0,0,0,0,0,11,11,0,0,42,34,8,0
+"205","",1,3,5,5,166,0.32,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",53,36,10,0,0,0,0,0,11,9,1,0,42,27,9,0
+"205","",1,3,5,5,166,0.32,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",53,6,10,0,0,0,0,0,11,0,1,0,42,6,9,0
+"306","",1,3,6,6,400,0.31,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",124,51,52,0,0,0,0,0,24,15,2,0,100,36,50,0
+"306","",1,3,6,6,400,0.31,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",124,14,52,0,0,0,0,0,24,1,2,0,100,13,50,0
+"306","",1,3,6,6,400,0.31,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",124,0,52,0,0,0,0,0,24,0,2,0,100,0,50,0
+"306","",1,3,6,6,400,0.31,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",124,1,52,0,0,0,0,0,24,0,2,0,100,1,50,0
+"306","",1,3,6,6,400,0.31,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",124,98,2,0,0,0,0,0,24,21,0,0,100,77,2,0
+"306","",1,3,6,6,400,0.31,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",124,20,2,0,0,0,0,0,24,3,0,0,100,17,2,0
+"306","",1,3,6,6,400,0.31,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",124,1,2,0,0,0,0,0,24,0,0,0,100,1,2,0
+"306","",1,3,6,6,400,0.31,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",124,3,2,0,0,0,0,0,24,0,0,0,100,3,2,0
+"306","",1,3,6,6,400,0.31,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",124,99,15,0,0,0,0,0,24,21,1,0,100,78,14,0
+"306","",1,3,6,6,400,0.31,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",124,8,15,0,0,0,0,0,24,0,1,0,100,8,14,0
+"306","",1,3,6,6,400,0.31,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",124,101,1,0,0,0,0,0,24,22,0,0,100,79,1,0
+"306","",1,3,6,6,400,0.31,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",124,21,1,0,0,0,0,0,24,2,0,0,100,19,1,0
+"306","",1,3,6,6,400,0.31,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",124,1,1,0,0,0,0,0,24,0,0,0,100,1,1,0
+"306","",1,3,6,6,400,0.31,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",124,0,1,0,0,0,0,0,24,0,0,0,100,0,1,0
+"306","",1,3,6,6,400,0.31,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",124,94,4,0,0,0,0,0,24,21,1,0,100,73,3,0
+"306","",1,3,6,6,400,0.31,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",124,21,4,0,0,0,0,0,24,2,1,0,100,19,3,0
+"306","",1,3,6,6,400,0.31,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",124,3,4,0,0,0,0,0,24,0,1,0,100,3,3,0
+"306","",1,3,6,6,400,0.31,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",124,2,4,0,0,0,0,0,24,0,1,0,100,2,3,0
+"306","",1,3,6,6,400,0.31,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",124,93,2,0,0,0,0,0,24,21,0,0,100,72,2,0
+"306","",1,3,6,6,400,0.31,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",124,28,2,0,0,0,0,0,24,3,0,0,100,25,2,0
+"306","",1,3,6,6,400,0.31,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",124,0,2,0,0,0,0,0,24,0,0,0,100,0,2,0
+"306","",1,3,6,6,400,0.31,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",124,1,2,0,0,0,0,0,24,0,0,0,100,1,2,0
+"306","",1,3,6,6,400,0.31,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",124,91,4,0,0,0,0,0,24,21,1,0,100,70,3,0
+"306","",1,3,6,6,400,0.31,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",124,24,4,0,0,0,0,0,24,2,1,0,100,22,3,0
+"306","",1,3,6,6,400,0.31,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",124,3,4,0,0,0,0,0,24,0,1,0,100,3,3,0
+"306","",1,3,6,6,400,0.31,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",124,2,4,0,0,0,0,0,24,0,1,0,100,2,3,0
+"306","",1,3,6,6,400,0.31,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",124,94,4,0,0,0,0,0,24,21,1,0,100,73,3,0
+"306","",1,3,6,6,400,0.31,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",124,26,4,0,0,0,0,0,24,2,1,0,100,24,3,0
+"306","",1,3,6,6,400,0.31,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",124,0,4,0,0,0,0,0,24,0,1,0,100,0,3,0
+"306","",1,3,6,6,400,0.31,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",124,0,4,0,0,0,0,0,24,0,1,0,100,0,3,0
+"306","",1,3,6,6,400,0.31,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",124,87,5,0,0,0,0,0,24,19,1,0,100,68,4,0
+"306","",1,3,6,6,400,0.31,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",124,25,5,0,0,0,0,0,24,2,1,0,100,23,4,0
+"306","",1,3,6,6,400,0.31,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",124,5,5,0,0,0,0,0,24,1,1,0,100,4,4,0
+"306","",1,3,6,6,400,0.31,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",124,1,5,0,0,0,0,0,24,0,1,0,100,1,4,0
+"306","",1,3,6,6,400,0.31,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",124,90,3,0,0,0,0,0,24,21,1,0,100,69,2,0
+"306","",1,3,6,6,400,0.31,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",124,28,3,0,0,0,0,0,24,2,1,0,100,26,2,0
+"306","",1,3,6,6,400,0.31,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",124,2,3,0,0,0,0,0,24,0,1,0,100,2,2,0
+"306","",1,3,6,6,400,0.31,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",124,1,3,0,0,0,0,0,24,0,1,0,100,1,2,0
+"306","",1,3,6,6,400,0.31,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",124,93,2,0,0,0,0,0,24,21,0,0,100,72,2,0
+"306","",1,3,6,6,400,0.31,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",124,26,2,0,0,0,0,0,24,2,0,0,100,24,2,0
+"306","",1,3,6,6,400,0.31,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",124,2,2,0,0,0,0,0,24,0,0,0,100,2,2,0
+"306","",1,3,6,6,400,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",124,95,4,0,0,0,0,0,24,20,1,0,100,75,3,0
+"306","",1,3,6,6,400,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",124,23,4,0,0,0,0,0,24,2,1,0,100,21,3,0
+"306","",1,3,6,6,400,0.31,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",124,1,4,0,0,0,0,0,24,0,1,0,100,1,3,0
+"306","",1,3,6,6,400,0.31,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",124,97,2,0,0,0,0,0,24,22,0,0,100,75,2,0
+"306","",1,3,6,6,400,0.31,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",124,23,2,0,0,0,0,0,24,2,0,0,100,21,2,0
+"306","",1,3,6,6,400,0.31,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",124,1,2,0,0,0,0,0,24,0,0,0,100,1,2,0
+"306","",1,3,6,6,400,0.31,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",124,1,2,0,0,0,0,0,24,0,0,0,100,1,2,0
+"306","",1,3,6,6,400,0.31,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",124,100,15,0,0,0,0,0,24,22,0,0,100,78,15,0
+"306","",1,3,6,6,400,0.31,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",124,2,15,0,0,0,0,0,24,0,0,0,100,2,15,0
+"306","",1,3,6,6,400,0.31,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",124,5,15,0,0,0,0,0,24,0,0,0,100,5,15,0
+"306","",1,3,6,6,400,0.31,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",124,96,3,0,0,0,0,0,24,21,0,0,100,75,3,0
+"306","",1,3,6,6,400,0.31,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",124,22,3,0,0,0,0,0,24,2,0,0,100,20,3,0
+"306","",1,3,6,6,400,0.31,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",124,2,3,0,0,0,0,0,24,0,0,0,100,2,3,0
+"306","",1,3,6,6,400,0.31,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",124,94,15,0,0,0,0,0,24,19,0,0,100,75,15,0
+"306","",1,3,6,6,400,0.31,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",124,12,15,0,0,0,0,0,24,2,0,0,100,10,15,0
+"306","",1,3,6,6,400,0.31,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",124,0,15,0,0,0,0,0,24,0,0,0,100,0,15,0
+"306","",1,3,6,6,400,0.31,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",124,97,16,0,0,0,0,0,24,22,0,0,100,75,16,0
+"306","",1,3,6,6,400,0.31,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",124,7,16,0,0,0,0,0,24,0,0,0,100,7,16,0
+"306","",1,3,6,6,400,0.31,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",124,2,16,0,0,0,0,0,24,0,0,0,100,2,16,0
+"306","",1,3,6,6,400,0.31,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",124,105,17,0,0,0,0,0,24,22,0,0,100,83,17,0
+"306","",1,3,6,6,400,0.31,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",124,93,4,0,0,0,0,0,24,21,0,0,100,72,4,0
+"306","",1,3,6,6,400,0.31,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",124,25,4,0,0,0,0,0,24,1,0,0,100,24,4,0
+"306","",1,3,6,6,400,0.31,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",124,102,19,0,0,0,0,0,24,20,1,0,100,82,18,0
+"306","",1,3,6,6,400,0.31,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",124,101,21,0,0,0,0,0,24,21,1,0,100,80,20,0
+"306","",1,3,6,6,400,0.31,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",124,104,18,0,0,0,0,0,24,22,0,0,100,82,18,0
+"306","",1,3,6,6,400,0.31,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",124,98,24,0,0,0,0,0,24,21,1,0,100,77,23,0
+"306","",1,3,6,6,400,0.31,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",124,102,20,0,0,0,0,0,24,22,0,0,100,80,20,0
+"306","",1,3,6,6,400,0.31,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",124,97,18,0,0,0,0,0,24,17,1,0,100,80,17,0
+"306","",1,3,6,6,400,0.31,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",124,7,18,0,0,0,0,0,24,4,1,0,100,3,17,0
+"407","",1,3,7,7,80,0.51,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",41,22,16,0,0,0,0,0,8,2,4,0,33,20,12,0
+"407","",1,3,7,7,80,0.51,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",41,1,16,0,0,0,0,0,8,0,4,0,33,1,12,0
+"407","",1,3,7,7,80,0.51,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",41,0,16,0,0,0,0,0,8,0,4,0,33,0,12,0
+"407","",1,3,7,7,80,0.51,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",41,0,16,0,0,0,0,0,8,0,4,0,33,0,12,0
+"407","",1,3,7,7,80,0.51,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",41,35,0,0,0,0,0,0,8,8,0,0,33,27,0,0
+"407","",1,3,7,7,80,0.51,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",41,2,0,0,0,0,0,0,8,0,0,0,33,2,0,0
+"407","",1,3,7,7,80,0.51,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",41,3,0,0,0,0,0,0,8,0,0,0,33,3,0,0
+"407","",1,3,7,7,80,0.51,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",41,1,0,0,0,0,0,0,8,0,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",41,40,1,0,0,0,0,0,8,8,0,0,33,32,1,0
+"407","",1,3,7,7,80,0.51,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",41,0,1,0,0,0,0,0,8,0,0,0,33,0,1,0
+"407","",1,3,7,7,80,0.51,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",41,38,0,0,0,0,0,0,8,8,0,0,33,30,0,0
+"407","",1,3,7,7,80,0.51,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",41,2,0,0,0,0,0,0,8,0,0,0,33,2,0,0
+"407","",1,3,7,7,80,0.51,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",41,1,0,0,0,0,0,0,8,0,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",41,36,0,0,0,0,0,0,8,7,0,0,33,29,0,0
+"407","",1,3,7,7,80,0.51,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",41,3,0,0,0,0,0,0,8,0,0,0,33,3,0,0
+"407","",1,3,7,7,80,0.51,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",41,2,0,0,0,0,0,0,8,1,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",41,34,0,0,0,0,0,0,8,8,0,0,33,26,0,0
+"407","",1,3,7,7,80,0.51,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",41,7,0,0,0,0,0,0,8,0,0,0,33,7,0,0
+"407","",1,3,7,7,80,0.51,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",41,34,0,0,0,0,0,0,8,7,0,0,33,27,0,0
+"407","",1,3,7,7,80,0.51,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",41,5,0,0,0,0,0,0,8,0,0,0,33,5,0,0
+"407","",1,3,7,7,80,0.51,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",41,1,0,0,0,0,0,0,8,0,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",41,1,0,0,0,0,0,0,8,1,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",41,32,0,0,0,0,0,0,8,5,0,0,33,27,0,0
+"407","",1,3,7,7,80,0.51,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",41,6,0,0,0,0,0,0,8,0,0,0,33,6,0,0
+"407","",1,3,7,7,80,0.51,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",41,3,0,0,0,0,0,0,8,3,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",41,35,0,0,0,0,0,0,8,7,0,0,33,28,0,0
+"407","",1,3,7,7,80,0.51,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",41,4,0,0,0,0,0,0,8,0,0,0,33,4,0,0
+"407","",1,3,7,7,80,0.51,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",41,1,0,0,0,0,0,0,8,1,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",41,1,0,0,0,0,0,0,8,0,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",41,34,0,0,0,0,0,0,8,7,0,0,33,27,0,0
+"407","",1,3,7,7,80,0.51,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",41,6,0,0,0,0,0,0,8,0,0,0,33,6,0,0
+"407","",1,3,7,7,80,0.51,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",41,1,0,0,0,0,0,0,8,1,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",41,36,0,0,0,0,0,0,8,8,0,0,33,28,0,0
+"407","",1,3,7,7,80,0.51,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",41,5,0,0,0,0,0,0,8,0,0,0,33,5,0,0
+"407","",1,3,7,7,80,0.51,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",41,36,0,0,0,0,0,0,8,8,0,0,33,28,0,0
+"407","",1,3,7,7,80,0.51,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",41,5,0,0,0,0,0,0,8,0,0,0,33,5,0,0
+"407","",1,3,7,7,80,0.51,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",41,37,0,0,0,0,0,0,8,8,0,0,33,29,0,0
+"407","",1,3,7,7,80,0.51,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",41,3,0,0,0,0,0,0,8,0,0,0,33,3,0,0
+"407","",1,3,7,7,80,0.51,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",41,1,0,0,0,0,0,0,8,0,0,0,33,1,0,0
+"407","",1,3,7,7,80,0.51,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",41,36,2,0,0,0,0,0,8,8,0,0,33,28,2,0
+"407","",1,3,7,7,80,0.51,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",41,2,2,0,0,0,0,0,8,0,0,0,33,2,2,0
+"407","",1,3,7,7,80,0.51,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",41,1,2,0,0,0,0,0,8,0,0,0,33,1,2,0
+"407","",1,3,7,7,80,0.51,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",41,37,0,0,0,0,0,0,8,8,0,0,33,29,0,0
+"407","",1,3,7,7,80,0.51,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",41,4,0,0,0,0,0,0,8,0,0,0,33,4,0,0
+"407","",1,3,7,7,80,0.51,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",41,0,0,0,0,0,0,0,8,0,0,0,33,0,0,0
+"407","",1,3,7,7,80,0.51,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",41,34,1,0,0,0,0,0,8,8,0,0,33,26,1,0
+"407","",1,3,7,7,80,0.51,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",41,6,1,0,0,0,0,0,8,0,0,0,33,6,1,0
+"407","",1,3,7,7,80,0.51,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",41,0,1,0,0,0,0,0,8,0,0,0,33,0,1,0
+"407","",1,3,7,7,80,0.51,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",41,37,1,0,0,0,0,0,8,8,0,0,33,29,1,0
+"407","",1,3,7,7,80,0.51,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",41,3,1,0,0,0,0,0,8,0,0,0,33,3,1,0
+"407","",1,3,7,7,80,0.51,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",41,0,1,0,0,0,0,0,8,0,0,0,33,0,1,0
+"407","",1,3,7,7,80,0.51,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",41,38,3,0,0,0,0,0,8,7,1,0,33,31,2,0
+"407","",1,3,7,7,80,0.51,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",41,35,0,0,0,0,0,0,8,8,0,0,33,27,0,0
+"407","",1,3,7,7,80,0.51,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",41,6,0,0,0,0,0,0,8,0,0,0,33,6,0,0
+"407","",1,3,7,7,80,0.51,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",41,38,3,0,0,0,0,0,8,8,0,0,33,30,3,0
+"407","",1,3,7,7,80,0.51,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",41,40,1,0,0,0,0,0,8,8,0,0,33,32,1,0
+"407","",1,3,7,7,80,0.51,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",41,40,1,0,0,0,0,0,8,8,0,0,33,32,1,0
+"407","",1,3,7,7,80,0.51,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",41,38,3,0,0,0,0,0,8,8,0,0,33,30,3,0
+"407","",1,3,7,7,80,0.51,26,26,"County Commissioner, Precinct No. 4","",1,1,"Aaron B. Browning, Jr.","C",1,"REP",41,40,1,0,0,0,0,0,8,8,0,0,33,32,1,0
+"407","",1,3,7,7,80,0.51,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",41,39,2,0,0,0,0,0,8,8,0,0,33,31,2,0
+"407","",1,3,7,7,80,0.51,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",41,32,4,0,0,0,0,0,8,7,0,0,33,25,4,0
+"407","",1,3,7,7,80,0.51,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",41,5,4,0,0,0,0,0,8,1,0,0,33,4,4,0
+"408","",1,3,8,8,283,0.34,31,2,"Straight Party","",1,1,"Republican Party","C",1,"REP",97,49,38,0,0,0,0,0,24,12,5,0,73,37,33,0
+"408","",1,3,8,8,283,0.34,31,2,"Straight Party","",1,2,"Democratic Party","C",2,"DEM",97,3,38,0,0,0,0,0,24,0,5,0,73,3,33,0
+"408","",1,3,8,8,283,0.34,31,2,"Straight Party","",1,3,"Libertarian Party","C",3,"LIB",97,0,38,0,0,0,0,0,24,0,5,0,73,0,33,0
+"408","",1,3,8,8,283,0.34,31,2,"Straight Party","",1,4,"Green Party","C",4,"GRN",97,0,38,0,0,0,0,0,24,0,5,0,73,0,33,0
+"408","",1,3,8,8,283,0.34,32,3,"United States Senator","",1,1,"John Cornyn","C",1,"REP",97,78,3,0,0,0,0,0,24,19,0,0,73,59,3,0
+"408","",1,3,8,8,283,0.34,32,3,"United States Senator","",1,2,"David M. Alameel","C",2,"DEM",97,10,3,0,0,0,0,0,24,3,0,0,73,7,3,0
+"408","",1,3,8,8,283,0.34,32,3,"United States Senator","",1,4,"Rebecca Paddock","C",3,"LIB",97,3,3,0,0,0,0,0,24,1,0,0,73,2,3,0
+"408","",1,3,8,8,283,0.34,32,3,"United States Senator","",1,3,"Emily ""Spicybrown"" Sanchez","C",4,"GRN",97,2,3,0,0,0,0,0,24,0,0,0,73,2,3,0
+"408","",1,3,8,8,283,0.34,2,4,"United States Representative, District 11","",1,1,"Mike Conaway","C",1,"REP",97,79,10,0,0,0,0,0,24,19,1,0,73,60,9,0
+"408","",1,3,8,8,283,0.34,2,4,"United States Representative, District 11","",1,2,"Ryan T. Lange","C",2,"LIB",97,7,10,0,0,0,0,0,24,3,1,0,73,4,9,0
+"408","",1,3,8,8,283,0.34,3,5,"Governor","",1,1,"Greg Abbott","C",1,"REP",97,79,4,0,0,0,0,0,24,19,0,0,73,60,4,0
+"408","",1,3,8,8,283,0.34,3,5,"Governor","",1,2,"Wendy R. Davis","C",2,"DEM",97,12,4,0,0,0,0,0,24,4,0,0,73,8,4,0
+"408","",1,3,8,8,283,0.34,3,5,"Governor","",1,4,"Kathie Glass","C",3,"LIB",97,2,4,0,0,0,0,0,24,1,0,0,73,1,4,0
+"408","",1,3,8,8,283,0.34,3,5,"Governor","",1,3,"Brandon Parmer","C",4,"GRN",97,0,4,0,0,0,0,0,24,0,0,0,73,0,4,0
+"408","",1,3,8,8,283,0.34,4,6,"Lieutenant Governor","",1,1,"Dan Patrick","C",1,"REP",97,76,6,0,0,0,0,0,24,19,0,0,73,57,6,0
+"408","",1,3,8,8,283,0.34,4,6,"Lieutenant Governor","",1,2,"Leticia Van de Putte","C",2,"DEM",97,12,6,0,0,0,0,0,24,4,0,0,73,8,6,0
+"408","",1,3,8,8,283,0.34,4,6,"Lieutenant Governor","",1,4,"Robert D. Butler","C",3,"LIB",97,3,6,0,0,0,0,0,24,1,0,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,4,6,"Lieutenant Governor","",1,3,"Chandrakantha Courtney","C",4,"GRN",97,0,6,0,0,0,0,0,24,0,0,0,73,0,6,0
+"408","",1,3,8,8,283,0.34,5,7,"Attorney General","",1,1,"Ken Paxton","C",1,"REP",97,78,1,0,0,0,0,0,24,18,0,0,73,60,1,0
+"408","",1,3,8,8,283,0.34,5,7,"Attorney General","",1,2,"Sam Houston","C",2,"DEM",97,13,1,0,0,0,0,0,24,4,0,0,73,9,1,0
+"408","",1,3,8,8,283,0.34,5,7,"Attorney General","",1,3,"Jamie Balagia","C",3,"LIB",97,4,1,0,0,0,0,0,24,1,0,0,73,3,1,0
+"408","",1,3,8,8,283,0.34,5,7,"Attorney General","",1,4,"Jamar Osborne","C",4,"GRN",97,0,1,0,0,0,0,0,24,0,0,0,73,0,1,0
+"408","",1,3,8,8,283,0.34,6,8,"Comptroller of Public Accounts","",1,1,"Glenn Hegar","C",1,"REP",97,77,5,0,0,0,0,0,24,18,0,0,73,59,5,0
+"408","",1,3,8,8,283,0.34,6,8,"Comptroller of Public Accounts","",1,2,"Mike Collier","C",2,"DEM",97,10,5,0,0,0,0,0,24,4,0,0,73,6,5,0
+"408","",1,3,8,8,283,0.34,6,8,"Comptroller of Public Accounts","",1,3,"Ben Sanders","C",3,"LIB",97,4,5,0,0,0,0,0,24,1,0,0,73,3,5,0
+"408","",1,3,8,8,283,0.34,6,8,"Comptroller of Public Accounts","",1,4,"Deb Shafto","C",4,"GRN",97,0,5,0,0,0,0,0,24,0,0,0,73,0,5,0
+"408","",1,3,8,8,283,0.34,7,9,"Commissioner of the General Land Office","",1,1,"George P. Bush","C",1,"REP",97,75,6,0,0,0,0,0,24,19,0,0,73,56,6,0
+"408","",1,3,8,8,283,0.34,7,9,"Commissioner of the General Land Office","",1,2,"John Cook","C",2,"DEM",97,12,6,0,0,0,0,0,24,4,0,0,73,8,6,0
+"408","",1,3,8,8,283,0.34,7,9,"Commissioner of the General Land Office","",1,3,"Justin Knight","C",3,"LIB",97,3,6,0,0,0,0,0,24,1,0,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,7,9,"Commissioner of the General Land Office","",1,4,"Valerie Alessi","C",4,"GRN",97,1,6,0,0,0,0,0,24,0,0,0,73,1,6,0
+"408","",1,3,8,8,283,0.34,8,10,"Commissioner of Agriculture","",1,1,"Sid Miller","C",1,"REP",97,76,6,0,0,0,0,0,24,18,0,0,73,58,6,0
+"408","",1,3,8,8,283,0.34,8,10,"Commissioner of Agriculture","",1,2,"Jim Hogan","C",2,"DEM",97,11,6,0,0,0,0,0,24,4,0,0,73,7,6,0
+"408","",1,3,8,8,283,0.34,8,10,"Commissioner of Agriculture","",1,3,"David (Rocky) Palmquist","C",3,"LIB",97,3,6,0,0,0,0,0,24,1,0,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,8,10,"Commissioner of Agriculture","",1,5,"Kenneth Kendrick","C",5,"GRN",97,0,6,0,0,0,0,0,24,0,0,0,73,0,6,0
+"408","",1,3,8,8,283,0.34,9,11,"Railroad Commissioner","",1,1,"Ryan Sitton","C",1,"REP",97,75,5,0,0,0,0,0,24,18,0,0,73,57,5,0
+"408","",1,3,8,8,283,0.34,9,11,"Railroad Commissioner","",1,2,"Steve Brown","C",2,"DEM",97,12,5,0,0,0,0,0,24,4,0,0,73,8,5,0
+"408","",1,3,8,8,283,0.34,9,11,"Railroad Commissioner","",1,3,"Mark A. Miller","C",3,"LIB",97,3,5,0,0,0,0,0,24,1,0,0,73,2,5,0
+"408","",1,3,8,8,283,0.34,9,11,"Railroad Commissioner","",1,4,"Martina Salinas","C",4,"GRN",97,1,5,0,0,0,0,0,24,0,0,0,73,1,5,0
+"408","",1,3,8,8,283,0.34,10,12,"Chief Justice, Supreme Court","",1,1,"Nathan Hecht","C",1,"REP",97,78,4,0,0,0,0,0,24,18,0,0,73,60,4,0
+"408","",1,3,8,8,283,0.34,10,12,"Chief Justice, Supreme Court","",1,2,"William Moody","C",2,"DEM",97,11,4,0,0,0,0,0,24,4,0,0,73,7,4,0
+"408","",1,3,8,8,283,0.34,10,12,"Chief Justice, Supreme Court","",1,3,"Tom Oxford","C",3,"LIB",97,3,4,0,0,0,0,0,24,1,0,0,73,2,4,0
+"408","",1,3,8,8,283,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,1,"Jeff Brown","C",1,"REP",97,78,5,0,0,0,0,0,24,18,0,0,73,60,5,0
+"408","",1,3,8,8,283,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,2,"Lawrence Edward Meyers","C",2,"DEM",97,10,5,0,0,0,0,0,24,4,0,0,73,6,5,0
+"408","",1,3,8,8,283,0.34,33,13,"Justice, Supreme Court, Place 6 - Unexpired Term","",1,3,"Mark Ash","C",3,"LIB",97,3,5,0,0,0,0,0,24,1,0,0,73,2,5,0
+"408","",1,3,8,8,283,0.34,11,14,"Justice, Supreme Court, Place 7","",1,1,"Jeff Boyd","C",1,"REP",97,77,5,0,0,0,0,0,24,18,0,0,73,59,5,0
+"408","",1,3,8,8,283,0.34,11,14,"Justice, Supreme Court, Place 7","",1,2,"Gina Benavides","C",2,"DEM",97,12,5,0,0,0,0,0,24,4,0,0,73,8,5,0
+"408","",1,3,8,8,283,0.34,11,14,"Justice, Supreme Court, Place 7","",1,3,"Don Fulton","C",3,"LIB",97,2,5,0,0,0,0,0,24,1,0,0,73,1,5,0
+"408","",1,3,8,8,283,0.34,11,14,"Justice, Supreme Court, Place 7","",1,4,"Charles E. Waterbury","C",4,"GRN",97,0,5,0,0,0,0,0,24,0,0,0,73,0,5,0
+"408","",1,3,8,8,283,0.34,12,15,"Justice, Supreme Court, Place 8","",1,1,"Phil Johnson","C",1,"REP",97,79,10,0,0,0,0,0,24,19,1,0,73,60,9,0
+"408","",1,3,8,8,283,0.34,12,15,"Justice, Supreme Court, Place 8","",1,3,"RS Roberto Koelsch","C",2,"LIB",97,4,10,0,0,0,0,0,24,2,1,0,73,2,9,0
+"408","",1,3,8,8,283,0.34,12,15,"Justice, Supreme Court, Place 8","",1,2,"Jim Chisolm","C",3,"GRN",97,2,10,0,0,0,0,0,24,0,1,0,73,2,9,0
+"408","",1,3,8,8,283,0.34,13,16,"Judge, Court of Criminal Appeals Place 3","",1,1,"Bert Richardson","C",1,"REP",97,75,6,0,0,0,0,0,24,18,0,0,73,57,6,0
+"408","",1,3,8,8,283,0.34,13,16,"Judge, Court of Criminal Appeals Place 3","",1,2,"John Granberg","C",2,"DEM",97,12,6,0,0,0,0,0,24,4,0,0,73,8,6,0
+"408","",1,3,8,8,283,0.34,13,16,"Judge, Court of Criminal Appeals Place 3","",1,3,"Mark W. Bennett","C",3,"LIB",97,3,6,0,0,0,0,0,24,1,0,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,14,17,"Judge, Court of Criminal Appeals Place 4","",1,1,"Kevin Patrick Yeary","C",1,"REP",97,76,10,0,0,0,0,0,24,19,1,0,73,57,9,0
+"408","",1,3,8,8,283,0.34,14,17,"Judge, Court of Criminal Appeals Place 4","",1,2,"Quanah Parker","C",2,"LIB",97,6,10,0,0,0,0,0,24,2,1,0,73,4,9,0
+"408","",1,3,8,8,283,0.34,14,17,"Judge, Court of Criminal Appeals Place 4","",1,4,"Judith Sanders-Castro","C",4,"GRN",97,3,10,0,0,0,0,0,24,0,1,0,73,3,9,0
+"408","",1,3,8,8,283,0.34,15,18,"Judge, Court of Criminal Appeals Place 9","",1,1,"David Newell","C",1,"REP",97,82,7,0,0,0,0,0,24,19,1,0,73,63,6,0
+"408","",1,3,8,8,283,0.34,15,18,"Judge, Court of Criminal Appeals Place 9","",1,3,"William Bryan Strange, III","C",2,"LIB",97,4,7,0,0,0,0,0,24,2,1,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,15,18,"Judge, Court of Criminal Appeals Place 9","",1,2,"George Joseph Altgelt","C",3,"GRN",97,2,7,0,0,0,0,0,24,0,1,0,73,2,6,0
+"408","",1,3,8,8,283,0.34,17,19,"State Representative, District 72","",1,1,"Drew Darby","C",1,"REP",97,81,15,0,0,0,0,0,24,21,2,0,73,60,13,0
+"408","",1,3,8,8,283,0.34,35,20,"Chief Justice, 3rd Court of Appeals District","",1,1,"Jeff Rose","C",1,"REP",97,77,8,0,0,0,0,0,24,19,0,0,73,58,8,0
+"408","",1,3,8,8,283,0.34,35,20,"Chief Justice, 3rd Court of Appeals District","",1,2,"Diane Henson","C",2,"DEM",97,11,8,0,0,0,0,0,24,4,0,0,73,7,8,0
+"408","",1,3,8,8,283,0.34,29,21,"County Judge","",1,1,"Allen Amos","C",1,"REP",97,83,13,0,0,0,0,0,24,22,1,0,73,61,12,0
+"408","",1,3,8,8,283,0.34,22,22,"District and County Clerk","",1,1,"Phyllis F. Lovell","C",1,"REP",97,83,13,0,0,0,0,0,24,21,2,0,73,62,11,0
+"408","",1,3,8,8,283,0.34,52,23,"Sheriff/Tax Assessor/Collector Unexpired Term","",1,1,"Chad Miller","C",1,"REP",97,83,12,0,0,0,0,0,24,21,1,0,73,62,11,0
+"408","",1,3,8,8,283,0.34,30,24,"County Treasurer","",1,1,"Shawn L. Walston","C",1,"REP",97,84,12,0,0,0,0,0,24,21,2,0,73,63,10,0
+"408","",1,3,8,8,283,0.34,26,26,"County Commissioner, Precinct No. 4","",1,1,"Aaron B. Browning, Jr.","C",1,"REP",97,82,13,0,0,0,0,0,24,20,2,0,73,62,11,0
+"408","",1,3,8,8,283,0.34,27,27,"Justice of the Peace","",1,1,"Scott A. Spoonts","C",1,"REP",97,85,12,0,0,0,0,0,24,23,1,0,73,62,11,0
+"408","",1,3,8,8,283,0.34,38,29,"PROPOSITION 1 State","",1,1,"For","C",1,"",97,77,9,0,0,0,0,0,24,19,2,0,73,58,7,0
+"408","",1,3,8,8,283,0.34,38,29,"PROPOSITION 1 State","",1,2,"Against","C",2,"",97,9,9,0,0,0,0,0,24,1,2,0,73,8,7,0
