@@ -1,0 +1,1292 @@
+political_subdivision,election_date,election_name,total provisional ballots,total provisional ballots counted,#Precinct,Registered Voters,Contest Title,Choice Name,Choice Party,Absentee Voting Votes,Early Voting Votes,early_votes,Election Day Voting Votes
+,,,,,2,700,Straight Party,Republican Party    REP,REP,16,110,,35
+,,,,,2,700,Straight Party,Democratic Party   DEM,DEM,8,36,,35
+,,,,,2,700,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,2,700,United States Senator,Ted Cruz,REP,28,155,,72
+,,,,,2,700,United States Senator,Beto O'Rourke,DEM,9,53,,53
+,,,,,2,700,United States Senator,Neal M. Dikeman,LIB,0,1,,0
+,,,,,2,700,"United States Representative,
+District No. 4",John Ratcliffe,REP,28,157,,70
+,,,,,2,700,"United States Representative,
+District No. 4",Catherine Krantz,DEM,9,50,,54
+,,,,,2,700,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,1,,1
+,,,,,2,700,Governor,Greg Abbott,REP,26,156,,73
+,,,,,2,700,Governor,Lupe Valdez,DEM,9,51,,53
+,,,,,2,700,Governor,Mark Jay Tippetts,LIB,0,2,,0
+,,,,,2,700,Lieutenant Governor,Dan Patrick,REP,25,147,,70
+,,,,,2,700,Lieutenant Governor,Mike Collier,DEM,9,56,,53
+,,,,,2,700,Lieutenant Governor,Kerry Douglas McKennon,LIB,1,4,,1
+,,,,,2,700,Attorney General,Ken Paxton,REP,25,150,,70
+,,,,,2,700,Attorney General,Justin Nelson,DEM,9,54,,55
+,,,,,2,700,Attorney General,Michael Ray Harris,LIB,1,4,,0
+,,,,,2,700,Comptroller of Public Accounts,Glenn Hegar,REP,26,154,,67
+,,,,,2,700,Comptroller of Public Accounts,Joi Chevalier,DEM,9,50,,52
+,,,,,2,700,Comptroller of Public Accounts,Ben Sanders,LIB,0,4,,3
+,,,,,2,700,"Commissioner of the General
+Land Office",George P. Bush,REP,26,148,,68
+,,,,,2,700,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,9,54,,50
+,,,,,2,700,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,5,,4
+,,,,,2,700,Commissioner of Agriculture,Sid Miller,REP,25,152,,65
+,,,,,2,700,Commissioner of Agriculture,Kim Olson,DEM,9,53,,54
+,,,,,2,700,Commissioner of Agriculture,Richard Carpenter,LIB,0,2,,3
+,,,,,2,700,Railroad Commissioner,Christi Craddick,REP,26,154,,67
+,,,,,2,700,Railroad Commissioner,Roman McAllen,DEM,9,50,,53
+,,,,,2,700,Railroad Commissioner,Mike Wright,LIB,0,3,,3
+,,,,,2,700,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,26,156,,67
+,,,,,2,700,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,9,51,,54
+,,,,,2,700,"Justice, Supreme Court, Place 4",John Devine,REP,26,157,,69
+,,,,,2,700,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,9,50,,53
+,,,,,2,700,"Justice, Supreme Court, Place 6",Jeff Brown,REP,26,156,,69
+,,,,,2,700,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,9,52,,53
+,,,,,2,700,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,26,153,,62
+,,,,,2,700,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,9,50,,54
+,,,,,2,700,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,5,,4
+,,,,,2,700,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,26,158,,67
+,,,,,2,700,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,9,49,,55
+,,,,,2,700,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,25,158,,70
+,,,,,2,700,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,18,,26
+,,,,,2,700,"State Representative, 
+District No. 1",Gary Van Deaver,REP,26,167,,87
+,,,,,2,700,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,25,163,,84
+,,,,,2,700,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,25,161,,82
+,,,,,2,700,County Judge,L. D. Williamson,REP,25,163,,85
+,,,,,2,700,District Clerk,Janice Bivins Gentry,DEM,13,88,,86
+,,,,,2,700,County Clerk,Shawn Sargent Weemes,REP,25,167,,84
+,,,,,2,700,County Treasurer,Sandra Storey Embrey,REP,24,160,,84
+,,,,,2,700,"County Commissioner,
+Precinct No. 2",David Hutson,REP,25,159,,77
+,,,,,2,700,"Justice of the Peace
+",Shelley Benton,REP,24,164,,84
+,,,,,3,1134,Straight Party,Republican Party    REP,REP,12,152,,63
+,,,,,3,1134,Straight Party,Democratic Party   DEM,DEM,4,101,,84
+,,,,,3,1134,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,3,1134,United States Senator,Ted Cruz,REP,19,195,,90
+,,,,,3,1134,United States Senator,Beto O'Rourke,DEM,10,133,,114
+,,,,,3,1134,United States Senator,Neal M. Dikeman,LIB,0,0,,3
+,,,,,3,1134,"United States Representative,
+District No. 4",John Ratcliffe,REP,18,193,,89
+,,,,,3,1134,"United States Representative,
+District No. 4",Catherine Krantz,DEM,10,128,,116
+,,,,,3,1134,"United States Representative,
+District No. 4",Ken Ashby,LIB,1,2,,2
+,,,,,3,1134,Governor,Greg Abbott,REP,19,199,,90
+,,,,,3,1134,Governor,Lupe Valdez,DEM,10,128,,113
+,,,,,3,1134,Governor,Mark Jay Tippetts,LIB,0,0,,2
+,,,,,3,1134,Lieutenant Governor,Dan Patrick,REP,18,191,,84
+,,,,,3,1134,Lieutenant Governor,Mike Collier,DEM,10,132,,120
+,,,,,3,1134,Lieutenant Governor,Kerry Douglas McKennon,LIB,1,1,,3
+,,,,,3,1134,Attorney General,Ken Paxton,REP,17,188,,88
+,,,,,3,1134,Attorney General,Justin Nelson,DEM,11,131,,118
+,,,,,3,1134,Attorney General,Michael Ray Harris,LIB,1,5,,1
+,,,,,3,1134,Comptroller of Public Accounts,Glenn Hegar,REP,19,198,,88
+,,,,,3,1134,Comptroller of Public Accounts,Joi Chevalier,DEM,9,123,,111
+,,,,,3,1134,Comptroller of Public Accounts,Ben Sanders,LIB,1,4,,7
+,,,,,3,1134,"Commissioner of the General
+Land Office",George P. Bush,REP,19,194,,90
+,,,,,3,1134,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,10,122,,112
+,,,,,3,1134,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,8,,4
+,,,,,3,1134,Commissioner of Agriculture,Sid Miller,REP,17,187,,87
+,,,,,3,1134,Commissioner of Agriculture,Kim Olson,DEM,11,136,,115
+,,,,,3,1134,Commissioner of Agriculture,Richard Carpenter,LIB,1,2,,4
+,,,,,3,1134,Railroad Commissioner,Christi Craddick,REP,16,195,,89
+,,,,,3,1134,Railroad Commissioner,Roman McAllen,DEM,11,124,,114
+,,,,,3,1134,Railroad Commissioner,Mike Wright,LIB,2,5,,2
+,,,,,3,1134,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,18,193,,92
+,,,,,3,1134,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,11,134,,114
+,,,,,3,1134,"Justice, Supreme Court, Place 4",John Devine,REP,18,194,,93
+,,,,,3,1134,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,11,131,,113
+,,,,,3,1134,"Justice, Supreme Court, Place 6",Jeff Brown,REP,19,192,,92
+,,,,,3,1134,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,10,133,,114
+,,,,,3,1134,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,17,189,,89
+,,,,,3,1134,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,11,135,,114
+,,,,,3,1134,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,1,2,,2
+,,,,,3,1134,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,17,193,,92
+,,,,,3,1134,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,12,131,,112
+,,,,,3,1134,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,16,201,,91
+,,,,,3,1134,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,6,50,,46
+,,,,,3,1134,"State Representative, 
+District No. 1",Gary Van Deaver,REP,20,232,,116
+,,,,,3,1134,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,19,215,,111
+,,,,,3,1134,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,19,214,,109
+,,,,,3,1134,County Judge,L. D. Williamson,REP,22,227,,115
+,,,,,3,1134,District Clerk,Janice Bivins Gentry,DEM,13,163,,154
+,,,,,3,1134,County Clerk,Shawn Sargent Weemes,REP,22,223,,115
+,,,,,3,1134,County Treasurer,Sandra Storey Embrey,REP,20,221,,113
+,,,,,3,1134,"Justice of the Peace
+",Shelley Benton,REP,20,225,,119
+,,,,,4,948,Straight Party,Republican Party    REP,REP,13,162,,40
+,,,,,4,948,Straight Party,Democratic Party   DEM,DEM,7,76,,44
+,,,,,4,948,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,4,948,United States Senator,Ted Cruz,REP,19,215,,67
+,,,,,4,948,United States Senator,Beto O'Rourke,DEM,10,101,,67
+,,,,,4,948,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,4,948,"United States Representative,
+District No. 4",John Ratcliffe,REP,19,217,,66
+,,,,,4,948,"United States Representative,
+District No. 4",Catherine Krantz,DEM,10,99,,62
+,,,,,4,948,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,5
+,,,,,4,948,Governor,Greg Abbott,REP,20,221,,70
+,,,,,4,948,Governor,Lupe Valdez,DEM,9,95,,60
+,,,,,4,948,Governor,Mark Jay Tippetts,LIB,0,1,,4
+,,,,,4,948,Lieutenant Governor,Dan Patrick,REP,17,211,,65
+,,,,,4,948,Lieutenant Governor,Mike Collier,DEM,12,104,,64
+,,,,,4,948,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,5
+,,,,,4,948,Attorney General,Ken Paxton,REP,17,214,,56
+,,,,,4,948,Attorney General,Justin Nelson,DEM,12,101,,72
+,,,,,4,948,Attorney General,Michael Ray Harris,LIB,0,0,,6
+,,,,,4,948,Comptroller of Public Accounts,Glenn Hegar,REP,18,216,,63
+,,,,,4,948,Comptroller of Public Accounts,Joi Chevalier,DEM,11,96,,68
+,,,,,4,948,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,3
+,,,,,4,948,"Commissioner of the General
+Land Office",George P. Bush,REP,18,219,,66
+,,,,,4,948,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,9,92,,60
+,,,,,4,948,"Commissioner of the General
+Land Office",Matt Piña,LIB,2,4,,8
+,,,,,4,948,Commissioner of Agriculture,Sid Miller,REP,17,214,,64
+,,,,,4,948,Commissioner of Agriculture,Kim Olson,DEM,12,96,,66
+,,,,,4,948,Commissioner of Agriculture,Richard Carpenter,LIB,0,1,,4
+,,,,,4,948,Railroad Commissioner,Christi Craddick,REP,18,217,,65
+,,,,,4,948,Railroad Commissioner,Roman McAllen,DEM,11,94,,62
+,,,,,4,948,Railroad Commissioner,Mike Wright,LIB,0,1,,7
+,,,,,4,948,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,17,216,,67
+,,,,,4,948,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,11,95,,65
+,,,,,4,948,"Justice, Supreme Court, Place 4",John Devine,REP,17,214,,70
+,,,,,4,948,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,11,96,,63
+,,,,,4,948,"Justice, Supreme Court, Place 6",Jeff Brown,REP,17,213,,66
+,,,,,4,948,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,11,99,,67
+,,,,,4,948,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,17,216,,64
+,,,,,4,948,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,11,93,,63
+,,,,,4,948,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,3,,6
+,,,,,4,948,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,16,217,,68
+,,,,,4,948,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,11,94,,62
+,,,,,4,948,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,17,229,,72
+,,,,,4,948,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,7,21,,20
+,,,,,4,948,"State Representative, 
+District No. 1",Gary Van Deaver,REP,27,245,,90
+,,,,,4,948,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,23,231,,88
+,,,,,4,948,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,23,229,,88
+,,,,,4,948,County Judge,L. D. Williamson,REP,24,248,,90
+,,,,,4,948,District Clerk,Janice Bivins Gentry,DEM,15,153,,94
+,,,,,4,948,County Clerk,Shawn Sargent Weemes,REP,25,246,,91
+,,,,,4,948,County Treasurer,Sandra Storey Embrey,REP,24,242,,89
+,,,,,4,948,"County Commissioner,
+Precinct No. 4",Dan (Danny) Halley,REP,25,232,,86
+,,,,,4,948,"Justice of the Peace
+",Shelley Benton,REP,24,243,,91
+,,,,,5,1088,Straight Party,Republican Party    REP,REP,11,118,,196
+,,,,,5,1088,Straight Party,Democratic Party   DEM,DEM,6,11,,25
+,,,,,5,1088,Straight Party,Libertarian Party    LIB,LIB,0,0,,2
+,,,,,5,1088,United States Senator,Ted Cruz,REP,19,171,,304
+,,,,,5,1088,United States Senator,Beto O'Rourke,DEM,9,20,,35
+,,,,,5,1088,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,5,1088,"United States Representative,
+District No. 4",John Ratcliffe,REP,19,169,,303
+,,,,,5,1088,"United States Representative,
+District No. 4",Catherine Krantz,DEM,9,18,,31
+,,,,,5,1088,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,2,,5
+,,,,,5,1088,Governor,Greg Abbott,REP,19,172,,300
+,,,,,5,1088,Governor,Lupe Valdez,DEM,9,18,,34
+,,,,,5,1088,Governor,Mark Jay Tippetts,LIB,0,0,,5
+,,,,,5,1088,Lieutenant Governor,Dan Patrick,REP,18,165,,287
+,,,,,5,1088,Lieutenant Governor,Mike Collier,DEM,10,24,,47
+,,,,,5,1088,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,1,,6
+,,,,,5,1088,Attorney General,Ken Paxton,REP,17,166,,296
+,,,,,5,1088,Attorney General,Justin Nelson,DEM,11,23,,36
+,,,,,5,1088,Attorney General,Michael Ray Harris,LIB,0,1,,5
+,,,,,5,1088,Comptroller of Public Accounts,Glenn Hegar,REP,20,166,,293
+,,,,,5,1088,Comptroller of Public Accounts,Joi Chevalier,DEM,8,19,,31
+,,,,,5,1088,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,9
+,,,,,5,1088,"Commissioner of the General
+Land Office",George P. Bush,REP,18,168,,299
+,,,,,5,1088,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,9,18,,30
+,,,,,5,1088,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,2,,7
+,,,,,5,1088,Commissioner of Agriculture,Sid Miller,REP,18,167,,297
+,,,,,5,1088,Commissioner of Agriculture,Kim Olson,DEM,9,20,,33
+,,,,,5,1088,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,7
+,,,,,5,1088,Railroad Commissioner,Christi Craddick,REP,18,166,,294
+,,,,,5,1088,Railroad Commissioner,Roman McAllen,DEM,9,18,,32
+,,,,,5,1088,Railroad Commissioner,Mike Wright,LIB,0,1,,8
+,,,,,5,1088,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,18,167,,302
+,,,,,5,1088,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,9,19,,33
+,,,,,5,1088,"Justice, Supreme Court, Place 4",John Devine,REP,18,166,,298
+,,,,,5,1088,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,9,20,,36
+,,,,,5,1088,"Justice, Supreme Court, Place 6",Jeff Brown,REP,18,166,,300
+,,,,,5,1088,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,9,20,,33
+,,,,,5,1088,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,18,165,,293
+,,,,,5,1088,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,9,21,,32
+,,,,,5,1088,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,8
+,,,,,5,1088,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,18,163,,300
+,,,,,5,1088,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,9,21,,32
+,,,,,5,1088,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,18,165,,296
+,,,,,5,1088,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,4,12,,21
+,,,,,5,1088,"State Representative, 
+District No. 1",Gary Van Deaver,REP,20,172,,312
+,,,,,5,1088,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,17,169,,308
+,,,,,5,1088,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,17,167,,309
+,,,,,5,1088,County Judge,L. D. Williamson,REP,19,166,,308
+,,,,,5,1088,District Clerk,Janice Bivins Gentry,DEM,14,80,,168
+,,,,,5,1088,County Clerk,Shawn Sargent Weemes,REP,22,172,,311
+,,,,,5,1088,County Treasurer,Sandra Storey Embrey,REP,20,167,,308
+,,,,,5,1088,"Justice of the Peace
+",Shelley Benton,REP,20,169,,309
+,,,,,7,227,Straight Party,Republican Party    REP,REP,4,33,,45
+,,,,,7,227,Straight Party,Democratic Party   DEM,DEM,0,8,,11
+,,,,,7,227,Straight Party,Libertarian Party    LIB,LIB,1,0,,0
+,,,,,7,227,United States Senator,Ted Cruz,REP,9,44,,71
+,,,,,7,227,United States Senator,Beto O'Rourke,DEM,0,10,,16
+,,,,,7,227,United States Senator,Neal M. Dikeman,LIB,1,0,,0
+,,,,,7,227,"United States Representative,
+District No. 4",John Ratcliffe,REP,8,44,,73
+,,,,,7,227,"United States Representative,
+District No. 4",Catherine Krantz,DEM,1,10,,13
+,,,,,7,227,"United States Representative,
+District No. 4",Ken Ashby,LIB,1,0,,0
+,,,,,7,227,Governor,Greg Abbott,REP,9,44,,74
+,,,,,7,227,Governor,Lupe Valdez,DEM,0,10,,13
+,,,,,7,227,Governor,Mark Jay Tippetts,LIB,1,0,,0
+,,,,,7,227,Lieutenant Governor,Dan Patrick,REP,8,41,,65
+,,,,,7,227,Lieutenant Governor,Mike Collier,DEM,1,13,,20
+,,,,,7,227,Lieutenant Governor,Kerry Douglas McKennon,LIB,1,0,,0
+,,,,,7,227,Attorney General,Ken Paxton,REP,7,42,,71
+,,,,,7,227,Attorney General,Justin Nelson,DEM,2,10,,16
+,,,,,7,227,Attorney General,Michael Ray Harris,LIB,1,2,,0
+,,,,,7,227,Comptroller of Public Accounts,Glenn Hegar,REP,8,44,,70
+,,,,,7,227,Comptroller of Public Accounts,Joi Chevalier,DEM,1,10,,13
+,,,,,7,227,Comptroller of Public Accounts,Ben Sanders,LIB,1,0,,2
+,,,,,7,227,"Commissioner of the General
+Land Office",George P. Bush,REP,8,43,,70
+,,,,,7,227,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,0,10,,14
+,,,,,7,227,"Commissioner of the General
+Land Office",Matt Piña,LIB,1,1,,1
+,,,,,7,227,Commissioner of Agriculture,Sid Miller,REP,8,44,,71
+,,,,,7,227,Commissioner of Agriculture,Kim Olson,DEM,1,10,,12
+,,,,,7,227,Commissioner of Agriculture,Richard Carpenter,LIB,1,0,,2
+,,,,,7,227,Railroad Commissioner,Christi Craddick,REP,8,44,,71
+,,,,,7,227,Railroad Commissioner,Roman McAllen,DEM,1,10,,15
+,,,,,7,227,Railroad Commissioner,Mike Wright,LIB,1,0,,0
+,,,,,7,227,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,8,44,,70
+,,,,,7,227,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,1,10,,16
+,,,,,7,227,"Justice, Supreme Court, Place 4",John Devine,REP,8,44,,71
+,,,,,7,227,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,10,,14
+,,,,,7,227,"Justice, Supreme Court, Place 6",Jeff Brown,REP,8,44,,72
+,,,,,7,227,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,1,10,,14
+,,,,,7,227,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,8,44,,72
+,,,,,7,227,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,10,,14
+,,,,,7,227,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,1,0,,0
+,,,,,7,227,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,8,44,,72
+,,,,,7,227,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,10,,13
+,,,,,7,227,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,8,44,,73
+,,,,,7,227,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,2,3,,5
+,,,,,7,227,"State Representative, 
+District No. 1",Gary Van Deaver,REP,6,47,,75
+,,,,,7,227,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,8,47,,75
+,,,,,7,227,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,8,46,,75
+,,,,,7,227,County Judge,L. D. Williamson,REP,6,46,,72
+,,,,,7,227,District Clerk,Janice Bivins Gentry,DEM,6,22,,41
+,,,,,7,227,County Clerk,Shawn Sargent Weemes,REP,9,48,,75
+,,,,,7,227,County Treasurer,Sandra Storey Embrey,REP,8,46,,76
+,,,,,7,227,"Justice of the Peace
+",Shelley Benton,REP,9,47,,75
+,,,,,9,289,Straight Party,Republican Party    REP,REP,8,51,,64
+,,,,,9,289,Straight Party,Democratic Party   DEM,DEM,0,2,,4
+,,,,,9,289,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,9,289,United States Senator,Ted Cruz,REP,9,68,,94
+,,,,,9,289,United States Senator,Beto O'Rourke,DEM,1,3,,4
+,,,,,9,289,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,9,289,"United States Representative,
+District No. 4",John Ratcliffe,REP,9,69,,91
+,,,,,9,289,"United States Representative,
+District No. 4",Catherine Krantz,DEM,1,2,,5
+,,,,,9,289,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,9,289,Governor,Greg Abbott,REP,8,69,,94
+,,,,,9,289,Governor,Lupe Valdez,DEM,1,2,,4
+,,,,,9,289,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,9,289,Lieutenant Governor,Dan Patrick,REP,8,65,,85
+,,,,,9,289,Lieutenant Governor,Mike Collier,DEM,1,4,,11
+,,,,,9,289,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,2,,0
+,,,,,9,289,Attorney General,Ken Paxton,REP,8,68,,90
+,,,,,9,289,Attorney General,Justin Nelson,DEM,1,3,,5
+,,,,,9,289,Attorney General,Michael Ray Harris,LIB,0,0,,1
+,,,,,9,289,Comptroller of Public Accounts,Glenn Hegar,REP,8,67,,89
+,,,,,9,289,Comptroller of Public Accounts,Joi Chevalier,DEM,1,3,,7
+,,,,,9,289,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,0
+,,,,,9,289,"Commissioner of the General
+Land Office",George P. Bush,REP,9,68,,91
+,,,,,9,289,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,1,1,,5
+,,,,,9,289,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,1,,0
+,,,,,9,289,Commissioner of Agriculture,Sid Miller,REP,9,65,,89
+,,,,,9,289,Commissioner of Agriculture,Kim Olson,DEM,1,3,,8
+,,,,,9,289,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,0
+,,,,,9,289,Railroad Commissioner,Christi Craddick,REP,8,65,,90
+,,,,,9,289,Railroad Commissioner,Roman McAllen,DEM,1,4,,6
+,,,,,9,289,Railroad Commissioner,Mike Wright,LIB,0,0,,0
+,,,,,9,289,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,8,66,,90
+,,,,,9,289,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,1,4,,6
+,,,,,9,289,"Justice, Supreme Court, Place 4",John Devine,REP,8,67,,89
+,,,,,9,289,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,3,,7
+,,,,,9,289,"Justice, Supreme Court, Place 6",Jeff Brown,REP,9,67,,87
+,,,,,9,289,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,1,3,,7
+,,,,,9,289,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,8,66,,89
+,,,,,9,289,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,4,,6
+,,,,,9,289,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,1
+,,,,,9,289,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,9,67,,90
+,,,,,9,289,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,3,,6
+,,,,,9,289,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,8,67,,91
+,,,,,9,289,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,2,,2
+,,,,,9,289,"State Representative, 
+District No. 1",Gary Van Deaver,REP,9,69,,91
+,,,,,9,289,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,9,68,,91
+,,,,,9,289,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,9,67,,90
+,,,,,9,289,County Judge,L. D. Williamson,REP,9,65,,90
+,,,,,9,289,District Clerk,Janice Bivins Gentry,DEM,2,32,,40
+,,,,,9,289,County Clerk,Shawn Sargent Weemes,REP,9,67,,91
+,,,,,9,289,County Treasurer,Sandra Storey Embrey,REP,9,66,,90
+,,,,,9,289,"Justice of the Peace
+",Shelley Benton,REP,9,66,,90
+,,,,,10,216,Straight Party,Republican Party    REP,REP,5,27,,52
+,,,,,10,216,Straight Party,Democratic Party   DEM,DEM,0,2,,3
+,,,,,10,216,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,10,216,United States Senator,Ted Cruz,REP,11,38,,68
+,,,,,10,216,United States Senator,Beto O'Rourke,DEM,0,3,,3
+,,,,,10,216,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,10,216,"United States Representative,
+District No. 4",John Ratcliffe,REP,11,37,,68
+,,,,,10,216,"United States Representative,
+District No. 4",Catherine Krantz,DEM,0,4,,3
+,,,,,10,216,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,10,216,Governor,Greg Abbott,REP,11,37,,69
+,,,,,10,216,Governor,Lupe Valdez,DEM,0,3,,3
+,,,,,10,216,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,10,216,Lieutenant Governor,Dan Patrick,REP,11,37,,65
+,,,,,10,216,Lieutenant Governor,Mike Collier,DEM,0,4,,5
+,,,,,10,216,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,2
+,,,,,10,216,Attorney General,Ken Paxton,REP,11,38,,63
+,,,,,10,216,Attorney General,Justin Nelson,DEM,0,3,,4
+,,,,,10,216,Attorney General,Michael Ray Harris,LIB,0,0,,3
+,,,,,10,216,Comptroller of Public Accounts,Glenn Hegar,REP,11,37,,64
+,,,,,10,216,Comptroller of Public Accounts,Joi Chevalier,DEM,0,3,,3
+,,,,,10,216,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,3
+,,,,,10,216,"Commissioner of the General
+Land Office",George P. Bush,REP,11,35,,59
+,,,,,10,216,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,0,3,,8
+,,,,,10,216,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,3,,4
+,,,,,10,216,Commissioner of Agriculture,Sid Miller,REP,11,37,,65
+,,,,,10,216,Commissioner of Agriculture,Kim Olson,DEM,0,3,,5
+,,,,,10,216,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,0
+,,,,,10,216,Railroad Commissioner,Christi Craddick,REP,11,37,,63
+,,,,,10,216,Railroad Commissioner,Roman McAllen,DEM,0,2,,4
+,,,,,10,216,Railroad Commissioner,Mike Wright,LIB,0,2,,0
+,,,,,10,216,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,11,37,,65
+,,,,,10,216,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,0,3,,4
+,,,,,10,216,"Justice, Supreme Court, Place 4",John Devine,REP,11,38,,64
+,,,,,10,216,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,0,3,,4
+,,,,,10,216,"Justice, Supreme Court, Place 6",Jeff Brown,REP,11,38,,66
+,,,,,10,216,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,0,3,,3
+,,,,,10,216,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,11,38,,63
+,,,,,10,216,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,0,2,,3
+,,,,,10,216,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,2
+,,,,,10,216,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,11,37,,64
+,,,,,10,216,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,0,3,,5
+,,,,,10,216,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,11,37,,63
+,,,,,10,216,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,1,,3
+,,,,,10,216,"State Representative, 
+District No. 1",Gary Van Deaver,REP,9,37,,70
+,,,,,10,216,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,11,38,,67
+,,,,,10,216,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,11,37,,66
+,,,,,10,216,County Judge,L. D. Williamson,REP,11,38,,68
+,,,,,10,216,District Clerk,Janice Bivins Gentry,DEM,5,14,,41
+,,,,,10,216,County Clerk,Shawn Sargent Weemes,REP,11,38,,68
+,,,,,10,216,County Treasurer,Sandra Storey Embrey,REP,11,38,,67
+,,,,,10,216,"Justice of the Peace
+",Shelley Benton,REP,11,38,,67
+,,,,,11,256,Straight Party,Republican Party    REP,REP,0,55,,32
+,,,,,11,256,Straight Party,Democratic Party   DEM,DEM,1,2,,4
+,,,,,11,256,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,11,256,United States Senator,Ted Cruz,REP,2,64,,48
+,,,,,11,256,United States Senator,Beto O'Rourke,DEM,1,8,,5
+,,,,,11,256,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,11,256,"United States Representative,
+District No. 4",John Ratcliffe,REP,2,64,,48
+,,,,,11,256,"United States Representative,
+District No. 4",Catherine Krantz,DEM,1,6,,5
+,,,,,11,256,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,11,256,Governor,Greg Abbott,REP,2,65,,48
+,,,,,11,256,Governor,Lupe Valdez,DEM,1,6,,5
+,,,,,11,256,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,11,256,Lieutenant Governor,Dan Patrick,REP,2,65,,48
+,,,,,11,256,Lieutenant Governor,Mike Collier,DEM,1,6,,4
+,,,,,11,256,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,1,,0
+,,,,,11,256,Attorney General,Ken Paxton,REP,1,62,,47
+,,,,,11,256,Attorney General,Justin Nelson,DEM,1,9,,5
+,,,,,11,256,Attorney General,Michael Ray Harris,LIB,1,1,,0
+,,,,,11,256,Comptroller of Public Accounts,Glenn Hegar,REP,0,64,,48
+,,,,,11,256,Comptroller of Public Accounts,Joi Chevalier,DEM,2,7,,4
+,,,,,11,256,Comptroller of Public Accounts,Ben Sanders,LIB,1,0,,1
+,,,,,11,256,"Commissioner of the General
+Land Office",George P. Bush,REP,1,66,,48
+,,,,,11,256,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,6,,4
+,,,,,11,256,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,0,,0
+,,,,,11,256,Commissioner of Agriculture,Sid Miller,REP,1,64,,46
+,,,,,11,256,Commissioner of Agriculture,Kim Olson,DEM,2,7,,6
+,,,,,11,256,Commissioner of Agriculture,Richard Carpenter,LIB,0,1,,0
+,,,,,11,256,Railroad Commissioner,Christi Craddick,REP,0,65,,47
+,,,,,11,256,Railroad Commissioner,Roman McAllen,DEM,2,7,,4
+,,,,,11,256,Railroad Commissioner,Mike Wright,LIB,0,0,,1
+,,,,,11,256,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,0,64,,47
+,,,,,11,256,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,2,8,,5
+,,,,,11,256,"Justice, Supreme Court, Place 4",John Devine,REP,1,63,,47
+,,,,,11,256,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,8,,4
+,,,,,11,256,"Justice, Supreme Court, Place 6",Jeff Brown,REP,1,64,,46
+,,,,,11,256,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,2,8,,5
+,,,,,11,256,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,1,64,,46
+,,,,,11,256,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,2,7,,5
+,,,,,11,256,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,0
+,,,,,11,256,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,0,64,,48
+,,,,,11,256,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,2,7,,5
+,,,,,11,256,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,0,66,,47
+,,,,,11,256,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,2,,3
+,,,,,11,256,"State Representative, 
+District No. 1",Gary Van Deaver,REP,2,67,,49
+,,,,,11,256,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,1,67,,48
+,,,,,11,256,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,1,67,,47
+,,,,,11,256,County Judge,L. D. Williamson,REP,2,68,,46
+,,,,,11,256,District Clerk,Janice Bivins Gentry,DEM,2,19,,24
+,,,,,11,256,County Clerk,Shawn Sargent Weemes,REP,2,69,,48
+,,,,,11,256,County Treasurer,Sandra Storey Embrey,REP,2,68,,47
+,,,,,11,256,"Justice of the Peace
+",Shelley Benton,REP,1,67,,48
+,,,,,13,695,Straight Party,Republican Party    REP,REP,20,54,,120
+,,,,,13,695,Straight Party,Democratic Party   DEM,DEM,0,8,,19
+,,,,,13,695,Straight Party,Libertarian Party    LIB,LIB,0,1,,1
+,,,,,13,695,United States Senator,Ted Cruz,REP,24,76,,189
+,,,,,13,695,United States Senator,Beto O'Rourke,DEM,3,17,,30
+,,,,,13,695,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,13,695,"United States Representative,
+District No. 4",John Ratcliffe,REP,24,79,,187
+,,,,,13,695,"United States Representative,
+District No. 4",Catherine Krantz,DEM,3,14,,30
+,,,,,13,695,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,1
+,,,,,13,695,Governor,Greg Abbott,REP,25,79,,187
+,,,,,13,695,Governor,Lupe Valdez,DEM,2,14,,30
+,,,,,13,695,Governor,Mark Jay Tippetts,LIB,0,0,,3
+,,,,,13,695,Lieutenant Governor,Dan Patrick,REP,25,76,,178
+,,,,,13,695,Lieutenant Governor,Mike Collier,DEM,2,17,,33
+,,,,,13,695,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,5
+,,,,,13,695,Attorney General,Ken Paxton,REP,24,76,,182
+,,,,,13,695,Attorney General,Justin Nelson,DEM,3,16,,33
+,,,,,13,695,Attorney General,Michael Ray Harris,LIB,0,0,,4
+,,,,,13,695,Comptroller of Public Accounts,Glenn Hegar,REP,24,74,,177
+,,,,,13,695,Comptroller of Public Accounts,Joi Chevalier,DEM,2,15,,32
+,,,,,13,695,Comptroller of Public Accounts,Ben Sanders,LIB,0,3,,5
+,,,,,13,695,"Commissioner of the General
+Land Office",George P. Bush,REP,25,77,,180
+,,,,,13,695,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,13,,30
+,,,,,13,695,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,2,,5
+,,,,,13,695,Commissioner of Agriculture,Sid Miller,REP,23,75,,178
+,,,,,13,695,Commissioner of Agriculture,Kim Olson,DEM,4,14,,35
+,,,,,13,695,Commissioner of Agriculture,Richard Carpenter,LIB,0,3,,4
+,,,,,13,695,Railroad Commissioner,Christi Craddick,REP,25,75,,182
+,,,,,13,695,Railroad Commissioner,Roman McAllen,DEM,2,13,,31
+,,,,,13,695,Railroad Commissioner,Mike Wright,LIB,0,3,,3
+,,,,,13,695,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,23,76,,180
+,,,,,13,695,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,3,16,,34
+,,,,,13,695,"Justice, Supreme Court, Place 4",John Devine,REP,23,76,,183
+,,,,,13,695,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,3,15,,32
+,,,,,13,695,"Justice, Supreme Court, Place 6",Jeff Brown,REP,23,75,,185
+,,,,,13,695,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,2,16,,31
+,,,,,13,695,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,23,73,,182
+,,,,,13,695,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,3,16,,31
+,,,,,13,695,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,2,,3
+,,,,,13,695,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,24,73,,184
+,,,,,13,695,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,2,16,,31
+,,,,,13,695,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,24,75,,186
+,,,,,13,695,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,2,9,,14
+,,,,,13,695,"State Representative, 
+District No. 1",Gary Van Deaver,REP,26,81,,202
+,,,,,13,695,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,25,77,,195
+,,,,,13,695,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,25,77,,195
+,,,,,13,695,County Judge,L. D. Williamson,REP,26,78,,197
+,,,,,13,695,District Clerk,Janice Bivins Gentry,DEM,6,36,,86
+,,,,,13,695,County Clerk,Shawn Sargent Weemes,REP,27,81,,197
+,,,,,13,695,County Treasurer,Sandra Storey Embrey,REP,26,78,,193
+,,,,,13,695,"County Commissioner,
+Precinct No. 2",David Hutson,REP,25,79,,193
+,,,,,13,695,"Justice of the Peace
+",Shelley Benton,REP,25,79,,196
+,,,,,14,246,Straight Party,Republican Party    REP,REP,6,27,,33
+,,,,,14,246,Straight Party,Democratic Party   DEM,DEM,2,4,,2
+,,,,,14,246,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,14,246,United States Senator,Ted Cruz,REP,6,45,,50
+,,,,,14,246,United States Senator,Beto O'Rourke,DEM,2,5,,12
+,,,,,14,246,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,14,246,"United States Representative,
+District No. 4",John Ratcliffe,REP,6,46,,48
+,,,,,14,246,"United States Representative,
+District No. 4",Catherine Krantz,DEM,2,4,,10
+,,,,,14,246,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,1
+,,,,,14,246,Governor,Greg Abbott,REP,6,46,,54
+,,,,,14,246,Governor,Lupe Valdez,DEM,2,4,,6
+,,,,,14,246,Governor,Mark Jay Tippetts,LIB,0,0,,1
+,,,,,14,246,Lieutenant Governor,Dan Patrick,REP,6,40,,48
+,,,,,14,246,Lieutenant Governor,Mike Collier,DEM,2,10,,12
+,,,,,14,246,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,0
+,,,,,14,246,Attorney General,Ken Paxton,REP,6,45,,48
+,,,,,14,246,Attorney General,Justin Nelson,DEM,2,5,,12
+,,,,,14,246,Attorney General,Michael Ray Harris,LIB,0,0,,1
+,,,,,14,246,Comptroller of Public Accounts,Glenn Hegar,REP,6,45,,46
+,,,,,14,246,Comptroller of Public Accounts,Joi Chevalier,DEM,2,5,,7
+,,,,,14,246,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,5
+,,,,,14,246,"Commissioner of the General
+Land Office",George P. Bush,REP,6,43,,50
+,,,,,14,246,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,5,,9
+,,,,,14,246,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,1,,3
+,,,,,14,246,Commissioner of Agriculture,Sid Miller,REP,6,45,,45
+,,,,,14,246,Commissioner of Agriculture,Kim Olson,DEM,2,5,,10
+,,,,,14,246,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,4
+,,,,,14,246,Railroad Commissioner,Christi Craddick,REP,6,46,,48
+,,,,,14,246,Railroad Commissioner,Roman McAllen,DEM,2,4,,8
+,,,,,14,246,Railroad Commissioner,Mike Wright,LIB,0,0,,3
+,,,,,14,246,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,6,45,,47
+,,,,,14,246,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,2,5,,12
+,,,,,14,246,"Justice, Supreme Court, Place 4",John Devine,REP,6,45,,50
+,,,,,14,246,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,2,5,,9
+,,,,,14,246,"Justice, Supreme Court, Place 6",Jeff Brown,REP,6,45,,49
+,,,,,14,246,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,2,5,,10
+,,,,,14,246,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,6,45,,46
+,,,,,14,246,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,2,5,,10
+,,,,,14,246,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,4
+,,,,,14,246,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,6,45,,51
+,,,,,14,246,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,2,5,,8
+,,,,,14,246,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,6,47,,46
+,,,,,14,246,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,2,,12
+,,,,,14,246,"State Representative, 
+District No. 1",Gary Van Deaver,REP,6,47,,53
+,,,,,14,246,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,6,47,,50
+,,,,,14,246,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,6,47,,53
+,,,,,14,246,County Judge,L. D. Williamson,REP,6,46,,51
+,,,,,14,246,District Clerk,Janice Bivins Gentry,DEM,2,19,,24
+,,,,,14,246,County Clerk,Shawn Sargent Weemes,REP,6,46,,53
+,,,,,14,246,County Treasurer,Sandra Storey Embrey,REP,6,46,,53
+,,,,,14,246,"County Commissioner,
+Precinct No. 2",David Hutson,REP,6,47,,56
+,,,,,14,246,"Justice of the Peace
+",Shelley Benton,REP,6,47,,50
+,,,,,17,426,Straight Party,Republican Party    REP,REP,15,53,,92
+,,,,,17,426,Straight Party,Democratic Party   DEM,DEM,2,2,,10
+,,,,,17,426,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,17,426,United States Senator,Ted Cruz,REP,20,75,,112
+,,,,,17,426,United States Senator,Beto O'Rourke,DEM,4,6,,20
+,,,,,17,426,United States Senator,Neal M. Dikeman,LIB,0,1,,2
+,,,,,17,426,"United States Representative,
+District No. 4",John Ratcliffe,REP,20,75,,112
+,,,,,17,426,"United States Representative,
+District No. 4",Catherine Krantz,DEM,4,7,,17
+,,,,,17,426,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,1
+,,,,,17,426,Governor,Greg Abbott,REP,21,77,,119
+,,,,,17,426,Governor,Lupe Valdez,DEM,2,5,,12
+,,,,,17,426,Governor,Mark Jay Tippetts,LIB,0,0,,1
+,,,,,17,426,Lieutenant Governor,Dan Patrick,REP,20,71,,114
+,,,,,17,426,Lieutenant Governor,Mike Collier,DEM,3,11,,16
+,,,,,17,426,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,1
+,,,,,17,426,Attorney General,Ken Paxton,REP,19,73,,112
+,,,,,17,426,Attorney General,Justin Nelson,DEM,4,8,,18
+,,,,,17,426,Attorney General,Michael Ray Harris,LIB,0,1,,1
+,,,,,17,426,Comptroller of Public Accounts,Glenn Hegar,REP,19,73,,112
+,,,,,17,426,Comptroller of Public Accounts,Joi Chevalier,DEM,3,7,,16
+,,,,,17,426,Comptroller of Public Accounts,Ben Sanders,LIB,1,0,,1
+,,,,,17,426,"Commissioner of the General
+Land Office",George P. Bush,REP,21,72,,112
+,,,,,17,426,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,7,,16
+,,,,,17,426,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,2,,1
+,,,,,17,426,Commissioner of Agriculture,Sid Miller,REP,20,73,,108
+,,,,,17,426,Commissioner of Agriculture,Kim Olson,DEM,3,7,,17
+,,,,,17,426,Commissioner of Agriculture,Richard Carpenter,LIB,0,1,,3
+,,,,,17,426,Railroad Commissioner,Christi Craddick,REP,19,74,,111
+,,,,,17,426,Railroad Commissioner,Roman McAllen,DEM,4,7,,15
+,,,,,17,426,Railroad Commissioner,Mike Wright,LIB,0,0,,3
+,,,,,17,426,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,19,73,,110
+,,,,,17,426,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,4,8,,18
+,,,,,17,426,"Justice, Supreme Court, Place 4",John Devine,REP,19,73,,111
+,,,,,17,426,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,4,8,,18
+,,,,,17,426,"Justice, Supreme Court, Place 6",Jeff Brown,REP,20,73,,110
+,,,,,17,426,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,3,8,,19
+,,,,,17,426,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,19,73,,110
+,,,,,17,426,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,4,8,,17
+,,,,,17,426,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,2
+,,,,,17,426,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,19,73,,111
+,,,,,17,426,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,4,8,,18
+,,,,,17,426,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,19,74,,112
+,,,,,17,426,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,2,3,,8
+,,,,,17,426,"State Representative, 
+District No. 1",Gary Van Deaver,REP,20,75,,118
+,,,,,17,426,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,20,75,,115
+,,,,,17,426,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,20,75,,115
+,,,,,17,426,County Judge,L. D. Williamson,REP,20,75,,118
+,,,,,17,426,District Clerk,Janice Bivins Gentry,DEM,7,22,,38
+,,,,,17,426,County Clerk,Shawn Sargent Weemes,REP,20,75,,118
+,,,,,17,426,County Treasurer,Sandra Storey Embrey,REP,19,75,,115
+,,,,,17,426,"County Commissioner,
+Precinct No. 2",David Hutson,REP,20,75,,114
+,,,,,17,426,"Justice of the Peace
+",Shelley Benton,REP,20,74,,116
+,,,,,19,444,Straight Party,Republican Party    REP,REP,8,50,,80
+,,,,,19,444,Straight Party,Democratic Party   DEM,DEM,2,6,,9
+,,,,,19,444,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,19,444,United States Senator,Ted Cruz,REP,12,71,,123
+,,,,,19,444,United States Senator,Beto O'Rourke,DEM,3,9,,17
+,,,,,19,444,United States Senator,Neal M. Dikeman,LIB,0,0,,2
+,,,,,19,444,"United States Representative,
+District No. 4",John Ratcliffe,REP,12,68,,128
+,,,,,19,444,"United States Representative,
+District No. 4",Catherine Krantz,DEM,3,12,,13
+,,,,,19,444,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,19,444,Governor,Greg Abbott,REP,12,71,,128
+,,,,,19,444,Governor,Lupe Valdez,DEM,3,9,,13
+,,,,,19,444,Governor,Mark Jay Tippetts,LIB,0,0,,1
+,,,,,19,444,Lieutenant Governor,Dan Patrick,REP,12,67,,108
+,,,,,19,444,Lieutenant Governor,Mike Collier,DEM,3,13,,29
+,,,,,19,444,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,2
+,,,,,19,444,Attorney General,Ken Paxton,REP,11,68,,121
+,,,,,19,444,Attorney General,Justin Nelson,DEM,4,12,,17
+,,,,,19,444,Attorney General,Michael Ray Harris,LIB,0,0,,1
+,,,,,19,444,Comptroller of Public Accounts,Glenn Hegar,REP,12,70,,120
+,,,,,19,444,Comptroller of Public Accounts,Joi Chevalier,DEM,3,9,,15
+,,,,,19,444,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,4
+,,,,,19,444,"Commissioner of the General
+Land Office",George P. Bush,REP,12,71,,124
+,,,,,19,444,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,3,8,,14
+,,,,,19,444,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,0,,1
+,,,,,19,444,Commissioner of Agriculture,Sid Miller,REP,10,68,,119
+,,,,,19,444,Commissioner of Agriculture,Kim Olson,DEM,5,12,,16
+,,,,,19,444,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,3
+,,,,,19,444,Railroad Commissioner,Christi Craddick,REP,10,68,,117
+,,,,,19,444,Railroad Commissioner,Roman McAllen,DEM,5,11,,19
+,,,,,19,444,Railroad Commissioner,Mike Wright,LIB,0,0,,3
+,,,,,19,444,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,11,70,,121
+,,,,,19,444,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,4,9,,18
+,,,,,19,444,"Justice, Supreme Court, Place 4",John Devine,REP,12,70,,119
+,,,,,19,444,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,3,9,,19
+,,,,,19,444,"Justice, Supreme Court, Place 6",Jeff Brown,REP,11,69,,122
+,,,,,19,444,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,4,9,,17
+,,,,,19,444,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,11,66,,119
+,,,,,19,444,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,4,11,,17
+,,,,,19,444,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,1
+,,,,,19,444,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,10,68,,117
+,,,,,19,444,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,5,9,,20
+,,,,,19,444,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,11,69,,124
+,,,,,19,444,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,3,,6
+,,,,,19,444,"State Representative, 
+District No. 1",Gary Van Deaver,REP,12,72,,129
+,,,,,19,444,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,12,71,,126
+,,,,,19,444,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,12,71,,126
+,,,,,19,444,County Judge,L. D. Williamson,REP,12,69,,127
+,,,,,19,444,District Clerk,Janice Bivins Gentry,DEM,7,31,,56
+,,,,,19,444,County Clerk,Shawn Sargent Weemes,REP,12,72,,126
+,,,,,19,444,County Treasurer,Sandra Storey Embrey,REP,12,73,,127
+,,,,,19,444,"Justice of the Peace
+",Shelley Benton,REP,12,71,,122
+,,,,,20,156,Straight Party,Republican Party    REP,REP,0,23,,9
+,,,,,20,156,Straight Party,Democratic Party   DEM,DEM,1,10,,10
+,,,,,20,156,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,20,156,United States Senator,Ted Cruz,REP,0,30,,17
+,,,,,20,156,United States Senator,Beto O'Rourke,DEM,2,20,,14
+,,,,,20,156,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,20,156,"United States Representative,
+District No. 4",John Ratcliffe,REP,0,27,,17
+,,,,,20,156,"United States Representative,
+District No. 4",Catherine Krantz,DEM,2,21,,15
+,,,,,20,156,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,20,156,Governor,Greg Abbott,REP,0,32,,17
+,,,,,20,156,Governor,Lupe Valdez,DEM,2,18,,15
+,,,,,20,156,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,20,156,Lieutenant Governor,Dan Patrick,REP,0,28,,16
+,,,,,20,156,Lieutenant Governor,Mike Collier,DEM,2,22,,16
+,,,,,20,156,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,0
+,,,,,20,156,Attorney General,Ken Paxton,REP,0,28,,17
+,,,,,20,156,Attorney General,Justin Nelson,DEM,2,21,,15
+,,,,,20,156,Attorney General,Michael Ray Harris,LIB,0,1,,0
+,,,,,20,156,Comptroller of Public Accounts,Glenn Hegar,REP,0,29,,17
+,,,,,20,156,Comptroller of Public Accounts,Joi Chevalier,DEM,2,19,,15
+,,,,,20,156,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,0
+,,,,,20,156,"Commissioner of the General
+Land Office",George P. Bush,REP,0,31,,17
+,,,,,20,156,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,18,,15
+,,,,,20,156,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,1,,0
+,,,,,20,156,Commissioner of Agriculture,Sid Miller,REP,0,28,,16
+,,,,,20,156,Commissioner of Agriculture,Kim Olson,DEM,2,21,,15
+,,,,,20,156,Commissioner of Agriculture,Richard Carpenter,LIB,0,1,,0
+,,,,,20,156,Railroad Commissioner,Christi Craddick,REP,0,28,,16
+,,,,,20,156,Railroad Commissioner,Roman McAllen,DEM,2,21,,15
+,,,,,20,156,Railroad Commissioner,Mike Wright,LIB,0,1,,0
+,,,,,20,156,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,0,28,,16
+,,,,,20,156,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,2,22,,15
+,,,,,20,156,"Justice, Supreme Court, Place 4",John Devine,REP,0,29,,15
+,,,,,20,156,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,2,21,,14
+,,,,,20,156,"Justice, Supreme Court, Place 6",Jeff Brown,REP,0,26,,15
+,,,,,20,156,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,2,22,,15
+,,,,,20,156,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,0,29,,15
+,,,,,20,156,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,2,20,,15
+,,,,,20,156,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,1,,0
+,,,,,20,156,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,0,27,,14
+,,,,,20,156,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,2,21,,15
+,,,,,20,156,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,0,31,,14
+,,,,,20,156,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,8,,4
+,,,,,20,156,"State Representative, 
+District No. 1",Gary Van Deaver,REP,0,36,,18
+,,,,,20,156,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,0,37,,17
+,,,,,20,156,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,0,35,,17
+,,,,,20,156,County Judge,L. D. Williamson,REP,0,35,,16
+,,,,,20,156,District Clerk,Janice Bivins Gentry,DEM,2,28,,22
+,,,,,20,156,County Clerk,Shawn Sargent Weemes,REP,0,37,,17
+,,,,,20,156,County Treasurer,Sandra Storey Embrey,REP,0,35,,17
+,,,,,20,156,"Justice of the Peace
+",Shelley Benton,REP,0,38,,17
+,,,,,21,171,Straight Party,Republican Party    REP,REP,4,24,,13
+,,,,,21,171,Straight Party,Democratic Party   DEM,DEM,0,12,,3
+,,,,,21,171,Straight Party,Libertarian Party    LIB,LIB,0,1,,0
+,,,,,21,171,United States Senator,Ted Cruz,REP,5,32,,31
+,,,,,21,171,United States Senator,Beto O'Rourke,DEM,1,13,,8
+,,,,,21,171,United States Senator,Neal M. Dikeman,LIB,0,1,,0
+,,,,,21,171,"United States Representative,
+District No. 4",John Ratcliffe,REP,4,32,,28
+,,,,,21,171,"United States Representative,
+District No. 4",Catherine Krantz,DEM,1,13,,10
+,,,,,21,171,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,1,,1
+,,,,,21,171,Governor,Greg Abbott,REP,5,31,,31
+,,,,,21,171,Governor,Lupe Valdez,DEM,1,14,,8
+,,,,,21,171,Governor,Mark Jay Tippetts,LIB,0,1,,0
+,,,,,21,171,Lieutenant Governor,Dan Patrick,REP,4,31,,28
+,,,,,21,171,Lieutenant Governor,Mike Collier,DEM,2,14,,11
+,,,,,21,171,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,1,,0
+,,,,,21,171,Attorney General,Ken Paxton,REP,4,30,,28
+,,,,,21,171,Attorney General,Justin Nelson,DEM,1,15,,10
+,,,,,21,171,Attorney General,Michael Ray Harris,LIB,0,1,,1
+,,,,,21,171,Comptroller of Public Accounts,Glenn Hegar,REP,4,31,,29
+,,,,,21,171,Comptroller of Public Accounts,Joi Chevalier,DEM,1,13,,9
+,,,,,21,171,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,1
+,,,,,21,171,"Commissioner of the General
+Land Office",George P. Bush,REP,4,29,,29
+,,,,,21,171,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,1,15,,9
+,,,,,21,171,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,2,,1
+,,,,,21,171,Commissioner of Agriculture,Sid Miller,REP,4,31,,30
+,,,,,21,171,Commissioner of Agriculture,Kim Olson,DEM,1,14,,9
+,,,,,21,171,Commissioner of Agriculture,Richard Carpenter,LIB,0,1,,0
+,,,,,21,171,Railroad Commissioner,Christi Craddick,REP,4,32,,30
+,,,,,21,171,Railroad Commissioner,Roman McAllen,DEM,1,13,,9
+,,,,,21,171,Railroad Commissioner,Mike Wright,LIB,0,1,,0
+,,,,,21,171,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,4,31,,29
+,,,,,21,171,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,1,14,,10
+,,,,,21,171,"Justice, Supreme Court, Place 4",John Devine,REP,4,33,,28
+,,,,,21,171,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,13,,9
+,,,,,21,171,"Justice, Supreme Court, Place 6",Jeff Brown,REP,4,31,,30
+,,,,,21,171,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,1,14,,9
+,,,,,21,171,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,4,31,,27
+,,,,,21,171,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,14,,10
+,,,,,21,171,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,1,,1
+,,,,,21,171,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,4,31,,27
+,,,,,21,171,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,15,,9
+,,,,,21,171,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,4,31,,29
+,,,,,21,171,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,8,,2
+,,,,,21,171,"State Representative, 
+District No. 1",Gary Van Deaver,REP,4,34,,34
+,,,,,21,171,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,4,33,,31
+,,,,,21,171,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,4,33,,31
+,,,,,21,171,County Judge,L. D. Williamson,REP,4,34,,30
+,,,,,21,171,District Clerk,Janice Bivins Gentry,DEM,1,22,,23
+,,,,,21,171,County Clerk,Shawn Sargent Weemes,REP,4,33,,34
+,,,,,21,171,County Treasurer,Sandra Storey Embrey,REP,4,34,,31
+,,,,,21,171,"Justice of the Peace
+",Shelley Benton,REP,4,34,,31
+,,,,,24,177,Straight Party,Republican Party    REP,REP,5,39,,19
+,,,,,24,177,Straight Party,Democratic Party   DEM,DEM,3,12,,6
+,,,,,24,177,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,24,177,United States Senator,Ted Cruz,REP,7,54,,28
+,,,,,24,177,United States Senator,Beto O'Rourke,DEM,4,11,,8
+,,,,,24,177,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,24,177,"United States Representative,
+District No. 4",John Ratcliffe,REP,7,50,,28
+,,,,,24,177,"United States Representative,
+District No. 4",Catherine Krantz,DEM,4,13,,9
+,,,,,24,177,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,24,177,Governor,Greg Abbott,REP,7,53,,29
+,,,,,24,177,Governor,Lupe Valdez,DEM,4,12,,8
+,,,,,24,177,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,24,177,Lieutenant Governor,Dan Patrick,REP,7,51,,28
+,,,,,24,177,Lieutenant Governor,Mike Collier,DEM,4,14,,9
+,,,,,24,177,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,0
+,,,,,24,177,Attorney General,Ken Paxton,REP,7,53,,26
+,,,,,24,177,Attorney General,Justin Nelson,DEM,4,12,,10
+,,,,,24,177,Attorney General,Michael Ray Harris,LIB,0,0,,0
+,,,,,24,177,Comptroller of Public Accounts,Glenn Hegar,REP,7,50,,27
+,,,,,24,177,Comptroller of Public Accounts,Joi Chevalier,DEM,4,13,,7
+,,,,,24,177,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,1
+,,,,,24,177,"Commissioner of the General
+Land Office",George P. Bush,REP,7,50,,28
+,,,,,24,177,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,4,13,,8
+,,,,,24,177,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,0,,1
+,,,,,24,177,Commissioner of Agriculture,Sid Miller,REP,7,49,,28
+,,,,,24,177,Commissioner of Agriculture,Kim Olson,DEM,4,14,,8
+,,,,,24,177,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,0
+,,,,,24,177,Railroad Commissioner,Christi Craddick,REP,7,49,,27
+,,,,,24,177,Railroad Commissioner,Roman McAllen,DEM,4,14,,9
+,,,,,24,177,Railroad Commissioner,Mike Wright,LIB,0,0,,0
+,,,,,24,177,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,7,52,,28
+,,,,,24,177,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,4,13,,9
+,,,,,24,177,"Justice, Supreme Court, Place 4",John Devine,REP,7,50,,29
+,,,,,24,177,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,4,13,,8
+,,,,,24,177,"Justice, Supreme Court, Place 6",Jeff Brown,REP,7,51,,28
+,,,,,24,177,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,4,14,,9
+,,,,,24,177,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,7,50,,29
+,,,,,24,177,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,4,13,,7
+,,,,,24,177,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,1
+,,,,,24,177,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,7,49,,29
+,,,,,24,177,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,4,12,,8
+,,,,,24,177,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,7,51,,28
+,,,,,24,177,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,1,0,,4
+,,,,,24,177,"State Representative, 
+District No. 1",Gary Van Deaver,REP,8,50,,28
+,,,,,24,177,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,8,49,,28
+,,,,,24,177,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,8,48,,28
+,,,,,24,177,County Judge,L. D. Williamson,REP,8,50,,29
+,,,,,24,177,District Clerk,Janice Bivins Gentry,DEM,6,24,,18
+,,,,,24,177,County Clerk,Shawn Sargent Weemes,REP,8,49,,30
+,,,,,24,177,County Treasurer,Sandra Storey Embrey,REP,8,50,,29
+,,,,,24,177,"Justice of the Peace
+",Shelley Benton,REP,8,52,,29
+,,,,,27,539,Straight Party,Republican Party    REP,REP,8,55,,108
+,,,,,27,539,Straight Party,Democratic Party   DEM,DEM,1,4,,3
+,,,,,27,539,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,27,539,United States Senator,Ted Cruz,REP,14,82,,188
+,,,,,27,539,United States Senator,Beto O'Rourke,DEM,3,7,,8
+,,,,,27,539,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,27,539,"United States Representative,
+District No. 4",John Ratcliffe,REP,14,81,,183
+,,,,,27,539,"United States Representative,
+District No. 4",Catherine Krantz,DEM,3,6,,9
+,,,,,27,539,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,1,,1
+,,,,,27,539,Governor,Greg Abbott,REP,14,81,,190
+,,,,,27,539,Governor,Lupe Valdez,DEM,3,7,,7
+,,,,,27,539,Governor,Mark Jay Tippetts,LIB,0,1,,0
+,,,,,27,539,Lieutenant Governor,Dan Patrick,REP,15,77,,181
+,,,,,27,539,Lieutenant Governor,Mike Collier,DEM,2,11,,10
+,,,,,27,539,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,1,,3
+,,,,,27,539,Attorney General,Ken Paxton,REP,13,80,,182
+,,,,,27,539,Attorney General,Justin Nelson,DEM,3,8,,9
+,,,,,27,539,Attorney General,Michael Ray Harris,LIB,1,1,,3
+,,,,,27,539,Comptroller of Public Accounts,Glenn Hegar,REP,14,81,,182
+,,,,,27,539,Comptroller of Public Accounts,Joi Chevalier,DEM,3,6,,6
+,,,,,27,539,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,3
+,,,,,27,539,"Commissioner of the General
+Land Office",George P. Bush,REP,15,78,,183
+,,,,,27,539,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,8,,6
+,,,,,27,539,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,2,,4
+,,,,,27,539,Commissioner of Agriculture,Sid Miller,REP,14,77,,186
+,,,,,27,539,Commissioner of Agriculture,Kim Olson,DEM,3,8,,7
+,,,,,27,539,Commissioner of Agriculture,Richard Carpenter,LIB,0,3,,1
+,,,,,27,539,Railroad Commissioner,Christi Craddick,REP,14,82,,185
+,,,,,27,539,Railroad Commissioner,Roman McAllen,DEM,3,6,,6
+,,,,,27,539,Railroad Commissioner,Mike Wright,LIB,0,0,,3
+,,,,,27,539,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,14,81,,185
+,,,,,27,539,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,3,7,,8
+,,,,,27,539,"Justice, Supreme Court, Place 4",John Devine,REP,14,81,,185
+,,,,,27,539,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,3,7,,8
+,,,,,27,539,"Justice, Supreme Court, Place 6",Jeff Brown,REP,14,80,,182
+,,,,,27,539,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,3,8,,10
+,,,,,27,539,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,14,81,,183
+,,,,,27,539,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,3,6,,7
+,,,,,27,539,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,1,,3
+,,,,,27,539,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,14,80,,181
+,,,,,27,539,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,3,8,,9
+,,,,,27,539,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,15,81,,179
+,,,,,27,539,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,3,,5
+,,,,,27,539,"State Representative, 
+District No. 1",Gary Van Deaver,REP,14,80,,183
+,,,,,27,539,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,14,79,,178
+,,,,,27,539,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,14,79,,179
+,,,,,27,539,County Judge,L. D. Williamson,REP,13,77,,178
+,,,,,27,539,District Clerk,Janice Bivins Gentry,DEM,8,26,,64
+,,,,,27,539,County Clerk,Shawn Sargent Weemes,REP,15,78,,179
+,,,,,27,539,County Treasurer,Sandra Storey Embrey,REP,15,79,,180
+,,,,,27,539,"County Commissioner,
+Precinct No. 4",Dan (Danny) Halley,REP,11,77,,178
+,,,,,27,539,"Justice of the Peace
+",Shelley Benton,REP,15,78,,179
+,,,,,28,245,Straight Party,Republican Party    REP,REP,8,31,,23
+,,,,,28,245,Straight Party,Democratic Party   DEM,DEM,0,16,,10
+,,,,,28,245,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,28,245,United States Senator,Ted Cruz,REP,11,48,,39
+,,,,,28,245,United States Senator,Beto O'Rourke,DEM,2,25,,15
+,,,,,28,245,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,28,245,"United States Representative,
+District No. 4",John Ratcliffe,REP,11,49,,41
+,,,,,28,245,"United States Representative,
+District No. 4",Catherine Krantz,DEM,2,24,,14
+,,,,,28,245,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,0
+,,,,,28,245,Governor,Greg Abbott,REP,11,49,,42
+,,,,,28,245,Governor,Lupe Valdez,DEM,1,23,,13
+,,,,,28,245,Governor,Mark Jay Tippetts,LIB,0,1,,0
+,,,,,28,245,Lieutenant Governor,Dan Patrick,REP,11,45,,38
+,,,,,28,245,Lieutenant Governor,Mike Collier,DEM,1,25,,17
+,,,,,28,245,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,3,,0
+,,,,,28,245,Attorney General,Ken Paxton,REP,11,46,,36
+,,,,,28,245,Attorney General,Justin Nelson,DEM,1,25,,18
+,,,,,28,245,Attorney General,Michael Ray Harris,LIB,0,1,,1
+,,,,,28,245,Comptroller of Public Accounts,Glenn Hegar,REP,11,49,,37
+,,,,,28,245,Comptroller of Public Accounts,Joi Chevalier,DEM,1,24,,14
+,,,,,28,245,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,4
+,,,,,28,245,"Commissioner of the General
+Land Office",George P. Bush,REP,11,49,,39
+,,,,,28,245,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,1,23,,15
+,,,,,28,245,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,1,,1
+,,,,,28,245,Commissioner of Agriculture,Sid Miller,REP,11,49,,38
+,,,,,28,245,Commissioner of Agriculture,Kim Olson,DEM,1,24,,16
+,,,,,28,245,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,1
+,,,,,28,245,Railroad Commissioner,Christi Craddick,REP,11,47,,39
+,,,,,28,245,Railroad Commissioner,Roman McAllen,DEM,1,25,,13
+,,,,,28,245,Railroad Commissioner,Mike Wright,LIB,0,0,,3
+,,,,,28,245,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,11,47,,41
+,,,,,28,245,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,1,25,,14
+,,,,,28,245,"Justice, Supreme Court, Place 4",John Devine,REP,11,48,,41
+,,,,,28,245,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,24,,13
+,,,,,28,245,"Justice, Supreme Court, Place 6",Jeff Brown,REP,11,49,,40
+,,,,,28,245,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,1,23,,15
+,,,,,28,245,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,11,48,,37
+,,,,,28,245,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,24,,14
+,,,,,28,245,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,0,,2
+,,,,,28,245,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,11,48,,37
+,,,,,28,245,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,24,,14
+,,,,,28,245,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,11,50,,38
+,,,,,28,245,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,12,,5
+,,,,,28,245,"State Representative, 
+District No. 1",Gary Van Deaver,REP,11,61,,43
+,,,,,28,245,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,11,56,,41
+,,,,,28,245,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,11,55,,40
+,,,,,28,245,County Judge,L. D. Williamson,REP,11,51,,37
+,,,,,28,245,District Clerk,Janice Bivins Gentry,DEM,3,44,,33
+,,,,,28,245,County Clerk,Shawn Sargent Weemes,REP,11,56,,41
+,,,,,28,245,County Treasurer,Sandra Storey Embrey,REP,11,56,,41
+,,,,,28,245,"County Commissioner,
+Precinct No. 4",Dan (Danny) Halley,REP,11,56,,43
+,,,,,28,245,"Justice of the Peace
+",Shelley Benton,REP,11,58,,44
+,,,,,29,153,Straight Party,Republican Party    REP,REP,8,26,,19
+,,,,,29,153,Straight Party,Democratic Party   DEM,DEM,1,9,,6
+,,,,,29,153,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,29,153,United States Senator,Ted Cruz,REP,8,34,,32
+,,,,,29,153,United States Senator,Beto O'Rourke,DEM,2,13,,15
+,,,,,29,153,United States Senator,Neal M. Dikeman,LIB,0,0,,0
+,,,,,29,153,"United States Representative,
+District No. 4",John Ratcliffe,REP,8,33,,35
+,,,,,29,153,"United States Representative,
+District No. 4",Catherine Krantz,DEM,2,13,,12
+,,,,,29,153,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,1,,0
+,,,,,29,153,Governor,Greg Abbott,REP,8,36,,36
+,,,,,29,153,Governor,Lupe Valdez,DEM,2,11,,11
+,,,,,29,153,Governor,Mark Jay Tippetts,LIB,0,0,,0
+,,,,,29,153,Lieutenant Governor,Dan Patrick,REP,8,34,,35
+,,,,,29,153,Lieutenant Governor,Mike Collier,DEM,2,13,,11
+,,,,,29,153,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,0
+,,,,,29,153,Attorney General,Ken Paxton,REP,8,34,,33
+,,,,,29,153,Attorney General,Justin Nelson,DEM,2,13,,13
+,,,,,29,153,Attorney General,Michael Ray Harris,LIB,0,0,,0
+,,,,,29,153,Comptroller of Public Accounts,Glenn Hegar,REP,8,33,,33
+,,,,,29,153,Comptroller of Public Accounts,Joi Chevalier,DEM,2,12,,12
+,,,,,29,153,Comptroller of Public Accounts,Ben Sanders,LIB,0,1,,0
+,,,,,29,153,"Commissioner of the General
+Land Office",George P. Bush,REP,8,34,,32
+,,,,,29,153,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,2,13,,12
+,,,,,29,153,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,0,,2
+,,,,,29,153,Commissioner of Agriculture,Sid Miller,REP,8,34,,32
+,,,,,29,153,Commissioner of Agriculture,Kim Olson,DEM,2,13,,13
+,,,,,29,153,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,0
+,,,,,29,153,Railroad Commissioner,Christi Craddick,REP,8,34,,33
+,,,,,29,153,Railroad Commissioner,Roman McAllen,DEM,2,13,,12
+,,,,,29,153,Railroad Commissioner,Mike Wright,LIB,0,0,,0
+,,,,,29,153,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,8,34,,33
+,,,,,29,153,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,2,13,,12
+,,,,,29,153,"Justice, Supreme Court, Place 4",John Devine,REP,8,33,,33
+,,,,,29,153,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,2,12,,12
+,,,,,29,153,"Justice, Supreme Court, Place 6",Jeff Brown,REP,8,34,,32
+,,,,,29,153,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,2,13,,13
+,,,,,29,153,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,9,33,,34
+,,,,,29,153,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,13,,11
+,,,,,29,153,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,1,,1
+,,,,,29,153,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,9,34,,32
+,,,,,29,153,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,12,,13
+,,,,,29,153,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,9,35,,33
+,,,,,29,153,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,4,,8
+,,,,,29,153,"State Representative, 
+District No. 1",Gary Van Deaver,REP,9,35,,37
+,,,,,29,153,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,9,35,,34
+,,,,,29,153,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,9,35,,34
+,,,,,29,153,County Judge,L. D. Williamson,REP,9,36,,33
+,,,,,29,153,District Clerk,Janice Bivins Gentry,DEM,2,17,,24
+,,,,,29,153,County Clerk,Shawn Sargent Weemes,REP,9,36,,34
+,,,,,29,153,County Treasurer,Sandra Storey Embrey,REP,9,35,,35
+,,,,,29,153,"County Commissioner,
+Precinct No. 4",Dan (Danny) Halley,REP,9,33,,34
+,,,,,29,153,"Justice of the Peace
+",Shelley Benton,REP,9,35,,37
+,,,,,31,138,Straight Party,Republican Party    REP,REP,3,26,,21
+,,,,,31,138,Straight Party,Democratic Party   DEM,DEM,1,0,,3
+,,,,,31,138,Straight Party,Libertarian Party    LIB,LIB,0,0,,0
+,,,,,31,138,United States Senator,Ted Cruz,REP,3,38,,43
+,,,,,31,138,United States Senator,Beto O'Rourke,DEM,1,1,,4
+,,,,,31,138,United States Senator,Neal M. Dikeman,LIB,0,0,,1
+,,,,,31,138,"United States Representative,
+District No. 4",John Ratcliffe,REP,3,36,,41
+,,,,,31,138,"United States Representative,
+District No. 4",Catherine Krantz,DEM,1,1,,5
+,,,,,31,138,"United States Representative,
+District No. 4",Ken Ashby,LIB,0,0,,2
+,,,,,31,138,Governor,Greg Abbott,REP,3,39,,42
+,,,,,31,138,Governor,Lupe Valdez,DEM,1,0,,4
+,,,,,31,138,Governor,Mark Jay Tippetts,LIB,0,0,,2
+,,,,,31,138,Lieutenant Governor,Dan Patrick,REP,3,38,,35
+,,,,,31,138,Lieutenant Governor,Mike Collier,DEM,1,1,,12
+,,,,,31,138,Lieutenant Governor,Kerry Douglas McKennon,LIB,0,0,,1
+,,,,,31,138,Attorney General,Ken Paxton,REP,3,38,,38
+,,,,,31,138,Attorney General,Justin Nelson,DEM,1,0,,8
+,,,,,31,138,Attorney General,Michael Ray Harris,LIB,0,1,,2
+,,,,,31,138,Comptroller of Public Accounts,Glenn Hegar,REP,3,38,,41
+,,,,,31,138,Comptroller of Public Accounts,Joi Chevalier,DEM,1,1,,3
+,,,,,31,138,Comptroller of Public Accounts,Ben Sanders,LIB,0,0,,3
+,,,,,31,138,"Commissioner of the General
+Land Office",George P. Bush,REP,3,39,,42
+,,,,,31,138,"Commissioner of the General
+Land Office",Miguel Suazo,DEM,1,0,,4
+,,,,,31,138,"Commissioner of the General
+Land Office",Matt Piña,LIB,0,0,,2
+,,,,,31,138,Commissioner of Agriculture,Sid Miller,REP,3,37,,39
+,,,,,31,138,Commissioner of Agriculture,Kim Olson,DEM,1,2,,6
+,,,,,31,138,Commissioner of Agriculture,Richard Carpenter,LIB,0,0,,2
+,,,,,31,138,Railroad Commissioner,Christi Craddick,REP,3,38,,38
+,,,,,31,138,Railroad Commissioner,Roman McAllen,DEM,1,1,,5
+,,,,,31,138,Railroad Commissioner,Mike Wright,LIB,0,0,,4
+,,,,,31,138,"Justice, Supreme Court, Place 2",Jimmy Blacklock,REP,3,39,,42
+,,,,,31,138,"Justice, Supreme Court, Place 2",Steven Kirkland,DEM,1,0,,5
+,,,,,31,138,"Justice, Supreme Court, Place 4",John Devine,REP,3,38,,42
+,,,,,31,138,"Justice, Supreme Court, Place 4",R.K. Sandill,DEM,1,0,,5
+,,,,,31,138,"Justice, Supreme Court, Place 6",Jeff Brown,REP,3,38,,42
+,,,,,31,138,"Justice, Supreme Court, Place 6",Kathy Cheng,DEM,1,1,,5
+,,,,,31,138,"Presiding Judge, Court of
+Criminal Appeals",Sharon Keller,REP,3,38,,38
+,,,,,31,138,"Presiding Judge, Court of
+Criminal Appeals",Maria T. (Terri) Jackson,DEM,1,0,,7
+,,,,,31,138,"Presiding Judge, Court of
+Criminal Appeals",William Bryan Strange III,LIB,0,1,,2
+,,,,,31,138,"Judge, Court of Criminal Appeals,
+Place 7",Barbara Parker Hervey,REP,3,38,,43
+,,,,,31,138,"Judge, Court of Criminal Appeals,
+Place 7",Ramona Franklin,DEM,1,0,,5
+,,,,,31,138,"Judge, Court of Criminal Appeals,
+Place 8",Michelle Slaughter,REP,3,39,,42
+,,,,,31,138,"Judge, Court of Criminal Appeals,
+Place 8",Mark Ash,LIB,0,0,,3
+,,,,,31,138,"State Representative, 
+District No. 1",Gary Van Deaver,REP,3,37,,43
+,,,,,31,138,"Justice, 6th Court of Appeals
+District, Place No. 2",Scott Stevens,REP,3,39,,43
+,,,,,31,138,"District Judge, 102nd Judicial District",Jeff M. Addison,REP,3,36,,43
+,,,,,31,138,County Judge,L. D. Williamson,REP,3,35,,39
+,,,,,31,138,District Clerk,Janice Bivins Gentry,DEM,1,13,,29
+,,,,,31,138,County Clerk,Shawn Sargent Weemes,REP,3,36,,43
+,,,,,31,138,County Treasurer,Sandra Storey Embrey,REP,3,36,,42
+,,,,,31,138,"County Commissioner,
+Precinct No. 4",Dan (Danny) Halley,REP,3,33,,36
+,,,,,31,138,"Justice of the Peace
+",Shelley Benton,REP,3,36,,40

@@ -1,0 +1,21 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+103 SBL,,1,5,35,35,0,0,40,41,"Bland ISD Trustee, Full Term",,3,1,Terry Hurst,C,1,,68,30,0,0,5,0,0,0,21,11,0,0,42,19,0,0
+103 SBL,,1,5,35,35,0,0,40,41,"Bland ISD Trustee, Full Term",,3,2,Kenneth Pendergrass,C,2,,68,22,0,0,5,0,0,0,21,4,0,0,42,18,0,0
+103 SBL,,1,5,35,35,0,0,40,41,"Bland ISD Trustee, Full Term",,3,3,Trevor Hurst,C,3,,68,16,0,0,5,0,0,0,21,3,0,0,42,13,0,0
+103 SBL,,1,5,35,35,0,0,40,41,"Bland ISD Trustee, Full Term",,3,4,Holly McNeely,C,4,,68,11,0,0,5,0,0,0,21,3,0,0,42,8,0,0
+103 SBL,,1,5,35,35,0,0,40,41,"Bland ISD Trustee, Full Term",,3,5,Catherine Taylor,C,5,,68,14,0,0,5,0,0,0,21,4,0,0,42,10,0,0
+104 SBL,,1,8,36,36,0,0,40,41,"Bland ISD Trustee, Full Term",,3,1,Terry Hurst,C,1,,179,70,0,0,9,7,0,0,111,40,0,0,59,23,0,0
+104 SBL,,1,8,36,36,0,0,40,41,"Bland ISD Trustee, Full Term",,3,2,Kenneth Pendergrass,C,2,,179,60,0,0,9,4,0,0,111,39,0,0,59,17,0,0
+104 SBL,,1,8,36,36,0,0,40,41,"Bland ISD Trustee, Full Term",,3,3,Trevor Hurst,C,3,,179,58,0,0,9,4,0,0,111,33,0,0,59,21,0,0
+104 SBL,,1,8,36,36,0,0,40,41,"Bland ISD Trustee, Full Term",,3,4,Holly McNeely,C,4,,179,39,0,0,9,1,0,0,111,22,0,0,59,16,0,0
+104 SBL,,1,8,36,36,0,0,40,41,"Bland ISD Trustee, Full Term",,3,5,Catherine Taylor,C,5,,179,44,0,0,9,1,0,0,111,20,0,0,59,23,0,0
+109 SBL,,1,9,37,37,0,0,40,41,"Bland ISD Trustee, Full Term",,3,1,Terry Hurst,C,1,,680,243,0,0,28,10,0,0,320,112,0,0,332,121,0,0
+109 SBL,,1,9,37,37,0,0,40,41,"Bland ISD Trustee, Full Term",,3,2,Kenneth Pendergrass,C,2,,680,291,0,0,28,14,0,0,320,135,0,0,332,142,0,0
+109 SBL,,1,9,37,37,0,0,40,41,"Bland ISD Trustee, Full Term",,3,3,Trevor Hurst,C,3,,680,249,0,0,28,8,0,0,320,112,0,0,332,129,0,0
+109 SBL,,1,9,37,37,0,0,40,41,"Bland ISD Trustee, Full Term",,3,4,Holly McNeely,C,4,,680,190,0,0,28,5,0,0,320,80,0,0,332,105,0,0
+109 SBL,,1,9,37,37,0,0,40,41,"Bland ISD Trustee, Full Term",,3,5,Catherine Taylor,C,5,,680,215,0,0,28,6,0,0,320,81,0,0,332,128,0,0
+210 SBL,,1,6,38,38,0,0,40,41,"Bland ISD Trustee, Full Term",,3,1,Terry Hurst,C,1,,246,81,0,0,14,4,0,0,95,24,0,0,137,53,0,0
+210 SBL,,1,6,38,38,0,0,40,41,"Bland ISD Trustee, Full Term",,3,2,Kenneth Pendergrass,C,2,,246,76,0,0,14,5,0,0,95,28,0,0,137,43,0,0
+210 SBL,,1,6,38,38,0,0,40,41,"Bland ISD Trustee, Full Term",,3,3,Trevor Hurst,C,3,,246,57,0,0,14,5,0,0,95,19,0,0,137,33,0,0
+210 SBL,,1,6,38,38,0,0,40,41,"Bland ISD Trustee, Full Term",,3,4,Holly McNeely,C,4,,246,57,0,0,14,2,0,0,95,17,0,0,137,38,0,0
+210 SBL,,1,6,38,38,0,0,40,41,"Bland ISD Trustee, Full Term",,3,5,Catherine Taylor,C,5,,246,63,0,0,14,5,0,0,95,24,0,0,137,34,0,0
