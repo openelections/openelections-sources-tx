@@ -1,0 +1,504 @@
+Political_Subdivision,Election_Date,Election_Name,Total_Provisional_Ballots_Counted,Precinct_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,2,2,Straight Party,,1,1,Republican,C,1,REP,225,56,83,0,0,0,0,0,63,15,23,0,162,41,60,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,2,2,Straight Party,,1,2,Democratic,C,2,DEM,225,86,83,0,0,0,0,0,63,25,23,0,162,61,60,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,225,0,83,0,0,0,0,0,63,0,23,0,162,0,60,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,225,120,5,0,0,0,0,0,63,35,0,0,162,85,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,225,99,5,0,0,0,0,0,63,27,0,0,162,72,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,225,1,5,0,0,0,0,0,63,1,0,0,162,0,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,225,111,8,0,0,0,0,0,63,33,3,0,162,78,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,225,106,8,0,0,0,0,0,63,27,3,0,162,79,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,5,5,Governor,,1,1,Greg Abbott,C,1,REP,225,119,3,0,0,0,0,0,63,35,0,0,162,84,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,225,102,3,0,0,0,0,0,63,27,0,0,162,75,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,225,1,3,0,0,0,0,0,63,1,0,0,162,0,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,225,100,10,0,0,0,0,0,63,32,1,0,162,68,9,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,225,109,10,0,0,0,0,0,63,27,1,0,162,82,9,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,225,6,10,0,0,0,0,0,63,3,1,0,162,3,9,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,225,111,5,0,0,0,0,0,63,32,1,0,162,79,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,225,108,5,0,0,0,0,0,63,29,1,0,162,79,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,225,1,5,0,0,0,0,0,63,1,1,0,162,0,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,225,112,3,0,0,0,0,0,63,35,0,0,162,77,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,225,106,3,0,0,0,0,0,63,28,0,0,162,78,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,225,4,3,0,0,0,0,0,63,0,0,0,162,4,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,225,110,10,0,0,0,0,0,63,32,4,0,162,78,6,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,225,104,10,0,0,0,0,0,63,26,4,0,162,78,6,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,225,1,10,0,0,0,0,0,63,1,4,0,162,0,6,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,225,111,5,0,0,0,0,0,63,33,1,0,162,78,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,225,107,5,0,0,0,0,0,63,28,1,0,162,79,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,225,2,5,0,0,0,0,0,63,1,1,0,162,1,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,225,110,6,0,0,0,0,0,63,32,1,0,162,78,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,225,107,6,0,0,0,0,0,63,29,1,0,162,78,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,225,2,6,0,0,0,0,0,63,1,1,0,162,1,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,225,108,7,0,0,0,0,0,63,33,2,0,162,75,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,225,110,7,0,0,0,0,0,63,28,2,0,162,82,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,225,108,9,0,0,0,0,0,63,31,4,0,162,77,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,225,108,9,0,0,0,0,0,63,28,4,0,162,80,5,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,225,108,6,0,0,0,0,0,63,33,2,0,162,75,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,225,111,6,0,0,0,0,0,63,28,2,0,162,83,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,225,105,8,0,0,0,0,0,63,29,4,0,162,76,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,225,110,8,0,0,0,0,0,63,30,4,0,162,80,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,225,2,8,0,0,0,0,0,63,0,4,0,162,2,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,225,107,7,0,0,0,0,0,63,30,3,0,162,77,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,225,111,7,0,0,0,0,0,63,30,3,0,162,81,4,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,225,121,80,0,0,0,0,0,63,37,20,0,162,84,60,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,225,24,80,0,0,0,0,0,63,6,20,0,162,18,60,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,225,121,81,0,0,0,0,0,63,33,22,0,162,88,59,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,225,23,81,0,0,0,0,0,63,8,22,0,162,15,59,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,225,112,6,0,0,0,0,0,63,32,3,0,162,80,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,225,107,6,0,0,0,0,0,63,28,3,0,162,79,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,225,126,99,0,0,0,0,0,63,37,26,0,162,89,73,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,225,127,98,0,0,0,0,0,63,37,26,0,162,90,72,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,225,125,100,0,0,0,0,0,63,35,28,0,162,90,72,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,225,127,98,0,0,0,0,0,63,38,25,0,162,89,73,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,225,131,94,0,0,0,0,0,63,40,23,0,162,91,71,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,225,146,79,0,0,0,0,0,63,40,23,0,162,106,56,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,225,125,100,0,0,0,0,0,63,36,27,0,162,89,73,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,225,98,7,0,0,0,0,0,63,27,4,0,162,71,3,0
+Castro County,11/6/2018,General Election,0,101,1,3,1,1,715,0.31,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,225,120,7,0,0,0,0,0,63,32,4,0,162,88,3,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,2,2,Straight Party,,1,1,Republican,C,1,REP,28,12,14,0,0,0,0,0,18,10,7,0,10,2,7,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,2,2,Straight Party,,1,2,Democratic,C,2,DEM,28,2,14,0,0,0,0,0,18,1,7,0,10,1,7,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,28,0,14,0,0,0,0,0,18,0,7,0,10,0,7,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,28,24,0,0,0,0,0,0,18,16,0,0,10,8,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,28,4,0,0,0,0,0,0,18,2,0,0,10,2,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,5,5,Governor,,1,1,Greg Abbott,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,28,21,0,0,0,0,0,0,18,15,0,0,10,6,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,28,7,0,0,0,0,0,0,18,3,0,0,10,4,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,28,22,0,0,0,0,0,0,18,16,0,0,10,6,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,28,6,0,0,0,0,0,0,18,2,0,0,10,4,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,28,24,0,0,0,0,0,0,18,17,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,28,4,0,0,0,0,0,0,18,1,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,28,22,1,0,0,0,0,0,18,16,0,0,10,6,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,28,5,1,0,0,0,0,0,18,2,0,0,10,3,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,28,0,1,0,0,0,0,0,18,0,0,0,10,0,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,28,25,0,0,0,0,0,0,18,16,0,0,10,9,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,28,2,0,0,0,0,0,0,18,1,0,0,10,1,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,28,1,0,0,0,0,0,0,18,1,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,28,24,0,0,0,0,0,0,18,17,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,28,4,0,0,0,0,0,0,18,1,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,28,0,0,0,0,0,0,0,18,0,0,0,10,0,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,28,25,1,0,0,0,0,0,18,17,0,0,10,8,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,28,2,1,0,0,0,0,0,18,1,0,0,10,1,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,28,26,1,0,0,0,0,0,18,17,0,0,10,9,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,28,1,1,0,0,0,0,0,18,1,0,0,10,0,1,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,28,23,0,0,0,0,0,0,18,16,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,28,5,0,0,0,0,0,0,18,2,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,28,26,2,0,0,0,0,0,18,18,0,0,10,8,2,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,28,26,2,0,0,0,0,0,18,18,0,0,10,8,2,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,28,26,2,0,0,0,0,0,18,18,0,0,10,8,2,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,28,25,3,0,0,0,0,0,18,17,1,0,10,8,2,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,28,24,4,0,0,0,0,0,18,17,1,0,10,7,3,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,28,11,17,0,0,0,0,0,18,5,13,0,10,6,4,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,28,25,3,0,0,0,0,0,18,17,1,0,10,8,2,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,28,14,0,0,0,0,0,0,18,11,0,0,10,3,0,0
+Castro County,11/6/2018,General Election,0,105,1,3,2,2,68,0.41,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,28,14,0,0,0,0,0,0,18,7,0,0,10,7,0,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,2,2,Straight Party,,1,1,Republican,C,1,REP,263,46,124,0,0,0,0,0,154,31,79,0,109,15,45,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,2,2,Straight Party,,1,2,Democratic,C,2,DEM,263,90,124,0,0,0,0,0,154,43,79,0,109,47,45,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,263,3,124,0,0,0,0,0,154,1,79,0,109,2,45,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,263,141,12,1,0,0,0,0,154,89,9,1,109,52,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,263,109,12,1,0,0,0,0,154,55,9,1,109,54,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,263,0,12,1,0,0,0,0,154,0,9,1,109,0,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,263,123,23,1,0,0,0,0,154,76,16,1,109,47,7,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,263,116,23,1,0,0,0,0,154,61,16,1,109,55,7,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,5,5,Governor,,1,1,Greg Abbott,C,1,REP,263,137,17,1,0,0,0,0,154,85,12,1,109,52,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,263,106,17,1,0,0,0,0,154,55,12,1,109,51,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,263,2,17,1,0,0,0,0,154,1,12,1,109,1,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,263,116,19,1,0,0,0,0,154,72,16,1,109,44,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,263,117,19,1,0,0,0,0,154,62,16,1,109,55,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,263,10,19,1,0,0,0,0,154,3,16,1,109,7,3,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,263,124,20,1,0,0,0,0,154,77,14,1,109,47,6,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,263,115,20,1,0,0,0,0,154,61,14,1,109,54,6,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,263,3,20,1,0,0,0,0,154,1,14,1,109,2,6,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,263,120,21,1,0,0,0,0,154,76,16,1,109,44,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,263,111,21,1,0,0,0,0,154,59,16,1,109,52,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,263,10,21,1,0,0,0,0,154,2,16,1,109,8,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,263,124,19,1,0,0,0,0,154,78,15,1,109,46,4,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,263,112,19,1,0,0,0,0,154,57,15,1,109,55,4,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,263,7,19,1,0,0,0,0,154,3,15,1,109,4,4,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,263,118,23,1,0,0,0,0,154,73,18,1,109,45,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,263,117,23,1,0,0,0,0,154,60,18,1,109,57,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,263,4,23,1,0,0,0,0,154,2,18,1,109,2,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,263,119,22,0,0,0,0,0,154,74,17,0,109,45,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,263,117,22,0,0,0,0,0,154,61,17,0,109,56,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,263,5,22,0,0,0,0,0,154,2,17,0,109,3,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,263,119,23,0,0,0,0,0,154,74,19,0,109,45,4,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,263,121,23,0,0,0,0,0,154,61,19,0,109,60,4,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,263,122,24,0,0,0,0,0,154,75,19,0,109,47,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,263,117,24,0,0,0,0,0,154,60,19,0,109,57,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,263,125,21,0,0,0,0,0,154,78,16,0,109,47,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,263,117,21,0,0,0,0,0,154,60,16,0,109,57,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,263,125,19,0,0,0,0,0,154,75,14,0,109,50,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,263,118,19,0,0,0,0,0,154,64,14,0,109,54,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,263,1,19,0,0,0,0,0,154,1,14,0,109,0,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,263,125,22,0,0,0,0,0,154,77,17,0,109,48,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,263,116,22,0,0,0,0,0,154,60,17,0,109,56,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,263,145,98,0,0,0,0,0,154,90,53,0,109,55,45,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,263,20,98,0,0,0,0,0,154,11,53,0,109,9,45,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,263,144,93,0,0,0,0,0,154,87,51,0,109,57,42,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,263,26,93,0,0,0,0,0,154,16,51,0,109,10,42,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,263,131,19,0,0,0,0,0,154,80,14,0,109,51,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,263,113,19,0,0,0,0,0,154,60,14,0,109,53,5,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,263,144,119,0,0,0,0,0,154,85,69,0,109,59,50,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,263,145,118,0,0,0,0,0,154,85,69,0,109,60,49,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,263,144,119,0,0,0,0,0,154,85,69,0,109,59,50,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,263,149,114,0,0,0,0,0,154,90,64,0,109,59,50,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,263,155,108,0,0,0,0,0,154,95,59,0,109,60,49,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,263,197,66,0,0,0,0,0,154,106,48,0,109,91,18,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,263,150,113,0,0,0,0,0,154,88,66,0,109,62,47,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,263,66,3,0,0,0,0,0,154,39,2,0,109,27,1,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,263,194,3,0,0,0,0,0,154,113,2,0,109,81,1,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,28,28,"County Commissioner, Precinct 2",,1,1,Landon Porsch,C,1,REP,263,96,5,0,0,0,0,0,154,61,4,0,109,35,1,0
+Castro County,11/6/2018,General Election,1,201,1,4,3,3,751,0.35,28,28,"County Commissioner, Precinct 2",,1,2,Tim Elliott,C,2,DEM,263,162,5,0,0,0,0,0,154,89,4,0,109,73,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,2,2,Straight Party,,1,1,Republican,C,1,REP,82,37,40,0,0,0,0,0,39,10,24,0,43,27,16,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,2,2,Straight Party,,1,2,Democratic,C,2,DEM,82,5,40,0,0,0,0,0,39,5,24,0,43,0,16,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,82,0,40,0,0,0,0,0,39,0,24,0,43,0,16,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,82,67,3,0,0,0,0,0,39,26,1,0,43,41,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,82,12,3,0,0,0,0,0,39,12,1,0,43,0,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,82,0,3,0,0,0,0,0,39,0,1,0,43,0,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,82,69,3,0,0,0,0,0,39,28,1,0,43,41,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,82,10,3,0,0,0,0,0,39,10,1,0,43,0,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,5,5,Governor,,1,1,Greg Abbott,C,1,REP,82,69,2,0,0,0,0,0,39,27,1,0,43,42,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,82,11,2,0,0,0,0,0,39,11,1,0,43,0,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,82,0,2,0,0,0,0,0,39,0,1,0,43,0,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,82,65,2,0,0,0,0,0,39,25,1,0,43,40,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,82,14,2,0,0,0,0,0,39,12,1,0,43,2,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,82,1,2,0,0,0,0,0,39,1,1,0,43,0,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,82,64,4,0,0,0,0,0,39,26,1,0,43,38,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,82,13,4,0,0,0,0,0,39,12,1,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,82,1,4,0,0,0,0,0,39,0,1,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,82,65,3,0,0,0,0,0,39,25,0,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,82,13,3,0,0,0,0,0,39,13,0,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,82,1,3,0,0,0,0,0,39,1,0,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,82,61,4,0,0,0,0,0,39,22,1,0,43,39,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,82,13,4,0,0,0,0,0,39,13,1,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,82,4,4,0,0,0,0,0,39,3,1,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,82,68,1,0,0,0,0,0,39,27,0,0,43,41,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,82,12,1,0,0,0,0,0,39,11,0,0,43,1,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,82,1,1,0,0,0,0,0,39,1,0,0,43,0,1,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,82,67,2,0,0,0,0,0,39,27,0,0,43,40,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,82,13,2,0,0,0,0,0,39,12,0,0,43,1,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,82,0,2,0,0,0,0,0,39,0,0,0,43,0,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,82,67,2,0,0,0,0,0,39,26,0,0,43,41,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,82,13,2,0,0,0,0,0,39,13,0,0,43,0,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,82,66,3,0,0,0,0,0,39,26,0,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,82,13,3,0,0,0,0,0,39,13,0,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,82,64,4,0,0,0,0,0,39,25,1,0,43,39,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,82,14,4,0,0,0,0,0,39,13,1,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,82,67,3,0,0,0,0,0,39,27,0,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,82,12,3,0,0,0,0,0,39,12,0,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,82,0,3,0,0,0,0,0,39,0,0,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,82,67,3,0,0,0,0,0,39,28,0,0,43,39,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,82,12,3,0,0,0,0,0,39,11,0,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,82,69,8,0,0,0,0,0,39,29,5,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,82,5,8,0,0,0,0,0,39,5,5,0,43,0,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,82,67,9,0,0,0,0,0,39,29,6,0,43,38,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,82,6,9,0,0,0,0,0,39,4,6,0,43,2,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,82,68,5,0,0,0,0,0,39,29,1,0,43,39,4,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,82,9,5,0,0,0,0,0,39,9,1,0,43,0,4,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,82,67,15,0,0,0,0,0,39,27,12,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,82,68,14,0,0,0,0,0,39,28,11,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,82,69,13,0,0,0,0,0,39,29,10,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,82,71,11,0,0,0,0,0,39,30,9,0,43,41,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,82,68,14,0,0,0,0,0,39,28,11,0,43,40,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,82,35,47,0,0,0,0,0,39,27,12,0,43,8,35,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,82,71,11,0,0,0,0,0,39,30,9,0,43,41,2,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,82,54,3,0,0,0,0,0,39,18,0,0,43,36,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,82,25,3,0,0,0,0,0,39,21,0,0,43,4,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,28,28,"County Commissioner, Precinct 2",,1,1,Landon Porsch,C,1,REP,82,68,3,0,0,0,0,0,39,29,0,0,43,39,3,0
+Castro County,11/6/2018,General Election,0,206,1,3,4,4,137,0.6,28,28,"County Commissioner, Precinct 2",,1,2,Tim Elliott,C,2,DEM,82,11,3,0,0,0,0,0,39,10,0,0,43,1,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,2,2,Straight Party,,1,1,Republican,C,1,REP,481,111,321,0,0,0,0,0,321,62,229,0,160,49,92,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,2,2,Straight Party,,1,2,Democratic,C,2,DEM,481,47,321,0,0,0,0,0,321,29,229,0,160,18,92,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,481,2,321,0,0,0,0,0,321,1,229,0,160,1,92,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,481,375,9,0,0,0,0,0,321,244,7,0,160,131,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,481,93,9,0,0,0,0,0,321,70,7,0,160,23,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,481,4,9,0,0,0,0,0,321,0,7,0,160,4,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,481,397,15,0,0,0,0,0,321,262,12,0,160,135,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,481,69,15,0,0,0,0,0,321,47,12,0,160,22,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,5,5,Governor,,1,1,Greg Abbott,C,1,REP,481,385,14,0,0,0,0,0,321,249,13,0,160,136,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,481,71,14,0,0,0,0,0,321,52,13,0,160,19,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,481,11,14,0,0,0,0,0,321,7,13,0,160,4,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,481,291,14,0,0,0,0,0,321,183,11,0,160,108,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,481,162,14,0,0,0,0,0,321,120,11,0,160,42,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,481,14,14,0,0,0,0,0,321,7,11,0,160,7,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,481,350,14,0,0,0,0,0,321,220,13,0,160,130,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,481,110,14,0,0,0,0,0,321,83,13,0,160,27,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,481,7,14,0,0,0,0,0,321,5,13,0,160,2,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,481,362,20,0,0,0,0,0,321,233,18,0,160,129,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,481,85,20,0,0,0,0,0,321,61,18,0,160,24,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,481,14,20,0,0,0,0,0,321,9,18,0,160,5,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,481,371,22,0,0,0,0,0,321,241,21,0,160,130,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,481,80,22,0,0,0,0,0,321,54,21,0,160,26,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,481,8,22,0,0,0,0,0,321,5,21,0,160,3,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,481,359,17,0,0,0,0,0,321,232,15,0,160,127,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,481,93,17,0,0,0,0,0,321,66,15,0,160,27,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,481,12,17,0,0,0,0,0,321,8,15,0,160,4,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,481,373,19,0,0,0,0,0,321,242,18,0,160,131,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,481,80,19,0,0,0,0,0,321,56,18,0,160,24,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,481,9,19,0,0,0,0,0,321,5,18,0,160,4,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,481,371,23,0,0,0,0,0,321,242,19,0,160,129,4,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,481,87,23,0,0,0,0,0,321,60,19,0,160,27,4,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,481,371,24,0,0,0,0,0,321,240,20,0,160,131,4,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,481,86,24,0,0,0,0,0,321,61,20,0,160,25,4,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,481,374,23,0,0,0,0,0,321,241,20,0,160,133,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,481,84,23,0,0,0,0,0,321,60,20,0,160,24,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,481,368,23,0,0,0,0,0,321,238,21,0,160,130,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,481,83,23,0,0,0,0,0,321,59,21,0,160,24,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,481,7,23,0,0,0,0,0,321,3,21,0,160,4,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,481,372,25,0,0,0,0,0,321,239,22,0,160,133,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,481,84,25,0,0,0,0,0,321,60,22,0,160,24,3,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,481,388,65,0,0,0,0,0,321,254,47,0,160,134,18,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,481,28,65,0,0,0,0,0,321,20,47,0,160,8,18,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,481,406,49,0,0,0,0,0,321,269,34,0,160,137,15,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,481,26,49,0,0,0,0,0,321,18,34,0,160,8,15,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,481,396,9,0,0,0,0,0,321,262,8,0,160,134,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,481,76,9,0,0,0,0,0,321,51,8,0,160,25,1,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,481,389,92,0,0,0,0,0,321,250,71,0,160,139,21,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,481,388,93,0,0,0,0,0,321,251,70,0,160,137,23,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,481,388,93,0,0,0,0,0,321,252,69,0,160,136,24,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,481,392,89,0,0,0,0,0,321,256,65,0,160,136,24,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,481,390,91,0,0,0,0,0,321,257,64,0,160,133,27,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,481,308,173,0,0,0,0,0,321,213,108,0,160,95,65,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,481,404,77,0,0,0,0,0,321,266,55,0,160,138,22,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,481,238,11,0,0,0,0,0,321,147,9,0,160,91,2,0
+Castro County,11/6/2018,General Election,0,301,1,4,5,5,864,0.56,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,481,232,11,0,0,0,0,0,321,165,9,0,160,67,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,2,2,Straight Party,,1,1,Republican,C,1,REP,46,15,25,0,0,0,0,0,26,8,14,0,20,7,11,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,2,2,Straight Party,,1,2,Democratic,C,2,DEM,46,6,25,0,0,0,0,0,26,4,14,0,20,2,11,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,46,0,25,0,0,0,0,0,26,0,14,0,20,0,11,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,46,38,2,0,0,0,0,0,26,21,2,0,20,17,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,46,6,2,0,0,0,0,0,26,3,2,0,20,3,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,46,0,2,0,0,0,0,0,26,0,2,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,46,36,1,0,0,0,0,0,26,20,1,0,20,16,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,46,9,1,0,0,0,0,0,26,5,1,0,20,4,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,5,5,Governor,,1,1,Greg Abbott,C,1,REP,46,38,1,0,0,0,0,0,26,22,1,0,20,16,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,46,7,1,0,0,0,0,0,26,3,1,0,20,4,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,46,0,1,0,0,0,0,0,26,0,1,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,46,30,2,0,0,0,0,0,26,17,2,0,20,13,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,46,12,2,0,0,0,0,0,26,5,2,0,20,7,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,46,2,2,0,0,0,0,0,26,2,2,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,46,35,2,0,0,0,0,0,26,19,2,0,20,16,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,46,8,2,0,0,0,0,0,26,4,2,0,20,4,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,46,1,2,0,0,0,0,0,26,1,2,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,46,38,1,0,0,0,0,0,26,21,1,0,20,17,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,46,6,1,0,0,0,0,0,26,4,1,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,46,1,1,0,0,0,0,0,26,0,1,0,20,1,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,46,31,4,0,0,0,0,0,26,16,4,0,20,15,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,46,9,4,0,0,0,0,0,26,5,4,0,20,4,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,46,2,4,0,0,0,0,0,26,1,4,0,20,1,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,46,35,0,0,0,0,0,0,26,20,0,0,20,15,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,46,11,0,0,0,0,0,0,26,6,0,0,20,5,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,46,0,0,0,0,0,0,0,26,0,0,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,46,38,0,0,0,0,0,0,26,21,0,0,20,17,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,46,8,0,0,0,0,0,0,26,5,0,0,20,3,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,46,0,0,0,0,0,0,0,26,0,0,0,20,0,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,46,38,0,0,0,0,0,0,26,20,0,0,20,18,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,46,8,0,0,0,0,0,0,26,6,0,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,46,40,0,0,0,0,0,0,26,22,0,0,20,18,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,46,6,0,0,0,0,0,0,26,4,0,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,46,39,1,0,0,0,0,0,26,21,1,0,20,18,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,46,6,1,0,0,0,0,0,26,4,1,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,46,37,1,0,0,0,0,0,26,20,1,0,20,17,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,46,7,1,0,0,0,0,0,26,5,1,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,46,1,1,0,0,0,0,0,26,0,1,0,20,1,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,46,39,0,0,0,0,0,0,26,21,0,0,20,18,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,46,7,0,0,0,0,0,0,26,5,0,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,46,39,7,0,0,0,0,0,26,21,5,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,46,0,7,0,0,0,0,0,26,0,5,0,20,0,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,46,40,6,0,0,0,0,0,26,22,4,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,46,0,6,0,0,0,0,0,26,0,4,0,20,0,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,46,38,0,0,0,0,0,0,26,20,0,0,20,18,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,46,8,0,0,0,0,0,0,26,6,0,0,20,2,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,46,40,6,0,0,0,0,0,26,22,4,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,46,39,7,0,0,0,0,0,26,21,5,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,46,39,7,0,0,0,0,0,26,21,5,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,46,39,7,0,0,0,0,0,26,21,5,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,46,34,12,0,0,0,0,0,26,17,9,0,20,17,3,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,46,27,19,0,0,0,0,0,26,14,12,0,20,13,7,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,46,39,7,0,0,0,0,0,26,21,5,0,20,18,2,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,46,30,0,0,0,0,0,0,26,15,0,0,20,15,0,0
+Castro County,11/6/2018,General Election,0,307,1,4,6,6,140,0.33,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,46,16,0,0,0,0,0,0,26,11,0,0,20,5,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,2,2,Straight Party,,1,1,Republican,C,1,REP,38,27,10,0,0,0,0,0,21,13,7,0,17,14,3,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,2,2,Straight Party,,1,2,Democratic,C,2,DEM,38,1,10,0,0,0,0,0,21,1,7,0,17,0,3,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,38,0,10,0,0,0,0,0,21,0,7,0,17,0,3,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,38,37,0,0,0,0,0,0,21,20,0,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,38,0,0,0,0,0,0,0,21,0,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,38,37,0,0,0,0,0,0,21,20,0,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,5,5,Governor,,1,1,Greg Abbott,C,1,REP,38,37,0,0,0,0,0,0,21,20,0,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,38,0,0,0,0,0,0,0,21,0,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,38,36,0,0,0,0,0,0,21,20,0,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,38,1,0,0,0,0,0,0,21,0,0,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,38,36,0,0,0,0,0,0,21,20,0,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,38,1,0,0,0,0,0,0,21,0,0,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,38,35,1,0,0,0,0,0,21,19,1,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,38,1,1,0,0,0,0,0,21,0,1,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,38,36,1,0,0,0,0,0,21,19,1,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,38,0,1,0,0,0,0,0,21,0,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,38,34,2,0,0,0,0,0,21,18,2,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,38,1,2,0,0,0,0,0,21,1,2,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,38,1,2,0,0,0,0,0,21,0,2,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,38,37,0,0,0,0,0,0,21,20,0,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,38,0,0,0,0,0,0,0,21,0,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,38,36,1,0,0,0,0,0,21,19,1,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,38,36,1,0,0,0,0,0,21,19,1,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,38,36,1,0,0,0,0,0,21,19,1,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,38,35,1,0,0,0,0,0,21,19,1,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,38,1,1,0,0,0,0,0,21,0,1,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,38,36,1,0,0,0,0,0,21,19,1,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,38,1,1,0,0,0,0,0,21,1,1,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,38,35,2,0,0,0,0,0,21,19,2,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,38,1,2,0,0,0,0,0,21,0,2,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,38,36,1,0,0,0,0,0,21,20,1,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,38,1,1,0,0,0,0,0,21,0,1,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,38,37,0,0,0,0,0,0,21,20,0,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,38,1,0,0,0,0,0,0,21,1,0,0,17,0,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,38,7,31,0,0,0,0,0,21,3,18,0,17,4,13,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,38,36,2,0,0,0,0,0,21,19,2,0,17,17,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,38,35,1,0,0,0,0,0,21,19,1,0,17,16,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,38,2,1,0,0,0,0,0,21,1,1,0,17,1,0,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,31,31,Hereford ISD Proposition A,,1,3,For,C,3,,38,15,7,0,0,0,0,0,21,6,4,0,17,9,3,0
+Castro County,11/6/2018,General Election,0,307HISD,1,4,7,7,60,0.63,31,31,Hereford ISD Proposition A,,1,4,Against,C,4,,38,16,7,0,0,0,0,0,21,11,4,0,17,5,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,2,2,Straight Party,,1,1,Republican,C,1,REP,140,35,71,0,0,0,0,0,79,24,41,0,61,11,30,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,2,2,Straight Party,,1,2,Democratic,C,2,DEM,140,31,71,0,0,0,0,0,79,13,41,0,61,18,30,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,140,3,71,0,0,0,0,0,79,1,41,0,61,2,30,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,140,87,5,0,0,0,0,0,79,57,3,0,61,30,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,140,47,5,0,0,0,0,0,79,19,3,0,61,28,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,140,1,5,0,0,0,0,0,79,0,3,0,61,1,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,140,85,8,0,0,0,0,0,79,54,6,0,61,31,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,140,47,8,0,0,0,0,0,79,19,6,0,61,28,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,5,5,Governor,,1,1,Greg Abbott,C,1,REP,140,87,6,0,0,0,0,0,79,57,4,0,61,30,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,140,46,6,0,0,0,0,0,79,17,4,0,61,29,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,140,1,6,0,0,0,0,0,79,1,4,0,61,0,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,140,75,7,0,0,0,0,0,79,45,6,0,61,30,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,140,56,7,0,0,0,0,0,79,28,6,0,61,28,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,140,2,7,0,0,0,0,0,79,0,6,0,61,2,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,140,79,6,0,0,0,0,0,79,49,5,0,61,30,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,140,52,6,0,0,0,0,0,79,24,5,0,61,28,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,140,3,6,0,0,0,0,0,79,1,5,0,61,2,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,140,80,6,0,0,0,0,0,79,53,4,0,61,27,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,140,45,6,0,0,0,0,0,79,19,4,0,61,26,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,140,9,6,0,0,0,0,0,79,3,4,0,61,6,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,140,82,6,0,0,0,0,0,79,55,3,0,61,27,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,140,48,6,0,0,0,0,0,79,19,3,0,61,29,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,140,4,6,0,0,0,0,0,79,2,3,0,61,2,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,140,78,6,0,0,0,0,0,79,52,4,0,61,26,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,140,49,6,0,0,0,0,0,79,20,4,0,61,29,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,140,7,6,0,0,0,0,0,79,3,4,0,61,4,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,140,80,9,0,0,0,0,0,79,51,6,0,61,29,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,140,46,9,0,0,0,0,0,79,20,6,0,61,26,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,140,5,9,0,0,0,0,0,79,2,6,0,61,3,3,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,140,78,7,0,0,0,0,0,79,51,6,0,61,27,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,140,55,7,0,0,0,0,0,79,22,6,0,61,33,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,140,82,8,0,0,0,0,0,79,53,6,0,61,29,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,140,50,8,0,0,0,0,0,79,20,6,0,61,30,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,140,80,7,0,0,0,0,0,79,53,5,0,61,27,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,140,53,7,0,0,0,0,0,79,21,5,0,61,32,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,140,80,6,0,0,0,0,0,79,56,4,0,61,24,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,140,53,6,0,0,0,0,0,79,19,4,0,61,34,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,140,1,6,0,0,0,0,0,79,0,4,0,61,1,2,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,140,81,9,0,0,0,0,0,79,54,5,0,61,27,4,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,140,50,9,0,0,0,0,0,79,20,5,0,61,30,4,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,140,95,34,0,0,0,0,0,79,57,18,0,61,38,16,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,140,11,34,0,0,0,0,0,79,4,18,0,61,7,16,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,140,100,31,0,0,0,0,0,79,60,16,0,61,40,15,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,140,9,31,0,0,0,0,0,79,3,16,0,61,6,15,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,140,85,5,0,0,0,0,0,79,54,4,0,61,31,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,140,50,5,0,0,0,0,0,79,21,4,0,61,29,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,140,98,42,0,0,0,0,0,79,61,18,0,61,37,24,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,140,96,44,0,0,0,0,0,79,59,20,0,61,37,24,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,140,96,44,0,0,0,0,0,79,58,21,0,61,38,23,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,140,99,41,0,0,0,0,0,79,60,19,0,61,39,22,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,140,96,44,0,0,0,0,0,79,58,21,0,61,38,23,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,140,101,39,0,0,0,0,0,79,50,29,0,61,51,10,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,140,98,42,0,0,0,0,0,79,58,21,0,61,40,21,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,140,54,4,0,0,0,0,0,79,32,3,0,61,22,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,140,82,4,0,0,0,0,0,79,44,3,0,61,38,1,0
+Castro County,11/6/2018,General Election,0,401,1,3,8,8,530,0.26,29,29,"County Commissioner, Precinct 4",,1,1,Ralph Brockman,C,1,REP,140,103,37,0,0,0,0,0,79,62,17,0,61,41,20,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,2,2,Straight Party,,1,1,Republican,C,1,REP,363,151,201,0,0,0,0,0,76,29,39,0,287,122,162,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,2,2,Straight Party,,1,2,Democratic,C,2,DEM,363,10,201,0,0,0,0,0,76,7,39,0,287,3,162,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,2,2,Straight Party,,1,3,Libertarian,C,3,LIB,363,1,201,0,0,0,0,0,76,1,39,0,287,0,162,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,3,3,United States Senator,,1,1,Ted Cruz,C,1,REP,363,331,6,0,0,0,0,0,76,61,1,0,287,270,5,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,3,3,United States Senator,,1,2,Beto O'Rourke,C,2,DEM,363,22,6,0,0,0,0,0,76,13,1,0,287,9,5,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,3,3,United States Senator,,1,3,Neal M. Dikerman,C,3,LIB,363,4,6,0,0,0,0,0,76,1,1,0,287,3,5,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,4,4,"United States Representative, District 19",,1,1,Jodey Arrington,C,1,REP,363,333,11,0,0,0,0,0,76,62,1,0,287,271,10,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,4,4,"United States Representative, District 19",,1,2,Miguel Levario,C,2,DEM,363,19,11,0,0,0,0,0,76,13,1,0,287,6,10,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,5,5,Governor,,1,1,Greg Abbott,C,1,REP,363,331,7,0,0,0,0,0,76,60,0,0,287,271,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,5,5,Governor,,1,2,Lupe Valdez,C,2,DEM,363,22,7,0,0,0,0,0,76,14,0,0,287,8,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,5,5,Governor,,1,3,Mark Jay Tippetts,C,3,LIB,363,3,7,0,0,0,0,0,76,2,0,0,287,1,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,6,6,Lieutenant Governor,,1,1,Dan Patrick,C,1,REP,363,276,11,0,0,0,0,0,76,50,1,0,287,226,10,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,6,6,Lieutenant Governor,,1,2,Mike Collier,C,2,DEM,363,69,11,0,0,0,0,0,76,24,1,0,287,45,10,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,6,6,Lieutenant Governor,,1,3,Kerry Douglas McKennon,C,3,LIB,363,7,11,0,0,0,0,0,76,1,1,0,287,6,10,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,7,7,Attorney General,,1,1,Ken Paxton,C,1,REP,363,310,9,0,0,0,0,0,76,53,1,0,287,257,8,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,7,7,Attorney General,,1,2,Justin Nelson,C,2,DEM,363,42,9,0,0,0,0,0,76,21,1,0,287,21,8,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,7,7,Attorney General,,1,3,Michael Ray Harris,C,3,LIB,363,2,9,0,0,0,0,0,76,1,1,0,287,1,8,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,8,8,Comptroller of Public Accounts,,1,1,Glenn Hegar,C,1,REP,363,321,16,0,0,0,0,0,76,59,3,0,287,262,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,8,8,Comptroller of Public Accounts,,1,2,Joi Chevalier,C,2,DEM,363,18,16,0,0,0,0,0,76,12,3,0,287,6,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,8,8,Comptroller of Public Accounts,,1,3,Ben Sanders,C,3,LIB,363,8,16,0,0,0,0,0,76,2,3,0,287,6,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,9,9,Commissioner of the General Land Office,,1,1,George P. Bush,C,1,REP,363,314,13,0,0,0,0,0,76,56,2,0,287,258,11,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,9,9,Commissioner of the General Land Office,,1,2,Miguel Suazo,C,2,DEM,363,29,13,0,0,0,0,0,76,16,2,0,287,13,11,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,9,9,Commissioner of the General Land Office,,1,3,Matt Pina,C,3,LIB,363,7,13,0,0,0,0,0,76,2,2,0,287,5,11,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,10,10,Commissioner of Agriculture,,1,1,Sid Miller,C,1,REP,363,322,10,0,0,0,0,0,76,59,1,0,287,263,9,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,10,10,Commissioner of Agriculture,,1,2,Kim Olson,C,2,DEM,363,28,10,0,0,0,0,0,76,15,1,0,287,13,9,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,10,10,Commissioner of Agriculture,,1,3,Richard Carpenter,C,3,LIB,363,3,10,0,0,0,0,0,76,1,1,0,287,2,9,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,11,11,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,363,323,15,0,0,0,0,0,76,59,2,0,287,264,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,11,11,Railroad Commissioner,,1,2,Roman McAllen,C,2,DEM,363,20,15,0,0,0,0,0,76,13,2,0,287,7,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,11,11,Railroad Commissioner,,1,3,Mike Wright,C,3,LIB,363,5,15,0,0,0,0,0,76,2,2,0,287,3,13,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,12,12,"Justice, Supreme Court, Place 2",,1,1,Jimmy Blacklock,C,1,REP,363,318,18,0,0,0,0,0,76,56,6,0,287,262,12,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,12,12,"Justice, Supreme Court, Place 2",,1,2,Steven Kirkland,C,2,DEM,363,27,18,0,0,0,0,0,76,14,6,0,287,13,12,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,13,13,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,363,316,24,0,0,0,0,0,76,55,6,0,287,261,18,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,13,13,"Justice, Supreme Court, Place 4",,1,2,R.K. Sandill,C,2,DEM,363,23,24,0,0,0,0,0,76,15,6,0,287,8,18,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,14,14,"Justice, Supreme Court, Place 6",,1,1,Jeff Brown,C,1,REP,363,321,25,0,0,0,0,0,76,58,6,0,287,263,19,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,14,14,"Justice, Supreme Court, Place 6",,1,2,Kathy Cheng,C,2,DEM,363,17,25,0,0,0,0,0,76,12,6,0,287,5,19,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,363,320,20,0,0,0,0,0,76,59,4,0,287,261,16,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,2,Maria T. (Terri) Jackson,C,2,DEM,363,21,20,0,0,0,0,0,76,12,4,0,287,9,16,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,15,15,"Presiding Judge, Court of Criminal Appeals",,1,3,"William Bryan Strange, III",C,3,LIB,363,2,20,0,0,0,0,0,76,1,4,0,287,1,16,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,363,314,23,0,0,0,0,0,76,55,6,0,287,259,17,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,16,16,"Judge, Court of Criminal Appeals, Place 7",,1,2,Ramona Franklin,C,2,DEM,363,26,23,0,0,0,0,0,76,15,6,0,287,11,17,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,1,Michelle Slaughter,C,1,REP,363,324,33,0,0,0,0,0,76,60,12,0,287,264,21,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,17,17,"Judge, Court of Criminal Appeals, Place 8",,1,2,Mark Ash,C,2,LIB,363,6,33,0,0,0,0,0,76,4,12,0,287,2,21,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,18,18,"State Senator, District 31",,1,1,Kel Seilger,C,1,REP,363,336,17,0,0,0,0,0,76,61,10,0,287,275,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,18,18,"State Senator, District 31",,1,2,Jack B. Westbrook,C,2,LIB,363,10,17,0,0,0,0,0,76,5,10,0,287,5,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,19,19,"State Representative, District 88",,1,1,Ken King,C,1,REP,363,332,9,0,0,0,0,0,76,59,2,0,287,273,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,19,19,"State Representative, District 88",,1,2,Ezekiel Barron,C,2,DEM,363,22,9,0,0,0,0,0,76,15,2,0,287,7,7,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,20,20,"Justice, 7th Court of Appeals District, Place 2",,1,1,Judy Parker,C,1,REP,363,316,47,0,0,0,0,0,76,59,17,0,287,257,30,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,21,21,"Justice, 7th Court of Appeals District, Place 3",,1,1,Pat Pirtle,C,1,REP,363,316,47,0,0,0,0,0,76,60,16,0,287,256,31,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,22,22,"District Judge, 64th Judicial District",,1,1,Danah Zirpoli,C,1,REP,363,312,51,0,0,0,0,0,76,59,17,0,287,253,34,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,23,23,"District Judge, 242nd Judicial District",,1,1,Lowell Kregg Hukill,C,1,REP,363,313,50,0,0,0,0,0,76,60,16,0,287,253,34,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,24,24,County Judge,,1,1,Carroll U. Gerber,C,1,REP,363,327,36,0,0,0,0,0,76,63,13,0,287,264,23,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,25,25,District and County Clerk,,1,1,JoAnna Blanco,C,1,DEM,363,168,195,0,0,0,0,0,76,39,37,0,287,129,158,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,26,26,County Treasurer,,1,1,Elaine D. Flynt,C,1,REP,363,328,35,0,0,0,0,0,76,63,13,0,287,265,22,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,27,27,Justice of the Peace,,1,1,Flip Taylor,C,1,REP,363,241,15,0,0,0,0,0,76,43,3,0,287,198,12,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,27,27,Justice of the Peace,,1,2,Mary Ewing,C,2,DEM,363,107,15,0,0,0,0,0,76,30,3,0,287,77,12,0
+Castro County,11/6/2018,General Election,0,408,1,3,9,9,575,0.63,29,29,"County Commissioner, Precinct 4",,1,1,Ralph Brockman,C,1,REP,363,334,29,0,0,0,0,0,76,64,12,0,287,270,17,0
