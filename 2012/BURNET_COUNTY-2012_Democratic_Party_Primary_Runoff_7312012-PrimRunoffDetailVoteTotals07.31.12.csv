@@ -1,0 +1,133 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+01FirstLuthCh,,1,8,1,1,7634,0.1,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,780,437,15,1,0,0,0,0,465,270,11,1,315,167,4,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,780,308,15,1,0,0,0,0,465,169,11,1,315,139,4,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,780,436,32,0,0,0,0,0,465,273,18,0,315,163,14,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,780,293,32,0,0,0,0,0,465,160,18,0,315,133,14,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,780,393,93,0,0,0,0,0,465,244,56,0,315,149,37,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,780,275,93,0,0,0,0,0,465,151,56,0,315,124,37,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,780,286,118,0,0,0,0,0,465,167,67,0,315,119,51,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,780,357,118,0,0,0,0,0,465,217,67,0,315,140,51,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,780,360,120,0,0,0,0,0,465,219,74,0,315,141,46,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,780,281,120,0,0,0,0,0,465,158,74,0,315,123,46,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,780,283,122,0,0,0,0,0,465,163,76,0,315,120,46,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,780,356,122,0,0,0,0,0,465,212,76,0,315,144,46,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,780,288,17,0,0,0,0,0,465,188,9,0,315,100,8,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,780,456,17,0,0,0,0,0,465,254,9,0,315,202,8,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,780,14,0,0,0,0,0,0,465,11,0,0,315,3,0,0
+01FirstLuthCh,,1,8,1,1,7634,0.1,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,780,5,0,0,0,0,0,0,465,3,0,0,315,2,0,0
+02HiglHaven,,1,7,2,2,4820,0.12,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,560,285,8,0,0,0,0,0,312,163,5,0,248,122,3,0
+02HiglHaven,,1,7,2,2,4820,0.12,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,560,251,8,0,0,0,0,0,312,134,5,0,248,117,3,0
+02HiglHaven,,1,7,2,2,4820,0.12,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,560,324,25,0,0,0,0,0,312,180,15,0,248,144,10,0
+02HiglHaven,,1,7,2,2,4820,0.12,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,560,195,25,0,0,0,0,0,312,107,15,0,248,88,10,0
+02HiglHaven,,1,7,2,2,4820,0.12,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,560,314,63,0,0,0,0,0,312,184,34,0,248,130,29,0
+02HiglHaven,,1,7,2,2,4820,0.12,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,560,167,63,0,0,0,0,0,312,84,34,0,248,83,29,0
+02HiglHaven,,1,7,2,2,4820,0.12,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,560,163,113,1,0,0,0,0,312,86,60,1,248,77,53,0
+02HiglHaven,,1,7,2,2,4820,0.12,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,560,267,113,1,0,0,0,0,312,155,60,1,248,112,53,0
+02HiglHaven,,1,7,2,2,4820,0.12,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,560,258,119,1,0,0,0,0,312,158,64,1,248,100,55,0
+02HiglHaven,,1,7,2,2,4820,0.12,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,560,166,119,1,0,0,0,0,312,79,64,1,248,87,55,0
+02HiglHaven,,1,7,2,2,4820,0.12,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,560,222,119,0,0,0,0,0,312,130,59,0,248,92,60,0
+02HiglHaven,,1,7,2,2,4820,0.12,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,560,203,119,0,0,0,0,0,312,113,59,0,248,90,60,0
+02HiglHaven,,1,7,2,2,4820,0.12,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,560,171,15,0,0,0,0,0,312,80,6,0,248,91,9,0
+02HiglHaven,,1,7,2,2,4820,0.12,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,560,358,15,0,0,0,0,0,312,216,6,0,248,142,9,0
+02HiglHaven,,1,7,2,2,4820,0.12,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,560,13,0,0,0,0,0,0,312,9,0,0,248,4,0,0
+02HiglHaven,,1,7,2,2,4820,0.12,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,560,3,0,0,0,0,0,0,312,1,0,0,248,2,0,0
+03BurnetCthse,,1,7,3,3,10698,0.11,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,1130,719,32,0,0,0,0,0,666,438,21,0,464,281,11,0
+03BurnetCthse,,1,7,3,3,10698,0.11,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,1130,351,32,0,0,0,0,0,666,192,21,0,464,159,11,0
+03BurnetCthse,,1,7,3,3,10698,0.11,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,1130,569,66,0,0,0,0,0,666,354,33,0,464,215,33,0
+03BurnetCthse,,1,7,3,3,10698,0.11,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,1130,467,66,0,0,0,0,0,666,264,33,0,464,203,33,0
+03BurnetCthse,,1,7,3,3,10698,0.11,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,1130,558,156,0,0,0,0,0,666,331,82,0,464,227,74,0
+03BurnetCthse,,1,7,3,3,10698,0.11,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,1130,388,156,0,0,0,0,0,666,238,82,0,464,150,74,0
+03BurnetCthse,,1,7,3,3,10698,0.11,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,1130,443,233,0,0,0,0,0,666,254,127,0,464,189,106,0
+03BurnetCthse,,1,7,3,3,10698,0.11,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,1130,426,233,0,0,0,0,0,666,270,127,0,464,156,106,0
+03BurnetCthse,,1,7,3,3,10698,0.11,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,1130,503,232,0,0,0,0,0,666,308,131,0,464,195,101,0
+03BurnetCthse,,1,7,3,3,10698,0.11,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,1130,367,232,0,0,0,0,0,666,212,131,0,464,155,101,0
+03BurnetCthse,,1,7,3,3,10698,0.11,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,1130,434,227,0,0,0,0,0,666,256,128,0,464,178,99,0
+03BurnetCthse,,1,7,3,3,10698,0.11,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,1130,441,227,0,0,0,0,0,666,267,128,0,464,174,99,0
+03BurnetCthse,,1,7,3,3,10698,0.11,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,1130,438,24,0,0,0,0,0,666,220,13,0,464,218,11,0
+03BurnetCthse,,1,7,3,3,10698,0.11,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,1130,640,24,0,0,0,0,0,666,418,13,0,464,222,11,0
+03BurnetCthse,,1,7,3,3,10698,0.11,17,17,Constable Precinct 2,,1,1,Garry Adams,C,1,,1130,621,42,0,0,0,0,0,666,369,21,0,464,252,21,0
+03BurnetCthse,,1,7,3,3,10698,0.11,17,17,Constable Precinct 2,,1,2,Heidi Hagen,C,2,,1130,439,42,0,0,0,0,0,666,261,21,0,464,178,21,0
+03BurnetCthse,,1,7,3,3,10698,0.11,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,1130,21,0,0,0,0,0,0,666,11,0,0,464,10,0,0
+03BurnetCthse,,1,7,3,3,10698,0.11,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,1130,7,0,0,0,0,0,0,666,4,0,0,464,3,0,0
+04MFChchChrist,,1,14,4,4,7716,0.08,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,597,309,9,0,0,0,0,0,329,189,6,0,268,120,3,0
+04MFChchChrist,,1,14,4,4,7716,0.08,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,597,250,9,0,0,0,0,0,329,121,6,0,268,129,3,0
+04MFChchChrist,,1,14,4,4,7716,0.08,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,597,282,24,0,0,0,0,0,329,169,12,0,268,113,12,0
+04MFChchChrist,,1,14,4,4,7716,0.08,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,597,262,24,0,0,0,0,0,329,135,12,0,268,127,12,0
+04MFChchChrist,,1,14,4,4,7716,0.08,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,597,337,65,0,0,0,0,0,329,187,38,0,268,150,27,0
+04MFChchChrist,,1,14,4,4,7716,0.08,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,597,166,65,0,0,0,0,0,329,91,38,0,268,75,27,0
+04MFChchChrist,,1,14,4,4,7716,0.08,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,597,207,123,0,0,0,0,0,329,122,64,0,268,85,59,0
+04MFChchChrist,,1,14,4,4,7716,0.08,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,597,238,123,0,0,0,0,0,329,130,64,0,268,108,59,0
+04MFChchChrist,,1,14,4,4,7716,0.08,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,597,271,109,0,0,0,0,0,329,149,58,0,268,122,51,0
+04MFChchChrist,,1,14,4,4,7716,0.08,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,597,188,109,0,0,0,0,0,329,109,58,0,268,79,51,0
+04MFChchChrist,,1,14,4,4,7716,0.08,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,597,252,104,0,0,0,0,0,329,132,58,0,268,120,46,0
+04MFChchChrist,,1,14,4,4,7716,0.08,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,597,212,104,0,0,0,0,0,329,126,58,0,268,86,46,0
+04MFChchChrist,,1,14,4,4,7716,0.08,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,597,226,16,0,0,0,0,0,329,123,2,0,268,103,14,0
+04MFChchChrist,,1,14,4,4,7716,0.08,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,597,326,16,0,0,0,0,0,329,191,2,0,268,135,14,0
+04MFChchChrist,,1,14,4,4,7716,0.08,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,597,24,0,0,0,0,0,0,329,11,0,0,268,13,0,0
+04MFChchChrist,,1,14,4,4,7716,0.08,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,597,5,0,0,0,0,0,0,329,2,0,0,268,3,0,0
+05BertrmLibr,,1,7,5,5,4678,0.09,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,410,202,5,0,0,0,0,0,185,103,1,0,225,99,4,0
+05BertrmLibr,,1,7,5,5,4678,0.09,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,410,177,5,0,0,0,0,0,185,75,1,0,225,102,4,0
+05BertrmLibr,,1,7,5,5,4678,0.09,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,410,183,13,0,0,0,0,0,185,88,5,0,225,95,8,0
+05BertrmLibr,,1,7,5,5,4678,0.09,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,410,188,13,0,0,0,0,0,185,86,5,0,225,102,8,0
+05BertrmLibr,,1,7,5,5,4678,0.09,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,410,213,33,0,0,0,0,0,185,105,11,0,225,108,22,0
+05BertrmLibr,,1,7,5,5,4678,0.09,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,410,138,33,0,0,0,0,0,185,63,11,0,225,75,22,0
+05BertrmLibr,,1,7,5,5,4678,0.09,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,410,137,47,0,0,0,0,0,185,62,20,0,225,75,27,0
+05BertrmLibr,,1,7,5,5,4678,0.09,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,410,200,47,0,0,0,0,0,185,97,20,0,225,103,27,0
+05BertrmLibr,,1,7,5,5,4678,0.09,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,410,163,47,0,0,0,0,0,185,73,20,0,225,90,27,0
+05BertrmLibr,,1,7,5,5,4678,0.09,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,410,174,47,0,0,0,0,0,185,86,20,0,225,88,27,0
+05BertrmLibr,,1,7,5,5,4678,0.09,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,410,148,48,0,0,0,0,0,185,66,19,0,225,82,29,0
+05BertrmLibr,,1,7,5,5,4678,0.09,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,410,188,48,0,0,0,0,0,185,94,19,0,225,94,29,0
+05BertrmLibr,,1,7,5,5,4678,0.09,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,410,144,5,0,0,0,0,0,185,72,2,0,225,72,3,0
+05BertrmLibr,,1,7,5,5,4678,0.09,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,410,235,5,0,0,0,0,0,185,105,2,0,225,130,3,0
+05BertrmLibr,,1,7,5,5,4678,0.09,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,410,24,1,0,0,0,0,0,185,5,0,0,225,19,1,0
+05BertrmLibr,,1,7,5,5,4678,0.09,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,410,1,1,0,0,0,0,0,185,1,0,0,225,0,1,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,1075,552,6,0,0,0,0,0,690,392,3,0,385,160,3,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,1075,486,6,0,0,0,0,0,690,274,3,0,385,212,3,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,1075,561,32,0,0,0,0,0,690,370,14,0,385,191,18,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,1075,451,32,0,0,0,0,0,690,285,14,0,385,166,18,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,1075,667,84,0,0,0,0,0,690,444,40,0,385,223,44,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,1075,293,84,0,0,0,0,0,690,185,40,0,385,108,44,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,1075,377,180,0,0,0,0,0,690,236,105,0,385,141,75,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,1075,487,180,0,0,0,0,0,690,328,105,0,385,159,75,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,1075,502,168,0,0,0,0,0,690,333,99,0,385,169,69,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,1075,374,168,0,0,0,0,0,690,237,99,0,385,137,69,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,1075,457,153,0,0,0,0,0,690,295,79,0,385,162,74,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,1075,434,153,0,0,0,0,0,690,295,79,0,385,139,74,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,1075,461,24,0,0,0,0,0,690,296,14,0,385,165,10,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,1075,559,24,0,0,0,0,0,690,359,14,0,385,200,10,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,1075,25,0,0,0,0,0,0,690,15,0,0,385,10,0,0
+06MFSthAnnex,,1,11,6,6,9808,0.11,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,1075,6,0,0,0,0,0,0,690,6,0,0,385,0,0,0
+07Briggs,,1,6,7,7,2022,0.08,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,171,89,0,0,0,0,0,0,41,25,0,0,130,64,0,0
+07Briggs,,1,6,7,7,2022,0.08,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,171,70,0,0,0,0,0,0,41,13,0,0,130,57,0,0
+07Briggs,,1,6,7,7,2022,0.08,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,171,84,8,0,0,0,0,0,41,23,1,0,130,61,7,0
+07Briggs,,1,6,7,7,2022,0.08,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,171,67,8,0,0,0,0,0,41,14,1,0,130,53,7,0
+07Briggs,,1,6,7,7,2022,0.08,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,171,94,9,0,0,0,0,0,41,22,1,0,130,72,8,0
+07Briggs,,1,6,7,7,2022,0.08,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,171,56,9,0,0,0,0,0,41,15,1,0,130,41,8,0
+07Briggs,,1,6,7,7,2022,0.08,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,171,63,25,0,0,0,0,0,41,15,4,0,130,48,21,0
+07Briggs,,1,6,7,7,2022,0.08,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,171,71,25,0,0,0,0,0,41,19,4,0,130,52,21,0
+07Briggs,,1,6,7,7,2022,0.08,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,171,72,23,0,0,0,0,0,41,17,5,0,130,55,18,0
+07Briggs,,1,6,7,7,2022,0.08,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,171,64,23,0,0,0,0,0,41,16,5,0,130,48,18,0
+07Briggs,,1,6,7,7,2022,0.08,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,171,75,26,0,0,0,0,0,41,16,6,0,130,59,20,0
+07Briggs,,1,6,7,7,2022,0.08,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,171,58,26,0,0,0,0,0,41,16,6,0,130,42,20,0
+07Briggs,,1,6,7,7,2022,0.08,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,171,67,10,0,0,0,0,0,41,16,0,0,130,51,10,0
+07Briggs,,1,6,7,7,2022,0.08,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,171,82,10,0,0,0,0,0,41,22,0,0,130,60,10,0
+07Briggs,,1,6,7,7,2022,0.08,17,17,Constable Precinct 2,,1,1,Garry Adams,C,1,,171,84,3,0,0,0,0,0,41,23,1,0,130,61,2,0
+07Briggs,,1,6,7,7,2022,0.08,17,17,Constable Precinct 2,,1,2,Heidi Hagen,C,2,,171,72,3,0,0,0,0,0,41,14,1,0,130,58,2,0
+07Briggs,,1,6,7,7,2022,0.08,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,171,8,0,0,0,0,0,0,41,3,0,0,130,5,0,0
+07Briggs,,1,6,7,7,2022,0.08,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,171,4,0,0,0,0,0,0,41,0,0,0,130,4,0,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,8,9,U.S. Senator,,1,1,David Dewhurst,C,1,,297,147,2,0,0,0,0,0,147,88,1,0,150,59,1,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,8,9,U.S. Senator,,1,2,Ted Cruz,C,2,,297,124,2,0,0,0,0,0,147,49,1,0,150,75,1,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,11,11,U.S. Representative District 25,,1,1,Roger Williams,C,1,,297,149,9,0,0,0,0,0,147,80,7,0,150,69,2,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,11,11,U.S. Representative District 25,,1,2,Wes Riddle,C,2,,297,115,9,0,0,0,0,0,147,51,7,0,150,64,2,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,12,12,Railroad Commissioner,,1,1,Christi Craddick,C,1,,297,164,26,0,0,0,0,0,147,84,14,0,150,80,12,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,12,12,Railroad Commissioner,,1,2,Warren Chisum,C,2,,297,83,26,0,0,0,0,0,147,40,14,0,150,43,12,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,13,13,Railroad Commissioner - unexpired term,,1,1,Greg Parker,C,1,,297,114,42,0,0,0,0,0,147,49,21,0,150,65,21,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,13,13,Railroad Commissioner - unexpired term,,1,2,Barry Smitherman,C,2,,297,117,42,0,0,0,0,0,147,68,21,0,150,49,21,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,14,14,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,,297,133,46,0,0,0,0,0,147,66,23,0,150,67,23,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,14,14,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,,297,94,46,0,0,0,0,0,147,49,23,0,150,45,23,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,15,15,"Member, State Board of Education, District 10",,1,1,Rebecca Osborne,C,1,,297,120,48,0,0,0,0,0,147,55,25,0,150,65,23,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,15,15,"Member, State Board of Education, District 10",,1,2,Tom Maynard,C,2,,297,105,48,0,0,0,0,0,147,58,25,0,150,47,23,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,16,16,"District Attorney, 33rd Judicial District",,1,1,Angela Dowdle,C,1,,297,112,8,0,0,0,0,0,147,53,0,0,150,59,8,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,16,16,"District Attorney, 33rd Judicial District",,1,2,"Wiley ""Sonny"" McAfee",C,2,,297,153,8,0,0,0,0,0,147,85,0,0,150,68,8,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,18,18,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,297,24,0,0,0,0,0,0,147,9,0,0,150,15,0,0
+08GrSlsFireSta,,1,6,8,8,4670,0.06,18,18,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,297,0,0,0,0,0,0,0,147,0,0,0,150,0,0,0
