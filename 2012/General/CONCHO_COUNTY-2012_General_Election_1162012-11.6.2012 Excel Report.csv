@@ -1,0 +1,453 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+101,,1,3,1,1,332,0.76,2,3,Straight Party,,1,1,Republican Party,C,1,REP,251,117,112,0,0,0,0,0,142,63,67,0,109,54,45,0
+101,,1,3,1,1,332,0.76,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,251,10,112,0,0,0,0,0,142,1,67,0,109,9,45,0
+101,,1,3,1,1,332,0.76,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,251,1,112,0,0,0,0,0,142,0,67,0,109,1,45,0
+101,,1,3,1,1,332,0.76,2,3,Straight Party,,1,4,Green Party,C,4,GRN,251,0,112,0,0,0,0,0,142,0,67,0,109,0,45,0
+101,,1,3,1,1,332,0.76,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,251,208,7,0,0,0,0,0,142,120,5,0,109,88,2,0
+101,,1,3,1,1,332,0.76,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,251,33,7,0,0,0,0,0,142,15,5,0,109,18,2,0
+101,,1,3,1,1,332,0.76,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,251,3,7,0,0,0,0,0,142,2,5,0,109,1,2,0
+101,,1,3,1,1,332,0.76,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,251,0,7,0,0,0,0,0,142,0,5,0,109,0,2,0
+101,,1,3,1,1,332,0.76,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,251,199,11,0,0,0,0,0,142,115,8,0,109,84,3,0
+101,,1,3,1,1,332,0.76,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,251,34,11,0,0,0,0,0,142,17,8,0,109,17,3,0
+101,,1,3,1,1,332,0.76,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,251,3,11,0,0,0,0,0,142,0,8,0,109,3,3,0
+101,,1,3,1,1,332,0.76,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,251,4,11,0,0,0,0,0,142,2,8,0,109,2,3,0
+101,,1,3,1,1,332,0.76,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,251,204,11,0,0,0,0,0,142,117,7,0,109,87,4,0
+101,,1,3,1,1,332,0.76,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,251,28,11,0,0,0,0,0,142,13,7,0,109,15,4,0
+101,,1,3,1,1,332,0.76,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,251,8,11,0,0,0,0,0,142,5,7,0,109,3,4,0
+101,,1,3,1,1,332,0.76,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,251,198,15,0,0,0,0,0,142,117,8,0,109,81,7,0
+101,,1,3,1,1,332,0.76,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,251,30,15,0,0,0,0,0,142,12,8,0,109,18,7,0
+101,,1,3,1,1,332,0.76,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,251,2,15,0,0,0,0,0,142,0,8,0,109,2,7,0
+101,,1,3,1,1,332,0.76,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,251,5,15,0,0,0,0,0,142,4,8,0,109,1,7,0
+101,,1,3,1,1,332,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,251,195,27,0,0,0,0,0,142,113,12,0,109,82,15,0
+101,,1,3,1,1,332,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,251,16,27,0,0,0,0,0,142,8,12,0,109,8,15,0
+101,,1,3,1,1,332,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,251,12,27,0,0,0,0,0,142,8,12,0,109,4,15,0
+101,,1,3,1,1,332,0.76,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,251,198,28,0,0,0,0,0,142,113,11,0,109,85,17,0
+101,,1,3,1,1,332,0.76,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,251,19,28,0,0,0,0,0,142,12,11,0,109,7,17,0
+101,,1,3,1,1,332,0.76,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,251,193,26,0,0,0,0,0,142,110,10,0,109,83,16,0
+101,,1,3,1,1,332,0.76,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,251,15,26,0,0,0,0,0,142,8,10,0,109,7,16,0
+101,,1,3,1,1,332,0.76,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,251,12,26,0,0,0,0,0,142,9,10,0,109,3,16,0
+101,,1,3,1,1,332,0.76,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,251,177,15,0,0,0,0,0,142,99,7,0,109,78,8,0
+101,,1,3,1,1,332,0.76,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,251,35,15,0,0,0,0,0,142,16,7,0,109,19,8,0
+101,,1,3,1,1,332,0.76,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,251,9,15,0,0,0,0,0,142,6,7,0,109,3,8,0
+101,,1,3,1,1,332,0.76,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,251,11,15,0,0,0,0,0,142,10,7,0,109,1,8,0
+101,,1,3,1,1,332,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,251,189,17,0,0,0,0,0,142,108,9,0,109,81,8,0
+101,,1,3,1,1,332,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,251,34,17,0,0,0,0,0,142,17,9,0,109,17,8,0
+101,,1,3,1,1,332,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,251,9,17,0,0,0,0,0,142,6,9,0,109,3,8,0
+101,,1,3,1,1,332,0.76,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,251,193,28,0,0,0,0,0,142,108,12,0,109,85,16,0
+101,,1,3,1,1,332,0.76,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,251,24,28,0,0,0,0,0,142,16,12,0,109,8,16,0
+101,,1,3,1,1,332,0.76,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,251,195,29,0,0,0,0,0,142,110,12,0,109,85,17,0
+101,,1,3,1,1,332,0.76,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,251,22,29,0,0,0,0,0,142,15,12,0,109,7,17,0
+101,,1,3,1,1,332,0.76,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,251,197,17,0,0,0,0,0,142,114,10,0,109,83,7,0
+101,,1,3,1,1,332,0.76,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,251,36,17,0,0,0,0,0,142,17,10,0,109,19,7,0
+101,,1,3,1,1,332,0.76,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,251,200,27,0,0,0,0,0,142,116,10,0,109,84,17,0
+101,,1,3,1,1,332,0.76,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,251,21,27,0,0,0,0,0,142,13,10,0,109,8,17,0
+101,,1,3,1,1,332,0.76,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,251,211,35,0,0,0,0,0,142,122,15,0,109,89,20,0
+101,,1,3,1,1,332,0.76,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,251,184,22,0,0,0,0,0,142,107,13,0,109,77,9,0
+101,,1,3,1,1,332,0.76,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,251,41,22,0,0,0,0,0,142,18,13,0,109,23,9,0
+101,,1,3,1,1,332,0.76,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,251,189,20,0,0,0,0,0,142,110,12,0,109,79,8,0
+101,,1,3,1,1,332,0.76,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,251,38,20,0,0,0,0,0,142,16,12,0,109,22,8,0
+101,,1,3,1,1,332,0.76,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,251,189,18,0,0,0,0,0,142,109,11,0,109,80,7,0
+101,,1,3,1,1,332,0.76,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,251,40,18,0,0,0,0,0,142,18,11,0,109,22,7,0
+101,,1,3,1,1,332,0.76,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,251,193,19,0,0,0,0,0,142,110,12,0,109,83,7,0
+101,,1,3,1,1,332,0.76,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,251,35,19,0,0,0,0,0,142,16,12,0,109,19,7,0
+101,,1,3,1,1,332,0.76,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,251,214,32,0,0,0,0,0,142,124,13,0,109,90,19,0
+101,,1,3,1,1,332,0.76,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,251,206,39,0,0,0,0,0,142,119,17,0,109,87,22,0
+101,,1,3,1,1,332,0.76,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,251,204,42,0,0,0,0,0,142,117,20,0,109,87,22,0
+101,,1,3,1,1,332,0.76,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,251,210,36,0,0,0,0,0,142,120,17,0,109,90,19,0
+101,,1,3,1,1,332,0.76,26,26,"County Commissioner, Precinct No. 1",,1,1,Trey Bradshaw,C,1,REP,251,208,38,0,0,0,0,0,142,122,15,0,109,86,23,0
+101,,1,3,1,1,332,0.76,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,251,215,31,0,0,0,0,0,142,122,15,0,109,93,16,0
+102,,1,3,2,2,79,0.66,2,3,Straight Party,,1,1,Republican Party,C,1,REP,52,19,25,0,0,0,0,0,19,5,9,0,33,14,16,0
+102,,1,3,2,2,79,0.66,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,52,2,25,0,0,0,0,0,19,0,9,0,33,2,16,0
+102,,1,3,2,2,79,0.66,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,52,0,25,0,0,0,0,0,19,0,9,0,33,0,16,0
+102,,1,3,2,2,79,0.66,2,3,Straight Party,,1,4,Green Party,C,4,GRN,52,1,25,0,0,0,0,0,19,0,9,0,33,1,16,0
+102,,1,3,2,2,79,0.66,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,52,40,1,0,0,0,0,0,19,18,0,0,33,22,1,0
+102,,1,3,2,2,79,0.66,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,52,10,1,0,0,0,0,0,19,1,0,0,33,9,1,0
+102,,1,3,2,2,79,0.66,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,52,0,1,0,0,0,0,0,19,0,0,0,33,0,1,0
+102,,1,3,2,2,79,0.66,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,52,1,1,0,0,0,0,0,19,0,0,0,33,1,1,0
+102,,1,3,2,2,79,0.66,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,52,37,1,0,0,0,0,0,19,16,1,0,33,21,0,0
+102,,1,3,2,2,79,0.66,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,52,11,1,0,0,0,0,0,19,1,1,0,33,10,0,0
+102,,1,3,2,2,79,0.66,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,52,1,1,0,0,0,0,0,19,0,1,0,33,1,0,0
+102,,1,3,2,2,79,0.66,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,52,1,1,0,0,0,0,0,19,0,1,0,33,1,0,0
+102,,1,3,2,2,79,0.66,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,52,43,1,0,0,0,0,0,19,19,0,0,33,24,1,0
+102,,1,3,2,2,79,0.66,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,52,8,1,0,0,0,0,0,19,0,0,0,33,8,1,0
+102,,1,3,2,2,79,0.66,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,52,0,1,0,0,0,0,0,19,0,0,0,33,0,1,0
+102,,1,3,2,2,79,0.66,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,52,35,2,0,0,0,0,0,19,16,1,0,33,19,1,0
+102,,1,3,2,2,79,0.66,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,52,12,2,0,0,0,0,0,19,0,1,0,33,12,1,0
+102,,1,3,2,2,79,0.66,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,52,1,2,0,0,0,0,0,19,1,1,0,33,0,1,0
+102,,1,3,2,2,79,0.66,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,52,1,2,0,0,0,0,0,19,0,1,0,33,1,1,0
+102,,1,3,2,2,79,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,52,38,3,0,0,0,0,0,19,16,1,0,33,22,2,0
+102,,1,3,2,2,79,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,52,7,3,0,0,0,0,0,19,1,1,0,33,6,2,0
+102,,1,3,2,2,79,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,52,3,3,0,0,0,0,0,19,0,1,0,33,3,2,0
+102,,1,3,2,2,79,0.66,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,52,40,6,0,0,0,0,0,19,16,1,0,33,24,5,0
+102,,1,3,2,2,79,0.66,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,52,5,6,0,0,0,0,0,19,1,1,0,33,4,5,0
+102,,1,3,2,2,79,0.66,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,52,36,6,0,0,0,0,0,19,16,1,0,33,20,5,0
+102,,1,3,2,2,79,0.66,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,52,7,6,0,0,0,0,0,19,1,1,0,33,6,5,0
+102,,1,3,2,2,79,0.66,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,52,2,6,0,0,0,0,0,19,0,1,0,33,2,5,0
+102,,1,3,2,2,79,0.66,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,52,35,2,0,0,0,0,0,19,15,1,0,33,20,1,0
+102,,1,3,2,2,79,0.66,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,52,13,2,0,0,0,0,0,19,2,1,0,33,11,1,0
+102,,1,3,2,2,79,0.66,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,52,0,2,0,0,0,0,0,19,0,1,0,33,0,1,0
+102,,1,3,2,2,79,0.66,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,52,1,2,0,0,0,0,0,19,0,1,0,33,1,1,0
+102,,1,3,2,2,79,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,52,33,5,0,0,0,0,0,19,15,1,0,33,18,4,0
+102,,1,3,2,2,79,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,52,12,5,0,0,0,0,0,19,1,1,0,33,11,4,0
+102,,1,3,2,2,79,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,52,1,5,0,0,0,0,0,19,1,1,0,33,0,4,0
+102,,1,3,2,2,79,0.66,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,52,37,7,0,0,0,0,0,19,15,1,0,33,22,6,0
+102,,1,3,2,2,79,0.66,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,52,7,7,0,0,0,0,0,19,2,1,0,33,5,6,0
+102,,1,3,2,2,79,0.66,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,52,36,6,0,0,0,0,0,19,14,1,0,33,22,5,0
+102,,1,3,2,2,79,0.66,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,52,9,6,0,0,0,0,0,19,3,1,0,33,6,5,0
+102,,1,3,2,2,79,0.66,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,52,35,6,0,0,0,0,0,19,15,1,0,33,20,5,0
+102,,1,3,2,2,79,0.66,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,52,10,6,0,0,0,0,0,19,2,1,0,33,8,5,0
+102,,1,3,2,2,79,0.66,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,52,42,4,0,0,0,0,0,19,16,1,0,33,26,3,0
+102,,1,3,2,2,79,0.66,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,52,5,4,0,0,0,0,0,19,1,1,0,33,4,3,0
+102,,1,3,2,2,79,0.66,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,52,44,8,0,0,0,0,0,19,18,1,0,33,26,7,0
+102,,1,3,2,2,79,0.66,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,52,37,5,0,0,0,0,0,19,17,1,0,33,20,4,0
+102,,1,3,2,2,79,0.66,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,52,9,5,0,0,0,0,0,19,0,1,0,33,9,4,0
+102,,1,3,2,2,79,0.66,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,52,36,4,0,0,0,0,0,19,17,1,0,33,19,3,0
+102,,1,3,2,2,79,0.66,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,52,11,4,0,0,0,0,0,19,0,1,0,33,11,3,0
+102,,1,3,2,2,79,0.66,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,52,38,5,0,0,0,0,0,19,17,1,0,33,21,4,0
+102,,1,3,2,2,79,0.66,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,52,9,5,0,0,0,0,0,19,1,1,0,33,8,4,0
+102,,1,3,2,2,79,0.66,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,52,38,5,0,0,0,0,0,19,17,1,0,33,21,4,0
+102,,1,3,2,2,79,0.66,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,52,8,5,0,0,0,0,0,19,0,1,0,33,8,4,0
+102,,1,3,2,2,79,0.66,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,52,43,9,0,0,0,0,0,19,18,1,0,33,25,8,0
+102,,1,3,2,2,79,0.66,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,52,40,12,0,0,0,0,0,19,17,2,0,33,23,10,0
+102,,1,3,2,2,79,0.66,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,52,42,10,0,0,0,0,0,19,17,2,0,33,25,8,0
+102,,1,3,2,2,79,0.66,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,52,45,7,0,0,0,0,0,19,18,1,0,33,27,6,0
+102,,1,3,2,2,79,0.66,26,26,"County Commissioner, Precinct No. 1",,1,1,Trey Bradshaw,C,1,REP,52,44,8,0,0,0,0,0,19,18,1,0,33,26,7,0
+102,,1,3,2,2,79,0.66,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,52,48,4,0,0,0,0,0,19,18,1,0,33,30,3,0
+203,,1,3,3,3,118,0.76,2,3,Straight Party,,1,1,Republican Party,C,1,REP,90,28,47,0,0,0,0,0,38,8,16,0,52,20,31,0
+203,,1,3,3,3,118,0.76,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,90,3,47,0,0,0,0,0,38,2,16,0,52,1,31,0
+203,,1,3,3,3,118,0.76,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,90,0,47,0,0,0,0,0,38,0,16,0,52,0,31,0
+203,,1,3,3,3,118,0.76,2,3,Straight Party,,1,4,Green Party,C,4,GRN,90,0,47,0,0,0,0,0,38,0,16,0,52,0,31,0
+203,,1,3,3,3,118,0.76,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,90,79,2,0,0,0,0,0,38,31,0,0,52,48,2,0
+203,,1,3,3,3,118,0.76,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,90,8,2,0,0,0,0,0,38,6,0,0,52,2,2,0
+203,,1,3,3,3,118,0.76,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,90,1,2,0,0,0,0,0,38,1,0,0,52,0,2,0
+203,,1,3,3,3,118,0.76,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,90,0,2,0,0,0,0,0,38,0,0,0,52,0,2,0
+203,,1,3,3,3,118,0.76,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,90,71,4,0,0,0,0,0,38,27,0,0,52,44,4,0
+203,,1,3,3,3,118,0.76,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,90,9,4,0,0,0,0,0,38,5,0,0,52,4,4,0
+203,,1,3,3,3,118,0.76,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,90,2,4,0,0,0,0,0,38,2,0,0,52,0,4,0
+203,,1,3,3,3,118,0.76,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,90,1,4,0,0,0,0,0,38,1,0,0,52,0,4,0
+203,,1,3,3,3,118,0.76,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,90,80,2,0,0,0,0,0,38,32,0,0,52,48,2,0
+203,,1,3,3,3,118,0.76,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,90,6,2,0,0,0,0,0,38,4,0,0,52,2,2,0
+203,,1,3,3,3,118,0.76,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,90,1,2,0,0,0,0,0,38,1,0,0,52,0,2,0
+203,,1,3,3,3,118,0.76,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,90,69,6,0,0,0,0,0,38,27,0,0,52,42,6,0
+203,,1,3,3,3,118,0.76,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,90,10,6,0,0,0,0,0,38,6,0,0,52,4,6,0
+203,,1,3,3,3,118,0.76,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,90,2,6,0,0,0,0,0,38,2,0,0,52,0,6,0
+203,,1,3,3,3,118,0.76,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,90,1,6,0,0,0,0,0,38,1,0,0,52,0,6,0
+203,,1,3,3,3,118,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,90,75,9,0,0,0,0,0,38,28,4,0,52,47,5,0
+203,,1,3,3,3,118,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,90,2,9,0,0,0,0,0,38,2,4,0,52,0,5,0
+203,,1,3,3,3,118,0.76,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,90,1,9,0,0,0,0,0,38,1,4,0,52,0,5,0
+203,,1,3,3,3,118,0.76,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,90,73,9,0,0,0,0,0,38,27,3,0,52,46,6,0
+203,,1,3,3,3,118,0.76,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,90,3,9,0,0,0,0,0,38,3,3,0,52,0,6,0
+203,,1,3,3,3,118,0.76,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,90,72,9,0,0,0,0,0,38,25,4,0,52,47,5,0
+203,,1,3,3,3,118,0.76,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,90,3,9,0,0,0,0,0,38,3,4,0,52,0,5,0
+203,,1,3,3,3,118,0.76,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,90,1,9,0,0,0,0,0,38,1,4,0,52,0,5,0
+203,,1,3,3,3,118,0.76,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,90,66,9,0,0,0,0,0,38,25,2,0,52,41,7,0
+203,,1,3,3,3,118,0.76,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,90,8,9,0,0,0,0,0,38,5,2,0,52,3,7,0
+203,,1,3,3,3,118,0.76,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,90,2,9,0,0,0,0,0,38,1,2,0,52,1,7,0
+203,,1,3,3,3,118,0.76,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,90,0,9,0,0,0,0,0,38,0,2,0,52,0,7,0
+203,,1,3,3,3,118,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,90,70,5,0,0,0,0,0,38,24,1,0,52,46,4,0
+203,,1,3,3,3,118,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,90,8,5,0,0,0,0,0,38,6,1,0,52,2,4,0
+203,,1,3,3,3,118,0.76,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,90,2,5,0,0,0,0,0,38,2,1,0,52,0,4,0
+203,,1,3,3,3,118,0.76,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,90,72,10,0,0,0,0,0,38,27,3,0,52,45,7,0
+203,,1,3,3,3,118,0.76,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,90,3,10,0,0,0,0,0,38,3,3,0,52,0,7,0
+203,,1,3,3,3,118,0.76,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,90,70,10,0,0,0,0,0,38,24,4,0,52,46,6,0
+203,,1,3,3,3,118,0.76,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,90,4,10,0,0,0,0,0,38,4,4,0,52,0,6,0
+203,,1,3,3,3,118,0.76,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,90,67,8,0,0,0,0,0,38,25,1,0,52,42,7,0
+203,,1,3,3,3,118,0.76,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,90,9,8,0,0,0,0,0,38,6,1,0,52,3,7,0
+203,,1,3,3,3,118,0.76,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,90,79,6,0,0,0,0,0,38,31,2,0,52,48,4,0
+203,,1,3,3,3,118,0.76,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,90,0,6,0,0,0,0,0,38,0,2,0,52,0,4,0
+203,,1,3,3,3,118,0.76,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,90,79,9,0,0,0,0,0,38,33,3,0,52,46,6,0
+203,,1,3,3,3,118,0.76,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,90,73,4,0,0,0,0,0,38,26,1,0,52,47,3,0
+203,,1,3,3,3,118,0.76,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,90,8,4,0,0,0,0,0,38,6,1,0,52,2,3,0
+203,,1,3,3,3,118,0.76,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,90,68,4,0,0,0,0,0,38,24,1,0,52,44,3,0
+203,,1,3,3,3,118,0.76,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,90,13,4,0,0,0,0,0,38,8,1,0,52,5,3,0
+203,,1,3,3,3,118,0.76,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,90,69,6,0,0,0,0,0,38,25,1,0,52,44,5,0
+203,,1,3,3,3,118,0.76,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,90,11,6,0,0,0,0,0,38,8,1,0,52,3,5,0
+203,,1,3,3,3,118,0.76,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,90,68,8,0,0,0,0,0,38,25,2,0,52,43,6,0
+203,,1,3,3,3,118,0.76,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,90,10,8,0,0,0,0,0,38,7,2,0,52,3,6,0
+203,,1,3,3,3,118,0.76,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,90,75,11,0,0,0,0,0,38,29,5,0,52,46,6,0
+203,,1,3,3,3,118,0.76,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,90,74,11,0,0,0,0,0,38,28,5,0,52,46,6,0
+203,,1,3,3,3,118,0.76,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,90,74,11,0,0,0,0,0,38,28,5,0,52,46,6,0
+203,,1,3,3,3,118,0.76,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,90,71,14,0,0,0,0,0,38,30,3,0,52,41,11,0
+203,,1,3,3,3,118,0.76,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,90,75,11,0,0,0,0,0,38,31,3,0,52,44,8,0
+204,,1,3,4,4,124,0.65,2,3,Straight Party,,1,1,Republican Party,C,1,REP,81,29,41,0,0,0,0,0,13,4,4,0,68,25,37,0
+204,,1,3,4,4,124,0.65,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,81,8,41,0,0,0,0,0,13,2,4,0,68,6,37,0
+204,,1,3,4,4,124,0.65,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,81,0,41,0,0,0,0,0,13,0,4,0,68,0,37,0
+204,,1,3,4,4,124,0.65,2,3,Straight Party,,1,4,Green Party,C,4,GRN,81,0,41,0,0,0,0,0,13,0,4,0,68,0,37,0
+204,,1,3,4,4,124,0.65,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,81,64,2,0,0,0,0,0,13,10,0,0,68,54,2,0
+204,,1,3,4,4,124,0.65,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,81,14,2,0,0,0,0,0,13,3,0,0,68,11,2,0
+204,,1,3,4,4,124,0.65,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,81,0,2,0,0,0,0,0,13,0,0,0,68,0,2,0
+204,,1,3,4,4,124,0.65,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,81,1,2,0,0,0,0,0,13,0,0,0,68,1,2,0
+204,,1,3,4,4,124,0.65,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,81,56,9,0,0,0,0,0,13,8,1,0,68,48,8,0
+204,,1,3,4,4,124,0.65,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,81,13,9,0,0,0,0,0,13,3,1,0,68,10,8,0
+204,,1,3,4,4,124,0.65,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,81,2,9,0,0,0,0,0,13,1,1,0,68,1,8,0
+204,,1,3,4,4,124,0.65,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,81,1,9,0,0,0,0,0,13,0,1,0,68,1,8,0
+204,,1,3,4,4,124,0.65,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,81,58,9,0,0,0,0,0,13,9,1,0,68,49,8,0
+204,,1,3,4,4,124,0.65,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,81,13,9,0,0,0,0,0,13,3,1,0,68,10,8,0
+204,,1,3,4,4,124,0.65,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,81,1,9,0,0,0,0,0,13,0,1,0,68,1,8,0
+204,,1,3,4,4,124,0.65,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,81,51,13,0,0,0,0,0,13,7,1,0,68,44,12,0
+204,,1,3,4,4,124,0.65,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,81,14,13,0,0,0,0,0,13,4,1,0,68,10,12,0
+204,,1,3,4,4,124,0.65,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,81,3,13,0,0,0,0,0,13,1,1,0,68,2,12,0
+204,,1,3,4,4,124,0.65,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,81,0,13,0,0,0,0,0,13,0,1,0,68,0,12,0
+204,,1,3,4,4,124,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,81,51,19,0,0,0,0,0,13,8,3,0,68,43,16,0
+204,,1,3,4,4,124,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,81,8,19,0,0,0,0,0,13,1,3,0,68,7,16,0
+204,,1,3,4,4,124,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,81,2,19,0,0,0,0,0,13,0,3,0,68,2,16,0
+204,,1,3,4,4,124,0.65,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,81,54,19,0,0,0,0,0,13,7,3,0,68,47,16,0
+204,,1,3,4,4,124,0.65,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,81,7,19,0,0,0,0,0,13,2,3,0,68,5,16,0
+204,,1,3,4,4,124,0.65,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,81,51,20,0,0,0,0,0,13,7,3,0,68,44,17,0
+204,,1,3,4,4,124,0.65,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,81,8,20,0,0,0,0,0,13,2,3,0,68,6,17,0
+204,,1,3,4,4,124,0.65,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,81,1,20,0,0,0,0,0,13,0,3,0,68,1,17,0
+204,,1,3,4,4,124,0.65,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,81,47,14,0,0,0,0,0,13,6,1,0,68,41,13,0
+204,,1,3,4,4,124,0.65,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,81,15,14,0,0,0,0,0,13,3,1,0,68,12,13,0
+204,,1,3,4,4,124,0.65,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,81,4,14,0,0,0,0,0,13,2,1,0,68,2,13,0
+204,,1,3,4,4,124,0.65,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,81,0,14,0,0,0,0,0,13,0,1,0,68,0,13,0
+204,,1,3,4,4,124,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,81,44,14,0,0,0,0,0,13,4,1,0,68,40,13,0
+204,,1,3,4,4,124,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,81,17,14,0,0,0,0,0,13,4,1,0,68,13,13,0
+204,,1,3,4,4,124,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,81,5,14,0,0,0,0,0,13,3,1,0,68,2,13,0
+204,,1,3,4,4,124,0.65,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,81,49,21,0,0,0,0,0,13,6,3,0,68,43,18,0
+204,,1,3,4,4,124,0.65,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,81,10,21,0,0,0,0,0,13,3,3,0,68,7,18,0
+204,,1,3,4,4,124,0.65,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,81,48,21,0,0,0,0,0,13,6,3,0,68,42,18,0
+204,,1,3,4,4,124,0.65,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,81,11,21,0,0,0,0,0,13,3,3,0,68,8,18,0
+204,,1,3,4,4,124,0.65,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,81,49,15,0,0,0,0,0,13,8,1,0,68,41,14,0
+204,,1,3,4,4,124,0.65,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,81,16,15,0,0,0,0,0,13,3,1,0,68,13,14,0
+204,,1,3,4,4,124,0.65,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,81,54,19,0,0,0,0,0,13,8,3,0,68,46,16,0
+204,,1,3,4,4,124,0.65,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,81,8,19,0,0,0,0,0,13,2,3,0,68,6,16,0
+204,,1,3,4,4,124,0.65,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,81,64,17,0,0,0,0,0,13,10,3,0,68,54,14,0
+204,,1,3,4,4,124,0.65,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,81,53,14,0,0,0,0,0,13,7,1,0,68,46,13,0
+204,,1,3,4,4,124,0.65,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,81,13,14,0,0,0,0,0,13,4,1,0,68,9,13,0
+204,,1,3,4,4,124,0.65,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,81,51,13,0,0,0,0,0,13,8,1,0,68,43,12,0
+204,,1,3,4,4,124,0.65,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,81,16,13,0,0,0,0,0,13,3,1,0,68,13,12,0
+204,,1,3,4,4,124,0.65,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,81,52,11,0,0,0,0,0,13,8,1,0,68,44,10,0
+204,,1,3,4,4,124,0.65,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,81,17,11,0,0,0,0,0,13,3,1,0,68,14,10,0
+204,,1,3,4,4,124,0.65,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,81,54,14,0,0,0,0,0,13,8,1,0,68,46,13,0
+204,,1,3,4,4,124,0.65,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,81,12,14,0,0,0,0,0,13,3,1,0,68,9,13,0
+204,,1,3,4,4,124,0.65,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,81,60,21,0,0,0,0,0,13,10,3,0,68,50,18,0
+204,,1,3,4,4,124,0.65,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,81,59,22,0,0,0,0,0,13,10,3,0,68,49,19,0
+204,,1,3,4,4,124,0.65,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,81,61,20,0,0,0,0,0,13,10,3,0,68,51,17,0
+204,,1,3,4,4,124,0.65,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,81,56,25,0,0,0,0,0,13,10,3,0,68,46,22,0
+204,,1,3,4,4,124,0.65,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,81,61,20,0,0,0,0,0,13,10,3,0,68,51,17,0
+205,,1,3,5,5,143,0.66,2,3,Straight Party,,1,1,Republican Party,C,1,REP,95,24,47,0,0,0,0,0,29,8,9,0,66,16,38,0
+205,,1,3,5,5,143,0.66,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,95,12,47,0,0,0,0,0,29,0,9,0,66,12,38,0
+205,,1,3,5,5,143,0.66,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,95,0,47,0,0,0,0,0,29,0,9,0,66,0,38,0
+205,,1,3,5,5,143,0.66,2,3,Straight Party,,1,4,Green Party,C,4,GRN,95,0,47,0,0,0,0,0,29,0,9,0,66,0,38,0
+205,,1,3,5,5,143,0.66,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,95,66,3,0,0,0,0,0,29,25,1,0,66,41,2,0
+205,,1,3,5,5,143,0.66,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,95,24,3,0,0,0,0,0,29,2,1,0,66,22,2,0
+205,,1,3,5,5,143,0.66,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,95,0,3,0,0,0,0,0,29,0,1,0,66,0,2,0
+205,,1,3,5,5,143,0.66,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,95,1,3,0,0,0,0,0,29,0,1,0,66,1,2,0
+205,,1,3,5,5,143,0.66,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,95,68,4,0,0,0,0,0,29,25,2,0,66,43,2,0
+205,,1,3,5,5,143,0.66,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,95,22,4,0,0,0,0,0,29,2,2,0,66,20,2,0
+205,,1,3,5,5,143,0.66,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,95,0,4,0,0,0,0,0,29,0,2,0,66,0,2,0
+205,,1,3,5,5,143,0.66,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,95,1,4,0,0,0,0,0,29,0,2,0,66,1,2,0
+205,,1,3,5,5,143,0.66,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,95,69,3,0,0,0,0,0,29,25,2,0,66,44,1,0
+205,,1,3,5,5,143,0.66,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,95,22,3,0,0,0,0,0,29,2,2,0,66,20,1,0
+205,,1,3,5,5,143,0.66,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,95,1,3,0,0,0,0,0,29,0,2,0,66,1,1,0
+205,,1,3,5,5,143,0.66,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,95,62,3,0,0,0,0,0,29,25,2,0,66,37,1,0
+205,,1,3,5,5,143,0.66,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,95,25,3,0,0,0,0,0,29,2,2,0,66,23,1,0
+205,,1,3,5,5,143,0.66,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,95,3,3,0,0,0,0,0,29,0,2,0,66,3,1,0
+205,,1,3,5,5,143,0.66,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,95,2,3,0,0,0,0,0,29,0,2,0,66,2,1,0
+205,,1,3,5,5,143,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,95,63,20,0,0,0,0,0,29,25,2,0,66,38,18,0
+205,,1,3,5,5,143,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,95,7,20,0,0,0,0,0,29,1,2,0,66,6,18,0
+205,,1,3,5,5,143,0.66,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,95,4,20,0,0,0,0,0,29,0,2,0,66,4,18,0
+205,,1,3,5,5,143,0.66,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,95,69,19,0,0,0,0,0,29,25,2,0,66,44,17,0
+205,,1,3,5,5,143,0.66,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,95,5,19,0,0,0,0,0,29,0,2,0,66,5,17,0
+205,,1,3,5,5,143,0.66,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,95,64,17,0,0,0,0,0,29,25,2,0,66,39,15,0
+205,,1,3,5,5,143,0.66,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,95,7,17,0,0,0,0,0,29,1,2,0,66,6,15,0
+205,,1,3,5,5,143,0.66,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,95,6,17,0,0,0,0,0,29,0,2,0,66,6,15,0
+205,,1,3,5,5,143,0.66,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,95,56,5,0,0,0,0,0,29,24,2,0,66,32,3,0
+205,,1,3,5,5,143,0.66,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,95,26,5,0,0,0,0,0,29,3,2,0,66,23,3,0
+205,,1,3,5,5,143,0.66,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,95,5,5,0,0,0,0,0,29,0,2,0,66,5,3,0
+205,,1,3,5,5,143,0.66,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,95,3,5,0,0,0,0,0,29,0,2,0,66,3,3,0
+205,,1,3,5,5,143,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,95,59,7,0,0,0,0,0,29,24,2,0,66,35,5,0
+205,,1,3,5,5,143,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,95,26,7,0,0,0,0,0,29,3,2,0,66,23,5,0
+205,,1,3,5,5,143,0.66,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,95,3,7,0,0,0,0,0,29,0,2,0,66,3,5,0
+205,,1,3,5,5,143,0.66,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,95,65,19,0,0,0,0,0,29,25,2,0,66,40,17,0
+205,,1,3,5,5,143,0.66,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,95,9,19,0,0,0,0,0,29,0,2,0,66,9,17,0
+205,,1,3,5,5,143,0.66,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,95,66,19,0,0,0,0,0,29,26,2,0,66,40,17,0
+205,,1,3,5,5,143,0.66,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,95,9,19,0,0,0,0,0,29,0,2,0,66,9,17,0
+205,,1,3,5,5,143,0.66,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,95,59,9,0,0,0,0,0,29,24,2,0,66,35,7,0
+205,,1,3,5,5,143,0.66,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,95,27,9,0,0,0,0,0,29,3,2,0,66,24,7,0
+205,,1,3,5,5,143,0.66,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,95,65,20,0,0,0,0,0,29,25,2,0,66,40,18,0
+205,,1,3,5,5,143,0.66,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,95,9,20,0,0,0,0,0,29,1,2,0,66,8,18,0
+205,,1,3,5,5,143,0.66,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,95,75,18,0,0,0,0,0,29,25,2,0,66,50,16,0
+205,,1,3,5,5,143,0.66,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,95,61,7,0,0,0,0,0,29,25,2,0,66,36,5,0
+205,,1,3,5,5,143,0.66,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,95,27,7,0,0,0,0,0,29,2,2,0,66,25,5,0
+205,,1,3,5,5,143,0.66,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,95,56,6,0,0,0,0,0,29,24,2,0,66,32,4,0
+205,,1,3,5,5,143,0.66,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,95,33,6,0,0,0,0,0,29,3,2,0,66,30,4,0
+205,,1,3,5,5,143,0.66,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,95,62,6,0,0,0,0,0,29,24,2,0,66,38,4,0
+205,,1,3,5,5,143,0.66,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,95,27,6,0,0,0,0,0,29,3,2,0,66,24,4,0
+205,,1,3,5,5,143,0.66,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,95,63,6,0,0,0,0,0,29,25,2,0,66,38,4,0
+205,,1,3,5,5,143,0.66,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,95,26,6,0,0,0,0,0,29,2,2,0,66,24,4,0
+205,,1,3,5,5,143,0.66,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,95,70,24,0,0,0,0,0,29,26,2,0,66,44,22,0
+205,,1,3,5,5,143,0.66,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,95,70,24,0,0,0,0,0,29,25,3,0,66,45,21,0
+205,,1,3,5,5,143,0.66,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,95,73,21,0,0,0,0,0,29,24,4,0,66,49,17,0
+205,,1,3,5,5,143,0.66,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,95,72,22,0,0,0,0,0,29,26,2,0,66,46,20,0
+205,,1,3,5,5,143,0.66,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,95,74,20,0,0,0,0,0,29,25,3,0,66,49,17,0
+306,,1,3,6,6,347,0.65,2,3,Straight Party,,1,1,Republican Party,C,1,REP,226,65,111,0,0,0,0,0,49,19,12,0,177,46,99,0
+306,,1,3,6,6,347,0.65,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,226,34,111,0,0,0,0,0,49,2,12,0,177,32,99,0
+306,,1,3,6,6,347,0.65,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,226,0,111,0,0,0,0,0,49,0,12,0,177,0,99,0
+306,,1,3,6,6,347,0.65,2,3,Straight Party,,1,4,Green Party,C,4,GRN,226,0,111,0,0,0,0,0,49,0,12,0,177,0,99,0
+306,,1,3,6,6,347,0.65,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,226,155,6,0,0,0,0,0,49,43,0,0,177,112,6,0
+306,,1,3,6,6,347,0.65,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,226,63,6,0,0,0,0,0,49,5,0,0,177,58,6,0
+306,,1,3,6,6,347,0.65,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,226,1,6,0,0,0,0,0,49,1,0,0,177,0,6,0
+306,,1,3,6,6,347,0.65,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,226,1,6,0,0,0,0,0,49,0,0,0,177,1,6,0
+306,,1,3,6,6,347,0.65,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,226,156,16,0,0,0,0,0,49,45,0,0,177,111,16,0
+306,,1,3,6,6,347,0.65,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,226,50,16,0,0,0,0,0,49,3,0,0,177,47,16,0
+306,,1,3,6,6,347,0.65,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,226,1,16,0,0,0,0,0,49,0,0,0,177,1,16,0
+306,,1,3,6,6,347,0.65,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,226,3,16,0,0,0,0,0,49,1,0,0,177,2,16,0
+306,,1,3,6,6,347,0.65,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,226,162,10,0,0,0,0,0,49,45,0,0,177,117,10,0
+306,,1,3,6,6,347,0.65,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,226,53,10,0,0,0,0,0,49,4,0,0,177,49,10,0
+306,,1,3,6,6,347,0.65,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,226,1,10,0,0,0,0,0,49,0,0,0,177,1,10,0
+306,,1,3,6,6,347,0.65,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,226,145,13,0,0,0,0,0,49,41,0,0,177,104,13,0
+306,,1,3,6,6,347,0.65,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,226,57,13,0,0,0,0,0,49,5,0,0,177,52,13,0
+306,,1,3,6,6,347,0.65,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,226,1,13,0,0,0,0,0,49,1,0,0,177,0,13,0
+306,,1,3,6,6,347,0.65,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,226,10,13,0,0,0,0,0,49,2,0,0,177,8,13,0
+306,,1,3,6,6,347,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,226,152,37,0,0,0,0,0,49,41,4,0,177,111,33,0
+306,,1,3,6,6,347,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,226,33,37,0,0,0,0,0,49,3,4,0,177,30,33,0
+306,,1,3,6,6,347,0.65,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,226,4,37,0,0,0,0,0,49,1,4,0,177,3,33,0
+306,,1,3,6,6,347,0.65,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,226,163,39,0,0,0,0,0,49,43,3,0,177,120,36,0
+306,,1,3,6,6,347,0.65,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,226,23,39,0,0,0,0,0,49,2,3,0,177,21,36,0
+306,,1,3,6,6,347,0.65,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,226,156,39,0,0,0,0,0,49,42,3,0,177,114,36,0
+306,,1,3,6,6,347,0.65,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,226,21,39,0,0,0,0,0,49,2,3,0,177,19,36,0
+306,,1,3,6,6,347,0.65,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,226,9,39,0,0,0,0,0,49,1,3,0,177,8,36,0
+306,,1,3,6,6,347,0.65,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,226,136,15,0,0,0,0,0,49,40,0,0,177,96,15,0
+306,,1,3,6,6,347,0.65,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,226,66,15,0,0,0,0,0,49,5,0,0,177,61,15,0
+306,,1,3,6,6,347,0.65,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,226,3,15,0,0,0,0,0,49,1,0,0,177,2,15,0
+306,,1,3,6,6,347,0.65,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,226,6,15,0,0,0,0,0,49,3,0,0,177,3,15,0
+306,,1,3,6,6,347,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,226,142,16,0,0,0,0,0,49,41,0,0,177,101,16,0
+306,,1,3,6,6,347,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,226,63,16,0,0,0,0,0,49,6,0,0,177,57,16,0
+306,,1,3,6,6,347,0.65,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,226,5,16,0,0,0,0,0,49,2,0,0,177,3,16,0
+306,,1,3,6,6,347,0.65,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,226,161,42,0,0,0,0,0,49,41,3,0,177,120,39,0
+306,,1,3,6,6,347,0.65,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,226,22,42,0,0,0,0,0,49,4,3,0,177,18,39,0
+306,,1,3,6,6,347,0.65,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,226,165,40,0,0,0,0,0,49,42,3,0,177,123,37,0
+306,,1,3,6,6,347,0.65,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,226,21,40,0,0,0,0,0,49,4,3,0,177,17,37,0
+306,,1,3,6,6,347,0.65,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,226,147,19,0,0,0,0,0,49,40,1,0,177,107,18,0
+306,,1,3,6,6,347,0.65,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,226,60,19,0,0,0,0,0,49,8,1,0,177,52,18,0
+306,,1,3,6,6,347,0.65,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,226,166,40,0,0,0,0,0,49,43,3,0,177,123,37,0
+306,,1,3,6,6,347,0.65,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,226,19,40,0,0,0,0,0,49,2,3,0,177,17,37,0
+306,,1,3,6,6,347,0.65,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,226,180,44,0,0,0,0,0,49,43,4,0,177,137,40,0
+306,,1,3,6,6,347,0.65,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,226,151,16,0,0,0,0,0,49,43,0,0,177,108,16,0
+306,,1,3,6,6,347,0.65,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,226,59,16,0,0,0,0,0,49,6,0,0,177,53,16,0
+306,,1,3,6,6,347,0.65,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,226,143,15,0,0,0,0,0,49,42,0,0,177,101,15,0
+306,,1,3,6,6,347,0.65,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,226,68,15,0,0,0,0,0,49,7,0,0,177,61,15,0
+306,,1,3,6,6,347,0.65,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,226,148,15,0,0,0,0,0,49,41,0,0,177,107,15,0
+306,,1,3,6,6,347,0.65,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,226,63,15,0,0,0,0,0,49,8,0,0,177,55,15,0
+306,,1,3,6,6,347,0.65,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,226,153,16,0,0,0,0,0,49,42,0,0,177,111,16,0
+306,,1,3,6,6,347,0.65,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,226,57,16,0,0,0,0,0,49,7,0,0,177,50,16,0
+306,,1,3,6,6,347,0.65,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,226,175,49,0,0,0,0,0,49,43,4,0,177,132,45,0
+306,,1,3,6,6,347,0.65,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,226,172,52,0,0,0,0,0,49,42,5,0,177,130,47,0
+306,,1,3,6,6,347,0.65,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,226,174,51,0,0,0,0,0,49,43,5,0,177,131,46,0
+306,,1,3,6,6,347,0.65,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,226,161,63,0,0,0,0,0,49,41,6,0,177,120,57,0
+306,,1,3,6,6,347,0.65,27,27,"County Commissioner, Precinct No. 3",,1,1,Gary Gierisch,C,1,REP,226,128,2,0,0,0,0,0,49,35,0,0,177,93,2,0
+306,,1,3,6,6,347,0.65,27,27,"County Commissioner, Precinct No. 3",,1,2,Ernest R. Gomez,C,2,DEM,226,96,2,0,0,0,0,0,49,14,0,0,177,82,2,0
+306,,1,3,6,6,347,0.65,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,226,176,49,0,0,0,0,0,49,43,5,0,177,133,44,0
+407,,1,3,7,7,75,0.75,2,3,Straight Party,,1,1,Republican Party,C,1,REP,56,30,21,0,0,0,0,0,19,6,10,0,37,24,11,0
+407,,1,3,7,7,75,0.75,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,56,2,21,0,0,0,0,0,19,0,10,0,37,2,11,0
+407,,1,3,7,7,75,0.75,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,56,0,21,0,0,0,0,0,19,0,10,0,37,0,11,0
+407,,1,3,7,7,75,0.75,2,3,Straight Party,,1,4,Green Party,C,4,GRN,56,0,21,0,0,0,0,0,19,0,10,0,37,0,11,0
+407,,1,3,7,7,75,0.75,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,56,51,0,0,0,0,0,0,19,19,0,0,37,32,0,0
+407,,1,3,7,7,75,0.75,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,56,4,0,0,0,0,0,0,19,0,0,0,37,4,0,0
+407,,1,3,7,7,75,0.75,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,56,1,0,0,0,0,0,0,19,0,0,0,37,1,0,0
+407,,1,3,7,7,75,0.75,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,56,0,0,0,0,0,0,0,19,0,0,0,37,0,0,0
+407,,1,3,7,7,75,0.75,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,56,50,1,0,0,0,0,0,19,17,1,0,37,33,0,0
+407,,1,3,7,7,75,0.75,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,56,3,1,0,0,0,0,0,19,0,1,0,37,3,0,0
+407,,1,3,7,7,75,0.75,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,56,2,1,0,0,0,0,0,19,1,1,0,37,1,0,0
+407,,1,3,7,7,75,0.75,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,56,0,1,0,0,0,0,0,19,0,1,0,37,0,0,0
+407,,1,3,7,7,75,0.75,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,56,49,0,0,0,0,0,0,19,17,0,0,37,32,0,0
+407,,1,3,7,7,75,0.75,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,56,5,0,0,0,0,0,0,19,1,0,0,37,4,0,0
+407,,1,3,7,7,75,0.75,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,56,2,0,0,0,0,0,0,19,1,0,0,37,1,0,0
+407,,1,3,7,7,75,0.75,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,56,46,0,0,0,0,0,0,19,14,0,0,37,32,0,0
+407,,1,3,7,7,75,0.75,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,56,8,0,0,0,0,0,0,19,4,0,0,37,4,0,0
+407,,1,3,7,7,75,0.75,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,56,0,0,0,0,0,0,0,19,0,0,0,37,0,0,0
+407,,1,3,7,7,75,0.75,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,56,2,0,0,0,0,0,0,19,1,0,0,37,1,0,0
+407,,1,3,7,7,75,0.75,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,56,50,2,0,0,0,0,0,19,16,1,0,37,34,1,0
+407,,1,3,7,7,75,0.75,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,56,1,2,0,0,0,0,0,19,1,1,0,37,0,1,0
+407,,1,3,7,7,75,0.75,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,56,2,2,0,0,0,0,0,19,0,1,0,37,2,1,0
+407,,1,3,7,7,75,0.75,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,56,49,2,0,0,0,0,0,19,15,1,0,37,34,1,0
+407,,1,3,7,7,75,0.75,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,56,4,2,0,0,0,0,0,19,2,1,0,37,2,1,0
+407,,1,3,7,7,75,0.75,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,56,49,2,0,0,0,0,0,19,15,1,0,37,34,1,0
+407,,1,3,7,7,75,0.75,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,56,2,2,0,0,0,0,0,19,2,1,0,37,0,1,0
+407,,1,3,7,7,75,0.75,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,56,2,2,0,0,0,0,0,19,0,1,0,37,2,1,0
+407,,1,3,7,7,75,0.75,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,56,47,1,0,0,0,0,0,19,15,1,0,37,32,0,0
+407,,1,3,7,7,75,0.75,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,56,5,1,0,0,0,0,0,19,1,1,0,37,4,0,0
+407,,1,3,7,7,75,0.75,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,56,0,1,0,0,0,0,0,19,0,1,0,37,0,0,0
+407,,1,3,7,7,75,0.75,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,56,2,1,0,0,0,0,0,19,1,1,0,37,1,0,0
+407,,1,3,7,7,75,0.75,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,56,48,1,0,0,0,0,0,19,16,1,0,37,32,0,0
+407,,1,3,7,7,75,0.75,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,56,5,1,0,0,0,0,0,19,1,1,0,37,4,0,0
+407,,1,3,7,7,75,0.75,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,56,1,1,0,0,0,0,0,19,0,1,0,37,1,0,0
+407,,1,3,7,7,75,0.75,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,56,50,3,0,0,0,0,0,19,16,1,0,37,34,2,0
+407,,1,3,7,7,75,0.75,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,56,2,3,0,0,0,0,0,19,1,1,0,37,1,2,0
+407,,1,3,7,7,75,0.75,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,56,49,3,0,0,0,0,0,19,15,1,0,37,34,2,0
+407,,1,3,7,7,75,0.75,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,56,3,3,0,0,0,0,0,19,2,1,0,37,1,2,0
+407,,1,3,7,7,75,0.75,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,56,47,2,0,0,0,0,0,19,14,1,0,37,33,1,0
+407,,1,3,7,7,75,0.75,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,56,6,2,0,0,0,0,0,19,3,1,0,37,3,1,0
+407,,1,3,7,7,75,0.75,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,56,50,3,0,0,0,0,0,19,16,1,0,37,34,2,0
+407,,1,3,7,7,75,0.75,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,56,2,3,0,0,0,0,0,19,1,1,0,37,1,2,0
+407,,1,3,7,7,75,0.75,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,56,51,4,0,0,0,0,0,19,15,3,0,37,36,1,0
+407,,1,3,7,7,75,0.75,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,56,49,2,0,0,0,0,0,19,15,2,0,37,34,0,0
+407,,1,3,7,7,75,0.75,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,56,4,2,0,0,0,0,0,19,1,2,0,37,3,0,0
+407,,1,3,7,7,75,0.75,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,56,47,2,0,0,0,0,0,19,14,2,0,37,33,0,0
+407,,1,3,7,7,75,0.75,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,56,6,2,0,0,0,0,0,19,2,2,0,37,4,0,0
+407,,1,3,7,7,75,0.75,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,56,47,2,0,0,0,0,0,19,15,2,0,37,32,0,0
+407,,1,3,7,7,75,0.75,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,56,6,2,0,0,0,0,0,19,1,2,0,37,5,0,0
+407,,1,3,7,7,75,0.75,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,56,47,2,0,0,0,0,0,19,14,2,0,37,33,0,0
+407,,1,3,7,7,75,0.75,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,56,6,2,0,0,0,0,0,19,2,2,0,37,4,0,0
+407,,1,3,7,7,75,0.75,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,56,51,4,0,0,0,0,0,19,16,2,0,37,35,2,0
+407,,1,3,7,7,75,0.75,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,56,49,6,0,0,0,0,0,19,14,4,0,37,35,2,0
+407,,1,3,7,7,75,0.75,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,56,46,9,0,0,0,0,0,19,13,5,0,37,33,4,0
+407,,1,3,7,7,75,0.75,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,56,52,3,0,0,0,0,0,19,17,1,0,37,35,2,0
+407,,1,3,7,7,75,0.75,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,56,49,6,0,0,0,0,0,19,16,2,0,37,33,4,0
+408,,1,3,8,8,284,0.62,2,3,Straight Party,,1,1,Republican Party,C,1,REP,177,60,84,0,0,0,0,0,45,13,13,0,132,47,71,0
+408,,1,3,8,8,284,0.62,2,3,Straight Party,,1,2,Democratic Party,C,2,DEM,177,14,84,0,0,0,0,0,45,1,13,0,132,13,71,0
+408,,1,3,8,8,284,0.62,2,3,Straight Party,,1,3,Libertarian Party,C,3,LIB,177,1,84,0,0,0,0,0,45,0,13,0,132,1,71,0
+408,,1,3,8,8,284,0.62,2,3,Straight Party,,1,4,Green Party,C,4,GRN,177,1,84,0,0,0,0,0,45,1,13,0,132,0,71,0
+408,,1,3,8,8,284,0.62,3,4,President and Vice President,,1,1,Mitt Romney \ Paul Ryan,C,1,REP,177,130,5,0,0,0,0,0,45,35,2,0,132,95,3,0
+408,,1,3,8,8,284,0.62,3,4,President and Vice President,,1,2,Barack Obama \ Joe Biden,C,2,DEM,177,38,5,0,0,0,0,0,45,7,2,0,132,31,3,0
+408,,1,3,8,8,284,0.62,3,4,President and Vice President,,1,3,Gary Johnson \ Jim Gray,C,3,LIB,177,3,5,0,0,0,0,0,45,0,2,0,132,3,3,0
+408,,1,3,8,8,284,0.62,3,4,President and Vice President,,1,4,Jill Stein \ Cheri Honkala,C,4,GRN,177,1,5,0,0,0,0,0,45,1,2,0,132,0,3,0
+408,,1,3,8,8,284,0.62,4,5,United States Senator,,1,1,Ted Cruz,C,1,REP,177,123,4,0,0,0,0,0,45,35,0,0,132,88,4,0
+408,,1,3,8,8,284,0.62,4,5,United States Senator,,1,2,Paul Sadler,C,2,DEM,177,45,4,0,0,0,0,0,45,9,0,0,132,36,4,0
+408,,1,3,8,8,284,0.62,4,5,United States Senator,,1,3,John Jay Myers,C,3,LIB,177,3,4,0,0,0,0,0,45,0,0,0,132,3,4,0
+408,,1,3,8,8,284,0.62,4,5,United States Senator,,1,4,David B. Collins,C,4,GRN,177,1,4,0,0,0,0,0,45,0,0,0,132,1,4,0
+408,,1,3,8,8,284,0.62,5,6,"United States Representative, District 11",,1,1,Mike Conaway,C,1,REP,177,124,7,0,0,0,0,0,45,34,1,0,132,90,6,0
+408,,1,3,8,8,284,0.62,5,6,"United States Representative, District 11",,1,2,Jim Riley,C,2,DEM,177,38,7,0,0,0,0,0,45,9,1,0,132,29,6,0
+408,,1,3,8,8,284,0.62,5,6,"United States Representative, District 11",,1,3,Scott J. Ballard,C,3,LIB,177,7,7,0,0,0,0,0,45,0,1,0,132,7,6,0
+408,,1,3,8,8,284,0.62,6,7,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,177,111,10,0,0,0,0,0,45,32,2,0,132,79,8,0
+408,,1,3,8,8,284,0.62,6,7,Railroad Commissioner,,1,2,Dale Henry,C,2,DEM,177,47,10,0,0,0,0,0,45,8,2,0,132,39,8,0
+408,,1,3,8,8,284,0.62,6,7,Railroad Commissioner,,1,3,Vivekananda (Vik) Wall,C,3,LIB,177,3,10,0,0,0,0,0,45,0,2,0,132,3,8,0
+408,,1,3,8,8,284,0.62,6,7,Railroad Commissioner,,1,4,Chris Kennedy,C,4,GRN,177,3,10,0,0,0,0,0,45,0,2,0,132,3,8,0
+408,,1,3,8,8,284,0.62,7,8,"Railroad Commissioner, Unexpired Term",,1,1,Barry Smitherman,C,1,REP,177,123,19,0,0,0,0,0,45,32,2,0,132,91,17,0
+408,,1,3,8,8,284,0.62,7,8,"Railroad Commissioner, Unexpired Term",,1,2,Jaime O. Perez,C,2,LIB,177,21,19,0,0,0,0,0,45,3,2,0,132,18,17,0
+408,,1,3,8,8,284,0.62,7,8,"Railroad Commissioner, Unexpired Term",,1,3,Josh Wendel,C,3,GRN,177,7,19,0,0,0,0,0,45,1,2,0,132,6,17,0
+408,,1,3,8,8,284,0.62,8,9,"Justice, Supreme Court, Place 2",,1,1,Don Willett,C,1,REP,177,129,24,0,0,0,0,0,45,34,2,0,132,95,22,0
+408,,1,3,8,8,284,0.62,8,9,"Justice, Supreme Court, Place 2",,1,2,RS Roberto Koelsch,C,2,LIB,177,18,24,0,0,0,0,0,45,3,2,0,132,15,22,0
+408,,1,3,8,8,284,0.62,9,10,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,177,131,18,0,0,0,0,0,45,35,1,0,132,96,17,0
+408,,1,3,8,8,284,0.62,9,10,"Justice, Supreme Court, Place 4",,1,2,Tom Oxford,C,2,LIB,177,12,18,0,0,0,0,0,45,2,1,0,132,10,17,0
+408,,1,3,8,8,284,0.62,9,10,"Justice, Supreme Court, Place 4",,1,3,Charles E. Waterbury,C,3,GRN,177,10,18,0,0,0,0,0,45,1,1,0,132,9,17,0
+408,,1,3,8,8,284,0.62,10,11,"Justice, Supreme Court, Place 6",,1,1,Nathan Hecht,C,1,REP,177,108,8,0,0,0,0,0,45,32,1,0,132,76,7,0
+408,,1,3,8,8,284,0.62,10,11,"Justice, Supreme Court, Place 6",,1,2,Michele Petty,C,2,DEM,177,49,8,0,0,0,0,0,45,7,1,0,132,42,7,0
+408,,1,3,8,8,284,0.62,10,11,"Justice, Supreme Court, Place 6",,1,3,Mark Ash,C,3,LIB,177,5,8,0,0,0,0,0,45,2,1,0,132,3,7,0
+408,,1,3,8,8,284,0.62,10,11,"Justice, Supreme Court, Place 6",,1,4,Jim Chisholm,C,4,GRN,177,4,8,0,0,0,0,0,45,0,1,0,132,4,7,0
+408,,1,3,8,8,284,0.62,11,12,"Presiding Judge, Court of Criminal Appeals",,1,1,Sharon Keller,C,1,REP,177,113,7,0,0,0,0,0,45,34,0,0,132,79,7,0
+408,,1,3,8,8,284,0.62,11,12,"Presiding Judge, Court of Criminal Appeals",,1,2,Keith Hampton,C,2,DEM,177,49,7,0,0,0,0,0,45,8,0,0,132,41,7,0
+408,,1,3,8,8,284,0.62,11,12,"Presiding Judge, Court of Criminal Appeals",,1,3,Lance Stott,C,3,LIB,177,5,7,0,0,0,0,0,45,0,0,0,132,5,7,0
+408,,1,3,8,8,284,0.62,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,1,Barbara Parker Hervey,C,1,REP,177,131,23,0,0,0,0,0,45,34,2,0,132,97,21,0
+408,,1,3,8,8,284,0.62,12,13,"Judge, Court of Criminal Appeals, Place 7",,1,2,Mark W. Bennett,C,2,LIB,177,17,23,0,0,0,0,0,45,3,2,0,132,14,21,0
+408,,1,3,8,8,284,0.62,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,1,Elsa Alcala,C,1,REP,177,132,24,0,0,0,0,0,45,35,2,0,132,97,22,0
+408,,1,3,8,8,284,0.62,13,14,"Judge, Court of Criminal Appeals, Place 8",,1,2,"William Bryan Strange, III",C,2,LIB,177,15,24,0,0,0,0,0,45,2,2,0,132,13,22,0
+408,,1,3,8,8,284,0.62,14,15,"Member, State Board of Education, District 1",,1,1,"Carlos ""Charlie"" Garza",C,1,REP,177,119,9,0,0,0,0,0,45,33,1,0,132,86,8,0
+408,,1,3,8,8,284,0.62,14,15,"Member, State Board of Education, District 1",,1,2,Martha M. Dominguéz,C,2,DEM,177,46,9,0,0,0,0,0,45,8,1,0,132,38,8,0
+408,,1,3,8,8,284,0.62,15,16,"State Senator, District 28",,1,1,Robert Duncan,C,1,REP,177,140,19,0,0,0,0,0,45,38,1,0,132,102,18,0
+408,,1,3,8,8,284,0.62,15,16,"State Senator, District 28",,1,2,M.J. (Smitty) Smith,C,2,LIB,177,14,19,0,0,0,0,0,45,2,1,0,132,12,18,0
+408,,1,3,8,8,284,0.62,16,17,"State Representative, District 72",,1,1,Drew Darby,C,1,REP,177,145,27,0,0,0,0,0,45,36,4,0,132,109,23,0
+408,,1,3,8,8,284,0.62,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,1,Jeff Rose,C,1,REP,177,121,10,0,0,0,0,0,45,35,1,0,132,86,9,0
+408,,1,3,8,8,284,0.62,17,18,"Justice, 3rd Court of Appeals District, Place 2",,1,2,J. Andrew Hathcock,C,2,DEM,177,44,10,0,0,0,0,0,45,7,1,0,132,37,9,0
+408,,1,3,8,8,284,0.62,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,1,Scott Field,C,1,REP,177,112,8,0,0,0,0,0,45,33,1,0,132,79,7,0
+408,,1,3,8,8,284,0.62,22,19,"Justice, 3rd Court of Appeals District, Place 3",,1,2,Diane Henson,C,2,DEM,177,56,8,0,0,0,0,0,45,10,1,0,132,46,7,0
+408,,1,3,8,8,284,0.62,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,1,David Puryear,C,1,REP,177,121,7,0,0,0,0,0,45,36,0,0,132,85,7,0
+408,,1,3,8,8,284,0.62,23,20,"Justice, 3rd Court of Appeals District, Place 5",,1,2,Karen L. Watkins,C,2,DEM,177,47,7,0,0,0,0,0,45,7,0,0,132,40,7,0
+408,,1,3,8,8,284,0.62,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,1,Bob Pemberton,C,1,REP,177,121,8,0,0,0,0,0,45,36,0,0,132,85,8,0
+408,,1,3,8,8,284,0.62,35,21,"Justice, 3rd Court of Appeals District, Place 6",,1,2,Bryan Case,C,2,DEM,177,46,8,0,0,0,0,0,45,7,0,0,132,39,8,0
+408,,1,3,8,8,284,0.62,18,22,"District Judge, 119th Judicial District",,1,1,Ben Woodward,C,1,REP,177,141,30,0,0,0,0,0,45,37,2,0,132,104,28,0
+408,,1,3,8,8,284,0.62,20,23,"District Attorney, 119th Judicial District",,1,1,George McCrea,C,1,REP,177,142,30,0,0,0,0,0,45,37,3,0,132,105,27,0
+408,,1,3,8,8,284,0.62,32,24,County Attorney,,1,1,Bill Campbell,C,1,REP,177,141,31,0,0,0,0,0,45,36,4,0,132,105,27,0
+408,,1,3,8,8,284,0.62,24,25,Sheriff/Tax Assessor-Collector,,1,1,Richard G. Doane,C,1,REP,177,146,26,0,0,0,0,0,45,38,2,0,132,108,24,0
+408,,1,3,8,8,284,0.62,28,28,Constable,,1,1,Marvin E. Green,C,1,REP,177,145,27,0,0,0,0,0,45,38,2,0,132,107,25,0

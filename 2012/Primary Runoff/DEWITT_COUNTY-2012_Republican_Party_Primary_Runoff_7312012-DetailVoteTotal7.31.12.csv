@@ -1,0 +1,65 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+101 102 201 401,,1,9,1,1,11116,0.05,4,8,United States Senator  REP,,1,5,David Dewhurst,C,2,,560,277,4,0,0,0,0,0,295,161,4,0,265,116,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,4,8,United States Senator  REP,,1,4,Ted Cruz,C,8,,560,238,4,0,0,0,0,0,295,105,4,0,265,133,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,1,,560,10,3,0,0,0,0,0,295,3,3,0,265,7,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,2,,560,28,3,0,0,0,0,0,295,19,3,0,265,9,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,6,10,"United States Representative, District 34  REP",,1,1,Jessica Puente Bradshaw,C,1,,560,329,13,0,0,0,0,0,295,162,8,0,265,167,5,0
+101 102 201 401,,1,9,1,1,11116,0.05,6,10,"United States Representative, District 34  REP",,1,2,Adela Garza,C,2,,560,177,13,0,0,0,0,0,295,100,8,0,265,77,5,0
+101 102 201 401,,1,9,1,1,11116,0.05,7,11,"United States Representative, District 34  DEM",,1,2,Denise Saenz Blanchard,C,4,,560,25,0,0,0,0,0,0,295,14,0,0,265,11,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,7,11,"United States Representative, District 34  DEM",,1,7,Filemon Vela,C,8,,560,16,0,0,0,0,0,0,295,11,0,0,265,5,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,10,12,Railroad Commissioner  REP,,1,3,Warren Chisum,C,1,,560,243,33,0,0,0,0,0,295,115,13,0,265,128,20,0
+101 102 201 401,,1,9,1,1,11116,0.05,10,12,Railroad Commissioner  REP,,1,5,Christi Craddick,C,5,,560,243,33,0,0,0,0,0,295,142,13,0,265,101,20,0
+101 102 201 401,,1,9,1,1,11116,0.05,98,13,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,3,REP,560,293,40,0,0,0,0,0,295,155,16,0,265,138,24,0
+101 102 201 401,,1,9,1,1,11116,0.05,98,13,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,4,REP,560,186,40,0,0,0,0,0,295,99,16,0,265,87,24,0
+101 102 201 401,,1,9,1,1,11116,0.05,14,16,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,560,187,55,0,0,0,0,0,295,100,29,0,265,87,26,0
+101 102 201 401,,1,9,1,1,11116,0.05,14,16,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,560,277,55,0,0,0,0,0,295,141,29,0,265,136,26,0
+101 102 201 401,,1,9,1,1,11116,0.05,25,24,"Member, State Board of Education, District 2  DEM",,1,3,Celeste Zepeda Sanchez,C,1,,560,15,2,0,0,0,0,0,295,8,2,0,265,7,0,0
+101 102 201 401,,1,9,1,1,11116,0.05,25,24,"Member, State Board of Education, District 2  DEM",,1,1,"Ruben Cortez, Jr.",C,2,,560,24,2,0,0,0,0,0,295,15,2,0,265,9,0,0
+202 203,,1,7,2,2,4304,0.05,4,8,United States Senator  REP,,1,5,David Dewhurst,C,2,,215,96,0,0,0,0,0,0,61,37,0,0,154,59,0,0
+202 203,,1,7,2,2,4304,0.05,4,8,United States Senator  REP,,1,4,Ted Cruz,C,8,,215,106,0,0,0,0,0,0,61,21,0,0,154,85,0,0
+202 203,,1,7,2,2,4304,0.05,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,1,,215,5,1,0,0,0,0,0,61,0,1,0,154,5,0,0
+202 203,,1,7,2,2,4304,0.05,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,2,,215,7,1,0,0,0,0,0,61,2,1,0,154,5,0,0
+202 203,,1,7,2,2,4304,0.05,6,10,"United States Representative, District 34  REP",,1,1,Jessica Puente Bradshaw,C,1,,215,137,3,0,0,0,0,0,61,32,0,0,154,105,3,0
+202 203,,1,7,2,2,4304,0.05,6,10,"United States Representative, District 34  REP",,1,2,Adela Garza,C,2,,215,62,3,0,0,0,0,0,61,26,0,0,154,36,3,0
+202 203,,1,7,2,2,4304,0.05,7,11,"United States Representative, District 34  DEM",,1,2,Denise Saenz Blanchard,C,4,,215,11,0,0,0,0,0,0,61,2,0,0,154,9,0,0
+202 203,,1,7,2,2,4304,0.05,7,11,"United States Representative, District 34  DEM",,1,7,Filemon Vela,C,8,,215,2,0,0,0,0,0,0,61,1,0,0,154,1,0,0
+202 203,,1,7,2,2,4304,0.05,10,12,Railroad Commissioner  REP,,1,3,Warren Chisum,C,1,,215,81,12,0,0,0,0,0,61,26,4,0,154,55,8,0
+202 203,,1,7,2,2,4304,0.05,10,12,Railroad Commissioner  REP,,1,5,Christi Craddick,C,5,,215,109,12,0,0,0,0,0,61,28,4,0,154,81,8,0
+202 203,,1,7,2,2,4304,0.05,98,13,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,3,REP,215,112,15,0,0,0,0,0,61,39,4,0,154,73,11,0
+202 203,,1,7,2,2,4304,0.05,98,13,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,4,REP,215,75,15,0,0,0,0,0,61,15,4,0,154,60,11,0
+202 203,,1,7,2,2,4304,0.05,14,16,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,215,80,22,0,0,0,0,0,61,21,8,0,154,59,14,0
+202 203,,1,7,2,2,4304,0.05,14,16,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,215,100,22,0,0,0,0,0,61,29,8,0,154,71,14,0
+202 203,,1,7,2,2,4304,0.05,25,24,"Member, State Board of Education, District 2  DEM",,1,3,Celeste Zepeda Sanchez,C,1,,215,9,0,0,0,0,0,0,61,1,0,0,154,8,0,0
+202 203,,1,7,2,2,4304,0.05,25,24,"Member, State Board of Education, District 2  DEM",,1,1,"Ruben Cortez, Jr.",C,2,,215,4,0,0,0,0,0,0,61,2,0,0,154,2,0,0
+301 302 303,,1,8,3,3,6196,0.06,4,8,United States Senator  REP,,1,5,David Dewhurst,C,2,,360,153,0,0,0,0,0,0,87,43,0,0,273,110,0,0
+301 302 303,,1,8,3,3,6196,0.06,4,8,United States Senator  REP,,1,4,Ted Cruz,C,8,,360,188,0,0,0,0,0,0,87,41,0,0,273,147,0,0
+301 302 303,,1,8,3,3,6196,0.06,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,1,,360,6,0,0,0,0,0,0,87,1,0,0,273,5,0,0
+301 302 303,,1,8,3,3,6196,0.06,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,2,,360,13,0,0,0,0,0,0,87,2,0,0,273,11,0,0
+301 302 303,,1,8,3,3,6196,0.06,6,10,"United States Representative, District 34  REP",,1,1,Jessica Puente Bradshaw,C,1,,360,197,20,0,0,0,0,0,87,45,4,0,273,152,16,0
+301 302 303,,1,8,3,3,6196,0.06,6,10,"United States Representative, District 34  REP",,1,2,Adela Garza,C,2,,360,124,20,0,0,0,0,0,87,35,4,0,273,89,16,0
+301 302 303,,1,8,3,3,6196,0.06,7,11,"United States Representative, District 34  DEM",,1,2,Denise Saenz Blanchard,C,4,,360,14,0,0,0,0,0,0,87,1,0,0,273,13,0,0
+301 302 303,,1,8,3,3,6196,0.06,7,11,"United States Representative, District 34  DEM",,1,7,Filemon Vela,C,8,,360,5,0,0,0,0,0,0,87,2,0,0,273,3,0,0
+301 302 303,,1,8,3,3,6196,0.06,10,12,Railroad Commissioner  REP,,1,3,Warren Chisum,C,1,,360,135,29,0,0,0,0,0,87,42,4,0,273,93,25,0
+301 302 303,,1,8,3,3,6196,0.06,10,12,Railroad Commissioner  REP,,1,5,Christi Craddick,C,5,,360,177,29,0,0,0,0,0,87,38,4,0,273,139,25,0
+301 302 303,,1,8,3,3,6196,0.06,98,13,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,3,REP,360,194,36,0,0,0,0,0,87,47,4,0,273,147,32,0
+301 302 303,,1,8,3,3,6196,0.06,98,13,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,4,REP,360,111,36,0,0,0,0,0,87,33,4,0,273,78,32,0
+301 302 303,,1,8,3,3,6196,0.06,14,16,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,360,114,41,0,0,0,0,0,87,37,3,0,273,77,38,0
+301 302 303,,1,8,3,3,6196,0.06,14,16,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,360,186,41,0,0,0,0,0,87,44,3,0,273,142,38,0
+301 302 303,,1,8,3,3,6196,0.06,25,24,"Member, State Board of Education, District 2  DEM",,1,3,Celeste Zepeda Sanchez,C,1,,360,12,0,0,0,0,0,0,87,2,0,0,273,10,0,0
+301 302 303,,1,8,3,3,6196,0.06,25,24,"Member, State Board of Education, District 2  DEM",,1,1,"Ruben Cortez, Jr.",C,2,,360,7,0,0,0,0,0,0,87,1,0,0,273,6,0,0
+402,,1,8,4,4,1906,0.08,4,8,United States Senator  REP,,1,5,David Dewhurst,C,2,,152,59,0,0,0,0,0,0,48,20,0,0,104,39,0,0
+402,,1,8,4,4,1906,0.08,4,8,United States Senator  REP,,1,4,Ted Cruz,C,8,,152,83,0,0,0,0,0,0,48,27,0,0,104,56,0,0
+402,,1,8,4,4,1906,0.08,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,1,,152,3,0,0,0,0,0,0,48,0,0,0,104,3,0,0
+402,,1,8,4,4,1906,0.08,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,2,,152,7,0,0,0,0,0,0,48,1,0,0,104,6,0,0
+402,,1,8,4,4,1906,0.08,6,10,"United States Representative, District 34  REP",,1,1,Jessica Puente Bradshaw,C,1,,152,98,5,0,0,0,0,0,48,35,3,0,104,63,2,0
+402,,1,8,4,4,1906,0.08,6,10,"United States Representative, District 34  REP",,1,2,Adela Garza,C,2,,152,39,5,0,0,0,0,0,48,9,3,0,104,30,2,0
+402,,1,8,4,4,1906,0.08,7,11,"United States Representative, District 34  DEM",,1,2,Denise Saenz Blanchard,C,4,,152,5,1,0,0,0,0,0,48,1,0,0,104,4,1,0
+402,,1,8,4,4,1906,0.08,7,11,"United States Representative, District 34  DEM",,1,7,Filemon Vela,C,8,,152,4,1,0,0,0,0,0,48,0,0,0,104,4,1,0
+402,,1,8,4,4,1906,0.08,10,12,Railroad Commissioner  REP,,1,3,Warren Chisum,C,1,,152,64,17,0,0,0,0,0,48,23,4,0,104,41,13,0
+402,,1,8,4,4,1906,0.08,10,12,Railroad Commissioner  REP,,1,5,Christi Craddick,C,5,,152,61,17,0,0,0,0,0,48,20,4,0,104,41,13,0
+402,,1,8,4,4,1906,0.08,98,13,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,3,REP,152,86,15,0,0,0,0,0,48,30,4,0,104,56,11,0
+402,,1,8,4,4,1906,0.08,98,13,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,4,REP,152,41,15,0,0,0,0,0,48,13,4,0,104,28,11,0
+402,,1,8,4,4,1906,0.08,14,16,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,152,57,18,0,0,0,0,0,48,15,5,0,104,42,13,0
+402,,1,8,4,4,1906,0.08,14,16,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,152,67,18,0,0,0,0,0,48,27,5,0,104,40,13,0
+402,,1,8,4,4,1906,0.08,25,24,"Member, State Board of Education, District 2  DEM",,1,3,Celeste Zepeda Sanchez,C,1,,152,2,1,0,0,0,0,0,48,0,0,0,104,2,1,0
+402,,1,8,4,4,1906,0.08,25,24,"Member, State Board of Education, District 2  DEM",,1,1,"Ruben Cortez, Jr.",C,2,,152,7,1,0,0,0,0,0,48,1,0,0,104,6,1,0

@@ -1,0 +1,149 @@
+"Precinct_name","Split_name","Reporting_flag","Update_count","Pct_Id","Pct_seq_nbr","Reg_voters","Turn_Out","Contest_Id","Contest_seq_nbr","Contest_title","Contest_party_name","Selectable_Options","candidate_id","candidate_name","Candidate_Type","cand_seq_nbr","Party_Code","total_ballots","total_votes","total_under_votes","total_over_votes","absentee_ballots","absentee_votes","absentee_under_votes","absentee_over_votes","early_ballots","early_votes","early_under_votes","early_over_votes","election_ballots","election_votes","election_under_votes","election_over_votes"
+"1","",1,5,1,1,1618,0.13,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",211,129,0,0,0,0,0,0,88,47,0,0,123,82,0,0
+"1","",1,5,1,1,1618,0.13,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",211,71,0,0,0,0,0,0,88,40,0,0,123,31,0,0
+"1","",1,5,1,1,1618,0.13,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",211,5,0,0,0,0,0,0,88,1,0,0,123,4,0,0
+"1","",1,5,1,1,1618,0.13,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",211,4,0,0,0,0,0,0,88,0,0,0,123,4,0,0
+"1","",1,5,1,1,1618,0.13,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",211,73,0,0,0,0,0,0,88,28,0,0,123,45,0,0
+"1","",1,5,1,1,1618,0.13,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",211,98,0,0,0,0,0,0,88,47,0,0,123,51,0,0
+"1","",1,5,1,1,1618,0.13,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",211,121,0,0,0,0,0,0,88,55,0,0,123,66,0,0
+"1","",1,5,1,1,1618,0.13,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",211,43,0,0,0,0,0,0,88,17,0,0,123,26,0,0
+"1","",1,5,1,1,1618,0.13,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",211,89,0,0,0,0,0,0,88,41,0,0,123,48,0,0
+"1","",1,5,1,1,1618,0.13,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",211,75,0,0,0,0,0,0,88,28,0,0,123,47,0,0
+"2","",1,5,2,2,784,0.10,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",80,46,0,0,0,0,0,0,14,5,0,0,66,41,0,0
+"2","",1,5,2,2,784,0.10,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",80,31,0,0,0,0,0,0,14,8,0,0,66,23,0,0
+"2","",1,5,2,2,784,0.10,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",80,1,0,0,0,0,0,0,14,0,0,0,66,1,0,0
+"2","",1,5,2,2,784,0.10,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",80,2,0,0,0,0,0,0,14,1,0,0,66,1,0,0
+"2","",1,5,2,2,784,0.10,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",80,34,0,0,0,0,0,0,14,10,0,0,66,24,0,0
+"2","",1,5,2,2,784,0.10,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",80,34,0,0,0,0,0,0,14,3,0,0,66,31,0,0
+"2","",1,5,2,2,784,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",80,40,0,0,0,0,0,0,14,9,0,0,66,31,0,0
+"2","",1,5,2,2,784,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",80,26,0,0,0,0,0,0,14,3,0,0,66,23,0,0
+"2","",1,5,2,2,784,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",80,39,0,0,0,0,0,0,14,9,0,0,66,30,0,0
+"2","",1,5,2,2,784,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",80,28,0,0,0,0,0,0,14,4,0,0,66,24,0,0
+"3","",1,8,3,3,1490,0.11,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",167,14,0,0,0,0,0,0,79,9,0,0,88,5,0,0
+"3","",1,8,3,3,1490,0.11,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",167,18,0,0,0,0,0,0,79,11,0,0,88,7,0,0
+"3","",1,8,3,3,1490,0.11,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",167,53,0,0,0,0,0,0,79,21,0,0,88,32,0,0
+"3","",1,8,3,3,1490,0.11,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",167,30,0,0,0,0,0,0,79,15,0,0,88,15,0,0
+"3","",1,8,3,3,1490,0.11,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",167,8,0,0,0,0,0,0,79,4,0,0,88,4,0,0
+"3","",1,8,3,3,1490,0.11,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",167,26,0,0,0,0,0,0,79,17,0,0,88,9,0,0
+"3","",1,8,3,3,1490,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",167,22,0,0,0,0,0,0,79,15,0,0,88,7,0,0
+"3","",1,8,3,3,1490,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",167,11,0,0,0,0,0,0,79,5,0,0,88,6,0,0
+"3","",1,8,3,3,1490,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",167,19,0,0,0,0,0,0,79,13,0,0,88,6,0,0
+"3","",1,8,3,3,1490,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",167,12,0,0,0,0,0,0,79,6,0,0,88,6,0,0
+"3","",1,8,3,3,1490,0.11,76,53,"County Commissioner, Precinct No. 3  REP","",1,3,"James R. ""Cut-Out"" Nobles","C",1,"",167,27,0,0,0,0,0,0,79,18,0,0,88,9,0,0
+"3","",1,8,3,3,1490,0.11,76,53,"County Commissioner, Precinct No. 3  REP","",1,2,"Dorothy Holtkamp","C",2,"",167,11,0,0,0,0,0,0,79,6,0,0,88,5,0,0
+"3","",1,8,3,3,1490,0.11,77,54,"County Commissioner, Precinct No. 3  DEM","",1,2,"Keith Thompson","C",1,"",167,62,0,0,0,0,0,0,79,35,0,0,88,27,0,0
+"3","",1,8,3,3,1490,0.11,77,54,"County Commissioner, Precinct No. 3  DEM","",1,1,"Barbara Henley Walker","C",2,"",167,65,0,0,0,0,0,0,79,19,0,0,88,46,0,0
+"4","",1,6,4,4,1192,0.11,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",133,92,0,0,0,0,0,0,29,15,0,0,104,77,0,0
+"4","",1,6,4,4,1192,0.11,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",133,35,0,0,0,0,0,0,29,12,0,0,104,23,0,0
+"4","",1,6,4,4,1192,0.11,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",133,3,0,0,0,0,0,0,29,0,0,0,104,3,0,0
+"4","",1,6,4,4,1192,0.11,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",133,3,0,0,0,0,0,0,29,2,0,0,104,1,0,0
+"4","",1,6,4,4,1192,0.11,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",133,49,0,0,0,0,0,0,29,11,0,0,104,38,0,0
+"4","",1,6,4,4,1192,0.11,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",133,62,0,0,0,0,0,0,29,14,0,0,104,48,0,0
+"4","",1,6,4,4,1192,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",133,77,0,0,0,0,0,0,29,14,0,0,104,63,0,0
+"4","",1,6,4,4,1192,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",133,32,0,0,0,0,0,0,29,11,0,0,104,21,0,0
+"4","",1,6,4,4,1192,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",133,64,0,0,0,0,0,0,29,13,0,0,104,51,0,0
+"4","",1,6,4,4,1192,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",133,47,0,0,0,0,0,0,29,13,0,0,104,34,0,0
+"5","",1,7,5,5,1286,0.25,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",327,107,0,0,0,0,0,0,154,49,0,0,173,58,0,0
+"5","",1,7,5,5,1286,0.25,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",327,159,0,0,0,0,0,0,154,82,0,0,173,77,0,0
+"5","",1,7,5,5,1286,0.25,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",327,18,0,0,0,0,0,0,154,10,0,0,173,8,0,0
+"5","",1,7,5,5,1286,0.25,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",327,12,0,0,0,0,0,0,154,4,0,0,173,8,0,0
+"5","",1,7,5,5,1286,0.25,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",327,83,0,0,0,0,0,0,154,50,0,0,173,33,0,0
+"5","",1,7,5,5,1286,0.25,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",327,135,0,0,0,0,0,0,154,59,0,0,173,76,0,0
+"5","",1,7,5,5,1286,0.25,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",327,113,0,0,0,0,0,0,154,49,0,0,173,64,0,0
+"5","",1,7,5,5,1286,0.25,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",327,93,0,0,0,0,0,0,154,55,0,0,173,38,0,0
+"5","",1,7,5,5,1286,0.25,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",327,113,0,0,0,0,0,0,154,57,0,0,173,56,0,0
+"5","",1,7,5,5,1286,0.25,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",327,92,0,0,0,0,0,0,154,47,0,0,173,45,0,0
+"5","",1,7,5,5,1286,0.25,76,53,"County Commissioner, Precinct No. 3  REP","",1,3,"James R. ""Cut-Out"" Nobles","C",1,"",327,124,0,0,0,0,0,0,154,58,0,0,173,66,0,0
+"5","",1,7,5,5,1286,0.25,76,53,"County Commissioner, Precinct No. 3  REP","",1,2,"Dorothy Holtkamp","C",2,"",327,162,0,0,0,0,0,0,154,76,0,0,173,86,0,0
+"5","",1,7,5,5,1286,0.25,77,54,"County Commissioner, Precinct No. 3  DEM","",1,2,"Keith Thompson","C",1,"",327,19,0,0,0,0,0,0,154,12,0,0,173,7,0,0
+"5","",1,7,5,5,1286,0.25,77,54,"County Commissioner, Precinct No. 3  DEM","",1,1,"Barbara Henley Walker","C",2,"",327,19,0,0,0,0,0,0,154,7,0,0,173,12,0,0
+"6","",1,7,6,6,1926,0.11,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",214,89,0,0,0,0,0,0,120,48,0,0,94,41,0,0
+"6","",1,7,6,6,1926,0.11,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",214,101,0,0,0,0,0,0,120,58,0,0,94,43,0,0
+"6","",1,7,6,6,1926,0.11,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",214,15,0,0,0,0,0,0,120,10,0,0,94,5,0,0
+"6","",1,7,6,6,1926,0.11,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",214,9,0,0,0,0,0,0,120,4,0,0,94,5,0,0
+"6","",1,7,6,6,1926,0.11,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",214,47,0,0,0,0,0,0,120,21,0,0,94,26,0,0
+"6","",1,7,6,6,1926,0.11,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",214,103,0,0,0,0,0,0,120,60,0,0,94,43,0,0
+"6","",1,7,6,6,1926,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",214,102,0,0,0,0,0,0,120,59,0,0,94,43,0,0
+"6","",1,7,6,6,1926,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",214,46,0,0,0,0,0,0,120,24,0,0,94,22,0,0
+"6","",1,7,6,6,1926,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",214,76,0,0,0,0,0,0,120,48,0,0,94,28,0,0
+"6","",1,7,6,6,1926,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",214,73,0,0,0,0,0,0,120,34,0,0,94,39,0,0
+"7","",1,4,7,7,1206,0.13,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",158,81,0,0,0,0,0,0,33,12,0,0,125,69,0,0
+"7","",1,4,7,7,1206,0.13,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",158,74,0,0,0,0,0,0,33,21,0,0,125,53,0,0
+"7","",1,4,7,7,1206,0.13,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",158,1,0,0,0,0,0,0,33,0,0,0,125,1,0,0
+"7","",1,4,7,7,1206,0.13,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",158,2,0,0,0,0,0,0,33,0,0,0,125,2,0,0
+"7","",1,4,7,7,1206,0.13,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",158,49,0,0,0,0,0,0,33,9,0,0,125,40,0,0
+"7","",1,4,7,7,1206,0.13,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",158,96,0,0,0,0,0,0,33,23,0,0,125,73,0,0
+"7","",1,4,7,7,1206,0.13,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",158,86,0,0,0,0,0,0,33,19,0,0,125,67,0,0
+"7","",1,4,7,7,1206,0.13,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",158,53,0,0,0,0,0,0,33,13,0,0,125,40,0,0
+"7","",1,4,7,7,1206,0.13,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",158,86,0,0,0,0,0,0,33,18,0,0,125,68,0,0
+"7","",1,4,7,7,1206,0.13,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",158,55,0,0,0,0,0,0,33,14,0,0,125,41,0,0
+"8","",1,6,8,8,500,0.08,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",42,22,0,0,0,0,0,0,20,8,0,0,22,14,0,0
+"8","",1,6,8,8,500,0.08,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",42,16,0,0,0,0,0,0,20,8,0,0,22,8,0,0
+"8","",1,6,8,8,500,0.08,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",42,0,0,0,0,0,0,0,20,0,0,0,22,0,0,0
+"8","",1,6,8,8,500,0.08,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",42,3,0,0,0,0,0,0,20,3,0,0,22,0,0,0
+"8","",1,6,8,8,500,0.08,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",42,11,0,0,0,0,0,0,20,5,0,0,22,6,0,0
+"8","",1,6,8,8,500,0.08,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",42,25,0,0,0,0,0,0,20,10,0,0,22,15,0,0
+"8","",1,6,8,8,500,0.08,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",42,20,0,0,0,0,0,0,20,6,0,0,22,14,0,0
+"8","",1,6,8,8,500,0.08,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",42,15,0,0,0,0,0,0,20,9,0,0,22,6,0,0
+"8","",1,6,8,8,500,0.08,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",42,15,0,0,0,0,0,0,20,8,0,0,22,7,0,0
+"8","",1,6,8,8,500,0.08,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",42,21,0,0,0,0,0,0,20,7,0,0,22,14,0,0
+"9","",1,4,9,9,416,0.08,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",35,14,0,0,0,0,0,0,15,7,0,0,20,7,0,0
+"9","",1,4,9,9,416,0.08,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",35,20,0,0,0,0,0,0,15,8,0,0,20,12,0,0
+"9","",1,4,9,9,416,0.08,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",35,0,0,0,0,0,0,0,15,0,0,0,20,0,0,0
+"9","",1,4,9,9,416,0.08,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",35,1,0,0,0,0,0,0,15,0,0,0,20,1,0,0
+"9","",1,4,9,9,416,0.08,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",35,15,0,0,0,0,0,0,15,9,0,0,20,6,0,0
+"9","",1,4,9,9,416,0.08,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",35,19,0,0,0,0,0,0,15,6,0,0,20,13,0,0
+"9","",1,4,9,9,416,0.08,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",35,21,0,0,0,0,0,0,15,8,0,0,20,13,0,0
+"9","",1,4,9,9,416,0.08,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",35,12,0,0,0,0,0,0,15,7,0,0,20,5,0,0
+"9","",1,4,9,9,416,0.08,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",35,15,0,0,0,0,0,0,15,6,0,0,20,9,0,0
+"9","",1,4,9,9,416,0.08,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",35,17,0,0,0,0,0,0,15,9,0,0,20,8,0,0
+"10","",1,6,10,10,962,0.11,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",107,58,0,0,0,0,0,0,18,6,0,0,89,52,0,0
+"10","",1,6,10,10,962,0.11,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",107,45,0,0,0,0,0,0,18,11,0,0,89,34,0,0
+"10","",1,6,10,10,962,0.11,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",107,2,0,0,0,0,0,0,18,1,0,0,89,1,0,0
+"10","",1,6,10,10,962,0.11,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",107,2,0,0,0,0,0,0,18,0,0,0,89,2,0,0
+"10","",1,6,10,10,962,0.11,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",107,43,0,0,0,0,0,0,18,5,0,0,89,38,0,0
+"10","",1,6,10,10,962,0.11,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",107,49,0,0,0,0,0,0,18,10,0,0,89,39,0,0
+"10","",1,6,10,10,962,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",107,61,0,0,0,0,0,0,18,7,0,0,89,54,0,0
+"10","",1,6,10,10,962,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",107,31,0,0,0,0,0,0,18,8,0,0,89,23,0,0
+"10","",1,6,10,10,962,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",107,56,0,0,0,0,0,0,18,10,0,0,89,46,0,0
+"10","",1,6,10,10,962,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",107,36,0,0,0,0,0,0,18,5,0,0,89,31,0,0
+"11","",1,4,11,11,204,0.10,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",20,12,0,0,0,0,0,0,4,2,0,0,16,10,0,0
+"11","",1,4,11,11,204,0.10,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",20,8,0,0,0,0,0,0,4,2,0,0,16,6,0,0
+"11","",1,4,11,11,204,0.10,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",20,0,0,0,0,0,0,0,4,0,0,0,16,0,0,0
+"11","",1,4,11,11,204,0.10,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",20,0,0,0,0,0,0,0,4,0,0,0,16,0,0,0
+"11","",1,4,11,11,204,0.10,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",20,5,0,0,0,0,0,0,4,1,0,0,16,4,0,0
+"11","",1,4,11,11,204,0.10,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",20,14,0,0,0,0,0,0,4,3,0,0,16,11,0,0
+"11","",1,4,11,11,204,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",20,13,0,0,0,0,0,0,4,3,0,0,16,10,0,0
+"11","",1,4,11,11,204,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",20,5,0,0,0,0,0,0,4,1,0,0,16,4,0,0
+"11","",1,4,11,11,204,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",20,11,0,0,0,0,0,0,4,4,0,0,16,7,0,0
+"11","",1,4,11,11,204,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",20,8,0,0,0,0,0,0,4,0,0,0,16,8,0,0
+"12","",1,7,12,12,858,0.12,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",102,52,0,0,0,0,0,0,39,17,0,0,63,35,0,0
+"12","",1,7,12,12,858,0.12,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",102,42,0,0,0,0,0,0,39,16,0,0,63,26,0,0
+"12","",1,7,12,12,858,0.12,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",102,2,0,0,0,0,0,0,39,2,0,0,63,0,0,0
+"12","",1,7,12,12,858,0.12,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",102,6,0,0,0,0,0,0,39,4,0,0,63,2,0,0
+"12","",1,7,12,12,858,0.12,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",102,34,0,0,0,0,0,0,39,13,0,0,63,21,0,0
+"12","",1,7,12,12,858,0.12,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",102,49,0,0,0,0,0,0,39,18,0,0,63,31,0,0
+"12","",1,7,12,12,858,0.12,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",102,50,0,0,0,0,0,0,39,16,0,0,63,34,0,0
+"12","",1,7,12,12,858,0.12,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",102,29,0,0,0,0,0,0,39,8,0,0,63,21,0,0
+"12","",1,7,12,12,858,0.12,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",102,42,0,0,0,0,0,0,39,18,0,0,63,24,0,0
+"12","",1,7,12,12,858,0.12,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",102,38,0,0,0,0,0,0,39,8,0,0,63,30,0,0
+"14","",1,6,13,13,1342,0.11,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",146,106,0,0,0,0,0,0,39,21,0,0,107,85,0,0
+"14","",1,6,13,13,1342,0.11,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",146,36,0,0,0,0,0,0,39,17,0,0,107,19,0,0
+"14","",1,6,13,13,1342,0.11,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",146,0,0,0,0,0,0,0,39,0,0,0,107,0,0,0
+"14","",1,6,13,13,1342,0.11,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",146,4,0,0,0,0,0,0,39,1,0,0,107,3,0,0
+"14","",1,6,13,13,1342,0.11,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",146,59,0,0,0,0,0,0,39,14,0,0,107,45,0,0
+"14","",1,6,13,13,1342,0.11,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",146,76,0,0,0,0,0,0,39,24,0,0,107,52,0,0
+"14","",1,6,13,13,1342,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",146,93,0,0,0,0,0,0,39,23,0,0,107,70,0,0
+"14","",1,6,13,13,1342,0.11,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",146,34,0,0,0,0,0,0,39,14,0,0,107,20,0,0
+"14","",1,6,13,13,1342,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",146,67,0,0,0,0,0,0,39,14,0,0,107,53,0,0
+"14","",1,6,13,13,1342,0.11,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",146,62,0,0,0,0,0,0,39,22,0,0,107,40,0,0
+"15","",1,6,14,14,500,0.10,4,8,"United States Senator  REP","",1,4,"Ted Cruz","C",1,"",50,38,0,0,0,0,0,0,16,9,0,0,34,29,0,0
+"15","",1,6,14,14,500,0.10,4,8,"United States Senator  REP","",1,5,"David Dewhurst","C",2,"",50,10,0,0,0,0,0,0,16,5,0,0,34,5,0,0
+"15","",1,6,14,14,500,0.10,5,9,"United States Senator  DEM","",1,4,"Grady Yarbrough","C",1,"",50,0,0,0,0,0,0,0,16,0,0,0,34,0,0,0
+"15","",1,6,14,14,500,0.10,5,9,"United States Senator  DEM","",1,3,"Paul Sadler","C",2,"",50,1,0,0,0,0,0,0,16,1,0,0,34,0,0,0
+"15","",1,6,14,14,500,0.10,10,12,"Railroad Commissioner  REP","",1,3,"Warren Chisum","C",3,"",50,15,0,0,0,0,0,0,16,2,0,0,34,13,0,0
+"15","",1,6,14,14,500,0.10,10,12,"Railroad Commissioner  REP","",1,5,"Christi Craddick","C",6,"",50,29,0,0,0,0,0,0,16,10,0,0,34,19,0,0
+"15","",1,6,14,14,500,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,4,"Barry Smitherman","C",1,"REP",50,29,0,0,0,0,0,0,16,8,0,0,34,21,0,0
+"15","",1,6,14,14,500,0.10,98,13,"Railroad Commissioner Unexpired Term  Rep","",1,3,"Greg Parker","C",3,"REP",50,16,0,0,0,0,0,0,16,6,0,0,34,10,0,0
+"15","",1,6,14,14,500,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,1,"John Devine","C",1,"",50,30,0,0,0,0,0,0,16,10,0,0,34,20,0,0
+"15","",1,6,14,14,500,0.10,14,16,"Justice, Supreme Court, Place 4  REP","",1,2,"David Medina","C",2,"",50,13,0,0,0,0,0,0,16,4,0,0,34,9,0,0

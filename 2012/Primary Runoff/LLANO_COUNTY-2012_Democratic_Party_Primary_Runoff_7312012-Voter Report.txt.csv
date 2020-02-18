@@ -1,0 +1,117 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+101,,1,6,1,1,562,0.13,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,74,33,1,0,0,0,0,0,53,23,1,0,21,10,0,0
+101,,1,6,1,1,562,0.13,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,74,38,1,0,0,0,0,0,53,28,1,0,21,10,0,0
+101,,1,6,1,1,562,0.13,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,74,2,0,0,0,0,0,0,53,1,0,0,21,1,0,0
+101,,1,6,1,1,562,0.13,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,74,0,0,0,0,0,0,0,53,0,0,0,21,0,0,0
+101,,1,6,1,1,562,0.13,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,74,39,12,0,0,0,0,0,53,25,11,0,21,14,1,0
+101,,1,6,1,1,562,0.13,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,74,21,12,0,0,0,0,0,53,16,11,0,21,5,1,0
+101,,1,6,1,1,562,0.13,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,74,44,12,0,0,0,0,0,53,30,11,0,21,14,1,0
+101,,1,6,1,1,562,0.13,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,74,16,12,0,0,0,0,0,53,11,11,0,21,5,1,0
+101,,1,6,1,1,562,0.13,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,74,32,16,0,0,0,0,0,53,26,15,0,21,6,1,0
+101,,1,6,1,1,562,0.13,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,74,24,16,0,0,0,0,0,53,11,15,0,21,13,1,0
+101,,1,6,1,1,562,0.13,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,74,45,4,0,0,0,0,0,53,37,3,0,21,8,1,0
+101,,1,6,1,1,562,0.13,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,74,23,4,0,0,0,0,0,53,12,3,0,21,11,1,0
+101,,1,6,1,1,562,0.13,17,13,Llano County Commissioner Precinct 1,,1,1,Tom Engler,C,1,REP,74,49,7,0,0,0,0,0,53,35,7,0,21,14,0,0
+101,,1,6,1,1,562,0.13,17,13,Llano County Commissioner Precinct 1,,1,2,Peter Jones,C,2,REP,74,16,7,0,0,0,0,0,53,10,7,0,21,6,0,0
+102,,1,7,2,2,930,0.2,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,182,106,2,0,0,0,0,0,112,67,1,0,70,39,1,0
+102,,1,7,2,2,930,0.2,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,182,68,2,0,0,0,0,0,112,41,1,0,70,27,1,0
+102,,1,7,2,2,930,0.2,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,182,6,0,0,0,0,0,0,112,3,0,0,70,3,0,0
+102,,1,7,2,2,930,0.2,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,182,0,0,0,0,0,0,0,112,0,0,0,70,0,0,0
+102,,1,7,2,2,930,0.2,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,182,98,20,0,0,0,0,0,112,64,13,0,70,34,7,0
+102,,1,7,2,2,930,0.2,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,182,58,20,0,0,0,0,0,112,32,13,0,70,26,7,0
+102,,1,7,2,2,930,0.2,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,182,107,38,0,0,0,0,0,112,68,24,0,70,39,14,0
+102,,1,7,2,2,930,0.2,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,182,31,38,0,0,0,0,0,112,17,24,0,70,14,14,0
+102,,1,7,2,2,930,0.2,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,182,62,46,0,0,0,0,0,112,32,28,0,70,30,18,0
+102,,1,7,2,2,930,0.2,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,182,68,46,0,0,0,0,0,112,49,28,0,70,19,18,0
+102,,1,7,2,2,930,0.2,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,182,108,10,0,0,0,0,0,112,64,6,0,70,44,4,0
+102,,1,7,2,2,930,0.2,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,182,58,10,0,0,0,0,0,112,39,6,0,70,19,4,0
+102,,1,7,2,2,930,0.2,17,13,Llano County Commissioner Precinct 1,,1,1,Tom Engler,C,1,REP,182,78,3,0,0,0,0,0,112,40,2,0,70,38,1,0
+102,,1,7,2,2,930,0.2,17,13,Llano County Commissioner Precinct 1,,1,2,Peter Jones,C,2,REP,182,95,3,0,0,0,0,0,112,67,2,0,70,28,1,0
+108,,1,6,3,3,1668,0.14,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,227,139,4,0,0,0,0,0,158,101,2,0,69,38,2,0
+108,,1,6,3,3,1668,0.14,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,227,76,4,0,0,0,0,0,158,49,2,0,69,27,2,0
+108,,1,6,3,3,1668,0.14,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,227,7,0,0,0,0,0,0,158,5,0,0,69,2,0,0
+108,,1,6,3,3,1668,0.14,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,227,1,0,0,0,0,0,0,158,1,0,0,69,0,0,0
+108,,1,6,3,3,1668,0.14,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,227,130,28,0,0,0,0,0,158,95,20,0,69,35,8,0
+108,,1,6,3,3,1668,0.14,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,227,61,28,0,0,0,0,0,158,37,20,0,69,24,8,0
+108,,1,6,3,3,1668,0.14,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,227,130,29,0,0,0,0,0,158,95,22,0,69,35,7,0
+108,,1,6,3,3,1668,0.14,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,227,60,29,0,0,0,0,0,158,35,22,0,69,25,7,0
+108,,1,6,3,3,1668,0.14,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,227,94,42,0,0,0,0,0,158,65,32,0,69,29,10,0
+108,,1,6,3,3,1668,0.14,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,227,83,42,0,0,0,0,0,158,55,32,0,69,28,10,0
+108,,1,6,3,3,1668,0.14,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,227,127,12,0,0,0,0,0,158,86,5,0,69,41,7,0
+108,,1,6,3,3,1668,0.14,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,227,80,12,0,0,0,0,0,158,61,5,0,69,19,7,0
+108,,1,6,3,3,1668,0.14,17,13,Llano County Commissioner Precinct 1,,1,1,Tom Engler,C,1,REP,227,112,6,0,0,0,0,0,158,77,2,0,69,35,4,0
+108,,1,6,3,3,1668,0.14,17,13,Llano County Commissioner Precinct 1,,1,2,Peter Jones,C,2,REP,227,101,6,0,0,0,0,0,158,73,2,0,69,28,4,0
+109,,1,10,4,4,5078,0.22,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,1138,626,29,0,0,0,0,0,838,474,21,0,300,152,8,0
+109,,1,10,4,4,5078,0.22,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,1138,461,29,0,0,0,0,0,838,330,21,0,300,131,8,0
+109,,1,10,4,4,5078,0.22,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,1138,16,2,0,0,0,0,0,838,9,2,0,300,7,0,0
+109,,1,10,4,4,5078,0.22,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,1138,4,2,0,0,0,0,0,838,2,2,0,300,2,0,0
+109,,1,10,4,4,5078,0.22,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,1138,725,128,0,0,0,0,0,838,548,89,0,300,177,39,0
+109,,1,10,4,4,5078,0.22,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,1138,263,128,0,0,0,0,0,838,188,89,0,300,75,39,0
+109,,1,10,4,4,5078,0.22,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,1138,609,242,0,0,0,0,0,838,471,178,0,300,138,64,0
+109,,1,10,4,4,5078,0.22,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,1138,265,242,0,0,0,0,0,838,176,178,0,300,89,64,0
+109,,1,10,4,4,5078,0.22,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,1138,410,247,0,0,0,0,0,838,303,179,0,300,107,68,0
+109,,1,10,4,4,5078,0.22,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,1138,459,247,0,0,0,0,0,838,343,179,0,300,116,68,0
+109,,1,10,4,4,5078,0.22,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,1138,725,84,0,0,0,0,0,838,550,57,0,300,175,27,0
+109,,1,10,4,4,5078,0.22,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,1138,307,84,0,0,0,0,0,838,218,57,0,300,89,27,0
+109,,1,10,4,4,5078,0.22,17,13,Llano County Commissioner Precinct 1,,1,1,Tom Engler,C,1,REP,1138,493,18,0,0,0,0,0,838,369,10,0,300,124,8,0
+109,,1,10,4,4,5078,0.22,17,13,Llano County Commissioner Precinct 1,,1,2,Peter Jones,C,2,REP,1138,605,18,0,0,0,0,0,838,446,10,0,300,159,8,0
+203,,1,8,5,5,3978,0.1,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,397,216,5,0,0,0,0,0,236,129,1,0,161,87,4,0
+203,,1,8,5,5,3978,0.1,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,397,163,5,0,0,0,0,0,236,98,1,0,161,65,4,0
+203,,1,8,5,5,3978,0.1,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,397,11,0,0,0,0,0,0,236,7,0,0,161,4,0,0
+203,,1,8,5,5,3978,0.1,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,397,2,0,0,0,0,0,0,236,1,0,0,161,1,0,0
+203,,1,8,5,5,3978,0.1,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,397,196,39,0,0,0,0,0,236,117,18,0,161,79,21,0
+203,,1,8,5,5,3978,0.1,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,397,149,39,0,0,0,0,0,236,93,18,0,161,56,21,0
+203,,1,8,5,5,3978,0.1,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,397,223,51,0,0,0,0,0,236,132,26,0,161,91,25,0
+203,,1,8,5,5,3978,0.1,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,397,110,51,0,0,0,0,0,236,70,26,0,161,40,25,0
+203,,1,8,5,5,3978,0.1,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,397,201,54,0,0,0,0,0,236,126,27,0,161,75,27,0
+203,,1,8,5,5,3978,0.1,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,397,129,54,0,0,0,0,0,236,75,27,0,161,54,27,0
+203,,1,8,5,5,3978,0.1,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,397,230,17,0,0,0,0,0,236,139,9,0,161,91,8,0
+203,,1,8,5,5,3978,0.1,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,397,137,17,0,0,0,0,0,236,80,9,0,161,57,8,0
+204,,1,6,6,6,1578,0.15,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,231,122,5,0,0,0,0,0,111,69,3,0,120,53,2,0
+204,,1,6,6,6,1578,0.15,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,231,85,5,0,0,0,0,0,111,38,3,0,120,47,2,0
+204,,1,6,6,6,1578,0.15,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,231,15,0,0,0,0,0,0,111,0,0,0,120,15,0,0
+204,,1,6,6,6,1578,0.15,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,231,4,0,0,0,0,0,0,111,1,0,0,120,3,0,0
+204,,1,6,6,6,1578,0.15,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,231,100,32,0,0,0,0,0,111,48,13,0,120,52,19,0
+204,,1,6,6,6,1578,0.15,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,231,80,32,0,0,0,0,0,111,49,13,0,120,31,19,0
+204,,1,6,6,6,1578,0.15,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,231,113,42,0,0,0,0,0,111,61,23,0,120,52,19,0
+204,,1,6,6,6,1578,0.15,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,231,57,42,0,0,0,0,0,111,26,23,0,120,31,19,0
+204,,1,6,6,6,1578,0.15,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,231,106,40,0,0,0,0,0,111,57,19,0,120,49,21,0
+204,,1,6,6,6,1578,0.15,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,231,66,40,0,0,0,0,0,111,34,19,0,120,32,21,0
+204,,1,6,6,6,1578,0.15,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,231,121,10,0,0,0,0,0,111,63,4,0,120,58,6,0
+204,,1,6,6,6,1578,0.15,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,231,81,10,0,0,0,0,0,111,43,4,0,120,38,6,0
+205,,1,6,7,7,1362,0.08,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,110,56,4,0,0,0,0,0,37,16,2,0,73,40,2,0
+205,,1,6,7,7,1362,0.08,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,110,46,4,0,0,0,0,0,37,17,2,0,73,29,2,0
+205,,1,6,7,7,1362,0.08,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,110,2,1,0,0,0,0,0,37,2,0,0,73,0,1,0
+205,,1,6,7,7,1362,0.08,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,110,1,1,0,0,0,0,0,37,0,0,0,73,1,1,0
+205,,1,6,7,7,1362,0.08,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,110,49,15,0,0,0,0,0,37,18,6,0,73,31,9,0
+205,,1,6,7,7,1362,0.08,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,110,42,15,0,0,0,0,0,37,11,6,0,73,31,9,0
+205,,1,6,7,7,1362,0.08,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,110,56,17,0,0,0,0,0,37,16,6,0,73,40,11,0
+205,,1,6,7,7,1362,0.08,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,110,33,17,0,0,0,0,0,37,13,6,0,73,20,11,0
+205,,1,6,7,7,1362,0.08,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,110,52,19,0,0,0,0,0,37,22,6,0,73,30,13,0
+205,,1,6,7,7,1362,0.08,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,110,35,19,0,0,0,0,0,37,7,6,0,73,28,13,0
+205,,1,6,7,7,1362,0.08,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,110,66,7,0,0,0,0,0,37,25,1,0,73,41,6,0
+205,,1,6,7,7,1362,0.08,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,110,33,7,0,0,0,0,0,37,9,1,0,73,24,6,0
+307,,1,6,8,8,5660,0.08,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,436,261,4,0,0,0,0,0,260,163,2,0,176,98,2,0
+307,,1,6,8,8,5660,0.08,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,436,158,4,0,0,0,0,0,260,88,2,0,176,70,2,0
+307,,1,6,8,8,5660,0.08,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,436,9,1,0,0,0,0,0,260,5,1,0,176,4,0,0
+307,,1,6,8,8,5660,0.08,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,436,3,1,0,0,0,0,0,260,1,1,0,176,2,0,0
+307,,1,6,8,8,5660,0.08,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,436,214,47,0,0,0,0,0,260,141,21,0,176,73,26,0
+307,,1,6,8,8,5660,0.08,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,436,162,47,0,0,0,0,0,260,91,21,0,176,71,26,0
+307,,1,6,8,8,5660,0.08,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,436,249,59,0,0,0,0,0,260,157,29,0,176,92,30,0
+307,,1,6,8,8,5660,0.08,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,436,115,59,0,0,0,0,0,260,67,29,0,176,48,30,0
+307,,1,6,8,8,5660,0.08,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,436,235,63,0,0,0,0,0,260,140,33,0,176,95,30,0
+307,,1,6,8,8,5660,0.08,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,436,125,63,0,0,0,0,0,260,80,33,0,176,45,30,0
+307,,1,6,8,8,5660,0.08,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,436,240,15,0,0,0,0,0,260,147,7,0,176,93,8,0
+307,,1,6,8,8,5660,0.08,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,436,168,15,0,0,0,0,0,260,99,7,0,176,69,8,0
+410,,1,7,9,9,7120,0.1,11,7,U.S. Senator,,1,1,David Dewhurst,C,1,REP,738,375,11,0,0,0,0,0,443,226,4,0,295,149,7,0
+410,,1,7,9,9,7120,0.1,11,7,U.S. Senator,,1,2,Ted Cruz,C,2,REP,738,317,11,0,0,0,0,0,443,193,4,0,295,124,7,0
+410,,1,7,9,9,7120,0.1,12,8,U.S. Senator,,1,1,Paul Sadler,C,1,DEM,738,31,2,0,0,0,0,0,443,18,0,0,295,13,2,0
+410,,1,7,9,9,7120,0.1,12,8,U.S. Senator,,1,2,Grady Yarbrough,C,2,DEM,738,2,2,0,0,0,0,0,443,2,0,0,295,0,2,0
+410,,1,7,9,9,7120,0.1,13,9,Railroad Commissioner,,1,1,Christi Craddick,C,1,REP,738,334,98,0,0,0,0,0,443,210,52,0,295,124,46,0
+410,,1,7,9,9,7120,0.1,13,9,Railroad Commissioner,,1,2,Warren Chisum,C,2,REP,738,271,98,0,0,0,0,0,443,161,52,0,295,110,46,0
+410,,1,7,9,9,7120,0.1,14,10,Railroad Commissioner-Unexpired Term,,1,1,Barry Smitherman,C,1,REP,738,373,130,0,0,0,0,0,443,247,74,0,295,126,56,0
+410,,1,7,9,9,7120,0.1,14,10,Railroad Commissioner-Unexpired Term,,1,2,Greg Parker,C,2,REP,738,200,130,0,0,0,0,0,443,102,74,0,295,98,56,0
+410,,1,7,9,9,7120,0.1,15,11,"Justice, Supreme Court, Place 4",,1,1,John Devine,C,1,REP,738,348,117,0,0,0,0,0,443,216,62,0,295,132,55,0
+410,,1,7,9,9,7120,0.1,15,11,"Justice, Supreme Court, Place 4",,1,2,David Medina,C,2,REP,738,238,117,0,0,0,0,0,443,145,62,0,295,93,55,0
+410,,1,7,9,9,7120,0.1,16,12,"District Attorney, 33rd Judicial District",,1,1,"Wiley ""Sonny"" McAfee",C,1,REP,738,498,16,0,0,0,0,0,443,307,9,0,295,191,7,0
+410,,1,7,9,9,7120,0.1,16,12,"District Attorney, 33rd Judicial District",,1,2,Angela Dowdle,C,2,REP,738,189,16,0,0,0,0,0,443,107,9,0,295,82,7,0

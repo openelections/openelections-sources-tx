@@ -1,0 +1,887 @@
+Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,3,Newt Gingrich,C,1,,147,2,0,0,0,0,0,0,32,0,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,8,Rick Santorum,C,2,,147,5,0,0,0,0,0,0,32,0,0,0,115,5,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,2,John Davis,C,3,,147,1,0,0,0,0,0,0,32,0,0,0,115,1,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,7,Mitt Romney,C,4,,147,37,0,0,0,0,0,0,32,10,0,0,115,27,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,147,0,0,0,0,0,0,0,32,0,0,0,115,0,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,1,Michele Bachmann,C,6,,147,1,0,0,0,0,0,0,32,1,0,0,115,0,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,4,Jon Huntsman,C,7,,147,0,0,0,0,0,0,0,32,0,0,0,115,0,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,5,Ron Paul,C,8,,147,17,0,0,0,0,0,0,32,5,0,0,115,12,0,0
+1,,1,6,1,1,600,0.25,111,6,President  REP,,1,9,Uncommitted,C,9,,147,4,0,0,0,0,0,0,32,1,0,0,115,3,0,0
+1,,1,6,1,1,600,0.25,112,7,President  DEM,,1,3,Barack Obama,C,1,,147,49,0,0,0,0,0,0,32,8,0,0,115,41,0,0
+1,,1,6,1,1,600,0.25,112,7,President  DEM,,1,2,Bob Ely,C,2,,147,5,0,0,0,0,0,0,32,0,0,0,115,5,0,0
+1,,1,6,1,1,600,0.25,112,7,President  DEM,,1,4,John Wolfe,C,3,,147,7,0,0,0,0,0,0,32,2,0,0,115,5,0,0
+1,,1,6,1,1,600,0.25,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,147,5,0,0,0,0,0,0,32,1,0,0,115,4,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,147,21,0,0,0,0,0,0,32,5,0,0,115,16,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,147,5,0,0,0,0,0,0,32,3,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,7,Craig James,C,3,,147,3,0,0,0,0,0,0,32,1,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,147,3,0,0,0,0,0,0,32,0,0,0,115,3,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,147,4,0,0,0,0,0,0,32,0,0,0,115,4,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,147,2,0,0,0,0,0,0,32,0,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,147,22,0,0,0,0,0,0,32,8,0,0,115,14,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,147,1,0,0,0,0,0,0,32,0,0,0,115,1,0,0
+1,,1,6,1,1,600,0.25,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,147,1,0,0,0,0,0,0,32,0,0,0,115,1,0,0
+1,,1,6,1,1,600,0.25,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,147,31,0,0,0,0,0,0,32,6,0,0,115,25,0,0
+1,,1,6,1,1,600,0.25,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,147,10,0,0,0,0,0,0,32,3,0,0,115,7,0,0
+1,,1,6,1,1,600,0.25,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,147,12,0,0,0,0,0,0,32,2,0,0,115,10,0,0
+1,,1,6,1,1,600,0.25,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,147,5,0,0,0,0,0,0,32,2,0,0,115,3,0,0
+1,,1,6,1,1,600,0.25,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,147,14,0,0,0,0,0,0,32,5,0,0,115,9,0,0
+1,,1,6,1,1,600,0.25,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,147,33,0,0,0,0,0,0,32,8,0,0,115,25,0,0
+1,,1,6,1,1,600,0.25,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,147,13,0,0,0,0,0,0,32,3,0,0,115,10,0,0
+1,,1,6,1,1,600,0.25,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,147,47,0,0,0,0,0,0,32,10,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,147,8,0,0,0,0,0,0,32,1,0,0,115,7,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,147,11,0,0,0,0,0,0,32,4,0,0,115,7,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,147,14,0,0,0,0,0,0,32,3,0,0,115,11,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,147,14,0,0,0,0,0,0,32,5,0,0,115,9,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,147,3,0,0,0,0,0,0,32,1,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,147,5,0,0,0,0,0,0,32,1,0,0,115,4,0,0
+1,,1,6,1,1,600,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,147,6,0,0,0,0,0,0,32,2,0,0,115,4,0,0
+1,,1,6,1,1,600,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,147,20,0,0,0,0,0,0,32,7,0,0,115,13,0,0
+1,,1,6,1,1,600,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,147,16,0,0,0,0,0,0,32,2,0,0,115,14,0,0
+1,,1,6,1,1,600,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,147,12,0,0,0,0,0,0,32,3,0,0,115,9,0,0
+1,,1,6,1,1,600,0.25,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,147,50,0,0,0,0,0,0,32,10,0,0,115,40,0,0
+1,,1,6,1,1,600,0.25,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,147,26,0,0,0,0,0,0,32,5,0,0,115,21,0,0
+1,,1,6,1,1,600,0.25,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,147,29,0,0,0,0,0,0,32,10,0,0,115,19,0,0
+1,,1,6,1,1,600,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,147,14,0,0,0,0,0,0,32,4,0,0,115,10,0,0
+1,,1,6,1,1,600,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,147,30,0,0,0,0,0,0,32,6,0,0,115,24,0,0
+1,,1,6,1,1,600,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,147,11,0,0,0,0,0,0,32,5,0,0,115,6,0,0
+1,,1,6,1,1,600,0.25,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,147,47,0,0,0,0,0,0,32,10,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,147,48,0,0,0,0,0,0,32,10,0,0,115,38,0,0
+1,,1,6,1,1,600,0.25,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,147,48,0,0,0,0,0,0,32,10,0,0,115,38,0,0
+1,,1,6,1,1,600,0.25,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,147,46,0,0,0,0,0,0,32,11,0,0,115,35,0,0
+1,,1,6,1,1,600,0.25,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,147,46,0,0,0,0,0,0,32,10,0,0,115,36,0,0
+1,,1,6,1,1,600,0.25,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,147,46,0,0,0,0,0,0,32,9,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,147,21,0,0,0,0,0,0,32,5,0,0,115,16,0,0
+1,,1,6,1,1,600,0.25,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,147,34,0,0,0,0,0,0,32,10,0,0,115,24,0,0
+1,,1,6,1,1,600,0.25,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,147,49,0,0,0,0,0,0,32,12,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,147,43,0,0,0,0,0,0,32,11,0,0,115,32,0,0
+1,,1,6,1,1,600,0.25,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,147,31,0,0,0,0,0,0,32,9,0,0,115,22,0,0
+1,,1,6,1,1,600,0.25,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,147,27,0,0,0,0,0,0,32,6,0,0,115,21,0,0
+1,,1,6,1,1,600,0.25,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,147,28,0,0,0,0,0,0,32,8,0,0,115,20,0,0
+1,,1,6,1,1,600,0.25,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,147,26,0,0,0,0,0,0,32,5,0,0,115,21,0,0
+1,,1,6,1,1,600,0.25,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,147,41,0,0,0,0,0,0,32,10,0,0,115,31,0,0
+1,,1,6,1,1,600,0.25,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,147,51,0,0,0,0,0,0,32,14,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,147,52,0,0,0,0,0,0,32,11,0,0,115,41,0,0
+1,,1,6,1,1,600,0.25,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,147,35,0,0,0,0,0,0,32,4,0,0,115,31,0,0
+1,,1,6,1,1,600,0.25,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,147,38,0,0,0,0,0,0,32,10,0,0,115,28,0,0
+1,,1,6,1,1,600,0.25,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,147,51,0,0,0,0,0,0,32,15,0,0,115,36,0,0
+1,,1,6,1,1,600,0.25,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,147,56,0,0,0,0,0,0,32,12,0,0,115,44,0,0
+1,,1,6,1,1,600,0.25,72,73,"County Commissioner, Precinct No. 1  REP",,1,1,J.R. Ashley,C,1,,147,61,0,0,0,0,0,0,32,16,0,0,115,45,0,0
+1,,1,6,1,1,600,0.25,73,74,"County Commissioner, Precinct No. 1  DEM",,1,1,Roy C. Woods,C,1,,147,37,0,0,0,0,0,0,32,8,0,0,115,29,0,0
+1,,1,6,1,1,600,0.25,73,74,"County Commissioner, Precinct No. 1  DEM",,1,2,Gary Carroll,C,2,,147,26,0,0,0,0,0,0,32,6,0,0,115,20,0,0
+1,,1,6,1,1,600,0.25,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,147,47,0,0,0,0,0,0,32,14,0,0,115,33,0,0
+1,,1,6,1,1,600,0.25,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,147,49,0,0,0,0,0,0,32,12,0,0,115,37,0,0
+1,,1,6,1,1,600,0.25,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,147,47,0,0,0,0,0,0,32,11,0,0,115,36,0,0
+1,,1,6,1,1,600,0.25,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,147,50,0,0,0,0,0,0,32,10,0,0,115,40,0,0
+1,,1,6,1,1,600,0.25,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,147,60,0,0,0,0,0,0,32,18,0,0,115,42,0,0
+1,,1,6,1,1,600,0.25,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,147,5,0,0,0,0,0,0,32,0,0,0,115,5,0,0
+1,,1,6,1,1,600,0.25,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,147,61,0,0,0,0,0,0,32,18,0,0,115,43,0,0
+1,,1,6,1,1,600,0.25,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,147,3,0,0,0,0,0,0,32,0,0,0,115,3,0,0
+1,,1,6,1,1,600,0.25,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,147,60,0,0,0,0,0,0,32,15,0,0,115,45,0,0
+1,,1,6,1,1,600,0.25,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,147,4,0,0,0,0,0,0,32,2,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,147,63,0,0,0,0,0,0,32,18,0,0,115,45,0,0
+1,,1,6,1,1,600,0.25,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,147,2,0,0,0,0,0,0,32,0,0,0,115,2,0,0
+1,,1,6,1,1,600,0.25,104,103,Redistricting  REP,,1,1,Yes,C,1,,147,47,0,0,0,0,0,0,32,17,0,0,115,30,0,0
+1,,1,6,1,1,600,0.25,104,103,Redistricting  REP,,1,2,No,C,2,,147,14,0,0,0,0,0,0,32,1,0,0,115,13,0,0
+1,,1,6,1,1,600,0.25,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,147,49,0,0,0,0,0,0,32,13,0,0,115,36,0,0
+1,,1,6,1,1,600,0.25,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,147,10,0,0,0,0,0,0,32,1,0,0,115,9,0,0
+1,,1,6,1,1,600,0.25,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,147,51,0,0,0,0,0,0,32,12,0,0,115,39,0,0
+1,,1,6,1,1,600,0.25,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,147,9,0,0,0,0,0,0,32,2,0,0,115,7,0,0
+1,,1,6,1,1,600,0.25,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,147,41,0,0,0,0,0,0,32,10,0,0,115,31,0,0
+1,,1,6,1,1,600,0.25,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,147,18,0,0,0,0,0,0,32,4,0,0,115,14,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,3,Newt Gingrich,C,1,,339,7,0,0,0,0,0,0,92,2,0,0,247,5,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,8,Rick Santorum,C,2,,339,16,0,0,0,0,0,0,92,7,0,0,247,9,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,2,John Davis,C,3,,339,0,0,0,0,0,0,0,92,0,0,0,247,0,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,7,Mitt Romney,C,4,,339,91,0,0,0,0,0,0,92,33,0,0,247,58,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,339,3,0,0,0,0,0,0,92,0,0,0,247,3,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,1,Michele Bachmann,C,6,,339,3,0,0,0,0,0,0,92,0,0,0,247,3,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,4,Jon Huntsman,C,7,,339,0,0,0,0,0,0,0,92,0,0,0,247,0,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,5,Ron Paul,C,8,,339,22,0,0,0,0,0,0,92,5,0,0,247,17,0,0
+2,,1,7,2,2,1178,0.29,111,6,President  REP,,1,9,Uncommitted,C,9,,339,7,0,0,0,0,0,0,92,1,0,0,247,6,0,0
+2,,1,7,2,2,1178,0.29,112,7,President  DEM,,1,3,Barack Obama,C,1,,339,80,0,0,0,0,0,0,92,17,0,0,247,63,0,0
+2,,1,7,2,2,1178,0.29,112,7,President  DEM,,1,2,Bob Ely,C,2,,339,15,0,0,0,0,0,0,92,6,0,0,247,9,0,0
+2,,1,7,2,2,1178,0.29,112,7,President  DEM,,1,4,John Wolfe,C,3,,339,19,0,0,0,0,0,0,92,3,0,0,247,16,0,0
+2,,1,7,2,2,1178,0.29,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,339,16,0,0,0,0,0,0,92,4,0,0,247,12,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,339,52,0,0,0,0,0,0,92,18,0,0,247,34,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,339,4,0,0,0,0,0,0,92,2,0,0,247,2,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,7,Craig James,C,3,,339,12,0,0,0,0,0,0,92,3,0,0,247,9,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,339,4,0,0,0,0,0,0,92,2,0,0,247,2,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,339,15,0,0,0,0,0,0,92,5,0,0,247,10,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,339,3,0,0,0,0,0,0,92,0,0,0,247,3,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,339,49,0,0,0,0,0,0,92,16,0,0,247,33,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,339,2,0,0,0,0,0,0,92,1,0,0,247,1,0,0
+2,,1,7,2,2,1178,0.29,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,339,3,0,0,0,0,0,0,92,1,0,0,247,2,0,0
+2,,1,7,2,2,1178,0.29,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,339,79,0,0,0,0,0,0,92,21,0,0,247,58,0,0
+2,,1,7,2,2,1178,0.29,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,339,19,0,0,0,0,0,0,92,6,0,0,247,13,0,0
+2,,1,7,2,2,1178,0.29,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,339,26,0,0,0,0,0,0,92,6,0,0,247,20,0,0
+2,,1,7,2,2,1178,0.29,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,339,13,0,0,0,0,0,0,92,1,0,0,247,12,0,0
+2,,1,7,2,2,1178,0.29,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,339,47,0,0,0,0,0,0,92,14,0,0,247,33,0,0
+2,,1,7,2,2,1178,0.29,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,339,77,0,0,0,0,0,0,92,27,0,0,247,50,0,0
+2,,1,7,2,2,1178,0.29,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,339,18,0,0,0,0,0,0,92,5,0,0,247,13,0,0
+2,,1,7,2,2,1178,0.29,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,339,110,0,0,0,0,0,0,92,29,0,0,247,81,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,339,38,0,0,0,0,0,0,92,16,0,0,247,22,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,339,8,0,0,0,0,0,0,92,3,0,0,247,5,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,339,38,0,0,0,0,0,0,92,12,0,0,247,26,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,339,35,0,0,0,0,0,0,92,8,0,0,247,27,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,339,6,0,0,0,0,0,0,92,2,0,0,247,4,0,0
+2,,1,7,2,2,1178,0.29,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,339,17,0,0,0,0,0,0,92,6,0,0,247,11,0,0
+2,,1,7,2,2,1178,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,339,23,0,0,0,0,0,0,92,6,0,0,247,17,0,0
+2,,1,7,2,2,1178,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,339,40,0,0,0,0,0,0,92,13,0,0,247,27,0,0
+2,,1,7,2,2,1178,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,339,41,0,0,0,0,0,0,92,13,0,0,247,28,0,0
+2,,1,7,2,2,1178,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,339,31,0,0,0,0,0,0,92,13,0,0,247,18,0,0
+2,,1,7,2,2,1178,0.29,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,339,114,0,0,0,0,0,0,92,29,0,0,247,85,0,0
+2,,1,7,2,2,1178,0.29,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,339,90,0,0,0,0,0,0,92,37,0,0,247,53,0,0
+2,,1,7,2,2,1178,0.29,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,339,47,0,0,0,0,0,0,92,7,0,0,247,40,0,0
+2,,1,7,2,2,1178,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,339,51,0,0,0,0,0,0,92,13,0,0,247,38,0,0
+2,,1,7,2,2,1178,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,339,54,0,0,0,0,0,0,92,19,0,0,247,35,0,0
+2,,1,7,2,2,1178,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,339,27,0,0,0,0,0,0,92,12,0,0,247,15,0,0
+2,,1,7,2,2,1178,0.29,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,339,127,0,0,0,0,0,0,92,43,0,0,247,84,0,0
+2,,1,7,2,2,1178,0.29,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,339,117,0,0,0,0,0,0,92,28,0,0,247,89,0,0
+2,,1,7,2,2,1178,0.29,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,339,124,0,0,0,0,0,0,92,39,0,0,247,85,0,0
+2,,1,7,2,2,1178,0.29,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,339,113,0,0,0,0,0,0,92,28,0,0,247,85,0,0
+2,,1,7,2,2,1178,0.29,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,339,125,0,0,0,0,0,0,92,41,0,0,247,84,0,0
+2,,1,7,2,2,1178,0.29,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,339,120,0,0,0,0,0,0,92,40,0,0,247,80,0,0
+2,,1,7,2,2,1178,0.29,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,339,67,0,0,0,0,0,0,92,28,0,0,247,39,0,0
+2,,1,7,2,2,1178,0.29,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,339,64,0,0,0,0,0,0,92,18,0,0,247,46,0,0
+2,,1,7,2,2,1178,0.29,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,339,127,0,0,0,0,0,0,92,42,0,0,247,85,0,0
+2,,1,7,2,2,1178,0.29,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,339,106,0,0,0,0,0,0,92,27,0,0,247,79,0,0
+2,,1,7,2,2,1178,0.29,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,339,53,0,0,0,0,0,0,92,16,0,0,247,37,0,0
+2,,1,7,2,2,1178,0.29,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,339,88,0,0,0,0,0,0,92,30,0,0,247,58,0,0
+2,,1,7,2,2,1178,0.29,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,339,87,0,0,0,0,0,0,92,35,0,0,247,52,0,0
+2,,1,7,2,2,1178,0.29,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,339,47,0,0,0,0,0,0,92,11,0,0,247,36,0,0
+2,,1,7,2,2,1178,0.29,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,339,111,0,0,0,0,0,0,92,27,0,0,247,84,0,0
+2,,1,7,2,2,1178,0.29,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,339,130,0,0,0,0,0,0,92,42,0,0,247,88,0,0
+2,,1,7,2,2,1178,0.29,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,339,132,0,0,0,0,0,0,92,30,0,0,247,102,0,0
+2,,1,7,2,2,1178,0.29,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,339,49,0,0,0,0,0,0,92,11,0,0,247,38,0,0
+2,,1,7,2,2,1178,0.29,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,339,125,0,0,0,0,0,0,92,30,0,0,247,95,0,0
+2,,1,7,2,2,1178,0.29,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,339,122,0,0,0,0,0,0,92,43,0,0,247,79,0,0
+2,,1,7,2,2,1178,0.29,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,339,140,0,0,0,0,0,0,92,32,0,0,247,108,0,0
+2,,1,7,2,2,1178,0.29,72,73,"County Commissioner, Precinct No. 1  REP",,1,1,J.R. Ashley,C,1,,339,144,0,0,0,0,0,0,92,48,0,0,247,96,0,0
+2,,1,7,2,2,1178,0.29,73,74,"County Commissioner, Precinct No. 1  DEM",,1,1,Roy C. Woods,C,1,,339,96,0,0,0,0,0,0,92,22,0,0,247,74,0,0
+2,,1,7,2,2,1178,0.29,73,74,"County Commissioner, Precinct No. 1  DEM",,1,2,Gary Carroll,C,2,,339,72,0,0,0,0,0,0,92,17,0,0,247,55,0,0
+2,,1,7,2,2,1178,0.29,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,339,127,0,0,0,0,0,0,92,42,0,0,247,85,0,0
+2,,1,7,2,2,1178,0.29,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,339,135,0,0,0,0,0,0,92,33,0,0,247,102,0,0
+2,,1,7,2,2,1178,0.29,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,339,132,0,0,0,0,0,0,92,45,0,0,247,87,0,0
+2,,1,7,2,2,1178,0.29,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,339,123,0,0,0,0,0,0,92,31,0,0,247,92,0,0
+2,,1,7,2,2,1178,0.29,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,339,130,0,0,0,0,0,0,92,40,0,0,247,90,0,0
+2,,1,7,2,2,1178,0.29,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,339,21,0,0,0,0,0,0,92,10,0,0,247,11,0,0
+2,,1,7,2,2,1178,0.29,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,339,151,0,0,0,0,0,0,92,48,0,0,247,103,0,0
+2,,1,7,2,2,1178,0.29,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,339,2,0,0,0,0,0,0,92,2,0,0,247,0,0,0
+2,,1,7,2,2,1178,0.29,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,339,148,0,0,0,0,0,0,92,46,0,0,247,102,0,0
+2,,1,7,2,2,1178,0.29,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,339,6,0,0,0,0,0,0,92,4,0,0,247,2,0,0
+2,,1,7,2,2,1178,0.29,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,339,148,0,0,0,0,0,0,92,50,0,0,247,98,0,0
+2,,1,7,2,2,1178,0.29,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,339,4,0,0,0,0,0,0,92,0,0,0,247,4,0,0
+2,,1,7,2,2,1178,0.29,104,103,Redistricting  REP,,1,1,Yes,C,1,,339,120,0,0,0,0,0,0,92,40,0,0,247,80,0,0
+2,,1,7,2,2,1178,0.29,104,103,Redistricting  REP,,1,2,No,C,2,,339,26,0,0,0,0,0,0,92,9,0,0,247,17,0,0
+2,,1,7,2,2,1178,0.29,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,339,117,0,0,0,0,0,0,92,28,0,0,247,89,0,0
+2,,1,7,2,2,1178,0.29,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,339,34,0,0,0,0,0,0,92,11,0,0,247,23,0,0
+2,,1,7,2,2,1178,0.29,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,339,123,0,0,0,0,0,0,92,28,0,0,247,95,0,0
+2,,1,7,2,2,1178,0.29,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,339,28,0,0,0,0,0,0,92,10,0,0,247,18,0,0
+2,,1,7,2,2,1178,0.29,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,339,113,0,0,0,0,0,0,92,32,0,0,247,81,0,0
+2,,1,7,2,2,1178,0.29,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,339,39,0,0,0,0,0,0,92,7,0,0,247,32,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,3,Newt Gingrich,C,1,,126,6,0,0,0,0,0,0,39,0,0,0,87,6,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,8,Rick Santorum,C,2,,126,2,0,0,0,0,0,0,39,1,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,2,John Davis,C,3,,126,0,0,0,0,0,0,0,39,0,0,0,87,0,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,7,Mitt Romney,C,4,,126,28,0,0,0,0,0,0,39,9,0,0,87,19,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,126,1,0,0,0,0,0,0,39,0,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,1,Michele Bachmann,C,6,,126,0,0,0,0,0,0,0,39,0,0,0,87,0,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,4,Jon Huntsman,C,7,,126,0,0,0,0,0,0,0,39,0,0,0,87,0,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,5,Ron Paul,C,8,,126,12,0,0,0,0,0,0,39,3,0,0,87,9,0,0
+3,,1,4,3,3,511,0.25,111,6,President  REP,,1,9,Uncommitted,C,9,,126,2,0,0,0,0,0,0,39,1,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,112,7,President  DEM,,1,3,Barack Obama,C,1,,126,22,0,0,0,0,0,0,39,9,0,0,87,13,0,0
+3,,1,4,3,3,511,0.25,112,7,President  DEM,,1,2,Bob Ely,C,2,,126,5,0,0,0,0,0,0,39,2,0,0,87,3,0,0
+3,,1,4,3,3,511,0.25,112,7,President  DEM,,1,4,John Wolfe,C,3,,126,18,0,0,0,0,0,0,39,7,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,126,8,0,0,0,0,0,0,39,3,0,0,87,5,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,126,18,0,0,0,0,0,0,39,6,0,0,87,12,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,126,4,0,0,0,0,0,0,39,0,0,0,87,4,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,7,Craig James,C,3,,126,4,0,0,0,0,0,0,39,1,0,0,87,3,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,126,1,0,0,0,0,0,0,39,0,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,126,1,0,0,0,0,0,0,39,0,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,126,1,0,0,0,0,0,0,39,0,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,126,14,0,0,0,0,0,0,39,4,0,0,87,10,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,126,0,0,0,0,0,0,0,39,0,0,0,87,0,0,0
+3,,1,4,3,3,511,0.25,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,126,3,0,0,0,0,0,0,39,0,0,0,87,3,0,0
+3,,1,4,3,3,511,0.25,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,126,34,0,0,0,0,0,0,39,13,0,0,87,21,0,0
+3,,1,4,3,3,511,0.25,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,126,2,0,0,0,0,0,0,39,0,0,0,87,2,0,0
+3,,1,4,3,3,511,0.25,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,126,6,0,0,0,0,0,0,39,2,0,0,87,4,0,0
+3,,1,4,3,3,511,0.25,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,126,8,0,0,0,0,0,0,39,6,0,0,87,2,0,0
+3,,1,4,3,3,511,0.25,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,126,11,0,0,0,0,0,0,39,3,0,0,87,8,0,0
+3,,1,4,3,3,511,0.25,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,126,19,0,0,0,0,0,0,39,7,0,0,87,12,0,0
+3,,1,4,3,3,511,0.25,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,126,12,0,0,0,0,0,0,39,1,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,126,39,0,0,0,0,0,0,39,14,0,0,87,25,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,126,9,0,0,0,0,0,0,39,1,0,0,87,8,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,126,2,0,0,0,0,0,0,39,1,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,126,13,0,0,0,0,0,0,39,1,0,0,87,12,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,126,4,0,0,0,0,0,0,39,0,0,0,87,4,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,126,3,0,0,0,0,0,0,39,1,0,0,87,2,0,0
+3,,1,4,3,3,511,0.25,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,126,6,0,0,0,0,0,0,39,2,0,0,87,4,0,0
+3,,1,4,3,3,511,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,126,3,0,0,0,0,0,0,39,0,0,0,87,3,0,0
+3,,1,4,3,3,511,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,126,17,0,0,0,0,0,0,39,4,0,0,87,13,0,0
+3,,1,4,3,3,511,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,126,8,0,0,0,0,0,0,39,2,0,0,87,6,0,0
+3,,1,4,3,3,511,0.25,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,126,10,0,0,0,0,0,0,39,0,0,0,87,10,0,0
+3,,1,4,3,3,511,0.25,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,126,41,0,0,0,0,0,0,39,15,0,0,87,26,0,0
+3,,1,4,3,3,511,0.25,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,126,22,0,0,0,0,0,0,39,3,0,0,87,19,0,0
+3,,1,4,3,3,511,0.25,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,126,18,0,0,0,0,0,0,39,5,0,0,87,13,0,0
+3,,1,4,3,3,511,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,126,15,0,0,0,0,0,0,39,3,0,0,87,12,0,0
+3,,1,4,3,3,511,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,126,13,0,0,0,0,0,0,39,2,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,126,14,0,0,0,0,0,0,39,3,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,126,36,0,0,0,0,0,0,39,9,0,0,87,27,0,0
+3,,1,4,3,3,511,0.25,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,126,40,0,0,0,0,0,0,39,15,0,0,87,25,0,0
+3,,1,4,3,3,511,0.25,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,126,32,0,0,0,0,0,0,39,8,0,0,87,24,0,0
+3,,1,4,3,3,511,0.25,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,126,39,0,0,0,0,0,0,39,14,0,0,87,25,0,0
+3,,1,4,3,3,511,0.25,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,126,33,0,0,0,0,0,0,39,8,0,0,87,25,0,0
+3,,1,4,3,3,511,0.25,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,126,33,0,0,0,0,0,0,39,8,0,0,87,25,0,0
+3,,1,4,3,3,511,0.25,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,126,12,0,0,0,0,0,0,39,1,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,126,25,0,0,0,0,0,0,39,6,0,0,87,19,0,0
+3,,1,4,3,3,511,0.25,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,126,36,0,0,0,0,0,0,39,9,0,0,87,27,0,0
+3,,1,4,3,3,511,0.25,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,126,36,0,0,0,0,0,0,39,16,0,0,87,20,0,0
+3,,1,4,3,3,511,0.25,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,126,20,0,0,0,0,0,0,39,5,0,0,87,15,0,0
+3,,1,4,3,3,511,0.25,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,126,25,0,0,0,0,0,0,39,6,0,0,87,19,0,0
+3,,1,4,3,3,511,0.25,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,126,30,0,0,0,0,0,0,39,8,0,0,87,22,0,0
+3,,1,4,3,3,511,0.25,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,126,13,0,0,0,0,0,0,39,2,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,126,35,0,0,0,0,0,0,39,14,0,0,87,21,0,0
+3,,1,4,3,3,511,0.25,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,126,37,0,0,0,0,0,0,39,8,0,0,87,29,0,0
+3,,1,4,3,3,511,0.25,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,126,47,0,0,0,0,0,0,39,18,0,0,87,29,0,0
+3,,1,4,3,3,511,0.25,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,126,18,0,0,0,0,0,0,39,7,0,0,87,11,0,0
+3,,1,4,3,3,511,0.25,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,126,53,0,0,0,0,0,0,39,18,0,0,87,35,0,0
+3,,1,4,3,3,511,0.25,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,126,38,0,0,0,0,0,0,39,8,0,0,87,30,0,0
+3,,1,4,3,3,511,0.25,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,126,48,0,0,0,0,0,0,39,16,0,0,87,32,0,0
+3,,1,4,3,3,511,0.25,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,126,34,0,0,0,0,0,0,39,8,0,0,87,26,0,0
+3,,1,4,3,3,511,0.25,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,126,55,0,0,0,0,0,0,39,23,0,0,87,32,0,0
+3,,1,4,3,3,511,0.25,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,126,35,0,0,0,0,0,0,39,8,0,0,87,27,0,0
+3,,1,4,3,3,511,0.25,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,126,38,0,0,0,0,0,0,39,16,0,0,87,22,0,0
+3,,1,4,3,3,511,0.25,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,126,48,0,0,0,0,0,0,39,14,0,0,87,34,0,0
+3,,1,4,3,3,511,0.25,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,126,2,0,0,0,0,0,0,39,0,0,0,87,2,0,0
+3,,1,4,3,3,511,0.25,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,126,50,0,0,0,0,0,0,39,14,0,0,87,36,0,0
+3,,1,4,3,3,511,0.25,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,126,1,0,0,0,0,0,0,39,0,0,0,87,1,0,0
+3,,1,4,3,3,511,0.25,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,126,48,0,0,0,0,0,0,39,14,0,0,87,34,0,0
+3,,1,4,3,3,511,0.25,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,126,3,0,0,0,0,0,0,39,0,0,0,87,3,0,0
+3,,1,4,3,3,511,0.25,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,126,49,0,0,0,0,0,0,39,14,0,0,87,35,0,0
+3,,1,4,3,3,511,0.25,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,126,2,0,0,0,0,0,0,39,0,0,0,87,2,0,0
+3,,1,4,3,3,511,0.25,104,103,Redistricting  REP,,1,1,Yes,C,1,,126,33,0,0,0,0,0,0,39,11,0,0,87,22,0,0
+3,,1,4,3,3,511,0.25,104,103,Redistricting  REP,,1,2,No,C,2,,126,12,0,0,0,0,0,0,39,2,0,0,87,10,0,0
+3,,1,4,3,3,511,0.25,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,126,40,0,0,0,0,0,0,39,16,0,0,87,24,0,0
+3,,1,4,3,3,511,0.25,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,126,22,0,0,0,0,0,0,39,6,0,0,87,16,0,0
+3,,1,4,3,3,511,0.25,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,126,51,0,0,0,0,0,0,39,19,0,0,87,32,0,0
+3,,1,4,3,3,511,0.25,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,126,12,0,0,0,0,0,0,39,3,0,0,87,9,0,0
+3,,1,4,3,3,511,0.25,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,126,32,0,0,0,0,0,0,39,9,0,0,87,23,0,0
+3,,1,4,3,3,511,0.25,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,126,30,0,0,0,0,0,0,39,12,0,0,87,18,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,3,Newt Gingrich,C,1,,138,4,0,0,0,0,0,0,75,2,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,8,Rick Santorum,C,2,,138,7,0,0,0,0,0,0,75,1,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,2,John Davis,C,3,,138,1,0,0,0,0,0,0,75,0,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,7,Mitt Romney,C,4,,138,32,0,0,0,0,0,0,75,15,0,0,63,17,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,1,Michele Bachmann,C,6,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,4,Jon Huntsman,C,7,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,5,Ron Paul,C,8,,138,4,0,0,0,0,0,0,75,3,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,111,6,President  REP,,1,9,Uncommitted,C,9,,138,1,0,0,0,0,0,0,75,1,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,112,7,President  DEM,,1,3,Barack Obama,C,1,,138,34,0,0,0,0,0,0,75,16,0,0,63,18,0,0
+4,,1,5,4,4,518,0.27,112,7,President  DEM,,1,2,Bob Ely,C,2,,138,7,0,0,0,0,0,0,75,5,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,112,7,President  DEM,,1,4,John Wolfe,C,3,,138,8,0,0,0,0,0,0,75,5,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,138,9,0,0,0,0,0,0,75,7,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,138,20,0,0,0,0,0,0,75,6,0,0,63,14,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,7,Craig James,C,3,,138,3,0,0,0,0,0,0,75,1,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,138,2,0,0,0,0,0,0,75,1,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,138,2,0,0,0,0,0,0,75,2,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,138,16,0,0,0,0,0,0,75,10,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,138,2,0,0,0,0,0,0,75,1,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,138,52,0,0,0,0,0,0,75,30,0,0,63,22,0,0
+4,,1,5,4,4,518,0.27,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,138,1,0,0,0,0,0,0,75,1,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,138,6,0,0,0,0,0,0,75,3,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,138,2,0,0,0,0,0,0,75,2,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,138,10,0,0,0,0,0,0,75,7,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,138,30,0,0,0,0,0,0,75,12,0,0,63,18,0,0
+4,,1,5,4,4,518,0.27,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,138,7,0,0,0,0,0,0,75,1,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,138,50,0,0,0,0,0,0,75,30,0,0,63,20,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,138,9,0,0,0,0,0,0,75,3,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,138,4,0,0,0,0,0,0,75,1,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,138,10,0,0,0,0,0,0,75,5,0,0,63,5,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,138,6,0,0,0,0,0,0,75,4,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,138,1,0,0,0,0,0,0,75,0,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,138,8,0,0,0,0,0,0,75,1,0,0,63,7,0,0
+4,,1,5,4,4,518,0.27,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,138,4,0,0,0,0,0,0,75,2,0,0,63,2,0,0
+4,,1,5,4,4,518,0.27,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,138,13,0,0,0,0,0,0,75,6,0,0,63,7,0,0
+4,,1,5,4,4,518,0.27,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,138,8,0,0,0,0,0,0,75,2,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,138,12,0,0,0,0,0,0,75,3,0,0,63,9,0,0
+4,,1,5,4,4,518,0.27,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,138,57,0,0,0,0,0,0,75,34,0,0,63,23,0,0
+4,,1,5,4,4,518,0.27,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,138,23,0,0,0,0,0,0,75,9,0,0,63,14,0,0
+4,,1,5,4,4,518,0.27,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,138,17,0,0,0,0,0,0,75,7,0,0,63,10,0,0
+4,,1,5,4,4,518,0.27,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,138,20,0,0,0,0,0,0,75,7,0,0,63,13,0,0
+4,,1,5,4,4,518,0.27,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,138,12,0,0,0,0,0,0,75,6,0,0,63,6,0,0
+4,,1,5,4,4,518,0.27,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,138,6,0,0,0,0,0,0,75,2,0,0,63,4,0,0
+4,,1,5,4,4,518,0.27,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,138,33,0,0,0,0,0,0,75,12,0,0,63,21,0,0
+4,,1,5,4,4,518,0.27,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,138,52,0,0,0,0,0,0,75,30,0,0,63,22,0,0
+4,,1,5,4,4,518,0.27,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,138,35,0,0,0,0,0,0,75,12,0,0,63,23,0,0
+4,,1,5,4,4,518,0.27,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,138,53,0,0,0,0,0,0,75,31,0,0,63,22,0,0
+4,,1,5,4,4,518,0.27,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,138,34,0,0,0,0,0,0,75,12,0,0,63,22,0,0
+4,,1,5,4,4,518,0.27,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,138,33,0,0,0,0,0,0,75,12,0,0,63,21,0,0
+4,,1,5,4,4,518,0.27,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,138,19,0,0,0,0,0,0,75,5,0,0,63,14,0,0
+4,,1,5,4,4,518,0.27,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,138,18,0,0,0,0,0,0,75,9,0,0,63,9,0,0
+4,,1,5,4,4,518,0.27,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,138,33,0,0,0,0,0,0,75,14,0,0,63,19,0,0
+4,,1,5,4,4,518,0.27,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,138,57,0,0,0,0,0,0,75,33,0,0,63,24,0,0
+4,,1,5,4,4,518,0.27,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,138,21,0,0,0,0,0,0,75,7,0,0,63,14,0,0
+4,,1,5,4,4,518,0.27,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,138,24,0,0,0,0,0,0,75,12,0,0,63,12,0,0
+4,,1,5,4,4,518,0.27,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,138,31,0,0,0,0,0,0,75,11,0,0,63,20,0,0
+4,,1,5,4,4,518,0.27,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,138,10,0,0,0,0,0,0,75,5,0,0,63,5,0,0
+4,,1,5,4,4,518,0.27,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,138,48,0,0,0,0,0,0,75,25,0,0,63,23,0,0
+4,,1,5,4,4,518,0.27,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,138,40,0,0,0,0,0,0,75,13,0,0,63,27,0,0
+4,,1,5,4,4,518,0.27,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,138,72,0,0,0,0,0,0,75,44,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,138,19,0,0,0,0,0,0,75,5,0,0,63,14,0,0
+4,,1,5,4,4,518,0.27,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,138,67,0,0,0,0,0,0,75,47,0,0,63,20,0,0
+4,,1,5,4,4,518,0.27,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,138,43,0,0,0,0,0,0,75,18,0,0,63,25,0,0
+4,,1,5,4,4,518,0.27,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,138,62,0,0,0,0,0,0,75,34,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,138,34,0,0,0,0,0,0,75,15,0,0,63,19,0,0
+4,,1,5,4,4,518,0.27,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,138,71,0,0,0,0,0,0,75,43,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,138,46,0,0,0,0,0,0,75,21,0,0,63,25,0,0
+4,,1,5,4,4,518,0.27,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,138,52,0,0,0,0,0,0,75,27,0,0,63,25,0,0
+4,,1,5,4,4,518,0.27,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,138,40,0,0,0,0,0,0,75,18,0,0,63,22,0,0
+4,,1,5,4,4,518,0.27,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,138,7,0,0,0,0,0,0,75,2,0,0,63,5,0,0
+4,,1,5,4,4,518,0.27,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,138,47,0,0,0,0,0,0,75,19,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,138,2,0,0,0,0,0,0,75,2,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,138,46,0,0,0,0,0,0,75,19,0,0,63,27,0,0
+4,,1,5,4,4,518,0.27,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,138,3,0,0,0,0,0,0,75,2,0,0,63,1,0,0
+4,,1,5,4,4,518,0.27,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,138,49,0,0,0,0,0,0,75,21,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,138,0,0,0,0,0,0,0,75,0,0,0,63,0,0,0
+4,,1,5,4,4,518,0.27,104,103,Redistricting  REP,,1,1,Yes,C,1,,138,32,0,0,0,0,0,0,75,14,0,0,63,18,0,0
+4,,1,5,4,4,518,0.27,104,103,Redistricting  REP,,1,2,No,C,2,,138,15,0,0,0,0,0,0,75,7,0,0,63,8,0,0
+4,,1,5,4,4,518,0.27,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,138,62,0,0,0,0,0,0,75,33,0,0,63,29,0,0
+4,,1,5,4,4,518,0.27,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,138,15,0,0,0,0,0,0,75,12,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,138,65,0,0,0,0,0,0,75,37,0,0,63,28,0,0
+4,,1,5,4,4,518,0.27,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,138,11,0,0,0,0,0,0,75,8,0,0,63,3,0,0
+4,,1,5,4,4,518,0.27,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,138,53,0,0,0,0,0,0,75,33,0,0,63,20,0,0
+4,,1,5,4,4,518,0.27,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,138,24,0,0,0,0,0,0,75,12,0,0,63,12,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,3,Newt Gingrich,C,1,,208,3,0,0,0,0,0,0,82,1,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,8,Rick Santorum,C,2,,208,4,0,0,0,0,0,0,82,3,0,0,126,1,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,2,John Davis,C,3,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,7,Mitt Romney,C,4,,208,34,0,0,0,0,0,0,82,15,0,0,126,19,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,208,2,0,0,0,0,0,0,82,1,0,0,126,1,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,1,Michele Bachmann,C,6,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,4,Jon Huntsman,C,7,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,5,Ron Paul,C,8,,208,7,0,0,0,0,0,0,82,1,0,0,126,6,0,0
+5,,1,6,5,5,714,0.29,111,6,President  REP,,1,9,Uncommitted,C,9,,208,2,0,0,0,0,0,0,82,0,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,112,7,President  DEM,,1,3,Barack Obama,C,1,,208,46,0,0,0,0,0,0,82,16,0,0,126,30,0,0
+5,,1,6,5,5,714,0.29,112,7,President  DEM,,1,2,Bob Ely,C,2,,208,9,0,0,0,0,0,0,82,1,0,0,126,8,0,0
+5,,1,6,5,5,714,0.29,112,7,President  DEM,,1,4,John Wolfe,C,3,,208,18,0,0,0,0,0,0,82,7,0,0,126,11,0,0
+5,,1,6,5,5,714,0.29,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,208,20,0,0,0,0,0,0,82,8,0,0,126,12,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,208,15,0,0,0,0,0,0,82,8,0,0,126,7,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,7,Craig James,C,3,,208,4,0,0,0,0,0,0,82,2,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,208,3,0,0,0,0,0,0,82,0,0,0,126,3,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,208,2,0,0,0,0,0,0,82,0,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,208,1,0,0,0,0,0,0,82,1,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,208,21,0,0,0,0,0,0,82,8,0,0,126,13,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,208,72,0,0,0,0,0,0,82,28,0,0,126,44,0,0
+5,,1,6,5,5,714,0.29,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,208,6,0,0,0,0,0,0,82,1,0,0,126,5,0,0
+5,,1,6,5,5,714,0.29,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,208,9,0,0,0,0,0,0,82,0,0,0,126,9,0,0
+5,,1,6,5,5,714,0.29,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,208,9,0,0,0,0,0,0,82,4,0,0,126,5,0,0
+5,,1,6,5,5,714,0.29,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,208,15,0,0,0,0,0,0,82,5,0,0,126,10,0,0
+5,,1,6,5,5,714,0.29,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,208,25,0,0,0,0,0,0,82,8,0,0,126,17,0,0
+5,,1,6,5,5,714,0.29,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,208,3,0,0,0,0,0,0,82,2,0,0,126,1,0,0
+5,,1,6,5,5,714,0.29,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,208,66,0,0,0,0,0,0,82,24,0,0,126,42,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,208,14,0,0,0,0,0,0,82,4,0,0,126,10,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,208,4,0,0,0,0,0,0,82,2,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,208,11,0,0,0,0,0,0,82,6,0,0,126,5,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,208,7,0,0,0,0,0,0,82,3,0,0,126,4,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,208,1,0,0,0,0,0,0,82,0,0,0,126,1,0,0
+5,,1,6,5,5,714,0.29,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,208,5,0,0,0,0,0,0,82,1,0,0,126,4,0,0
+5,,1,6,5,5,714,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,208,5,0,0,0,0,0,0,82,3,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,208,14,0,0,0,0,0,0,82,6,0,0,126,8,0,0
+5,,1,6,5,5,714,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,208,12,0,0,0,0,0,0,82,1,0,0,126,11,0,0
+5,,1,6,5,5,714,0.29,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,208,9,0,0,0,0,0,0,82,7,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,208,70,0,0,0,0,0,0,82,28,0,0,126,42,0,0
+5,,1,6,5,5,714,0.29,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,208,22,0,0,0,0,0,0,82,9,0,0,126,13,0,0
+5,,1,6,5,5,714,0.29,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,208,16,0,0,0,0,0,0,82,6,0,0,126,10,0,0
+5,,1,6,5,5,714,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,208,21,0,0,0,0,0,0,82,8,0,0,126,13,0,0
+5,,1,6,5,5,714,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,208,10,0,0,0,0,0,0,82,3,0,0,126,7,0,0
+5,,1,6,5,5,714,0.29,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,208,7,0,0,0,0,0,0,82,3,0,0,126,4,0,0
+5,,1,6,5,5,714,0.29,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,208,32,0,0,0,0,0,0,82,10,0,0,126,22,0,0
+5,,1,6,5,5,714,0.29,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,208,65,0,0,0,0,0,0,82,23,0,0,126,42,0,0
+5,,1,6,5,5,714,0.29,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,208,37,0,0,0,0,0,0,82,12,0,0,126,25,0,0
+5,,1,6,5,5,714,0.29,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,208,69,0,0,0,0,0,0,82,23,0,0,126,46,0,0
+5,,1,6,5,5,714,0.29,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,208,34,0,0,0,0,0,0,82,9,0,0,126,25,0,0
+5,,1,6,5,5,714,0.29,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,208,34,0,0,0,0,0,0,82,10,0,0,126,24,0,0
+5,,1,6,5,5,714,0.29,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,208,19,0,0,0,0,0,0,82,6,0,0,126,13,0,0
+5,,1,6,5,5,714,0.29,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,208,20,0,0,0,0,0,0,82,7,0,0,126,13,0,0
+5,,1,6,5,5,714,0.29,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,208,35,0,0,0,0,0,0,82,11,0,0,126,24,0,0
+5,,1,6,5,5,714,0.29,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,208,58,0,0,0,0,0,0,82,21,0,0,126,37,0,0
+5,,1,6,5,5,714,0.29,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,208,23,0,0,0,0,0,0,82,12,0,0,126,11,0,0
+5,,1,6,5,5,714,0.29,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,208,25,0,0,0,0,0,0,82,5,0,0,126,20,0,0
+5,,1,6,5,5,714,0.29,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,208,30,0,0,0,0,0,0,82,15,0,0,126,15,0,0
+5,,1,6,5,5,714,0.29,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,208,13,0,0,0,0,0,0,82,2,0,0,126,11,0,0
+5,,1,6,5,5,714,0.29,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,208,56,0,0,0,0,0,0,82,21,0,0,126,35,0,0
+5,,1,6,5,5,714,0.29,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,208,44,0,0,0,0,0,0,82,14,0,0,126,30,0,0
+5,,1,6,5,5,714,0.29,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,208,99,0,0,0,0,0,0,82,47,0,0,126,52,0,0
+5,,1,6,5,5,714,0.29,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,208,41,0,0,0,0,0,0,82,11,0,0,126,30,0,0
+5,,1,6,5,5,714,0.29,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,208,112,0,0,0,0,0,0,82,50,0,0,126,62,0,0
+5,,1,6,5,5,714,0.29,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,208,39,0,0,0,0,0,0,82,12,0,0,126,27,0,0
+5,,1,6,5,5,714,0.29,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,208,97,0,0,0,0,0,0,82,40,0,0,126,57,0,0
+5,,1,6,5,5,714,0.29,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,208,39,0,0,0,0,0,0,82,11,0,0,126,28,0,0
+5,,1,6,5,5,714,0.29,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,208,116,0,0,0,0,0,0,82,50,0,0,126,66,0,0
+5,,1,6,5,5,714,0.29,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,208,41,0,0,0,0,0,0,82,13,0,0,126,28,0,0
+5,,1,6,5,5,714,0.29,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,208,74,0,0,0,0,0,0,82,28,0,0,126,46,0,0
+5,,1,6,5,5,714,0.29,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,208,44,0,0,0,0,0,0,82,17,0,0,126,27,0,0
+5,,1,6,5,5,714,0.29,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,208,5,0,0,0,0,0,0,82,2,0,0,126,3,0,0
+5,,1,6,5,5,714,0.29,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,208,49,0,0,0,0,0,0,82,19,0,0,126,30,0,0
+5,,1,6,5,5,714,0.29,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,208,3,0,0,0,0,0,0,82,1,0,0,126,2,0,0
+5,,1,6,5,5,714,0.29,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,208,44,0,0,0,0,0,0,82,18,0,0,126,26,0,0
+5,,1,6,5,5,714,0.29,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,208,8,0,0,0,0,0,0,82,2,0,0,126,6,0,0
+5,,1,6,5,5,714,0.29,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,208,51,0,0,0,0,0,0,82,19,0,0,126,32,0,0
+5,,1,6,5,5,714,0.29,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,208,0,0,0,0,0,0,0,82,0,0,0,126,0,0,0
+5,,1,6,5,5,714,0.29,104,103,Redistricting  REP,,1,1,Yes,C,1,,208,39,0,0,0,0,0,0,82,13,0,0,126,26,0,0
+5,,1,6,5,5,714,0.29,104,103,Redistricting  REP,,1,2,No,C,2,,208,7,0,0,0,0,0,0,82,3,0,0,126,4,0,0
+5,,1,6,5,5,714,0.29,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,208,84,0,0,0,0,0,0,82,33,0,0,126,51,0,0
+5,,1,6,5,5,714,0.29,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,208,33,0,0,0,0,0,0,82,15,0,0,126,18,0,0
+5,,1,6,5,5,714,0.29,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,208,91,0,0,0,0,0,0,82,36,0,0,126,55,0,0
+5,,1,6,5,5,714,0.29,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,208,28,0,0,0,0,0,0,82,13,0,0,126,15,0,0
+5,,1,6,5,5,714,0.29,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,208,72,0,0,0,0,0,0,82,35,0,0,126,37,0,0
+5,,1,6,5,5,714,0.29,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,208,50,0,0,0,0,0,0,82,17,0,0,126,33,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,3,Newt Gingrich,C,1,,361,5,0,0,0,0,0,0,91,4,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,8,Rick Santorum,C,2,,361,6,0,0,0,0,0,0,91,2,0,0,270,4,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,2,John Davis,C,3,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,7,Mitt Romney,C,4,,361,42,0,0,0,0,0,0,91,14,0,0,270,28,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,1,Michele Bachmann,C,6,,361,0,0,0,0,0,0,0,91,0,0,0,270,0,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,4,Jon Huntsman,C,7,,361,0,0,0,0,0,0,0,91,0,0,0,270,0,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,5,Ron Paul,C,8,,361,9,0,0,0,0,0,0,91,0,0,0,270,9,0,0
+6,,1,6,6,6,910,0.4,111,6,President  REP,,1,9,Uncommitted,C,9,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,112,7,President  DEM,,1,3,Barack Obama,C,1,,361,119,0,0,0,0,0,0,91,34,0,0,270,85,0,0
+6,,1,6,6,6,910,0.4,112,7,President  DEM,,1,2,Bob Ely,C,2,,361,28,0,0,0,0,0,0,91,6,0,0,270,22,0,0
+6,,1,6,6,6,910,0.4,112,7,President  DEM,,1,4,John Wolfe,C,3,,361,38,0,0,0,0,0,0,91,8,0,0,270,30,0,0
+6,,1,6,6,6,910,0.4,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,361,20,0,0,0,0,0,0,91,6,0,0,270,14,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,361,18,0,0,0,0,0,0,91,6,0,0,270,12,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,361,3,0,0,0,0,0,0,91,1,0,0,270,2,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,7,Craig James,C,3,,361,4,0,0,0,0,0,0,91,0,0,0,270,4,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,361,1,0,0,0,0,0,0,91,1,0,0,270,0,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,361,24,0,0,0,0,0,0,91,10,0,0,270,14,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,361,2,0,0,0,0,0,0,91,0,0,0,270,2,0,0
+6,,1,6,6,6,910,0.4,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,361,109,0,0,0,0,0,0,91,24,0,0,270,85,0,0
+6,,1,6,6,6,910,0.4,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,361,13,0,0,0,0,0,0,91,5,0,0,270,8,0,0
+6,,1,6,6,6,910,0.4,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,361,18,0,0,0,0,0,0,91,6,0,0,270,12,0,0
+6,,1,6,6,6,910,0.4,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,361,30,0,0,0,0,0,0,91,7,0,0,270,23,0,0
+6,,1,6,6,6,910,0.4,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,361,27,0,0,0,0,0,0,91,10,0,0,270,17,0,0
+6,,1,6,6,6,910,0.4,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,361,22,0,0,0,0,0,0,91,5,0,0,270,17,0,0
+6,,1,6,6,6,910,0.4,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,361,6,0,0,0,0,0,0,91,2,0,0,270,4,0,0
+6,,1,6,6,6,910,0.4,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,361,137,0,0,0,0,0,0,91,34,0,0,270,103,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,361,22,0,0,0,0,0,0,91,7,0,0,270,15,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,361,9,0,0,0,0,0,0,91,3,0,0,270,6,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,361,4,0,0,0,0,0,0,91,1,0,0,270,3,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,361,9,0,0,0,0,0,0,91,2,0,0,270,7,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,361,3,0,0,0,0,0,0,91,0,0,0,270,3,0,0
+6,,1,6,6,6,910,0.4,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,361,4,0,0,0,0,0,0,91,3,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,361,8,0,0,0,0,0,0,91,3,0,0,270,5,0,0
+6,,1,6,6,6,910,0.4,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,361,26,0,0,0,0,0,0,91,8,0,0,270,18,0,0
+6,,1,6,6,6,910,0.4,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,361,10,0,0,0,0,0,0,91,1,0,0,270,9,0,0
+6,,1,6,6,6,910,0.4,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,361,5,0,0,0,0,0,0,91,2,0,0,270,3,0,0
+6,,1,6,6,6,910,0.4,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,361,149,0,0,0,0,0,0,91,35,0,0,270,114,0,0
+6,,1,6,6,6,910,0.4,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,361,25,0,0,0,0,0,0,91,8,0,0,270,17,0,0
+6,,1,6,6,6,910,0.4,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,361,26,0,0,0,0,0,0,91,6,0,0,270,20,0,0
+6,,1,6,6,6,910,0.4,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,361,27,0,0,0,0,0,0,91,8,0,0,270,19,0,0
+6,,1,6,6,6,910,0.4,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,361,15,0,0,0,0,0,0,91,4,0,0,270,11,0,0
+6,,1,6,6,6,910,0.4,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,361,10,0,0,0,0,0,0,91,2,0,0,270,8,0,0
+6,,1,6,6,6,910,0.4,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,361,40,0,0,0,0,0,0,91,14,0,0,270,26,0,0
+6,,1,6,6,6,910,0.4,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,361,148,0,0,0,0,0,0,91,35,0,0,270,113,0,0
+6,,1,6,6,6,910,0.4,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,361,44,0,0,0,0,0,0,91,14,0,0,270,30,0,0
+6,,1,6,6,6,910,0.4,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,361,143,0,0,0,0,0,0,91,36,0,0,270,107,0,0
+6,,1,6,6,6,910,0.4,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,361,41,0,0,0,0,0,0,91,14,0,0,270,27,0,0
+6,,1,6,6,6,910,0.4,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,361,41,0,0,0,0,0,0,91,14,0,0,270,27,0,0
+6,,1,6,6,6,910,0.4,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,361,31,0,0,0,0,0,0,91,7,0,0,270,24,0,0
+6,,1,6,6,6,910,0.4,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,361,14,0,0,0,0,0,0,91,5,0,0,270,9,0,0
+6,,1,6,6,6,910,0.4,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,361,45,0,0,0,0,0,0,91,16,0,0,270,29,0,0
+6,,1,6,6,6,910,0.4,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,361,133,0,0,0,0,0,0,91,33,0,0,270,100,0,0
+6,,1,6,6,6,910,0.4,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,361,16,0,0,0,0,0,0,91,6,0,0,270,10,0,0
+6,,1,6,6,6,910,0.4,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,361,39,0,0,0,0,0,0,91,12,0,0,270,27,0,0
+6,,1,6,6,6,910,0.4,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,361,35,0,0,0,0,0,0,91,10,0,0,270,25,0,0
+6,,1,6,6,6,910,0.4,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,361,15,0,0,0,0,0,0,91,3,0,0,270,12,0,0
+6,,1,6,6,6,910,0.4,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,361,127,0,0,0,0,0,0,91,32,0,0,270,95,0,0
+6,,1,6,6,6,910,0.4,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,361,48,0,0,0,0,0,0,91,17,0,0,270,31,0,0
+6,,1,6,6,6,910,0.4,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,361,211,0,0,0,0,0,0,91,47,0,0,270,164,0,0
+6,,1,6,6,6,910,0.4,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,361,110,0,0,0,0,0,0,91,30,0,0,270,80,0,0
+6,,1,6,6,6,910,0.4,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,361,178,0,0,0,0,0,0,91,40,0,0,270,138,0,0
+6,,1,6,6,6,910,0.4,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,361,53,0,0,0,0,0,0,91,19,0,0,270,34,0,0
+6,,1,6,6,6,910,0.4,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,361,238,0,0,0,0,0,0,91,53,0,0,270,185,0,0
+6,,1,6,6,6,910,0.4,76,77,"County Commissioner, Precinct No. 3  REP",,1,1,Brian E. Smith,C,1,,361,45,0,0,0,0,0,0,91,16,0,0,270,29,0,0
+6,,1,6,6,6,910,0.4,77,78,"County Commissioner, Precinct No. 3  DEM",,1,1,C.E. (Cecil) Bourne,C,1,,361,174,0,0,0,0,0,0,91,34,0,0,270,140,0,0
+6,,1,6,6,6,910,0.4,77,78,"County Commissioner, Precinct No. 3  DEM",,1,2,Lon Gene Watson,C,2,,361,110,0,0,0,0,0,0,91,34,0,0,270,76,0,0
+6,,1,6,6,6,910,0.4,92,93,"Constable, Precinct No. 2  REP",,1,1,Mel Wolverton,C,1,,361,41,0,0,0,0,0,0,91,11,0,0,270,30,0,0
+6,,1,6,6,6,910,0.4,93,94,"Constable, Precinct No. 2  DEM",,1,1,Tashia N. Wilson,C,1,,361,137,0,0,0,0,0,0,91,37,0,0,270,100,0,0
+6,,1,6,6,6,910,0.4,93,94,"Constable, Precinct No. 2  DEM",,1,2,Mark Dews,C,2,,361,41,0,0,0,0,0,0,91,7,0,0,270,34,0,0
+6,,1,6,6,6,910,0.4,93,94,"Constable, Precinct No. 2  DEM",,1,3,"Charles ""Sawmillman"" Rogers",C,3,,361,102,0,0,0,0,0,0,91,22,0,0,270,80,0,0
+6,,1,6,6,6,910,0.4,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,361,42,0,0,0,0,0,0,91,14,0,0,270,28,0,0
+6,,1,6,6,6,910,0.4,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,361,194,0,0,0,0,0,0,91,42,0,0,270,152,0,0
+6,,1,6,6,6,910,0.4,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,361,51,0,0,0,0,0,0,91,14,0,0,270,37,0,0
+6,,1,6,6,6,910,0.4,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,361,9,0,0,0,0,0,0,91,5,0,0,270,4,0,0
+6,,1,6,6,6,910,0.4,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,361,61,0,0,0,0,0,0,91,20,0,0,270,41,0,0
+6,,1,6,6,6,910,0.4,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,361,1,0,0,0,0,0,0,91,0,0,0,270,1,0,0
+6,,1,6,6,6,910,0.4,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,361,59,0,0,0,0,0,0,91,19,0,0,270,40,0,0
+6,,1,6,6,6,910,0.4,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,361,4,0,0,0,0,0,0,91,1,0,0,270,3,0,0
+6,,1,6,6,6,910,0.4,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,361,58,0,0,0,0,0,0,91,17,0,0,270,41,0,0
+6,,1,6,6,6,910,0.4,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,361,3,0,0,0,0,0,0,91,3,0,0,270,0,0,0
+6,,1,6,6,6,910,0.4,104,103,Redistricting  REP,,1,1,Yes,C,1,,361,41,0,0,0,0,0,0,91,12,0,0,270,29,0,0
+6,,1,6,6,6,910,0.4,104,103,Redistricting  REP,,1,2,No,C,2,,361,18,0,0,0,0,0,0,91,8,0,0,270,10,0,0
+6,,1,6,6,6,910,0.4,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,361,165,0,0,0,0,0,0,91,37,0,0,270,128,0,0
+6,,1,6,6,6,910,0.4,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,361,59,0,0,0,0,0,0,91,14,0,0,270,45,0,0
+6,,1,6,6,6,910,0.4,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,361,180,0,0,0,0,0,0,91,40,0,0,270,140,0,0
+6,,1,6,6,6,910,0.4,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,361,42,0,0,0,0,0,0,91,10,0,0,270,32,0,0
+6,,1,6,6,6,910,0.4,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,361,166,0,0,0,0,0,0,91,34,0,0,270,132,0,0
+6,,1,6,6,6,910,0.4,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,361,57,0,0,0,0,0,0,91,19,0,0,270,38,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,3,Newt Gingrich,C,1,,157,1,0,0,0,0,0,0,77,1,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,8,Rick Santorum,C,2,,157,3,0,0,0,0,0,0,77,2,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,2,John Davis,C,3,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,7,Mitt Romney,C,4,,157,32,0,0,0,0,0,0,77,19,0,0,80,13,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,1,Michele Bachmann,C,6,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,4,Jon Huntsman,C,7,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,5,Ron Paul,C,8,,157,6,0,0,0,0,0,0,77,3,0,0,80,3,0,0
+7,,1,5,7,7,793,0.2,111,6,President  REP,,1,9,Uncommitted,C,9,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,112,7,President  DEM,,1,3,Barack Obama,C,1,,157,91,0,0,0,0,0,0,77,34,0,0,80,57,0,0
+7,,1,5,7,7,793,0.2,112,7,President  DEM,,1,2,Bob Ely,C,2,,157,1,0,0,0,0,0,0,77,0,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,112,7,President  DEM,,1,4,John Wolfe,C,3,,157,6,0,0,0,0,0,0,77,4,0,0,80,2,0,0
+7,,1,5,7,7,793,0.2,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,157,2,0,0,0,0,0,0,77,2,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,157,14,0,0,0,0,0,0,77,5,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,157,2,0,0,0,0,0,0,77,1,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,7,Craig James,C,3,,157,2,0,0,0,0,0,0,77,1,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,157,22,0,0,0,0,0,0,77,18,0,0,80,4,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,157,42,0,0,0,0,0,0,77,20,0,0,80,22,0,0
+7,,1,5,7,7,793,0.2,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,157,10,0,0,0,0,0,0,77,6,0,0,80,4,0,0
+7,,1,5,7,7,793,0.2,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,157,20,0,0,0,0,0,0,77,10,0,0,80,10,0,0
+7,,1,5,7,7,793,0.2,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,157,7,0,0,0,0,0,0,77,1,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,157,10,0,0,0,0,0,0,77,6,0,0,80,4,0,0
+7,,1,5,7,7,793,0.2,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,157,24,0,0,0,0,0,0,77,16,0,0,80,8,0,0
+7,,1,5,7,7,793,0.2,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,157,6,0,0,0,0,0,0,77,3,0,0,80,3,0,0
+7,,1,5,7,7,793,0.2,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,157,60,0,0,0,0,0,0,77,24,0,0,80,36,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,157,4,0,0,0,0,0,0,77,4,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,157,1,0,0,0,0,0,0,77,0,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,157,12,0,0,0,0,0,0,77,4,0,0,80,8,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,157,3,0,0,0,0,0,0,77,3,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,157,7,0,0,0,0,0,0,77,6,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,157,3,0,0,0,0,0,0,77,3,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,157,9,0,0,0,0,0,0,77,6,0,0,80,3,0,0
+7,,1,5,7,7,793,0.2,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,157,5,0,0,0,0,0,0,77,2,0,0,80,3,0,0
+7,,1,5,7,7,793,0.2,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,157,10,0,0,0,0,0,0,77,5,0,0,80,5,0,0
+7,,1,5,7,7,793,0.2,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,157,61,0,0,0,0,0,0,77,26,0,0,80,35,0,0
+7,,1,5,7,7,793,0.2,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,157,15,0,0,0,0,0,0,77,6,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,157,12,0,0,0,0,0,0,77,10,0,0,80,2,0,0
+7,,1,5,7,7,793,0.2,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,157,11,0,0,0,0,0,0,77,5,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,157,9,0,0,0,0,0,0,77,7,0,0,80,2,0,0
+7,,1,5,7,7,793,0.2,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,157,7,0,0,0,0,0,0,77,5,0,0,80,2,0,0
+7,,1,5,7,7,793,0.2,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,157,26,0,0,0,0,0,0,77,18,0,0,80,8,0,0
+7,,1,5,7,7,793,0.2,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,157,62,0,0,0,0,0,0,77,28,0,0,80,34,0,0
+7,,1,5,7,7,793,0.2,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,157,29,0,0,0,0,0,0,77,19,0,0,80,10,0,0
+7,,1,5,7,7,793,0.2,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,157,61,0,0,0,0,0,0,77,26,0,0,80,35,0,0
+7,,1,5,7,7,793,0.2,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,157,28,0,0,0,0,0,0,77,18,0,0,80,10,0,0
+7,,1,5,7,7,793,0.2,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,157,27,0,0,0,0,0,0,77,18,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,157,13,0,0,0,0,0,0,77,7,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,157,15,0,0,0,0,0,0,77,9,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,157,28,0,0,0,0,0,0,77,17,0,0,80,11,0,0
+7,,1,5,7,7,793,0.2,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,157,53,0,0,0,0,0,0,77,22,0,0,80,31,0,0
+7,,1,5,7,7,793,0.2,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,157,25,0,0,0,0,0,0,77,15,0,0,80,10,0,0
+7,,1,5,7,7,793,0.2,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,157,16,0,0,0,0,0,0,77,10,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,157,24,0,0,0,0,0,0,77,13,0,0,80,11,0,0
+7,,1,5,7,7,793,0.2,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,157,8,0,0,0,0,0,0,77,6,0,0,80,2,0,0
+7,,1,5,7,7,793,0.2,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,157,53,0,0,0,0,0,0,77,22,0,0,80,31,0,0
+7,,1,5,7,7,793,0.2,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,157,32,0,0,0,0,0,0,77,21,0,0,80,11,0,0
+7,,1,5,7,7,793,0.2,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,157,89,0,0,0,0,0,0,77,42,0,0,80,47,0,0
+7,,1,5,7,7,793,0.2,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,157,81,0,0,0,0,0,0,77,29,0,0,80,52,0,0
+7,,1,5,7,7,793,0.2,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,157,29,0,0,0,0,0,0,77,20,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,157,31,0,0,0,0,0,0,77,21,0,0,80,10,0,0
+7,,1,5,7,7,793,0.2,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,157,87,0,0,0,0,0,0,77,40,0,0,80,47,0,0
+7,,1,5,7,7,793,0.2,76,77,"County Commissioner, Precinct No. 3  REP",,1,1,Brian E. Smith,C,1,,157,30,0,0,0,0,0,0,77,21,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,77,78,"County Commissioner, Precinct No. 3  DEM",,1,1,C.E. (Cecil) Bourne,C,1,,157,33,0,0,0,0,0,0,77,16,0,0,80,17,0,0
+7,,1,5,7,7,793,0.2,77,78,"County Commissioner, Precinct No. 3  DEM",,1,2,Lon Gene Watson,C,2,,157,54,0,0,0,0,0,0,77,21,0,0,80,33,0,0
+7,,1,5,7,7,793,0.2,92,93,"Constable, Precinct No. 2  REP",,1,1,Mel Wolverton,C,1,,157,31,0,0,0,0,0,0,77,20,0,0,80,11,0,0
+7,,1,5,7,7,793,0.2,93,94,"Constable, Precinct No. 2  DEM",,1,1,Tashia N. Wilson,C,1,,157,61,0,0,0,0,0,0,77,22,0,0,80,39,0,0
+7,,1,5,7,7,793,0.2,93,94,"Constable, Precinct No. 2  DEM",,1,2,Mark Dews,C,2,,157,9,0,0,0,0,0,0,77,5,0,0,80,4,0,0
+7,,1,5,7,7,793,0.2,93,94,"Constable, Precinct No. 2  DEM",,1,3,"Charles ""Sawmillman"" Rogers",C,3,,157,12,0,0,0,0,0,0,77,8,0,0,80,4,0,0
+7,,1,5,7,7,793,0.2,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,157,30,0,0,0,0,0,0,77,21,0,0,80,9,0,0
+7,,1,5,7,7,793,0.2,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,157,79,0,0,0,0,0,0,77,32,0,0,80,47,0,0
+7,,1,5,7,7,793,0.2,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,157,36,0,0,0,0,0,0,77,22,0,0,80,14,0,0
+7,,1,5,7,7,793,0.2,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,157,5,0,0,0,0,0,0,77,4,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,157,42,0,0,0,0,0,0,77,26,0,0,80,16,0,0
+7,,1,5,7,7,793,0.2,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,157,0,0,0,0,0,0,0,77,0,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,157,40,0,0,0,0,0,0,77,25,0,0,80,15,0,0
+7,,1,5,7,7,793,0.2,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,157,3,0,0,0,0,0,0,77,2,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,157,40,0,0,0,0,0,0,77,25,0,0,80,15,0,0
+7,,1,5,7,7,793,0.2,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,157,1,0,0,0,0,0,0,77,1,0,0,80,0,0,0
+7,,1,5,7,7,793,0.2,104,103,Redistricting  REP,,1,1,Yes,C,1,,157,29,0,0,0,0,0,0,77,16,0,0,80,13,0,0
+7,,1,5,7,7,793,0.2,104,103,Redistricting  REP,,1,2,No,C,2,,157,10,0,0,0,0,0,0,77,9,0,0,80,1,0,0
+7,,1,5,7,7,793,0.2,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,157,75,0,0,0,0,0,0,77,31,0,0,80,44,0,0
+7,,1,5,7,7,793,0.2,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,157,14,0,0,0,0,0,0,77,9,0,0,80,5,0,0
+7,,1,5,7,7,793,0.2,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,157,73,0,0,0,0,0,0,77,33,0,0,80,40,0,0
+7,,1,5,7,7,793,0.2,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,157,10,0,0,0,0,0,0,77,4,0,0,80,6,0,0
+7,,1,5,7,7,793,0.2,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,157,57,0,0,0,0,0,0,77,30,0,0,80,27,0,0
+7,,1,5,7,7,793,0.2,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,157,27,0,0,0,0,0,0,77,7,0,0,80,20,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,3,Newt Gingrich,C,1,,228,5,0,0,0,0,0,0,112,1,0,0,116,4,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,8,Rick Santorum,C,2,,228,3,0,0,0,0,0,0,112,1,0,0,116,2,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,2,John Davis,C,3,,228,0,0,0,0,0,0,0,112,0,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,7,Mitt Romney,C,4,,228,67,0,0,0,0,0,0,112,26,0,0,116,41,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,228,1,0,0,0,0,0,0,112,0,0,0,116,1,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,1,Michele Bachmann,C,6,,228,0,0,0,0,0,0,0,112,0,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,4,Jon Huntsman,C,7,,228,0,0,0,0,0,0,0,112,0,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,5,Ron Paul,C,8,,228,14,0,0,0,0,0,0,112,8,0,0,116,6,0,0
+8,,1,5,8,8,737,0.31,111,6,President  REP,,1,9,Uncommitted,C,9,,228,4,0,0,0,0,0,0,112,1,0,0,116,3,0,0
+8,,1,5,8,8,737,0.31,112,7,President  DEM,,1,3,Barack Obama,C,1,,228,44,0,0,0,0,0,0,112,30,0,0,116,14,0,0
+8,,1,5,8,8,737,0.31,112,7,President  DEM,,1,2,Bob Ely,C,2,,228,15,0,0,0,0,0,0,112,8,0,0,116,7,0,0
+8,,1,5,8,8,737,0.31,112,7,President  DEM,,1,4,John Wolfe,C,3,,228,11,0,0,0,0,0,0,112,5,0,0,116,6,0,0
+8,,1,5,8,8,737,0.31,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,228,10,0,0,0,0,0,0,112,4,0,0,116,6,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,228,26,0,0,0,0,0,0,112,14,0,0,116,12,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,228,2,0,0,0,0,0,0,112,0,0,0,116,2,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,7,Craig James,C,3,,228,3,0,0,0,0,0,0,112,0,0,0,116,3,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,228,1,0,0,0,0,0,0,112,1,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,228,8,0,0,0,0,0,0,112,3,0,0,116,5,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,228,0,0,0,0,0,0,0,112,0,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,228,41,0,0,0,0,0,0,112,15,0,0,116,26,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,228,2,0,0,0,0,0,0,112,1,0,0,116,1,0,0
+8,,1,5,8,8,737,0.31,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,228,0,0,0,0,0,0,0,112,0,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,228,54,0,0,0,0,0,0,112,35,0,0,116,19,0,0
+8,,1,5,8,8,737,0.31,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,228,9,0,0,0,0,0,0,112,5,0,0,116,4,0,0
+8,,1,5,8,8,737,0.31,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,228,10,0,0,0,0,0,0,112,6,0,0,116,4,0,0
+8,,1,5,8,8,737,0.31,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,228,7,0,0,0,0,0,0,112,4,0,0,116,3,0,0
+8,,1,5,8,8,737,0.31,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,228,19,0,0,0,0,0,0,112,6,0,0,116,13,0,0
+8,,1,5,8,8,737,0.31,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,228,53,0,0,0,0,0,0,112,24,0,0,116,29,0,0
+8,,1,5,8,8,737,0.31,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,228,9,0,0,0,0,0,0,112,2,0,0,116,7,0,0
+8,,1,5,8,8,737,0.31,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,228,59,0,0,0,0,0,0,112,43,0,0,116,16,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,228,16,0,0,0,0,0,0,112,7,0,0,116,9,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,228,4,0,0,0,0,0,0,112,4,0,0,116,0,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,228,18,0,0,0,0,0,0,112,5,0,0,116,13,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,228,17,0,0,0,0,0,0,112,6,0,0,116,11,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,228,3,0,0,0,0,0,0,112,1,0,0,116,2,0,0
+8,,1,5,8,8,737,0.31,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,228,8,0,0,0,0,0,0,112,3,0,0,116,5,0,0
+8,,1,5,8,8,737,0.31,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,228,6,0,0,0,0,0,0,112,2,0,0,116,4,0,0
+8,,1,5,8,8,737,0.31,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,228,21,0,0,0,0,0,0,112,7,0,0,116,14,0,0
+8,,1,5,8,8,737,0.31,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,228,21,0,0,0,0,0,0,112,10,0,0,116,11,0,0
+8,,1,5,8,8,737,0.31,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,228,16,0,0,0,0,0,0,112,9,0,0,116,7,0,0
+8,,1,5,8,8,737,0.31,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,228,68,0,0,0,0,0,0,112,49,0,0,116,19,0,0
+8,,1,5,8,8,737,0.31,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,228,40,0,0,0,0,0,0,112,17,0,0,116,23,0,0
+8,,1,5,8,8,737,0.31,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,228,25,0,0,0,0,0,0,112,10,0,0,116,15,0,0
+8,,1,5,8,8,737,0.31,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,228,36,0,0,0,0,0,0,112,14,0,0,116,22,0,0
+8,,1,5,8,8,737,0.31,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,228,23,0,0,0,0,0,0,112,9,0,0,116,14,0,0
+8,,1,5,8,8,737,0.31,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,228,10,0,0,0,0,0,0,112,3,0,0,116,7,0,0
+8,,1,5,8,8,737,0.31,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,228,56,0,0,0,0,0,0,112,24,0,0,116,32,0,0
+8,,1,5,8,8,737,0.31,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,228,64,0,0,0,0,0,0,112,46,0,0,116,18,0,0
+8,,1,5,8,8,737,0.31,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,228,57,0,0,0,0,0,0,112,23,0,0,116,34,0,0
+8,,1,5,8,8,737,0.31,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,228,69,0,0,0,0,0,0,112,48,0,0,116,21,0,0
+8,,1,5,8,8,737,0.31,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,228,56,0,0,0,0,0,0,112,23,0,0,116,33,0,0
+8,,1,5,8,8,737,0.31,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,228,56,0,0,0,0,0,0,112,23,0,0,116,33,0,0
+8,,1,5,8,8,737,0.31,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,228,30,0,0,0,0,0,0,112,7,0,0,116,23,0,0
+8,,1,5,8,8,737,0.31,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,228,39,0,0,0,0,0,0,112,19,0,0,116,20,0,0
+8,,1,5,8,8,737,0.31,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,228,68,0,0,0,0,0,0,112,28,0,0,116,40,0,0
+8,,1,5,8,8,737,0.31,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,228,63,0,0,0,0,0,0,112,45,0,0,116,18,0,0
+8,,1,5,8,8,737,0.31,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,228,43,0,0,0,0,0,0,112,20,0,0,116,23,0,0
+8,,1,5,8,8,737,0.31,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,228,40,0,0,0,0,0,0,112,14,0,0,116,26,0,0
+8,,1,5,8,8,737,0.31,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,228,62,0,0,0,0,0,0,112,28,0,0,116,34,0,0
+8,,1,5,8,8,737,0.31,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,228,15,0,0,0,0,0,0,112,4,0,0,116,11,0,0
+8,,1,5,8,8,737,0.31,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,228,61,0,0,0,0,0,0,112,42,0,0,116,19,0,0
+8,,1,5,8,8,737,0.31,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,228,67,0,0,0,0,0,0,112,26,0,0,116,41,0,0
+8,,1,5,8,8,737,0.31,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,228,92,0,0,0,0,0,0,112,53,0,0,116,39,0,0
+8,,1,5,8,8,737,0.31,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,228,32,0,0,0,0,0,0,112,14,0,0,116,18,0,0
+8,,1,5,8,8,737,0.31,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,228,96,0,0,0,0,0,0,112,58,0,0,116,38,0,0
+8,,1,5,8,8,737,0.31,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,228,64,0,0,0,0,0,0,112,25,0,0,116,39,0,0
+8,,1,5,8,8,737,0.31,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,228,91,0,0,0,0,0,0,112,51,0,0,116,40,0,0
+8,,1,5,8,8,737,0.31,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,228,56,0,0,0,0,0,0,112,22,0,0,116,34,0,0
+8,,1,5,8,8,737,0.31,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,228,92,0,0,0,0,0,0,112,58,0,0,116,34,0,0
+8,,1,5,8,8,737,0.31,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,228,69,0,0,0,0,0,0,112,28,0,0,116,41,0,0
+8,,1,5,8,8,737,0.31,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,228,66,0,0,0,0,0,0,112,39,0,0,116,27,0,0
+8,,1,5,8,8,737,0.31,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,228,74,0,0,0,0,0,0,112,29,0,0,116,45,0,0
+8,,1,5,8,8,737,0.31,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,228,14,0,0,0,0,0,0,112,8,0,0,116,6,0,0
+8,,1,5,8,8,737,0.31,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,228,86,0,0,0,0,0,0,112,36,0,0,116,50,0,0
+8,,1,5,8,8,737,0.31,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,228,3,0,0,0,0,0,0,112,1,0,0,116,2,0,0
+8,,1,5,8,8,737,0.31,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,228,87,0,0,0,0,0,0,112,37,0,0,116,50,0,0
+8,,1,5,8,8,737,0.31,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,228,5,0,0,0,0,0,0,112,1,0,0,116,4,0,0
+8,,1,5,8,8,737,0.31,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,228,81,0,0,0,0,0,0,112,34,0,0,116,47,0,0
+8,,1,5,8,8,737,0.31,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,228,6,0,0,0,0,0,0,112,1,0,0,116,5,0,0
+8,,1,5,8,8,737,0.31,104,103,Redistricting  REP,,1,1,Yes,C,1,,228,59,0,0,0,0,0,0,112,24,0,0,116,35,0,0
+8,,1,5,8,8,737,0.31,104,103,Redistricting  REP,,1,2,No,C,2,,228,19,0,0,0,0,0,0,112,7,0,0,116,12,0,0
+8,,1,5,8,8,737,0.31,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,228,75,0,0,0,0,0,0,112,43,0,0,116,32,0,0
+8,,1,5,8,8,737,0.31,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,228,29,0,0,0,0,0,0,112,18,0,0,116,11,0,0
+8,,1,5,8,8,737,0.31,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,228,76,0,0,0,0,0,0,112,48,0,0,116,28,0,0
+8,,1,5,8,8,737,0.31,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,228,28,0,0,0,0,0,0,112,13,0,0,116,15,0,0
+8,,1,5,8,8,737,0.31,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,228,68,0,0,0,0,0,0,112,41,0,0,116,27,0,0
+8,,1,5,8,8,737,0.31,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,228,37,0,0,0,0,0,0,112,21,0,0,116,16,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,3,Newt Gingrich,C,1,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,8,Rick Santorum,C,2,,81,7,0,0,0,0,0,0,23,4,0,0,58,3,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,2,John Davis,C,3,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,7,Mitt Romney,C,4,,81,24,0,0,0,0,0,0,23,7,0,0,58,17,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,1,Michele Bachmann,C,6,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,4,Jon Huntsman,C,7,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,5,Ron Paul,C,8,,81,7,0,0,0,0,0,0,23,1,0,0,58,6,0,0
+9,,1,6,9,9,491,0.16,111,6,President  REP,,1,9,Uncommitted,C,9,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,112,7,President  DEM,,1,3,Barack Obama,C,1,,81,19,0,0,0,0,0,0,23,9,0,0,58,10,0,0
+9,,1,6,9,9,491,0.16,112,7,President  DEM,,1,2,Bob Ely,C,2,,81,2,0,0,0,0,0,0,23,0,0,0,58,2,0,0
+9,,1,6,9,9,491,0.16,112,7,President  DEM,,1,4,John Wolfe,C,3,,81,6,0,0,0,0,0,0,23,0,0,0,58,6,0,0
+9,,1,6,9,9,491,0.16,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,81,16,0,0,0,0,0,0,23,5,0,0,58,11,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,81,2,0,0,0,0,0,0,23,2,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,7,Craig James,C,3,,81,2,0,0,0,0,0,0,23,0,0,0,58,2,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,81,3,0,0,0,0,0,0,23,0,0,0,58,3,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,81,18,0,0,0,0,0,0,23,5,0,0,58,13,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,81,21,0,0,0,0,0,0,23,5,0,0,58,16,0,0
+9,,1,6,9,9,491,0.16,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,81,4,0,0,0,0,0,0,23,3,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,81,3,0,0,0,0,0,0,23,2,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,81,11,0,0,0,0,0,0,23,2,0,0,58,9,0,0
+9,,1,6,9,9,491,0.16,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,81,20,0,0,0,0,0,0,23,6,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,81,10,0,0,0,0,0,0,23,4,0,0,58,6,0,0
+9,,1,6,9,9,491,0.16,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,81,23,0,0,0,0,0,0,23,9,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,81,9,0,0,0,0,0,0,23,1,0,0,58,8,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,81,2,0,0,0,0,0,0,23,1,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,81,15,0,0,0,0,0,0,23,5,0,0,58,10,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,81,3,0,0,0,0,0,0,23,1,0,0,58,2,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,81,10,0,0,0,0,0,0,23,3,0,0,58,7,0,0
+9,,1,6,9,9,491,0.16,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,81,10,0,0,0,0,0,0,23,5,0,0,58,5,0,0
+9,,1,6,9,9,491,0.16,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,81,14,0,0,0,0,0,0,23,2,0,0,58,12,0,0
+9,,1,6,9,9,491,0.16,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,81,9,0,0,0,0,0,0,23,3,0,0,58,6,0,0
+9,,1,6,9,9,491,0.16,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,81,7,0,0,0,0,0,0,23,2,0,0,58,5,0,0
+9,,1,6,9,9,491,0.16,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,81,25,0,0,0,0,0,0,23,8,0,0,58,17,0,0
+9,,1,6,9,9,491,0.16,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,81,27,0,0,0,0,0,0,23,11,0,0,58,16,0,0
+9,,1,6,9,9,491,0.16,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,81,12,0,0,0,0,0,0,23,1,0,0,58,11,0,0
+9,,1,6,9,9,491,0.16,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,81,11,0,0,0,0,0,0,23,1,0,0,58,10,0,0
+9,,1,6,9,9,491,0.16,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,81,19,0,0,0,0,0,0,23,5,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,81,10,0,0,0,0,0,0,23,6,0,0,58,4,0,0
+9,,1,6,9,9,491,0.16,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,81,37,0,0,0,0,0,0,23,12,0,0,58,25,0,0
+9,,1,6,9,9,491,0.16,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,81,27,0,0,0,0,0,0,23,10,0,0,58,17,0,0
+9,,1,6,9,9,491,0.16,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,81,36,0,0,0,0,0,0,23,12,0,0,58,24,0,0
+9,,1,6,9,9,491,0.16,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,81,25,0,0,0,0,0,0,23,8,0,0,58,17,0,0
+9,,1,6,9,9,491,0.16,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,81,33,0,0,0,0,0,0,23,11,0,0,58,22,0,0
+9,,1,6,9,9,491,0.16,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,81,34,0,0,0,0,0,0,23,11,0,0,58,23,0,0
+9,,1,6,9,9,491,0.16,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,81,20,0,0,0,0,0,0,23,8,0,0,58,12,0,0
+9,,1,6,9,9,491,0.16,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,81,18,0,0,0,0,0,0,23,4,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,81,35,0,0,0,0,0,0,23,11,0,0,58,24,0,0
+9,,1,6,9,9,491,0.16,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,81,22,0,0,0,0,0,0,23,8,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,81,19,0,0,0,0,0,0,23,8,0,0,58,11,0,0
+9,,1,6,9,9,491,0.16,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,81,21,0,0,0,0,0,0,23,4,0,0,58,17,0,0
+9,,1,6,9,9,491,0.16,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,81,27,0,0,0,0,0,0,23,7,0,0,58,20,0,0
+9,,1,6,9,9,491,0.16,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,81,12,0,0,0,0,0,0,23,5,0,0,58,7,0,0
+9,,1,6,9,9,491,0.16,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,81,20,0,0,0,0,0,0,23,5,0,0,58,15,0,0
+9,,1,6,9,9,491,0.16,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,81,35,0,0,0,0,0,0,23,11,0,0,58,24,0,0
+9,,1,6,9,9,491,0.16,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,81,30,0,0,0,0,0,0,23,10,0,0,58,20,0,0
+9,,1,6,9,9,491,0.16,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,81,14,0,0,0,0,0,0,23,6,0,0,58,8,0,0
+9,,1,6,9,9,491,0.16,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,81,25,0,0,0,0,0,0,23,5,0,0,58,20,0,0
+9,,1,6,9,9,491,0.16,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,81,35,0,0,0,0,0,0,23,11,0,0,58,24,0,0
+9,,1,6,9,9,491,0.16,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,81,28,0,0,0,0,0,0,23,10,0,0,58,18,0,0
+9,,1,6,9,9,491,0.16,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,81,35,0,0,0,0,0,0,23,11,0,0,58,24,0,0
+9,,1,6,9,9,491,0.16,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,81,30,0,0,0,0,0,0,23,7,0,0,58,23,0,0
+9,,1,6,9,9,491,0.16,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,81,33,0,0,0,0,0,0,23,11,0,0,58,22,0,0
+9,,1,6,9,9,491,0.16,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,81,23,0,0,0,0,0,0,23,9,0,0,58,14,0,0
+9,,1,6,9,9,491,0.16,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,81,37,0,0,0,0,0,0,23,12,0,0,58,25,0,0
+9,,1,6,9,9,491,0.16,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,81,4,0,0,0,0,0,0,23,0,0,0,58,4,0,0
+9,,1,6,9,9,491,0.16,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,81,40,0,0,0,0,0,0,23,12,0,0,58,28,0,0
+9,,1,6,9,9,491,0.16,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,81,41,0,0,0,0,0,0,23,12,0,0,58,29,0,0
+9,,1,6,9,9,491,0.16,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,81,0,0,0,0,0,0,0,23,0,0,0,58,0,0,0
+9,,1,6,9,9,491,0.16,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,81,40,0,0,0,0,0,0,23,12,0,0,58,28,0,0
+9,,1,6,9,9,491,0.16,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,81,1,0,0,0,0,0,0,23,0,0,0,58,1,0,0
+9,,1,6,9,9,491,0.16,104,103,Redistricting  REP,,1,1,Yes,C,1,,81,30,0,0,0,0,0,0,23,9,0,0,58,21,0,0
+9,,1,6,9,9,491,0.16,104,103,Redistricting  REP,,1,2,No,C,2,,81,11,0,0,0,0,0,0,23,3,0,0,58,8,0,0
+9,,1,6,9,9,491,0.16,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,81,16,0,0,0,0,0,0,23,7,0,0,58,9,0,0
+9,,1,6,9,9,491,0.16,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,81,9,0,0,0,0,0,0,23,2,0,0,58,7,0,0
+9,,1,6,9,9,491,0.16,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,81,18,0,0,0,0,0,0,23,8,0,0,58,10,0,0
+9,,1,6,9,9,491,0.16,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,81,7,0,0,0,0,0,0,23,1,0,0,58,6,0,0
+9,,1,6,9,9,491,0.16,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,81,13,0,0,0,0,0,0,23,3,0,0,58,10,0,0
+9,,1,6,9,9,491,0.16,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,81,11,0,0,0,0,0,0,23,6,0,0,58,5,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,3,Newt Gingrich,C,1,,61,1,0,0,0,0,0,0,8,0,0,0,53,1,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,8,Rick Santorum,C,2,,61,4,0,0,0,0,0,0,8,2,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,2,John Davis,C,3,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,7,Mitt Romney,C,4,,61,23,0,0,0,0,0,0,8,4,0,0,53,19,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,6,"Charles ""Buddy"" Roemer",C,5,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,1,Michele Bachmann,C,6,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,4,Jon Huntsman,C,7,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,5,Ron Paul,C,8,,61,6,0,0,0,0,0,0,8,2,0,0,53,4,0,0
+10,,1,4,10,10,458,0.13,111,6,President  REP,,1,9,Uncommitted,C,9,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,112,7,President  DEM,,1,3,Barack Obama,C,1,,61,16,0,0,0,0,0,0,8,0,0,0,53,16,0,0
+10,,1,4,10,10,458,0.13,112,7,President  DEM,,1,2,Bob Ely,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,112,7,President  DEM,,1,4,John Wolfe,C,3,,61,3,0,0,0,0,0,0,8,0,0,0,53,3,0,0
+10,,1,4,10,10,458,0.13,112,7,President  DEM,,1,1,Darcy G. Richardson,C,4,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,4,Ted Cruz,C,1,,61,22,0,0,0,0,0,0,8,3,0,0,53,19,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,1,Glenn Addison,C,2,,61,2,0,0,0,0,0,0,8,2,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,7,Craig James,C,3,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,9,Lela Pittenger,C,4,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,8,Tom Leppert,C,5,,61,4,0,0,0,0,0,0,8,1,0,0,53,3,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,3,Curt Cleaver,C,6,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,5,David Dewhurst,C,7,,61,11,0,0,0,0,0,0,8,2,0,0,53,9,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,2,Joe Agris,C,8,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,4,8,United States Senator  REP,,1,6,Ben Gambini,C,9,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,5,9,United States Senator  DEM,,1,3,Paul Sadler,C,1,,61,12,0,0,0,0,0,0,8,0,0,0,53,12,0,0
+10,,1,4,10,10,458,0.13,5,9,United States Senator  DEM,,1,1,Sean Hubbard,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,5,9,United States Senator  DEM,,1,4,Grady Yarbrough,C,3,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,5,9,United States Senator  DEM,,1,2,Addie Dainell Allen,C,4,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,6,10,"United States Representative, District 4  REP",,1,1,Steve Clark,C,1,,61,8,0,0,0,0,0,0,8,3,0,0,53,5,0,0
+10,,1,4,10,10,458,0.13,6,10,"United States Representative, District 4  REP",,1,2,Ralph M. Hall,C,2,,61,16,0,0,0,0,0,0,8,3,0,0,53,13,0,0
+10,,1,4,10,10,458,0.13,6,10,"United States Representative, District 4  REP",,1,3,Lou Gigliotti,C,3,,61,13,0,0,0,0,0,0,8,2,0,0,53,11,0,0
+10,,1,4,10,10,458,0.13,7,11,"United States Representative, District 4  DEM",,1,1,VaLinda Hathcox,C,1,,61,14,0,0,0,0,0,0,8,0,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,4,Joe Cotten,C,1,,61,9,0,0,0,0,0,0,8,4,0,0,53,5,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,6,Roland Sledge,C,2,,61,4,0,0,0,0,0,0,8,0,0,0,53,4,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,5,Christi Craddick,C,3,,61,9,0,0,0,0,0,0,8,2,0,0,53,7,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,1,Becky Berger,C,4,,61,5,0,0,0,0,0,0,8,0,0,0,53,5,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,2,Beryl Burgess,C,5,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,10,14,Railroad Commissioner  REP,,1,3,Warren Chisum,C,6,,61,8,0,0,0,0,0,0,8,1,0,0,53,7,0,0
+10,,1,4,10,10,458,0.13,98,15,Railroad Commissioner Unexpired Term  Rep,,1,1,Al Lee,C,1,REP,61,3,0,0,0,0,0,0,8,1,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,98,15,Railroad Commissioner Unexpired Term  Rep,,1,3,Greg Parker,C,2,REP,61,18,0,0,0,0,0,0,8,4,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,98,15,Railroad Commissioner Unexpired Term  Rep,,1,2,Elizabeth Murray-Kolb,C,3,REP,61,9,0,0,0,0,0,0,8,1,0,0,53,8,0,0
+10,,1,4,10,10,458,0.13,98,15,Railroad Commissioner Unexpired Term  Rep,,1,4,Barry Smitherman,C,4,REP,61,4,0,0,0,0,0,0,8,0,0,0,53,4,0,0
+10,,1,4,10,10,458,0.13,11,16,Railroad Commissioner  DEM,,1,1,Dale Henry,C,1,,61,17,0,0,0,0,0,0,8,0,0,0,53,17,0,0
+10,,1,4,10,10,458,0.13,12,17,"Justice, Supreme Court, Place 2  REP",,1,2,Don Willett,C,1,,61,17,0,0,0,0,0,0,8,2,0,0,53,15,0,0
+10,,1,4,10,10,458,0.13,12,17,"Justice, Supreme Court, Place 2  REP",,1,1,Steve Smith,C,2,,61,17,0,0,0,0,0,0,8,5,0,0,53,12,0,0
+10,,1,4,10,10,458,0.13,14,19,"Justice, Supreme Court, Place 4  REP",,1,2,David Medina,C,1,,61,10,0,0,0,0,0,0,8,2,0,0,53,8,0,0
+10,,1,4,10,10,458,0.13,14,19,"Justice, Supreme Court, Place 4  REP",,1,3,"Joe Pool, Jr.",C,2,,61,13,0,0,0,0,0,0,8,5,0,0,53,8,0,0
+10,,1,4,10,10,458,0.13,14,19,"Justice, Supreme Court, Place 4  REP",,1,1,John Devine,C,3,,61,12,0,0,0,0,0,0,8,0,0,0,53,12,0,0
+10,,1,4,10,10,458,0.13,16,21,"Justice, Supreme Court, Place 6  REP",,1,1,Nathan Hecht,C,1,,61,33,0,0,0,0,0,0,8,6,0,0,53,27,0,0
+10,,1,4,10,10,458,0.13,17,22,"Justice, Supreme Court, Place 6  DEM",,1,1,Michele Petty,C,1,,61,16,0,0,0,0,0,0,8,0,0,0,53,16,0,0
+10,,1,4,10,10,458,0.13,18,23,"Presiding Judge, Court of Criminal Appeals  REP",,1,1,Sharon Keller,C,1,,61,33,0,0,0,0,0,0,8,6,0,0,53,27,0,0
+10,,1,4,10,10,458,0.13,19,24,"Presiding Judge, Court of Criminal Appeals  DEM",,1,1,Keith Hampton,C,1,,61,17,0,0,0,0,0,0,8,0,0,0,53,17,0,0
+10,,1,4,10,10,458,0.13,20,25,"Judge, Court of Criminal Appeals, Place 7  REP",,1,1,Barbara Parker Hervey,C,1,,61,34,0,0,0,0,0,0,8,7,0,0,53,27,0,0
+10,,1,4,10,10,458,0.13,22,27,"Judge, Court of Criminal Appeals, Place 8  REP",,1,1,Elsa Alcala,C,1,,61,34,0,0,0,0,0,0,8,6,0,0,53,28,0,0
+10,,1,4,10,10,458,0.13,24,29,"Member, State Board of Education, District 9  REP",,1,1,Randy Stevenson,C,1,,61,15,0,0,0,0,0,0,8,4,0,0,53,11,0,0
+10,,1,4,10,10,458,0.13,24,29,"Member, State Board of Education, District 9  REP",,1,2,Thomas Ratliff,C,2,,61,18,0,0,0,0,0,0,8,2,0,0,53,16,0,0
+10,,1,4,10,10,458,0.13,28,33,"State Senator, District 1  REP",,1,1,Kevin P. Eltife,C,1,,61,34,0,0,0,0,0,0,8,6,0,0,53,28,0,0
+10,,1,4,10,10,458,0.13,29,34,"State Senator, District 1  DEM",,1,1,Stephen H. Russell,C,1,,61,12,0,0,0,0,0,0,8,0,0,0,53,12,0,0
+10,,1,4,10,10,458,0.13,32,37,"State Representative, District 9  REP",,1,1,Wayne Christian,C,1,,61,22,0,0,0,0,0,0,8,6,0,0,53,16,0,0
+10,,1,4,10,10,458,0.13,32,37,"State Representative, District 9  REP",,1,2,Chris Paddie,C,2,,61,13,0,0,0,0,0,0,8,1,0,0,53,12,0,0
+10,,1,4,10,10,458,0.13,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,1,Bailey C. Mosley,C,1,,61,20,0,0,0,0,0,0,8,6,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,38,43,"Justice, 6th Court of Appeals District, Place 2  REP",,1,2,H.D. Bailey,C,2,,61,16,0,0,0,0,0,0,8,1,0,0,53,15,0,0
+10,,1,4,10,10,458,0.13,39,44,"Justice, 6th Court of Appeals District, Place 2  DEM",,1,1,Frank L. Supercinski,C,1,,61,15,0,0,0,0,0,0,8,0,0,0,53,15,0,0
+10,,1,4,10,10,458,0.13,60,61,County Attorney  REP,,1,1,"Angela ""Angie"" Smoak",C,1,,61,35,0,0,0,0,0,0,8,6,0,0,53,29,0,0
+10,,1,4,10,10,458,0.13,61,62,County Attorney  DEM,,1,1,James P. Finstrom,C,1,,61,14,0,0,0,0,0,0,8,0,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,69,70,Sheriff  DEM,,1,1,Tommy Beckham,C,1,,61,11,0,0,0,0,0,0,8,0,0,0,53,11,0,0
+10,,1,4,10,10,458,0.13,69,70,Sheriff  DEM,,1,2,David McKnight,C,2,,61,8,0,0,0,0,0,0,8,0,0,0,53,8,0,0
+10,,1,4,10,10,458,0.13,70,71,Tax Assessor-Collector  REP,,1,1,Ginger Womack,C,1,,61,33,0,0,0,0,0,0,8,6,0,0,53,27,0,0
+10,,1,4,10,10,458,0.13,71,72,Tax Assessor Collector  DEM,,1,1,Karen Jones,C,1,,61,16,0,0,0,0,0,0,8,0,0,0,53,16,0,0
+10,,1,4,10,10,458,0.13,90,91,"Constable, Precinct No. 1  REP",,1,1,Stephen Thomas,C,1,,61,33,0,0,0,0,0,0,8,7,0,0,53,26,0,0
+10,,1,4,10,10,458,0.13,91,92,"Constable, Precinct No. 1  DEM",,1,1,Jerry Dreesen,C,1,,61,14,0,0,0,0,0,0,8,0,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,94,95,County Chairman  REP,,1,1,Ken Tomlinson,C,1,,61,33,0,0,0,0,0,0,8,6,0,0,53,27,0,0
+10,,1,4,10,10,458,0.13,95,96,County Chairman  DEM,,1,1,Ricky Harrington,C,1,,61,17,0,0,0,0,0,0,8,0,0,0,53,17,0,0
+10,,1,4,10,10,458,0.13,100,99,SCHOOL CHOICE:  REP,,1,1,Yes,C,1,,61,36,0,0,0,0,0,0,8,8,0,0,53,28,0,0
+10,,1,4,10,10,458,0.13,100,99,SCHOOL CHOICE:  REP,,1,2,No,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,101,100,REPEALING OBAMACARE:  REP,,1,1,Yes,C,1,,61,38,0,0,0,0,0,0,8,8,0,0,53,30,0,0
+10,,1,4,10,10,458,0.13,101,100,REPEALING OBAMACARE:  REP,,1,2,No,C,2,,61,0,0,0,0,0,0,0,8,0,0,0,53,0,0,0
+10,,1,4,10,10,458,0.13,102,101,PUBLIC PRAYER  REP,,1,1,Yes,C,1,,61,36,0,0,0,0,0,0,8,8,0,0,53,28,0,0
+10,,1,4,10,10,458,0.13,102,101,PUBLIC PRAYER  REP,,1,2,No,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,1,Yes,C,1,,61,36,0,0,0,0,0,0,8,8,0,0,53,28,0,0
+10,,1,4,10,10,458,0.13,103,102,BALANCED BUDGET / CONTROLLING GOVERNMENT GROWTH  REP,,1,2,No,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,104,103,Redistricting  REP,,1,1,Yes,C,1,,61,28,0,0,0,0,0,0,8,6,0,0,53,22,0,0
+10,,1,4,10,10,458,0.13,104,103,Redistricting  REP,,1,2,No,C,2,,61,8,0,0,0,0,0,0,8,2,0,0,53,6,0,0
+10,,1,4,10,10,458,0.13,105,104,PROPOSITION 1  DEM,,1,1,For,C,1,,61,14,0,0,0,0,0,0,8,0,0,0,53,14,0,0
+10,,1,4,10,10,458,0.13,105,104,PROPOSITION 1  DEM,,1,2,Against,C,2,,61,5,0,0,0,0,0,0,8,0,0,0,53,5,0,0
+10,,1,4,10,10,458,0.13,106,105,PROPOSITION 2  DEM,,1,1,For,C,1,,61,18,0,0,0,0,0,0,8,0,0,0,53,18,0,0
+10,,1,4,10,10,458,0.13,106,105,PROPOSITION 2  DEM,,1,2,Against,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
+10,,1,4,10,10,458,0.13,107,106,PROPOSITION 3  DEM,,1,1,For,C,1,,61,17,0,0,0,0,0,0,8,0,0,0,53,17,0,0
+10,,1,4,10,10,458,0.13,107,106,PROPOSITION 3  DEM,,1,2,Against,C,2,,61,2,0,0,0,0,0,0,8,0,0,0,53,2,0,0
