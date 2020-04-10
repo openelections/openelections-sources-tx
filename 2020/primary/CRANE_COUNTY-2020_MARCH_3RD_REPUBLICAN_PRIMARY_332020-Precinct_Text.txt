@@ -1,0 +1,596 @@
+00010010001000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 1                                             00 
+00010010002000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 2                                             00 
+00010010003000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 3                                             00 
+00010010004000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 4                                             00 
+00020010001000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 1                                             00 
+00020010002000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 2                                             00 
+00020010003000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 3                                             00 
+00020010004000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 4                                             00 
+00030010001000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 1                                             00 
+00030010002000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 2                                             00 
+00030010003000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 3                                             00 
+00030010004000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 4                                             00 
+00040010001000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 1                                             00 
+00040010002000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 2                                             00 
+00040010003000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 3                                             00 
+00040010004000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 4                                             00 
+00050010001000275          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 1                                             00 
+00050010002000177          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 2                                             00 
+00050010003000127          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 3                                             00 
+00050010004000110          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 4                                             00 
+00060010001000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 1                                             00 
+00060010002000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 2                                             00 
+00060010003000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 3                                             00 
+00060010004000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 4                                             00 
+00070010001000266REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 1                                             00 
+00070010002000151REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 2                                             00 
+00070010003000101REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 3                                             00 
+00070010004000096REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 4                                             00 
+00080010001000009DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 1                                             00 
+00080010002000026DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 2                                             00 
+00080010003000026DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 3                                             00 
+00080010004000014DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 4                                             00 
+00090010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 1                                             00 
+00090010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 2                                             00 
+00090010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 3                                             00 
+00090010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 4                                             00 
+00100010001000245REP       REP President                                           Donald J. Trump                       Precinct 1                                             01 
+00100010002000144REP       REP President                                           Donald J. Trump                       Precinct 2                                             01 
+00100010003000088REP       REP President                                           Donald J. Trump                       Precinct 3                                             01 
+00100010004000094REP       REP President                                           Donald J. Trump                       Precinct 4                                             01 
+00100020001000000REP       REP President                                           Bob Ely                               Precinct 1                                             01 
+00100020002000000REP       REP President                                           Bob Ely                               Precinct 2                                             01 
+00100020003000000REP       REP President                                           Bob Ely                               Precinct 3                                             01 
+00100020004000000REP       REP President                                           Bob Ely                               Precinct 4                                             01 
+00100030001000001REP       REP President                                           Roque Rocky DeLa Fuente Guerra        Precinct 1                                             01 
+00100030002000000REP       REP President                                           Roque Rocky DeLa Fuente Guerra        Precinct 2                                             01 
+00100030003000002REP       REP President                                           Roque Rocky DeLa Fuente Guerra        Precinct 3                                             01 
+00100030004000001REP       REP President                                           Roque Rocky DeLa Fuente Guerra        Precinct 4                                             01 
+00100040001000001REP       REP President                                           Joe Walsh                             Precinct 1                                             01 
+00100040002000000REP       REP President                                           Joe Walsh                             Precinct 2                                             01 
+00100040003000000REP       REP President                                           Joe Walsh                             Precinct 3                                             01 
+00100040004000000REP       REP President                                           Joe Walsh                             Precinct 4                                             01 
+00100050001000000REP       REP President                                           Bill Weld                             Precinct 1                                             01 
+00100050002000000REP       REP President                                           Bill Weld                             Precinct 2                                             01 
+00100050003000001REP       REP President                                           Bill Weld                             Precinct 3                                             01 
+00100050004000000REP       REP President                                           Bill Weld                             Precinct 4                                             01 
+00100060001000001REP       REP President                                           Matthew John Matern                   Precinct 1                                             01 
+00100060002000000REP       REP President                                           Matthew John Matern                   Precinct 2                                             01 
+00100060003000001REP       REP President                                           Matthew John Matern                   Precinct 3                                             01 
+00100060004000000REP       REP President                                           Matthew John Matern                   Precinct 4                                             01 
+00100070001000000REP       REP President                                           Zoltan G. Istvan                      Precinct 1                                             01 
+00100070002000002REP       REP President                                           Zoltan G. Istvan                      Precinct 2                                             01 
+00100070003000001REP       REP President                                           Zoltan G. Istvan                      Precinct 3                                             01 
+00100070004000000REP       REP President                                           Zoltan G. Istvan                      Precinct 4                                             01 
+00100080001000015REP       REP President                                           Uncommitted                           Precinct 1                                             01 
+00100080002000002REP       REP President                                           Uncommitted                           Precinct 2                                             01 
+00100080003000005REP       REP President                                           Uncommitted                           Precinct 3                                             01 
+00100080004000001REP       REP President                                           Uncommitted                           Precinct 4                                             01 
+00110010001000011REP       REP US Senator                                          Virgil Bierschwale                    Precinct 1                                             01 
+00110010002000005REP       REP US Senator                                          Virgil Bierschwale                    Precinct 2                                             01 
+00110010003000005REP       REP US Senator                                          Virgil Bierschwale                    Precinct 3                                             01 
+00110010004000003REP       REP US Senator                                          Virgil Bierschwale                    Precinct 4                                             01 
+00110020001000031REP       REP US Senator                                          John Anthony Castro                   Precinct 1                                             01 
+00110020002000010REP       REP US Senator                                          John Anthony Castro                   Precinct 2                                             01 
+00110020003000027REP       REP US Senator                                          John Anthony Castro                   Precinct 3                                             01 
+00110020004000008REP       REP US Senator                                          John Anthony Castro                   Precinct 4                                             01 
+00110030001000025REP       REP US Senator                                          Mark Yancey                           Precinct 1                                             01 
+00110030002000011REP       REP US Senator                                          Mark Yancey                           Precinct 2                                             01 
+00110030003000008REP       REP US Senator                                          Mark Yancey                           Precinct 3                                             01 
+00110030004000009REP       REP US Senator                                          Mark Yancey                           Precinct 4                                             01 
+00110040001000163REP       REP US Senator                                          John Cornyn                           Precinct 1                                             01 
+00110040002000102REP       REP US Senator                                          John Cornyn                           Precinct 2                                             01 
+00110040003000041REP       REP US Senator                                          John Cornyn                           Precinct 3                                             01 
+00110040004000068REP       REP US Senator                                          John Cornyn                           Precinct 4                                             01 
+00110050001000022REP       REP US Senator                                          Dwayne Stovall                        Precinct 1                                             01 
+00110050002000017REP       REP US Senator                                          Dwayne Stovall                        Precinct 2                                             01 
+00110050003000010REP       REP US Senator                                          Dwayne Stovall                        Precinct 3                                             01 
+00110050004000005REP       REP US Senator                                          Dwayne Stovall                        Precinct 4                                             01 
+00120010001000062REP       REP US Representative, Dist 23                          Jeff McFarlin                         Precinct 1                                             01 
+00120010002000041REP       REP US Representative, Dist 23                          Jeff McFarlin                         Precinct 2                                             01 
+00120010003000027REP       REP US Representative, Dist 23                          Jeff McFarlin                         Precinct 3                                             01 
+00120010004000031REP       REP US Representative, Dist 23                          Jeff McFarlin                         Precinct 4                                             01 
+00120020001000005REP       REP US Representative, Dist 23                          Darwin Boedeker                       Precinct 1                                             01 
+00120020002000002REP       REP US Representative, Dist 23                          Darwin Boedeker                       Precinct 2                                             01 
+00120020003000006REP       REP US Representative, Dist 23                          Darwin Boedeker                       Precinct 3                                             01 
+00120020004000006REP       REP US Representative, Dist 23                          Darwin Boedeker                       Precinct 4                                             01 
+00120030001000015REP       REP US Representative, Dist 23                          Sharon Breckenridge Thomas            Precinct 1                                             01 
+00120030002000009REP       REP US Representative, Dist 23                          Sharon Breckenridge Thomas            Precinct 2                                             01 
+00120030003000001REP       REP US Representative, Dist 23                          Sharon Breckenridge Thomas            Precinct 3                                             01 
+00120030004000002REP       REP US Representative, Dist 23                          Sharon Breckenridge Thomas            Precinct 4                                             01 
+00120040001000002REP       REP US Representative, Dist 23                          Alía Ureste                           Precinct 1                                             01 
+00120040002000004REP       REP US Representative, Dist 23                          Alía Ureste                           Precinct 2                                             01 
+00120040003000001REP       REP US Representative, Dist 23                          Alía Ureste                           Precinct 3                                             01 
+00120040004000000REP       REP US Representative, Dist 23                          Alía Ureste                           Precinct 4                                             01 
+00120050001000077REP       REP US Representative, Dist 23                          Tony Gonzales                         Precinct 1                                             01 
+00120050002000048REP       REP US Representative, Dist 23                          Tony Gonzales                         Precinct 2                                             01 
+00120050003000024REP       REP US Representative, Dist 23                          Tony Gonzales                         Precinct 3                                             01 
+00120050004000033REP       REP US Representative, Dist 23                          Tony Gonzales                         Precinct 4                                             01 
+00120060001000055REP       REP US Representative, Dist 23                          Alma Arredondo-Lynch                  Precinct 1                                             01 
+00120060002000021REP       REP US Representative, Dist 23                          Alma Arredondo-Lynch                  Precinct 2                                             01 
+00120060003000022REP       REP US Representative, Dist 23                          Alma Arredondo-Lynch                  Precinct 3                                             01 
+00120060004000009REP       REP US Representative, Dist 23                          Alma Arredondo-Lynch                  Precinct 4                                             01 
+00120070001000007REP       REP US Representative, Dist 23                          Cecil B. "Burt" Jones                 Precinct 1                                             01 
+00120070002000004REP       REP US Representative, Dist 23                          Cecil B. "Burt" Jones                 Precinct 2                                             01 
+00120070003000006REP       REP US Representative, Dist 23                          Cecil B. "Burt" Jones                 Precinct 3                                             01 
+00120070004000005REP       REP US Representative, Dist 23                          Cecil B. "Burt" Jones                 Precinct 4                                             01 
+00120080001000014REP       REP US Representative, Dist 23                          Raul Reyes                            Precinct 1                                             01 
+00120080002000007REP       REP US Representative, Dist 23                          Raul Reyes                            Precinct 2                                             01 
+00120080003000005REP       REP US Representative, Dist 23                          Raul Reyes                            Precinct 3                                             01 
+00120080004000004REP       REP US Representative, Dist 23                          Raul Reyes                            Precinct 4                                             01 
+00120090001000010REP       REP US Representative, Dist 23                          Ben Van Winkle                        Precinct 1                                             01 
+00120090002000006REP       REP US Representative, Dist 23                          Ben Van Winkle                        Precinct 2                                             01 
+00120090003000003REP       REP US Representative, Dist 23                          Ben Van Winkle                        Precinct 3                                             01 
+00120090004000002REP       REP US Representative, Dist 23                          Ben Van Winkle                        Precinct 4                                             01 
+00130010001000188REP       REP Railroad Commissioner                               James "Jim" Wright                    Precinct 1                                             01 
+00130010002000098REP       REP Railroad Commissioner                               James "Jim" Wright                    Precinct 2                                             01 
+00130010003000071REP       REP Railroad Commissioner                               James "Jim" Wright                    Precinct 3                                             01 
+00130010004000075REP       REP Railroad Commissioner                               James "Jim" Wright                    Precinct 4                                             01 
+00130020001000051REP       REP Railroad Commissioner                               Ryan Sitton                           Precinct 1                                             01 
+00130020002000037REP       REP Railroad Commissioner                               Ryan Sitton                           Precinct 2                                             01 
+00130020003000019REP       REP Railroad Commissioner                               Ryan Sitton                           Precinct 3                                             01 
+00130020004000015REP       REP Railroad Commissioner                               Ryan Sitton                           Precinct 4                                             01 
+00140010001000233REP       REP Chief Justice, Supreme Court                        Nathan Hecht                          Precinct 1                                             01 
+00140010002000130REP       REP Chief Justice, Supreme Court                        Nathan Hecht                          Precinct 2                                             01 
+00140010003000087REP       REP Chief Justice, Supreme Court                        Nathan Hecht                          Precinct 3                                             01 
+00140010004000087REP       REP Chief Justice, Supreme Court                        Nathan Hecht                          Precinct 4                                             01 
+00150010001000235REP       REP Justice, Supreme Court, Pl 6                        Jane Bland                            Precinct 1                                             01 
+00150010002000131REP       REP Justice, Supreme Court, Pl 6                        Jane Bland                            Precinct 2                                             01 
+00150010003000086REP       REP Justice, Supreme Court, Pl 6                        Jane Bland                            Precinct 3                                             01 
+00150010004000089REP       REP Justice, Supreme Court, Pl 6                        Jane Bland                            Precinct 4                                             01 
+00160010001000236REP       REP Justice, Supreme Court, Pl 7                        Jeff Boyd                             Precinct 1                                             01 
+00160010002000130REP       REP Justice, Supreme Court, Pl 7                        Jeff Boyd                             Precinct 2                                             01 
+00160010003000088REP       REP Justice, Supreme Court, Pl 7                        Jeff Boyd                             Precinct 3                                             01 
+00160010004000090REP       REP Justice, Supreme Court, Pl 7                        Jeff Boyd                             Precinct 4                                             01 
+00170010001000234REP       REP Justice, Supreme Court, Pl 8                        Brett Busby                           Precinct 1                                             01 
+00170010002000131REP       REP Justice, Supreme Court, Pl 8                        Brett Busby                           Precinct 2                                             01 
+00170010003000085REP       REP Justice, Supreme Court, Pl 8                        Brett Busby                           Precinct 3                                             01 
+00170010004000089REP       REP Justice, Supreme Court, Pl 8                        Brett Busby                           Precinct 4                                             01 
+00180010001000155REP       REP Judge, Ct of Crim App, Pl 3                         Bert Richardson                       Precinct 1                                             01 
+00180010002000090REP       REP Judge, Ct of Crim App, Pl 3                         Bert Richardson                       Precinct 2                                             01 
+00180010003000057REP       REP Judge, Ct of Crim App, Pl 3                         Bert Richardson                       Precinct 3                                             01 
+00180010004000055REP       REP Judge, Ct of Crim App, Pl 3                         Bert Richardson                       Precinct 4                                             01 
+00180020001000084REP       REP Judge, Ct of Crim App, Pl 3                         Gina Parker                           Precinct 1                                             01 
+00180020002000047REP       REP Judge, Ct of Crim App, Pl 3                         Gina Parker                           Precinct 2                                             01 
+00180020003000029REP       REP Judge, Ct of Crim App, Pl 3                         Gina Parker                           Precinct 3                                             01 
+00180020004000035REP       REP Judge, Ct of Crim App, Pl 3                         Gina Parker                           Precinct 4                                             01 
+00190010001000236REP       REP Judge, Ct of Crim App, Pl 4                         Kevin Patrick Yeary                   Precinct 1                                             01 
+00190010002000131REP       REP Judge, Ct of Crim App, Pl 4                         Kevin Patrick Yeary                   Precinct 2                                             01 
+00190010003000085REP       REP Judge, Ct of Crim App, Pl 4                         Kevin Patrick Yeary                   Precinct 3                                             01 
+00190010004000088REP       REP Judge, Ct of Crim App, Pl 4                         Kevin Patrick Yeary                   Precinct 4                                             01 
+00200010001000234REP       REP Judge, Ct of Crim App, Pl 9                         David Newell                          Precinct 1                                             01 
+00200010002000130REP       REP Judge, Ct of Crim App, Pl 9                         David Newell                          Precinct 2                                             01 
+00200010003000086REP       REP Judge, Ct of Crim App, Pl 9                         David Newell                          Precinct 3                                             01 
+00200010004000089REP       REP Judge, Ct of Crim App, Pl 9                         David Newell                          Precinct 4                                             01 
+00210010001000240REP       REP Member, State BoE, Dist 1                           Jennifer Ivey                         Precinct 1                                             01 
+00210010002000128REP       REP Member, State BoE, Dist 1                           Jennifer Ivey                         Precinct 2                                             01 
+00210010003000086REP       REP Member, State BoE, Dist 1                           Jennifer Ivey                         Precinct 3                                             01 
+00210010004000088REP       REP Member, State BoE, Dist 1                           Jennifer Ivey                         Precinct 4                                             01 
+00220010001000236REP       REP State Senator, Dist 28                              Charles Perry                         Precinct 1                                             01 
+00220010002000133REP       REP State Senator, Dist 28                              Charles Perry                         Precinct 2                                             01 
+00220010003000088REP       REP State Senator, Dist 28                              Charles Perry                         Precinct 3                                             01 
+00220010004000090REP       REP State Senator, Dist 28                              Charles Perry                         Precinct 4                                             01 
+00230010001000244REP       REP State Representative, Dist 82                       Tom Craddick                          Precinct 1                                             01 
+00230010002000139REP       REP State Representative, Dist 82                       Tom Craddick                          Precinct 2                                             01 
+00230010003000089REP       REP State Representative, Dist 82                       Tom Craddick                          Precinct 3                                             01 
+00230010004000092REP       REP State Representative, Dist 82                       Tom Craddick                          Precinct 4                                             01 
+00240010001000235REP       REP Chief Justice, 8th Ct of App Dist                   Jeff Alley                            Precinct 1                                             01 
+00240010002000130REP       REP Chief Justice, 8th Ct of App Dist                   Jeff Alley                            Precinct 2                                             01 
+00240010003000085REP       REP Chief Justice, 8th Ct of App Dist                   Jeff Alley                            Precinct 3                                             01 
+00240010004000090REP       REP Chief Justice, 8th Ct of App Dist                   Jeff Alley                            Precinct 4                                             01 
+00250010001000240REP       REP Dist Attorney, 109th Judicial Dist                  Amanda Navarette                      Precinct 1                                             01 
+00250010002000134REP       REP Dist Attorney, 109th Judicial Dist                  Amanda Navarette                      Precinct 2                                             01 
+00250010003000089REP       REP Dist Attorney, 109th Judicial Dist                  Amanda Navarette                      Precinct 3                                             01 
+00250010004000090REP       REP Dist Attorney, 109th Judicial Dist                  Amanda Navarette                      Precinct 4                                             01 
+00260010001000224REP       REP County Attorney                                     Austin Ryan Rawls                     Precinct 1                                             01 
+00260010002000123REP       REP County Attorney                                     Austin Ryan Rawls                     Precinct 2                                             01 
+00260010003000086REP       REP County Attorney                                     Austin Ryan Rawls                     Precinct 3                                             01 
+00260010004000083REP       REP County Attorney                                     Austin Ryan Rawls                     Precinct 4                                             01 
+00270010001000238REP       REP Sheriff                                             Andrew "Andy" Rene Aguilar            Precinct 1                                             01 
+00270010002000136REP       REP Sheriff                                             Andrew "Andy" Rene Aguilar            Precinct 2                                             01 
+00270010003000091REP       REP Sheriff                                             Andrew "Andy" Rene Aguilar            Precinct 3                                             01 
+00270010004000091REP       REP Sheriff                                             Andrew "Andy" Rene Aguilar            Precinct 4                                             01 
+00280010001000246REP       REP County Tax Assessor-Collector                       Judy Crumrine                         Precinct 1                                             01 
+00280010002000139REP       REP County Tax Assessor-Collector                       Judy Crumrine                         Precinct 2                                             01 
+00280010003000096REP       REP County Tax Assessor-Collector                       Judy Crumrine                         Precinct 3                                             01 
+00280010004000092REP       REP County Tax Assessor-Collector                       Judy Crumrine                         Precinct 4                                             01 
+00290010001000112REPCOMPCT1REP County Commissioner Pct 1                           Daniel Sanchez                        Precinct 1                    PCT 1                    01 
+00290020001000055REPCOMPCT1REP County Commissioner Pct 1                           Charlie Hubbard                       Precinct 1                    PCT 1                    01 
+00290030001000099REPCOMPCT1REP County Commissioner Pct 1                           Manuella Y. Kirkpatrick               Precinct 1                    PCT 1                    01 
+00300010003000090REPCOMPCT3REP County Commissioner Pct 3                           Domingo Escobedo                      Precinct 3                    PCT 3                    01 
+00310010001000248REP       REP County Constable                                    Rory Crumrine                         Precinct 1                                             01 
+00310010002000138REP       REP County Constable                                    Rory Crumrine                         Precinct 2                                             01 
+00310010003000096REP       REP County Constable                                    Rory Crumrine                         Precinct 3                                             01 
+00310010004000092REP       REP County Constable                                    Rory Crumrine                         Precinct 4                                             01 
+00320010001000244REP       REP County Chair                                        Thomas Currie                         Precinct 1                                             01 
+00320010002000141REP       REP County Chair                                        Thomas Currie                         Precinct 2                                             01 
+00320010003000093REP       REP County Chair                                        Thomas Currie                         Precinct 3                                             01 
+00320010004000093REP       REP County Chair                                        Thomas Currie                         Precinct 4                                             01 
+00330010001000226REP       REP Proposition 1                                       Yes                                   Precinct 1                                             01Y
+00330010002000122REP       REP Proposition 1                                       Yes                                   Precinct 2                                             01Y
+00330010003000071REP       REP Proposition 1                                       Yes                                   Precinct 3                                             01Y
+00330010004000077REP       REP Proposition 1                                       Yes                                   Precinct 4                                             01Y
+00330020001000038REP       REP Proposition 1                                       No                                    Precinct 1                                             01Y
+00330020002000028REP       REP Proposition 1                                       No                                    Precinct 2                                             01Y
+00330020003000027REP       REP Proposition 1                                       No                                    Precinct 3                                             01Y
+00330020004000019REP       REP Proposition 1                                       No                                    Precinct 4                                             01Y
+00340010001000209REP       REP Proposition 2                                       Yes                                   Precinct 1                                             01Y
+00340010002000123REP       REP Proposition 2                                       Yes                                   Precinct 2                                             01Y
+00340010003000063REP       REP Proposition 2                                       Yes                                   Precinct 3                                             01Y
+00340010004000079REP       REP Proposition 2                                       Yes                                   Precinct 4                                             01Y
+00340020001000050REP       REP Proposition 2                                       No                                    Precinct 1                                             01Y
+00340020002000027REP       REP Proposition 2                                       No                                    Precinct 2                                             01Y
+00340020003000030REP       REP Proposition 2                                       No                                    Precinct 3                                             01Y
+00340020004000017REP       REP Proposition 2                                       No                                    Precinct 4                                             01Y
+00350010001000242REP       REP Proposition 3                                       Yes                                   Precinct 1                                             01Y
+00350010002000139REP       REP Proposition 3                                       Yes                                   Precinct 2                                             01Y
+00350010003000076REP       REP Proposition 3                                       Yes                                   Precinct 3                                             01Y
+00350010004000092REP       REP Proposition 3                                       Yes                                   Precinct 4                                             01Y
+00350020001000019REP       REP Proposition 3                                       No                                    Precinct 1                                             01Y
+00350020002000007REP       REP Proposition 3                                       No                                    Precinct 2                                             01Y
+00350020003000015REP       REP Proposition 3                                       No                                    Precinct 3                                             01Y
+00350020004000004REP       REP Proposition 3                                       No                                    Precinct 4                                             01Y
+00360010001000240REP       REP Proposition 4                                       Yes                                   Precinct 1                                             01Y
+00360010002000138REP       REP Proposition 4                                       Yes                                   Precinct 2                                             01Y
+00360010003000079REP       REP Proposition 4                                       Yes                                   Precinct 3                                             01Y
+00360010004000095REP       REP Proposition 4                                       Yes                                   Precinct 4                                             01Y
+00360020001000019REP       REP Proposition 4                                       No                                    Precinct 1                                             01Y
+00360020002000011REP       REP Proposition 4                                       No                                    Precinct 2                                             01Y
+00360020003000014REP       REP Proposition 4                                       No                                    Precinct 3                                             01Y
+00360020004000001REP       REP Proposition 4                                       No                                    Precinct 4                                             01Y
+00370010001000239REP       REP Proposition 5                                       Yes                                   Precinct 1                                             01Y
+00370010002000131REP       REP Proposition 5                                       Yes                                   Precinct 2                                             01Y
+00370010003000089REP       REP Proposition 5                                       Yes                                   Precinct 3                                             01Y
+00370010004000086REP       REP Proposition 5                                       Yes                                   Precinct 4                                             01Y
+00370020001000023REP       REP Proposition 5                                       No                                    Precinct 1                                             01Y
+00370020002000017REP       REP Proposition 5                                       No                                    Precinct 2                                             01Y
+00370020003000005REP       REP Proposition 5                                       No                                    Precinct 3                                             01Y
+00370020004000010REP       REP Proposition 5                                       No                                    Precinct 4                                             01Y
+00380010001000246REP       REP Proposition 6                                       Yes                                   Precinct 1                                             01Y
+00380010002000139REP       REP Proposition 6                                       Yes                                   Precinct 2                                             01Y
+00380010003000077REP       REP Proposition 6                                       Yes                                   Precinct 3                                             01Y
+00380010004000091REP       REP Proposition 6                                       Yes                                   Precinct 4                                             01Y
+00380020001000013REP       REP Proposition 6                                       No                                    Precinct 1                                             01Y
+00380020002000009REP       REP Proposition 6                                       No                                    Precinct 2                                             01Y
+00380020003000015REP       REP Proposition 6                                       No                                    Precinct 3                                             01Y
+00380020004000004REP       REP Proposition 6                                       No                                    Precinct 4                                             01Y
+00390010001000255REP       REP Proposition 7                                       Yes                                   Precinct 1                                             01Y
+00390010002000146REP       REP Proposition 7                                       Yes                                   Precinct 2                                             01Y
+00390010003000089REP       REP Proposition 7                                       Yes                                   Precinct 3                                             01Y
+00390010004000096REP       REP Proposition 7                                       Yes                                   Precinct 4                                             01Y
+00390020001000005REP       REP Proposition 7                                       No                                    Precinct 1                                             01Y
+00390020002000003REP       REP Proposition 7                                       No                                    Precinct 2                                             01Y
+00390020003000002REP       REP Proposition 7                                       No                                    Precinct 3                                             01Y
+00390020004000000REP       REP Proposition 7                                       No                                    Precinct 4                                             01Y
+00400010001000255REP       REP Proposition 8                                       Yes                                   Precinct 1                                             01Y
+00400010002000144REP       REP Proposition 8                                       Yes                                   Precinct 2                                             01Y
+00400010003000090REP       REP Proposition 8                                       Yes                                   Precinct 3                                             01Y
+00400010004000094REP       REP Proposition 8                                       Yes                                   Precinct 4                                             01Y
+00400020001000004REP       REP Proposition 8                                       No                                    Precinct 1                                             01Y
+00400020002000003REP       REP Proposition 8                                       No                                    Precinct 2                                             01Y
+00400020003000003REP       REP Proposition 8                                       No                                    Precinct 3                                             01Y
+00400020004000002REP       REP Proposition 8                                       No                                    Precinct 4                                             01Y
+00410010001000250REP       REP Proposition 9                                       Yes                                   Precinct 1                                             01Y
+00410010002000139REP       REP Proposition 9                                       Yes                                   Precinct 2                                             01Y
+00410010003000081REP       REP Proposition 9                                       Yes                                   Precinct 3                                             01Y
+00410010004000085REP       REP Proposition 9                                       Yes                                   Precinct 4                                             01Y
+00410020001000014REP       REP Proposition 9                                       No                                    Precinct 1                                             01Y
+00410020002000010REP       REP Proposition 9                                       No                                    Precinct 2                                             01Y
+00410020003000010REP       REP Proposition 9                                       No                                    Precinct 3                                             01Y
+00410020004000010REP       REP Proposition 9                                       No                                    Precinct 4                                             01Y
+00420010001000241REP       REP Proposition 10                                      Yes                                   Precinct 1                                             01Y
+00420010002000141REP       REP Proposition 10                                      Yes                                   Precinct 2                                             01Y
+00420010003000080REP       REP Proposition 10                                      Yes                                   Precinct 3                                             01Y
+00420010004000087REP       REP Proposition 10                                      Yes                                   Precinct 4                                             01Y
+00420020001000017REP       REP Proposition 10                                      No                                    Precinct 1                                             01Y
+00420020002000006REP       REP Proposition 10                                      No                                    Precinct 2                                             01Y
+00420020003000010REP       REP Proposition 10                                      No                                    Precinct 3                                             01Y
+00420020004000008REP       REP Proposition 10                                      No                                    Precinct 4                                             01Y
+00430010001000000DEM       DEM President                                           Marianne Williamson                   Precinct 1                                             01 
+00430010002000000DEM       DEM President                                           Marianne Williamson                   Precinct 2                                             01 
+00430010003000000DEM       DEM President                                           Marianne Williamson                   Precinct 3                                             01 
+00430010004000000DEM       DEM President                                           Marianne Williamson                   Precinct 4                                             01 
+00430020001000000DEM       DEM President                                           Cory Booker                           Precinct 1                                             01 
+00430020002000001DEM       DEM President                                           Cory Booker                           Precinct 2                                             01 
+00430020003000000DEM       DEM President                                           Cory Booker                           Precinct 3                                             01 
+00430020004000000DEM       DEM President                                           Cory Booker                           Precinct 4                                             01 
+00430030001000002DEM       DEM President                                           Michael R. Bloomberg                  Precinct 1                                             01 
+00430030002000004DEM       DEM President                                           Michael R. Bloomberg                  Precinct 2                                             01 
+00430030003000003DEM       DEM President                                           Michael R. Bloomberg                  Precinct 3                                             01 
+00430030004000003DEM       DEM President                                           Michael R. Bloomberg                  Precinct 4                                             01 
+00430040001000000DEM       DEM President                                           Elizabeth Warren                      Precinct 1                                             01 
+00430040002000003DEM       DEM President                                           Elizabeth Warren                      Precinct 2                                             01 
+00430040003000001DEM       DEM President                                           Elizabeth Warren                      Precinct 3                                             01 
+00430040004000000DEM       DEM President                                           Elizabeth Warren                      Precinct 4                                             01 
+00430050001000000DEM       DEM President                                           John K. Delaney                       Precinct 1                                             01 
+00430050002000000DEM       DEM President                                           John K. Delaney                       Precinct 2                                             01 
+00430050003000000DEM       DEM President                                           John K. Delaney                       Precinct 3                                             01 
+00430050004000000DEM       DEM President                                           John K. Delaney                       Precinct 4                                             01 
+00430060001000000DEM       DEM President                                           Tulsi Gabbard                         Precinct 1                                             01 
+00430060002000000DEM       DEM President                                           Tulsi Gabbard                         Precinct 2                                             01 
+00430060003000001DEM       DEM President                                           Tulsi Gabbard                         Precinct 3                                             01 
+00430060004000000DEM       DEM President                                           Tulsi Gabbard                         Precinct 4                                             01 
+00430070001000002DEM       DEM President                                           Bernie Sanders                        Precinct 1                                             01 
+00430070002000007DEM       DEM President                                           Bernie Sanders                        Precinct 2                                             01 
+00430070003000010DEM       DEM President                                           Bernie Sanders                        Precinct 3                                             01 
+00430070004000006DEM       DEM President                                           Bernie Sanders                        Precinct 4                                             01 
+00430080001000005DEM       DEM President                                           Joseph R. Biden                       Precinct 1                                             01 
+00430080002000008DEM       DEM President                                           Joseph R. Biden                       Precinct 2                                             01 
+00430080003000007DEM       DEM President                                           Joseph R. Biden                       Precinct 3                                             01 
+00430080004000004DEM       DEM President                                           Joseph R. Biden                       Precinct 4                                             01 
+00430090001000000DEM       DEM President                                           Robby Wells                           Precinct 1                                             01 
+00430090002000000DEM       DEM President                                           Robby Wells                           Precinct 2                                             01 
+00430090003000000DEM       DEM President                                           Robby Wells                           Precinct 3                                             01 
+00430090004000000DEM       DEM President                                           Robby Wells                           Precinct 4                                             01 
+00430100001000000DEM       DEM President                                           Andrew Yang                           Precinct 1                                             01 
+00430100002000000DEM       DEM President                                           Andrew Yang                           Precinct 2                                             01 
+00430100003000000DEM       DEM President                                           Andrew Yang                           Precinct 3                                             01 
+00430100004000000DEM       DEM President                                           Andrew Yang                           Precinct 4                                             01 
+00430110001000000DEM       DEM President                                           Deval Patrick                         Precinct 1                                             01 
+00430110002000000DEM       DEM President                                           Deval Patrick                         Precinct 2                                             01 
+00430110003000000DEM       DEM President                                           Deval Patrick                         Precinct 3                                             01 
+00430110004000000DEM       DEM President                                           Deval Patrick                         Precinct 4                                             01 
+00430120001000000DEM       DEM President                                           Julian Castro                         Precinct 1                                             01 
+00430120002000000DEM       DEM President                                           Julian Castro                         Precinct 2                                             01 
+00430120003000002DEM       DEM President                                           Julian Castro                         Precinct 3                                             01 
+00430120004000000DEM       DEM President                                           Julian Castro                         Precinct 4                                             01 
+00430130001000000DEM       DEM President                                           Roque "Rocky" De La Fuente            Precinct 1                                             01 
+00430130002000001DEM       DEM President                                           Roque "Rocky" De La Fuente            Precinct 2                                             01 
+00430130003000000DEM       DEM President                                           Roque "Rocky" De La Fuente            Precinct 3                                             01 
+00430130004000000DEM       DEM President                                           Roque "Rocky" De La Fuente            Precinct 4                                             01 
+00430140001000000DEM       DEM President                                           Pete Buttigieg                        Precinct 1                                             01 
+00430140002000001DEM       DEM President                                           Pete Buttigieg                        Precinct 2                                             01 
+00430140003000002DEM       DEM President                                           Pete Buttigieg                        Precinct 3                                             01 
+00430140004000000DEM       DEM President                                           Pete Buttigieg                        Precinct 4                                             01 
+00430150001000000DEM       DEM President                                           Michael Bennet                        Precinct 1                                             01 
+00430150002000000DEM       DEM President                                           Michael Bennet                        Precinct 2                                             01 
+00430150003000000DEM       DEM President                                           Michael Bennet                        Precinct 3                                             01 
+00430150004000000DEM       DEM President                                           Michael Bennet                        Precinct 4                                             01 
+00430160001000000DEM       DEM President                                           Tom Steyer                            Precinct 1                                             01 
+00430160002000001DEM       DEM President                                           Tom Steyer                            Precinct 2                                             01 
+00430160003000000DEM       DEM President                                           Tom Steyer                            Precinct 3                                             01 
+00430160004000000DEM       DEM President                                           Tom Steyer                            Precinct 4                                             01 
+00430170001000000DEM       DEM President                                           Amy Klobuchar                         Precinct 1                                             01 
+00430170002000000DEM       DEM President                                           Amy Klobuchar                         Precinct 2                                             01 
+00430170003000000DEM       DEM President                                           Amy Klobuchar                         Precinct 3                                             01 
+00430170004000000DEM       DEM President                                           Amy Klobuchar                         Precinct 4                                             01 
+00440010001000000DEM       DEM US Senator                                          Royce West                            Precinct 1                                             01 
+00440010002000000DEM       DEM US Senator                                          Royce West                            Precinct 2                                             01 
+00440010003000002DEM       DEM US Senator                                          Royce West                            Precinct 3                                             01 
+00440010004000002DEM       DEM US Senator                                          Royce West                            Precinct 4                                             01 
+00440020001000000DEM       DEM US Senator                                          Michael Cooper                        Precinct 1                                             01 
+00440020002000001DEM       DEM US Senator                                          Michael Cooper                        Precinct 2                                             01 
+00440020003000004DEM       DEM US Senator                                          Michael Cooper                        Precinct 3                                             01 
+00440020004000001DEM       DEM US Senator                                          Michael Cooper                        Precinct 4                                             01 
+00440030001000004DEM       DEM US Senator                                          Cristina Tzintzun Ramirez             Precinct 1                                             01 
+00440030002000005DEM       DEM US Senator                                          Cristina Tzintzun Ramirez             Precinct 2                                             01 
+00440030003000004DEM       DEM US Senator                                          Cristina Tzintzun Ramirez             Precinct 3                                             01 
+00440030004000001DEM       DEM US Senator                                          Cristina Tzintzun Ramirez             Precinct 4                                             01 
+00440040001000000DEM       DEM US Senator                                          Chris Bell                            Precinct 1                                             01 
+00440040002000002DEM       DEM US Senator                                          Chris Bell                            Precinct 2                                             01 
+00440040003000002DEM       DEM US Senator                                          Chris Bell                            Precinct 3                                             01 
+00440040004000002DEM       DEM US Senator                                          Chris Bell                            Precinct 4                                             01 
+00440050001000002DEM       DEM US Senator                                          Annie "Mama" Garcia                   Precinct 1                                             01 
+00440050002000007DEM       DEM US Senator                                          Annie "Mama" Garcia                   Precinct 2                                             01 
+00440050003000002DEM       DEM US Senator                                          Annie "Mama" Garcia                   Precinct 3                                             01 
+00440050004000003DEM       DEM US Senator                                          Annie "Mama" Garcia                   Precinct 4                                             01 
+00440060001000000DEM       DEM US Senator                                          Amanda K. Edwards                     Precinct 1                                             01 
+00440060002000001DEM       DEM US Senator                                          Amanda K. Edwards                     Precinct 2                                             01 
+00440060003000002DEM       DEM US Senator                                          Amanda K. Edwards                     Precinct 3                                             01 
+00440060004000001DEM       DEM US Senator                                          Amanda K. Edwards                     Precinct 4                                             01 
+00440070001000001DEM       DEM US Senator                                          Sema Hernandez                        Precinct 1                                             01 
+00440070002000003DEM       DEM US Senator                                          Sema Hernandez                        Precinct 2                                             01 
+00440070003000001DEM       DEM US Senator                                          Sema Hernandez                        Precinct 3                                             01 
+00440070004000001DEM       DEM US Senator                                          Sema Hernandez                        Precinct 4                                             01 
+00440080001000000DEM       DEM US Senator                                          Jack Daniel Foster, Jr.               Precinct 1                                             01 
+00440080002000001DEM       DEM US Senator                                          Jack Daniel Foster, Jr.               Precinct 2                                             01 
+00440080003000000DEM       DEM US Senator                                          Jack Daniel Foster, Jr.               Precinct 3                                             01 
+00440080004000000DEM       DEM US Senator                                          Jack Daniel Foster, Jr.               Precinct 4                                             01 
+00440090001000001DEM       DEM US Senator                                          D. R. Hunter                          Precinct 1                                             01 
+00440090002000000DEM       DEM US Senator                                          D. R. Hunter                          Precinct 2                                             01 
+00440090003000001DEM       DEM US Senator                                          D. R. Hunter                          Precinct 3                                             01 
+00440090004000000DEM       DEM US Senator                                          D. R. Hunter                          Precinct 4                                             01 
+00440100001000001DEM       DEM US Senator                                          Adrian Ocegueda                       Precinct 1                                             01 
+00440100002000002DEM       DEM US Senator                                          Adrian Ocegueda                       Precinct 2                                             01 
+00440100003000000DEM       DEM US Senator                                          Adrian Ocegueda                       Precinct 3                                             01 
+00440100004000000DEM       DEM US Senator                                          Adrian Ocegueda                       Precinct 4                                             01 
+00440110001000000DEM       DEM US Senator                                          Mary (MJ) Hegar                       Precinct 1                                             01 
+00440110002000002DEM       DEM US Senator                                          Mary (MJ) Hegar                       Precinct 2                                             01 
+00440110003000002DEM       DEM US Senator                                          Mary (MJ) Hegar                       Precinct 3                                             01 
+00440110004000001DEM       DEM US Senator                                          Mary (MJ) Hegar                       Precinct 4                                             01 
+00440120001000000DEM       DEM US Senator                                          Victor Hugo Harris                    Precinct 1                                             01 
+00440120002000000DEM       DEM US Senator                                          Victor Hugo Harris                    Precinct 2                                             01 
+00440120003000001DEM       DEM US Senator                                          Victor Hugo Harris                    Precinct 3                                             01 
+00440120004000001DEM       DEM US Senator                                          Victor Hugo Harris                    Precinct 4                                             01 
+00450010001000002DEM       DEM US Representative, Dist 23                          Efrain V. Valdez                      Precinct 1                                             01 
+00450010002000003DEM       DEM US Representative, Dist 23                          Efrain V. Valdez                      Precinct 2                                             01 
+00450010003000002DEM       DEM US Representative, Dist 23                          Efrain V. Valdez                      Precinct 3                                             01 
+00450010004000005DEM       DEM US Representative, Dist 23                          Efrain V. Valdez                      Precinct 4                                             01 
+00450020001000005DEM       DEM US Representative, Dist 23                          Gina Ortiz Jones                      Precinct 1                                             01 
+00450020002000018DEM       DEM US Representative, Dist 23                          Gina Ortiz Jones                      Precinct 2                                             01 
+00450020003000019DEM       DEM US Representative, Dist 23                          Gina Ortiz Jones                      Precinct 3                                             01 
+00450020004000007DEM       DEM US Representative, Dist 23                          Gina Ortiz Jones                      Precinct 4                                             01 
+00450030001000000DEM       DEM US Representative, Dist 23                          Jaime Escuder                         Precinct 1                                             01 
+00450030002000001DEM       DEM US Representative, Dist 23                          Jaime Escuder                         Precinct 2                                             01 
+00450030003000000DEM       DEM US Representative, Dist 23                          Jaime Escuder                         Precinct 3                                             01 
+00450030004000000DEM       DEM US Representative, Dist 23                          Jaime Escuder                         Precinct 4                                             01 
+00450040001000002DEM       DEM US Representative, Dist 23                          Rosalinda "Rosey" Ramos Abuabara      Precinct 1                                             01 
+00450040002000003DEM       DEM US Representative, Dist 23                          Rosalinda "Rosey" Ramos Abuabara      Precinct 2                                             01 
+00450040003000001DEM       DEM US Representative, Dist 23                          Rosalinda "Rosey" Ramos Abuabara      Precinct 3                                             01 
+00450040004000001DEM       DEM US Representative, Dist 23                          Rosalinda "Rosey" Ramos Abuabara      Precinct 4                                             01 
+00450050001000000DEM       DEM US Representative, Dist 23                          Ricardo R. Madrid                     Precinct 1                                             01 
+00450050002000000DEM       DEM US Representative, Dist 23                          Ricardo R. Madrid                     Precinct 2                                             01 
+00450050003000001DEM       DEM US Representative, Dist 23                          Ricardo R. Madrid                     Precinct 3                                             01 
+00450050004000001DEM       DEM US Representative, Dist 23                          Ricardo R. Madrid                     Precinct 4                                             01 
+00460010001000005DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 1                                             01 
+00460010002000006DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 2                                             01 
+00460010003000004DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 3                                             01 
+00460010004000004DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 4                                             01 
+00460020001000000DEM       DEM Railroad Commissioner                               Mark Watson                           Precinct 1                                             01 
+00460020002000001DEM       DEM Railroad Commissioner                               Mark Watson                           Precinct 2                                             01 
+00460020003000003DEM       DEM Railroad Commissioner                               Mark Watson                           Precinct 3                                             01 
+00460020004000003DEM       DEM Railroad Commissioner                               Mark Watson                           Precinct 4                                             01 
+00460030001000003DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 1                                             01 
+00460030002000010DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 2                                             01 
+00460030003000012DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 3                                             01 
+00460030004000004DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 4                                             01 
+00460040001000001DEM       DEM Railroad Commissioner                               Kelly Stone                           Precinct 1                                             01 
+00460040002000007DEM       DEM Railroad Commissioner                               Kelly Stone                           Precinct 2                                             01 
+00460040003000002DEM       DEM Railroad Commissioner                               Kelly Stone                           Precinct 3                                             01 
+00460040004000002DEM       DEM Railroad Commissioner                               Kelly Stone                           Precinct 4                                             01 
+00470010001000007DEM       DEM Chief Justice, Supreme Court                        Amy Clark Meachum                     Precinct 1                                             01 
+00470010002000016DEM       DEM Chief Justice, Supreme Court                        Amy Clark Meachum                     Precinct 2                                             01 
+00470010003000018DEM       DEM Chief Justice, Supreme Court                        Amy Clark Meachum                     Precinct 3                                             01 
+00470010004000011DEM       DEM Chief Justice, Supreme Court                        Amy Clark Meachum                     Precinct 4                                             01 
+00470020001000002DEM       DEM Chief Justice, Supreme Court                        Jerry Zimmerer                        Precinct 1                                             01 
+00470020002000008DEM       DEM Chief Justice, Supreme Court                        Jerry Zimmerer                        Precinct 2                                             01 
+00470020003000004DEM       DEM Chief Justice, Supreme Court                        Jerry Zimmerer                        Precinct 3                                             01 
+00470020004000002DEM       DEM Chief Justice, Supreme Court                        Jerry Zimmerer                        Precinct 4                                             01 
+00480010001000006DEM       DEM Justice, Supreme Court, Pl 6                        Kathy Cheng                           Precinct 1                                             01 
+00480010002000016DEM       DEM Justice, Supreme Court, Pl 6                        Kathy Cheng                           Precinct 2                                             01 
+00480010003000015DEM       DEM Justice, Supreme Court, Pl 6                        Kathy Cheng                           Precinct 3                                             01 
+00480010004000008DEM       DEM Justice, Supreme Court, Pl 6                        Kathy Cheng                           Precinct 4                                             01 
+00480020001000003DEM       DEM Justice, Supreme Court, Pl 6                        Larry Praeger                         Precinct 1                                             01 
+00480020002000007DEM       DEM Justice, Supreme Court, Pl 6                        Larry Praeger                         Precinct 2                                             01 
+00480020003000007DEM       DEM Justice, Supreme Court, Pl 6                        Larry Praeger                         Precinct 3                                             01 
+00480020004000004DEM       DEM Justice, Supreme Court, Pl 6                        Larry Praeger                         Precinct 4                                             01 
+00490010001000004DEM       DEM Justice, Supreme Court, Pl 7                        Brandy Voss                           Precinct 1                                             01 
+00490010002000009DEM       DEM Justice, Supreme Court, Pl 7                        Brandy Voss                           Precinct 2                                             01 
+00490010003000007DEM       DEM Justice, Supreme Court, Pl 7                        Brandy Voss                           Precinct 3                                             01 
+00490010004000005DEM       DEM Justice, Supreme Court, Pl 7                        Brandy Voss                           Precinct 4                                             01 
+00490020001000005DEM       DEM Justice, Supreme Court, Pl 7                        Staci Williams                        Precinct 1                                             01 
+00490020002000016DEM       DEM Justice, Supreme Court, Pl 7                        Staci Williams                        Precinct 2                                             01 
+00490020003000015DEM       DEM Justice, Supreme Court, Pl 7                        Staci Williams                        Precinct 3                                             01 
+00490020004000008DEM       DEM Justice, Supreme Court, Pl 7                        Staci Williams                        Precinct 4                                             01 
+00500010001000006DEM       DEM Justice, Supreme Court, Pl 8                        Gisela D. Triana                      Precinct 1                                             01 
+00500010002000016DEM       DEM Justice, Supreme Court, Pl 8                        Gisela D. Triana                      Precinct 2                                             01 
+00500010003000019DEM       DEM Justice, Supreme Court, Pl 8                        Gisela D. Triana                      Precinct 3                                             01 
+00500010004000012DEM       DEM Justice, Supreme Court, Pl 8                        Gisela D. Triana                      Precinct 4                                             01 
+00500020001000002DEM       DEM Justice, Supreme Court, Pl 8                        Peter Kelly                           Precinct 1                                             01 
+00500020002000008DEM       DEM Justice, Supreme Court, Pl 8                        Peter Kelly                           Precinct 2                                             01 
+00500020003000003DEM       DEM Justice, Supreme Court, Pl 8                        Peter Kelly                           Precinct 3                                             01 
+00500020004000001DEM       DEM Justice, Supreme Court, Pl 8                        Peter Kelly                           Precinct 4                                             01 
+00510010001000001DEM       DEM Judge, Ct of Crim App, Pl 3                         William Pieratt Demond                Precinct 1                                             01 
+00510010002000005DEM       DEM Judge, Ct of Crim App, Pl 3                         William Pieratt Demond                Precinct 2                                             01 
+00510010003000001DEM       DEM Judge, Ct of Crim App, Pl 3                         William Pieratt Demond                Precinct 3                                             01 
+00510010004000002DEM       DEM Judge, Ct of Crim App, Pl 3                         William Pieratt Demond                Precinct 4                                             01 
+00510020001000002DEM       DEM Judge, Ct of Crim App, Pl 3                         Dan Wood                              Precinct 1                                             01 
+00510020002000003DEM       DEM Judge, Ct of Crim App, Pl 3                         Dan Wood                              Precinct 2                                             01 
+00510020003000008DEM       DEM Judge, Ct of Crim App, Pl 3                         Dan Wood                              Precinct 3                                             01 
+00510020004000003DEM       DEM Judge, Ct of Crim App, Pl 3                         Dan Wood                              Precinct 4                                             01 
+00510030001000006DEM       DEM Judge, Ct of Crim App, Pl 3                         Elizabeth Davis Frizell               Precinct 1                                             01 
+00510030002000017DEM       DEM Judge, Ct of Crim App, Pl 3                         Elizabeth Davis Frizell               Precinct 2                                             01 
+00510030003000014DEM       DEM Judge, Ct of Crim App, Pl 3                         Elizabeth Davis Frizell               Precinct 3                                             01 
+00510030004000008DEM       DEM Judge, Ct of Crim App, Pl 3                         Elizabeth Davis Frizell               Precinct 4                                             01 
+00520010001000005DEM       DEM Judge, Ct of Crim App, Pl 4                         Steven Miears                         Precinct 1                                             01 
+00520010002000004DEM       DEM Judge, Ct of Crim App, Pl 4                         Steven Miears                         Precinct 2                                             01 
+00520010003000004DEM       DEM Judge, Ct of Crim App, Pl 4                         Steven Miears                         Precinct 3                                             01 
+00520010004000004DEM       DEM Judge, Ct of Crim App, Pl 4                         Steven Miears                         Precinct 4                                             01 
+00520020001000004DEM       DEM Judge, Ct of Crim App, Pl 4                         Tina Clinton                          Precinct 1                                             01 
+00520020002000021DEM       DEM Judge, Ct of Crim App, Pl 4                         Tina Clinton                          Precinct 2                                             01 
+00520020003000018DEM       DEM Judge, Ct of Crim App, Pl 4                         Tina Clinton                          Precinct 3                                             01 
+00520020004000009DEM       DEM Judge, Ct of Crim App, Pl 4                         Tina Clinton                          Precinct 4                                             01 
+00530010001000009DEM       DEM Judge, Ct of Crim App, Pl 9                         Brandon Birmingham                    Precinct 1                                             01 
+00530010002000024DEM       DEM Judge, Ct of Crim App, Pl 9                         Brandon Birmingham                    Precinct 2                                             01 
+00530010003000024DEM       DEM Judge, Ct of Crim App, Pl 9                         Brandon Birmingham                    Precinct 3                                             01 
+00530010004000013DEM       DEM Judge, Ct of Crim App, Pl 9                         Brandon Birmingham                    Precinct 4                                             01 
+00540010001000008DEM       DEM DEM Member, State BoE, Dist 1                       Georgina Perez                        Precinct 1                                             01 
+00540010002000024DEM       DEM DEM Member, State BoE, Dist 1                       Georgina Perez                        Precinct 2                                             01 
+00540010003000024DEM       DEM DEM Member, State BoE, Dist 1                       Georgina Perez                        Precinct 3                                             01 
+00540010004000013DEM       DEM DEM Member, State BoE, Dist 1                       Georgina Perez                        Precinct 4                                             01 
+00550010001000005DEM       DEM Chief Justice, 8th Ct of App Dist                   Angie Juarez Barill                   Precinct 1                                             01 
+00550010002000008DEM       DEM Chief Justice, 8th Ct of App Dist                   Angie Juarez Barill                   Precinct 2                                             01 
+00550010003000010DEM       DEM Chief Justice, 8th Ct of App Dist                   Angie Juarez Barill                   Precinct 3                                             01 
+00550010004000003DEM       DEM Chief Justice, 8th Ct of App Dist                   Angie Juarez Barill                   Precinct 4                                             01 
+00550020001000004DEM       DEM Chief Justice, 8th Ct of App Dist                   Yvonne Rodriguez                      Precinct 1                                             01 
+00550020002000017DEM       DEM Chief Justice, 8th Ct of App Dist                   Yvonne Rodriguez                      Precinct 2                                             01 
+00550020003000013DEM       DEM Chief Justice, 8th Ct of App Dist                   Yvonne Rodriguez                      Precinct 3                                             01 
+00550020004000010DEM       DEM Chief Justice, 8th Ct of App Dist                   Yvonne Rodriguez                      Precinct 4                                             01 
+00560010001000008DEM       DEM Proposition #1                                      Yes                                   Precinct 1                                             01Y
+00560010002000026DEM       DEM Proposition #1                                      Yes                                   Precinct 2                                             01Y
+00560010003000024DEM       DEM Proposition #1                                      Yes                                   Precinct 3                                             01Y
+00560010004000013DEM       DEM Proposition #1                                      Yes                                   Precinct 4                                             01Y
+00560020001000001DEM       DEM Proposition #1                                      No                                    Precinct 1                                             01Y
+00560020002000000DEM       DEM Proposition #1                                      No                                    Precinct 2                                             01Y
+00560020003000001DEM       DEM Proposition #1                                      No                                    Precinct 3                                             01Y
+00560020004000001DEM       DEM Proposition #1                                      No                                    Precinct 4                                             01Y
+00570010001000009DEM       DEM Proposition #2                                      Yes                                   Precinct 1                                             01Y
+00570010002000025DEM       DEM Proposition #2                                      Yes                                   Precinct 2                                             01Y
+00570010003000024DEM       DEM Proposition #2                                      Yes                                   Precinct 3                                             01Y
+00570010004000013DEM       DEM Proposition #2                                      Yes                                   Precinct 4                                             01Y
+00570020001000000DEM       DEM Proposition #2                                      No                                    Precinct 1                                             01Y
+00570020002000000DEM       DEM Proposition #2                                      No                                    Precinct 2                                             01Y
+00570020003000000DEM       DEM Proposition #2                                      No                                    Precinct 3                                             01Y
+00570020004000001DEM       DEM Proposition #2                                      No                                    Precinct 4                                             01Y
+00580010001000009DEM       DEM Proposition #3                                      Yes                                   Precinct 1                                             01Y
+00580010002000026DEM       DEM Proposition #3                                      Yes                                   Precinct 2                                             01Y
+00580010003000025DEM       DEM Proposition #3                                      Yes                                   Precinct 3                                             01Y
+00580010004000014DEM       DEM Proposition #3                                      Yes                                   Precinct 4                                             01Y
+00580020001000000DEM       DEM Proposition #3                                      No                                    Precinct 1                                             01Y
+00580020002000000DEM       DEM Proposition #3                                      No                                    Precinct 2                                             01Y
+00580020003000000DEM       DEM Proposition #3                                      No                                    Precinct 3                                             01Y
+00580020004000000DEM       DEM Proposition #3                                      No                                    Precinct 4                                             01Y
+00590010001000009DEM       DEM Proposition #4                                      Yes                                   Precinct 1                                             01Y
+00590010002000026DEM       DEM Proposition #4                                      Yes                                   Precinct 2                                             01Y
+00590010003000024DEM       DEM Proposition #4                                      Yes                                   Precinct 3                                             01Y
+00590010004000013DEM       DEM Proposition #4                                      Yes                                   Precinct 4                                             01Y
+00590020001000000DEM       DEM Proposition #4                                      No                                    Precinct 1                                             01Y
+00590020002000000DEM       DEM Proposition #4                                      No                                    Precinct 2                                             01Y
+00590020003000001DEM       DEM Proposition #4                                      No                                    Precinct 3                                             01Y
+00590020004000001DEM       DEM Proposition #4                                      No                                    Precinct 4                                             01Y
+00600010001000009DEM       DEM Proposition #5                                      Yes                                   Precinct 1                                             01Y
+00600010002000026DEM       DEM Proposition #5                                      Yes                                   Precinct 2                                             01Y
+00600010003000025DEM       DEM Proposition #5                                      Yes                                   Precinct 3                                             01Y
+00600010004000014DEM       DEM Proposition #5                                      Yes                                   Precinct 4                                             01Y
+00600020001000000DEM       DEM Proposition #5                                      No                                    Precinct 1                                             01Y
+00600020002000000DEM       DEM Proposition #5                                      No                                    Precinct 2                                             01Y
+00600020003000000DEM       DEM Proposition #5                                      No                                    Precinct 3                                             01Y
+00600020004000000DEM       DEM Proposition #5                                      No                                    Precinct 4                                             01Y
+00610010001000009DEM       DEM Proposition #6                                      Yes                                   Precinct 1                                             01Y
+00610010002000026DEM       DEM Proposition #6                                      Yes                                   Precinct 2                                             01Y
+00610010003000025DEM       DEM Proposition #6                                      Yes                                   Precinct 3                                             01Y
+00610010004000013DEM       DEM Proposition #6                                      Yes                                   Precinct 4                                             01Y
+00610020001000000DEM       DEM Proposition #6                                      No                                    Precinct 1                                             01Y
+00610020002000000DEM       DEM Proposition #6                                      No                                    Precinct 2                                             01Y
+00610020003000000DEM       DEM Proposition #6                                      No                                    Precinct 3                                             01Y
+00610020004000001DEM       DEM Proposition #6                                      No                                    Precinct 4                                             01Y
+00620010001000009DEM       DEM Proposition #7                                      Yes                                   Precinct 1                                             01Y
+00620010002000026DEM       DEM Proposition #7                                      Yes                                   Precinct 2                                             01Y
+00620010003000025DEM       DEM Proposition #7                                      Yes                                   Precinct 3                                             01Y
+00620010004000012DEM       DEM Proposition #7                                      Yes                                   Precinct 4                                             01Y
+00620020001000000DEM       DEM Proposition #7                                      No                                    Precinct 1                                             01Y
+00620020002000000DEM       DEM Proposition #7                                      No                                    Precinct 2                                             01Y
+00620020003000000DEM       DEM Proposition #7                                      No                                    Precinct 3                                             01Y
+00620020004000002DEM       DEM Proposition #7                                      No                                    Precinct 4                                             01Y
+00630010001000009DEM       DEM Proposition #8                                      Yes                                   Precinct 1                                             01Y
+00630010002000026DEM       DEM Proposition #8                                      Yes                                   Precinct 2                                             01Y
+00630010003000025DEM       DEM Proposition #8                                      Yes                                   Precinct 3                                             01Y
+00630010004000014DEM       DEM Proposition #8                                      Yes                                   Precinct 4                                             01Y
+00630020001000000DEM       DEM Proposition #8                                      No                                    Precinct 1                                             01Y
+00630020002000000DEM       DEM Proposition #8                                      No                                    Precinct 2                                             01Y
+00630020003000000DEM       DEM Proposition #8                                      No                                    Precinct 3                                             01Y
+00630020004000000DEM       DEM Proposition #8                                      No                                    Precinct 4                                             01Y
+00640010001000009DEM       DEM Proposition #9                                      Yes                                   Precinct 1                                             01Y
+00640010002000026DEM       DEM Proposition #9                                      Yes                                   Precinct 2                                             01Y
+00640010003000025DEM       DEM Proposition #9                                      Yes                                   Precinct 3                                             01Y
+00640010004000014DEM       DEM Proposition #9                                      Yes                                   Precinct 4                                             01Y
+00640020001000000DEM       DEM Proposition #9                                      No                                    Precinct 1                                             01Y
+00640020002000000DEM       DEM Proposition #9                                      No                                    Precinct 2                                             01Y
+00640020003000000DEM       DEM Proposition #9                                      No                                    Precinct 3                                             01Y
+00640020004000000DEM       DEM Proposition #9                                      No                                    Precinct 4                                             01Y
+00650010001000009DEM       DEM Proposition #10                                     Yes                                   Precinct 1                                             01Y
+00650010002000026DEM       DEM Proposition #10                                     Yes                                   Precinct 2                                             01Y
+00650010003000025DEM       DEM Proposition #10                                     Yes                                   Precinct 3                                             01Y
+00650010004000013DEM       DEM Proposition #10                                     Yes                                   Precinct 4                                             01Y
+00650020001000000DEM       DEM Proposition #10                                     No                                    Precinct 1                                             01Y
+00650020002000000DEM       DEM Proposition #10                                     No                                    Precinct 2                                             01Y
+00650020003000000DEM       DEM Proposition #10                                     No                                    Precinct 3                                             01Y
+00650020004000001DEM       DEM Proposition #10                                     No                                    Precinct 4                                             01Y
+00660010001000008DEM       DEM Proposition #11                                     Yes                                   Precinct 1                                             01Y
+00660010002000026DEM       DEM Proposition #11                                     Yes                                   Precinct 2                                             01Y
+00660010003000024DEM       DEM Proposition #11                                     Yes                                   Precinct 3                                             01Y
+00660010004000012DEM       DEM Proposition #11                                     Yes                                   Precinct 4                                             01Y
+00660020001000001DEM       DEM Proposition #11                                     No                                    Precinct 1                                             01Y
+00660020002000000DEM       DEM Proposition #11                                     No                                    Precinct 2                                             01Y
+00660020003000001DEM       DEM Proposition #11                                     No                                    Precinct 3                                             01Y
+00660020004000002DEM       DEM Proposition #11                                     No                                    Precinct 4                                             01Y
