@@ -1,0 +1,64 @@
+COUNTY NUMBER,PRECINCT CODE,PRECINCT NAME,REP Sheriff,REP Sheriff,REP Sheriff,REP Sheriff
+,,,REP,REP,REP,REP
+,,,Matthew Atkinson,Robert Ynclan,OVER VOTES,UNDER VOTES
+GONZA,1,Precinct 1 Election Day,68,90,0,0
+GONZA,1,Precinct 1 Early Voting,214,196,0,0
+GONZA,1,Precinct 1 Provisional,0,1,0,0
+GONZA,1,Precinct 1 By Mail,14,15,0,0
+GONZA,2,Precinct 2 Election Day,49,71,0,0
+GONZA,2,Precinct 2 Early Voting in Person,92,143,0,0
+GONZA,2,Precinct 2 Provisional ,0,1,0,0
+GONZA,2,Precinct 2 By Mail,9,6,0,0
+GONZA,3,Precinct 3 Election Day,49,63,0,0
+GONZA,3,Precinct 3 Early Voting in Person,93,114,0,0
+GONZA,3,Precinct 3 Provisional,0,0,0,0
+GONZA,3,Precinct 3 By Mail,11,9,0,0
+GONZA,4,Precinct 4 Election Day,9,21,0,0
+GONZA,4,Precinct 4 Early Voting in Person,12,45,0,0
+GONZA,4,Precinct 4 Provisional,0,0,0,0
+GONZA,4,Precinct 4 By Mail,1,0,0,0
+GONZA,5,Precinct 5 Election Day,18,8,0,0
+GONZA,5,Precinct 5 Early Voting in Person,39,21,0,0
+GONZA,5,Precinct 5 Provisional ,0,0,0,0
+GONZA,5,Precinct 5 By Mail,4,0,0,0
+GONZA,6,Precinct 6 Election Day,9,16,0,1
+GONZA,6,Precinct 6 Early Voting in Person,7,22,0,0
+GONZA,6,Precinct 6 Provisional ,0,0,0,0
+GONZA,6,Precinct 6 By Mail,2,3,0,0
+GONZA,7,Precinct 7 Election Day,14,3,0,0
+GONZA,7,Precinct 7 Early Voting in Person,20,24,0,0
+GONZA,7,Precinct 7 Provisional,0,0,0,0
+GONZA,7,Precinct 7 By Mail,0,1,0,0
+GONZA,8,Precinct 8 Election Day,11,11,0,0
+GONZA,8,Precinct 8 Early Voting in Person,17,15,0,0
+GONZA,8,Precinct 8 Provisional,0,0,0,0
+GONZA,8,Precinct 8 By Mail,0,0,0,0
+GONZA,9,Precinct 9 Election Day,22,36,0,1
+GONZA,9,Precinct 9 Early Voting in Person,25,101,0,0
+GONZA,9,Precinct 9 Provisional,0,0,0,0
+GONZA,9,Precinct 9 By Mail,6,2,0,0
+GONZA,10,Precinct 10 Election Day,3,17,0,0
+GONZA,10,Precinct 10 Early Voting in Person,7,17,0,0
+GONZA,10,Precinct 10 Provisional ,0,0,0,0
+GONZA,10,Precinct 10 By Mail,4,2,0,0
+GONZA,11,Precinct 11 Election Day,5,4,0,0
+GONZA,11,Precinct 11 Early Voting in Person,10,7,0,0
+GONZA,11,Precinct 11 Provisional,0,0,0,0
+GONZA,11,Precinct 11 By Mail,4,2,0,0
+GONZA,12,Precinct 12 Election Day,9,8,0,0
+GONZA,12,Precinct 12 Early Voting in Person,13,16,0,0
+GONZA,12,Precinct 12 Proivisional,0,0,0,0
+GONZA,12,Precinct 12 By Mail,0,0,0,0
+GONZA,13,Precinct 13 Election Day,15,7,0,0
+GONZA,13,Precinct 13 Early Voting in Person,19,14,0,0
+GONZA,13,Precinct 13 Provisional ,0,0,0,0
+GONZA,13,Precinct 13 By Mail,0,2,0,0
+GONZA,14,Precinct 14 Election Day,3,2,0,0
+GONZA,14,Precinct 14 Early Voting in Person,9,4,0,0
+GONZA,14,Precinct 14 Provisional,0,0,0,0
+GONZA,14,Precinct 14 By Mail,0,0,0,0
+GONZA,15,Precinct 15 Election Day,14,10,0,0
+GONZA,15,Precinct 15 Early Voting in Person,36,24,0,0
+GONZA,15,Precinct 15 Provisional ,0,1,0,0
+GONZA,15,Precinct 15 By Mail,4,0,0,0
+GONZA,ZZZ,COUNTY TOTALS,970,1175,0,2

@@ -1,0 +1,14 @@
+﻿Contest,PrecinctName,VotingType,Choice,Party,Votes,VotesPercent,TotalVotes,TotalVotesPercent,CastTotal,CastTotalPercent,MainTotal,MainTotalPercent,UnderVotes,TotalUnderVotes,OverVotes,TotalOverVotes,InvalidVotes,TotalInvalidVotes,RejectedWriteInVotes,TotalRejectedWriteInVotes,UnresolvedWriteInVotes,TotalUnresolvedWriteInVotes
+"County Commissioner, Precinct 1 - Republican Party",101,Absentee Voting,Tommy J Wright Jr,,9,52.94%,73,44.79%,17,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",101,Early Voting,Tommy J Wright Jr,,44,43.56%,73,44.79%,101,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",101,Election Day Voting,Tommy J Wright Jr,,20,44.44%,73,44.79%,45,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",101,Absentee Voting,Trey Bradshaw,,8,47.06%,90,55.21%,17,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",101,Early Voting,Trey Bradshaw,,57,56.44%,90,55.21%,101,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",101,Election Day Voting,Trey Bradshaw,,25,55.56%,90,55.21%,45,100.00%,163,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Absentee Voting,Tommy J Wright Jr,,2,50.00%,19,46.34%,4,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Early Voting,Tommy J Wright Jr,,8,72.73%,19,46.34%,11,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Election Day Voting,Tommy J Wright Jr,,9,34.62%,19,46.34%,26,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Absentee Voting,Trey Bradshaw,,2,50.00%,22,53.66%,4,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Early Voting,Trey Bradshaw,,3,27.27%,22,53.66%,11,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct 1 - Republican Party",102,Election Day Voting,Trey Bradshaw,,17,65.38%,22,53.66%,26,100.00%,41,100.00%,0,0,0,0,0,0,0,0,0,0
+

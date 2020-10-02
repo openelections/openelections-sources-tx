@@ -1,0 +1,43 @@
+Political_subdivision,Election_date,Election_name,Precinct_name,Split_name,Reporting_flag,Update_count,Pct_Id,Pct_seq_nbr,Reg_voters,Turn_Out,Contest_Id,Contest_seq_nbr,Contest_title,Contest_party_name,Selectable_Options,candidate_id,candidate_name,Candidate_Type,cand_seq_nbr,Party_Code,total_ballots,total_votes,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,160,105,1,0,0,0,0,0,92,58,0,0,68,47,1,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,160,49,1,0,0,0,0,0,92,29,0,0,68,20,1,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,160,4,0,0,0,0,0,0,92,4,0,0,68,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,160,1,0,0,0,0,0,0,92,1,0,0,68,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,160,5,0,0,0,0,0,0,92,5,0,0,68,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,101,,1,6,1,1,1086,0.15,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,160,0,0,0,0,0,0,0,92,0,0,0,68,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,169,100,3,0,0,0,0,0,97,55,2,0,72,45,1,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,169,60,3,0,0,0,0,0,97,35,2,0,72,25,1,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,169,2,0,0,0,0,0,0,97,1,0,0,72,1,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,169,4,0,0,0,0,0,0,97,4,0,0,72,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,169,5,0,0,0,0,0,0,97,4,0,0,72,1,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,202,,1,6,2,2,1208,0.14,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,169,1,0,0,0,0,0,0,97,1,0,0,72,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,60,42,0,0,0,0,0,0,37,24,0,0,23,18,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,60,18,0,0,0,0,0,0,37,13,0,0,23,5,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,60,0,0,0,0,0,0,0,37,0,0,0,23,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,60,0,0,0,0,0,0,0,37,0,0,0,23,0,0,0
+shackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,60,0,0,0,0,0,0,0,37,0,0,0,23,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,303,,1,4,3,3,566,0.11,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,60,0,0,0,0,0,0,0,37,0,0,0,23,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,86,52,3,0,0,0,0,0,48,26,1,0,38,26,2,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,86,31,3,0,0,0,0,0,48,21,1,0,38,10,2,0
+shackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,86,0,0,0,0,0,0,0,48,0,0,0,38,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,86,0,0,0,0,0,0,0,48,0,0,0,38,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,86,0,0,0,0,0,0,0,48,0,0,0,38,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,307,,1,4,4,4,586,0.15,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,86,0,0,0,0,0,0,0,48,0,0,0,38,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,5,5,0,0,0,0,0,0,4,4,0,0,1,1,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,404,,1,4,5,5,86,0.06,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,10,10,0,0,0,0,0,0,4,4,0,0,6,6,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,10,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,10,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,10,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,10,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,405,,1,4,6,6,492,0.02,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,10,0,0,0,0,0,0,0,4,0,0,0,6,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,1,Glenn Rogers,C,1,,66,50,0,0,0,0,0,0,43,32,0,0,23,18,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,18,8,"State Representative, District 60",REPUBLICAN PARTY,1,2,Jon Francis,C,2,,66,12,0,0,0,0,0,0,43,8,0,0,23,4,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,82,16,United States Senator,DEMOCRATIC PARTY,1,1,"Mary ""MJ"" Hegar",C,1,,66,2,0,0,0,0,0,0,43,2,0,0,23,0,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,82,16,United States Senator,DEMOCRATIC PARTY,1,2,Royce West,C,2,,66,2,0,0,0,0,0,0,43,1,0,0,23,1,0,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,2,Chrysta Castañeda,C,1,,66,2,1,0,0,0,0,0,43,2,0,0,23,0,1,0
+ShackelfordCounty,7/14/2020,Rep/DemPrimary Runoff,406,,1,6,7,7,576,0.11,36,18,Railroad Commissioner,DEMOCRATIC PARTY,1,1,"Roberto R. ""Beto"" Alonzo",C,2,,66,1,1,0,0,0,0,0,43,1,0,0,23,0,1,0

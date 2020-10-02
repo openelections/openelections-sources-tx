@@ -1,0 +1,64 @@
+COUNTY NUMBER,PRECINCT CODE,PRECINCT NAME,DEM US Senator,DEM US Senator,DEM US Senator,DEM US Senator,DEM Railroad Commissioner,DEM Railroad Commissioner,DEM Railroad Commissioner,DEM Railroad Commissioner
+,,,DEM,DEM,DEM,DEM,DEM,DEM,DEM,DEM
+,,,"Mary ""MJ"" Hegar",Royce West,OVER VOTES,UNDER VOTES,"Roberto R. ""Beto"" Alonzo",Chrysta Castañeda,OVER VOTES,UNDER VOTES
+GONZA,1,Precinct 1 Election Day,9,2,0,1,8,4,0,0
+GONZA,1,Precinct 1 Early Voting,16,4,0,0,12,8,0,0
+GONZA,1,Precinct 1 Provisional,0,0,0,0,0,0,0,0
+GONZA,1,Precinct 1 By Mail,15,11,0,0,12,13,0,1
+GONZA,2,Precinct 2 Election Day,11,3,0,0,9,5,0,0
+GONZA,2,Precinct 2 Early Voting in Person,13,3,0,0,5,9,0,2
+GONZA,2,Precinct 2 Provisional ,0,0,0,0,0,0,0,0
+GONZA,2,Precinct 2 By Mail,8,9,0,0,6,11,0,0
+GONZA,3,Precinct 3 Election Day,4,3,0,0,3,4,0,0
+GONZA,3,Precinct 3 Early Voting in Person,16,3,0,0,9,10,0,0
+GONZA,3,Precinct 3 Provisional,0,0,0,0,0,0,0,0
+GONZA,3,Precinct 3 By Mail,4,3,0,0,4,3,0,0
+GONZA,4,Precinct 4 Election Day,2,0,0,0,1,1,0,0
+GONZA,4,Precinct 4 Early Voting in Person,4,2,0,0,3,3,0,0
+GONZA,4,Precinct 4 Provisional,0,0,0,0,0,0,0,0
+GONZA,4,Precinct 4 By Mail,4,1,0,0,4,1,0,0
+GONZA,5,Precinct 5 Election Day,1,1,0,0,0,2,0,0
+GONZA,5,Precinct 5 Early Voting in Person,1,1,0,0,2,0,0,0
+GONZA,5,Precinct 5 Provisional ,0,0,0,0,0,0,0,0
+GONZA,5,Precinct 5 By Mail,0,6,0,0,1,5,0,0
+GONZA,6,Precinct 6 Election Day,1,0,0,0,1,0,0,0
+GONZA,6,Precinct 6 Early Voting in Person,1,1,0,0,0,2,0,0
+GONZA,6,Precinct 6 Provisional ,0,0,0,0,0,0,0,0
+GONZA,6,Precinct 6 By Mail,1,2,0,0,1,2,0,0
+GONZA,7,Precinct 7 Election Day,0,0,0,0,0,0,0,0
+GONZA,7,Precinct 7 Early Voting in Person,1,0,0,0,0,1,0,0
+GONZA,7,Precinct 7 Provisional,0,0,0,0,0,0,0,0
+GONZA,7,Precinct 7 By Mail,2,1,0,0,0,3,0,0
+GONZA,8,Precinct 8 Election Day,3,0,0,0,1,2,0,0
+GONZA,8,Precinct 8 Early Voting in Person,0,0,0,0,0,0,0,0
+GONZA,8,Precinct 8 Provisional,1,0,0,0,0,1,0,0
+GONZA,8,Precinct 8 By Mail,0,0,0,0,0,0,0,0
+GONZA,9,Precinct 9 Election Day,8,1,0,0,3,6,0,0
+GONZA,9,Precinct 9 Early Voting in Person,9,3,0,1,9,3,0,1
+GONZA,9,Precinct 9 Provisional,0,0,0,0,0,0,0,0
+GONZA,9,Precinct 9 By Mail,8,2,0,0,5,5,0,0
+GONZA,10,Precinct 10 Election Day,2,0,0,0,1,0,0,1
+GONZA,10,Precinct 10 Early Voting in Person,1,0,0,0,1,0,0,0
+GONZA,10,Precinct 10 Provisional ,0,0,0,0,0,0,0,0
+GONZA,10,Precinct 10 By Mail,0,0,0,0,0,0,0,0
+GONZA,11,Precinct 11 Election Day,1,0,0,0,0,1,0,0
+GONZA,11,Precinct 11 Early Voting in Person,0,0,0,0,0,0,0,0
+GONZA,11,Precinct 11 Provisional,0,0,0,0,0,0,0,0
+GONZA,11,Precinct 11 By Mail,0,0,0,0,0,0,0,0
+GONZA,12,Precinct 12 Election Day,2,0,0,0,0,2,0,0
+GONZA,12,Precinct 12 Early Voting in Person,3,1,0,0,1,3,0,0
+GONZA,12,Precinct 12 Proivisional,0,0,0,0,0,0,0,0
+GONZA,12,Precinct 12 By Mail,5,0,0,0,0,5,0,0
+GONZA,13,Precinct 13 Election Day,1,1,0,0,2,0,0,0
+GONZA,13,Precinct 13 Early Voting in Person,1,0,0,0,1,0,0,0
+GONZA,13,Precinct 13 Provisional ,0,0,0,0,0,0,0,0
+GONZA,13,Precinct 13 By Mail,2,0,0,0,0,2,0,0
+GONZA,14,Precinct 14 Election Day,1,0,0,0,1,0,0,0
+GONZA,14,Precinct 14 Early Voting in Person,0,0,0,0,0,0,0,0
+GONZA,14,Precinct 14 Provisional,0,0,0,0,0,0,0,0
+GONZA,14,Precinct 14 By Mail,2,0,0,0,0,2,0,0
+GONZA,15,Precinct 15 Election Day,0,0,0,0,0,0,0,0
+GONZA,15,Precinct 15 Early Voting in Person,0,0,0,0,0,0,0,0
+GONZA,15,Precinct 15 Provisional ,0,0,0,0,0,0,0,0
+GONZA,15,Precinct 15 By Mail,2,0,0,0,1,1,0,0
+GONZA,ZZZ,COUNTY TOTALS,166,64,0,2,107,120,0,5

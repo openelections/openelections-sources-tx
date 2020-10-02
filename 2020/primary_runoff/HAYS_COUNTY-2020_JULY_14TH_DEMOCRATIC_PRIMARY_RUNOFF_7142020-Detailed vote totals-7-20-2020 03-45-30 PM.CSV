@@ -1,0 +1,750 @@
+#FormatVersion 1
+#Precinct,Precinct ID,Precinct Reporting,"Registered Voters","REP Ballots Cast","DEM Ballots Cast","NON Ballots Cast","Turnout Percentage",Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,"Absentee Voting Votes","Absentee Voting Overvotes","Absentee Voting Undervotes","Absentee Voting Invalid Votes","Early Voting Votes","Early Voting Overvotes","Early Voting Undervotes","Early Voting Invalid Votes","Election Day Voting Votes","Election Day Voting Overvotes","Election Day Voting Undervotes","Election Day Voting Invalid Votes"
+"110",30,Reporting         ,2155,77,132,0,9.70,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",91,0,1,0,41,0,0,0,29,0,1,0,21,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",40,0,1,0,20,0,0,0,14,0,1,0,6,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",37,0,6,0,3,0,1,0,24,0,4,0,10,0,1,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",34,0,6,0,11,0,1,0,10,0,4,0,13,0,1,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",51,0,1,0,24,0,1,0,14,0,0,0,13,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",80,0,1,0,36,0,1,0,30,0,0,0,14,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",63,0,0,0,10,0,0,0,32,0,0,0,21,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",14,0,0,0,5,0,0,0,6,0,0,0,3,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",19,0,1,0,2,0,0,0,13,0,1,0,4,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",57,0,1,0,13,0,0,0,24,0,1,0,20,0,0,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",79,0,6,0,44,0,2,0,24,0,2,0,11,0,2,0
+"110",30,Reporting         ,2155,77,132,0,9.70,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",47,0,6,0,15,0,2,0,18,0,2,0,14,0,2,0
+"111",22,Reporting         ,343,9,32,0,11.95,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",19,0,0,0,7,0,0,0,6,0,0,0,6,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",13,0,0,0,4,0,0,0,5,0,0,0,4,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",12,0,0,0,4,0,0,0,6,0,0,0,2,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",20,0,0,0,7,0,0,0,5,0,0,0,8,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",6,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",3,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",5,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",4,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",22,0,0,0,9,0,0,0,7,0,0,0,6,0,0,0
+"111",22,Reporting         ,343,9,32,0,11.95,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",10,0,0,0,2,0,0,0,4,0,0,0,4,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",94,0,3,0,24,0,2,0,36,0,1,0,34,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",71,0,3,0,40,0,2,0,18,0,1,0,13,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",17,0,2,0,4,0,1,0,8,0,1,0,5,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",23,0,2,0,2,0,1,0,12,0,1,0,9,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",59,0,4,0,25,0,2,0,15,0,0,0,19,0,2,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",105,0,4,0,39,0,2,0,40,0,0,0,26,0,2,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",28,0,0,0,7,0,0,0,15,0,0,0,6,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",14,0,0,0,0,0,0,0,6,0,0,0,8,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",10,0,0,0,3,0,0,0,4,0,0,0,3,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",32,0,0,0,4,0,0,0,17,0,0,0,11,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",80,0,2,0,38,0,2,0,29,0,0,0,13,0,0,0
+"112",6,Reporting         ,2545,42,168,0,8.25,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",86,0,2,0,26,0,2,0,26,0,0,0,34,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",40,0,0,0,20,0,0,0,7,0,0,0,13,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",32,0,0,0,11,0,0,0,11,0,0,0,10,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",9,0,0,0,3,0,0,0,4,0,0,0,2,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",9,0,0,0,1,0,0,0,6,0,0,0,2,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",23,0,1,0,10,0,0,0,8,0,1,0,5,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",48,0,1,0,21,0,0,0,9,0,1,0,18,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",13,0,0,0,1,0,0,0,8,0,0,0,4,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",5,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",3,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",15,0,0,0,2,0,0,0,9,0,0,0,4,0,0,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",29,1,3,0,15,1,1,0,12,0,0,0,2,0,2,0
+"113",47,Reporting         ,1368,18,72,0,6.58,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",39,1,3,0,14,1,1,0,6,0,0,0,19,0,2,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",100,0,1,0,54,0,0,0,25,0,0,0,21,0,1,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",79,0,1,0,54,0,0,0,7,0,0,0,18,0,1,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",11,0,1,0,5,0,1,0,1,0,0,0,5,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",12,0,1,0,2,0,1,0,5,0,0,0,5,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",61,0,3,0,40,0,1,0,8,0,2,0,13,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",116,0,3,0,67,0,1,0,22,0,2,0,27,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",14,0,2,0,3,0,1,0,4,0,0,0,7,0,1,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",8,0,2,0,4,0,1,0,2,0,0,0,2,0,1,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",11,0,0,0,4,0,0,0,2,0,0,0,5,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",13,0,0,0,4,0,0,0,4,0,0,0,5,0,0,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",92,0,5,0,62,0,4,0,14,0,0,0,16,0,1,0
+"114",46,Reporting         ,1856,24,180,0,10.99,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",83,0,5,0,42,0,4,0,18,0,0,0,23,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",46,0,0,0,8,0,0,0,19,0,0,0,19,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",20,0,0,0,2,0,0,0,7,0,0,0,11,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",9,0,3,0,2,0,0,0,4,0,2,0,3,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",8,0,3,0,0,0,0,0,2,0,2,0,6,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",31,0,4,0,6,0,1,0,8,0,2,0,17,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",31,0,4,0,3,0,1,0,16,0,2,0,12,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",14,0,1,0,2,0,0,0,6,0,1,0,6,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",5,0,1,0,0,0,0,0,1,0,1,0,4,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",6,0,0,0,0,0,0,0,3,0,0,0,3,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",14,0,0,0,2,0,0,0,5,0,0,0,7,0,0,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",26,0,4,0,1,0,2,0,13,0,1,0,12,0,1,0
+"115",34,Reporting         ,1969,20,66,0,4.37,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",36,0,4,0,7,0,2,0,12,0,1,0,17,0,1,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",53,0,1,0,24,0,1,0,14,0,0,0,15,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",19,0,1,0,9,0,1,0,7,0,0,0,3,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",17,0,3,0,6,0,2,0,8,0,0,0,3,0,1,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",13,0,3,0,3,0,2,0,6,0,0,0,4,0,1,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",28,0,0,0,11,0,0,0,10,0,0,0,7,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",45,0,0,0,23,0,0,0,11,0,0,0,11,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",22,0,1,0,6,0,1,0,10,0,0,0,6,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",10,0,1,0,4,0,1,0,4,0,0,0,2,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",8,0,0,0,4,0,0,0,2,0,0,0,2,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",25,0,0,0,7,0,0,0,12,0,0,0,6,0,0,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",42,0,1,0,20,0,0,0,14,0,0,0,8,0,1,0
+"120",1,Reporting         ,1409,33,73,0,7.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",30,0,1,0,14,0,0,0,7,0,0,0,9,0,1,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",49,0,0,0,4,0,0,0,19,0,0,0,26,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",27,0,0,0,1,0,0,0,9,0,0,0,17,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",6,0,0,0,1,0,0,0,2,0,0,0,3,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",26,0,0,0,2,0,0,0,8,0,0,0,16,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",50,0,0,0,3,0,0,0,20,0,0,0,27,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",5,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",4,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",23,0,3,0,2,0,0,0,13,0,0,0,8,0,3,0
+"121",14,Reporting         ,2579,6,76,0,3.18,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",50,0,3,0,3,0,0,0,15,0,0,0,32,0,3,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",26,0,0,0,5,0,0,0,5,0,0,0,16,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",11,0,0,0,1,0,0,0,7,0,0,0,3,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",4,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",5,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",16,0,1,0,3,0,0,0,5,0,1,0,8,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",20,0,1,0,3,0,0,0,6,0,1,0,11,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",7,0,0,0,0,0,0,0,4,0,0,0,3,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",2,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",8,0,0,0,0,0,0,0,5,0,0,0,3,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",15,0,0,0,2,0,0,0,3,0,0,0,10,0,0,0
+"122",38,Reporting         ,1336,9,37,0,3.44,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",22,0,0,0,4,0,0,0,9,0,0,0,9,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",59,0,0,0,23,0,0,0,16,0,0,0,20,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",30,0,0,0,12,0,0,0,10,0,0,0,8,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",8,0,1,0,3,0,0,0,1,0,0,0,4,0,1,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",9,0,1,0,0,0,0,0,1,0,0,0,8,0,1,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",42,0,0,0,15,0,0,0,11,0,0,0,16,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",47,0,0,0,20,0,0,0,15,0,0,0,12,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",14,0,0,0,2,0,0,0,2,0,0,0,10,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",4,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",5,0,0,0,2,0,0,0,2,0,0,0,1,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",13,0,0,0,1,0,0,0,0,0,0,0,12,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",42,0,0,0,20,0,0,0,8,0,0,0,14,0,0,0
+"123",19,Reporting         ,1410,18,89,0,7.59,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",47,0,0,0,15,0,0,0,18,0,0,0,14,0,0,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",130,0,1,0,43,0,0,0,49,0,0,0,38,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",47,0,1,0,8,0,0,0,26,0,0,0,13,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",36,0,1,0,4,0,0,0,24,0,0,0,8,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",47,0,1,0,2,0,0,0,20,0,0,0,25,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",78,0,3,0,26,0,1,0,31,0,1,0,21,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",97,0,3,0,24,0,1,0,43,0,1,0,30,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",53,0,3,0,4,0,0,0,26,0,0,0,23,0,3,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",28,0,3,0,2,0,0,0,18,0,0,0,8,0,3,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",30,0,1,0,3,0,0,0,14,0,0,0,13,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",53,0,1,0,3,0,0,0,30,0,0,0,20,0,1,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",76,0,3,0,22,0,1,0,31,0,2,0,23,0,0,0
+"125",45,Reporting         ,3053,84,178,0,8.58,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",99,0,3,0,28,0,1,0,42,0,2,0,29,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",139,0,0,0,42,0,0,0,58,0,0,0,39,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",44,0,0,0,4,0,0,0,25,0,0,0,15,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",63,0,5,0,15,0,3,0,30,0,1,0,18,0,1,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",51,0,5,0,8,0,3,0,24,0,1,0,19,0,1,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",74,0,3,0,26,0,1,0,25,0,1,0,23,0,1,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",106,0,3,0,19,0,1,0,57,0,1,0,30,0,1,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",71,0,8,0,12,0,4,0,36,0,4,0,23,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",40,0,8,0,10,0,4,0,15,0,4,0,15,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",30,0,0,0,16,0,0,0,7,0,0,0,7,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",89,0,0,0,10,0,0,0,48,0,0,0,31,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",82,0,3,0,27,0,1,0,34,0,2,0,21,0,0,0
+"126",42,Reporting         ,3155,119,183,0,9.57,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",98,0,3,0,18,0,1,0,47,0,2,0,33,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",35,0,0,0,7,0,0,0,17,0,0,0,11,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",13,0,0,0,4,0,0,0,7,0,0,0,2,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",21,0,0,0,5,0,0,0,11,0,0,0,5,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",14,0,0,0,0,0,0,0,11,0,0,0,3,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",19,0,3,0,5,0,1,0,8,0,2,0,6,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",26,0,3,0,5,0,1,0,14,0,2,0,7,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",21,0,0,0,4,0,0,0,10,0,0,0,7,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",14,0,0,0,1,0,0,0,12,0,0,0,1,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",9,0,0,0,0,0,0,0,7,0,0,0,2,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",26,0,0,0,5,0,0,0,15,0,0,0,6,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",22,0,1,0,5,0,1,0,13,0,0,0,4,0,0,0
+"127",52,Reporting         ,815,35,48,0,10.18,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",25,0,1,0,5,0,1,0,11,0,0,0,9,0,0,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",107,0,0,0,28,0,0,0,43,0,0,0,36,0,0,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",32,0,0,0,7,0,0,0,10,0,0,0,15,0,0,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",42,0,9,0,9,0,0,0,18,0,4,0,15,0,5,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",41,0,9,0,9,0,0,0,14,0,4,0,18,0,5,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",59,0,3,0,15,0,2,0,23,0,0,0,21,0,1,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",77,0,3,0,18,0,2,0,30,0,0,0,29,0,1,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",61,0,5,0,16,0,0,0,21,0,1,0,24,0,4,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",26,0,5,0,2,0,0,0,14,0,1,0,10,0,4,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",33,0,1,0,9,0,0,0,12,0,1,0,12,0,0,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",58,0,1,0,9,0,0,0,23,0,1,0,26,0,0,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",65,0,4,0,25,0,2,0,24,0,1,0,16,0,1,0
+"128",41,Reporting         ,2626,92,139,0,8.80,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",70,0,4,0,8,0,2,0,28,0,1,0,34,0,1,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",83,0,1,0,28,0,1,0,24,0,0,0,31,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",53,0,1,0,12,0,1,0,29,0,0,0,12,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",38,0,4,0,3,0,1,0,25,0,1,0,10,0,2,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",32,0,4,0,4,0,1,0,22,0,1,0,6,0,2,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",47,0,1,0,9,0,1,0,20,0,0,0,18,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",89,0,1,0,31,0,1,0,33,0,0,0,25,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",50,0,1,0,5,0,0,0,35,0,0,0,10,0,1,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",23,0,1,0,3,0,0,0,13,0,0,0,7,0,1,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",18,0,1,0,6,0,0,0,10,0,1,0,2,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",55,0,1,0,2,0,0,0,37,0,1,0,16,0,0,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",59,2,5,0,22,2,3,0,22,0,1,0,15,0,1,0
+"129",15,Reporting         ,2483,74,137,0,8.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",71,2,5,0,14,2,3,0,30,0,1,0,27,0,1,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",130,0,2,0,34,0,0,0,54,0,2,0,42,0,0,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",62,0,2,0,7,0,0,0,33,0,2,0,22,0,0,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",48,0,3,0,4,0,0,0,16,0,1,0,28,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",47,0,3,0,1,0,0,0,23,0,1,0,23,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",89,0,6,0,18,0,1,0,45,0,3,0,26,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",99,0,6,0,22,0,1,0,41,0,3,0,36,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",60,0,2,0,3,0,0,0,25,0,0,0,32,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",36,0,2,0,2,0,0,0,15,0,0,0,19,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",17,0,0,0,3,0,0,0,11,0,0,0,3,0,0,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",81,0,0,0,2,0,0,0,29,0,0,0,50,0,0,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",101,0,4,0,26,0,1,0,49,0,1,0,26,0,2,0
+"130",62,Reporting         ,3055,98,194,0,9.56,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",89,0,4,0,14,0,1,0,39,0,1,0,36,0,2,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",177,0,0,0,52,0,0,0,85,0,0,0,40,0,0,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",37,0,0,0,8,0,0,0,22,0,0,0,7,0,0,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",68,0,18,0,6,0,3,0,45,0,8,0,17,0,7,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",62,0,18,0,4,0,3,0,38,0,8,0,20,0,7,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",69,0,7,0,23,0,3,0,32,0,3,0,14,0,1,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",138,0,7,0,34,0,3,0,72,0,3,0,32,0,1,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",94,0,7,0,8,0,2,0,57,0,3,0,29,0,2,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",47,0,7,0,3,0,2,0,31,0,3,0,13,0,2,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",49,0,4,0,6,0,2,0,26,0,2,0,17,0,0,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",95,0,4,0,5,0,2,0,63,0,2,0,27,0,0,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",148,0,7,0,44,0,2,0,76,0,4,0,28,0,1,0
+"220",17,Reporting         ,2868,148,214,0,12.62,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",59,0,7,0,14,0,2,0,27,0,4,0,18,0,1,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",113,0,2,0,36,0,1,0,52,0,1,0,25,0,0,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",48,0,2,0,18,0,1,0,16,0,1,0,14,0,0,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",28,0,8,0,7,0,3,0,9,0,0,0,12,0,5,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",37,0,8,0,8,0,3,0,17,0,0,0,12,0,5,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",56,0,7,0,24,0,3,0,19,0,3,0,13,0,1,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",100,0,7,0,28,0,3,0,47,0,3,0,25,0,1,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",45,0,7,0,11,0,2,0,19,0,1,0,15,0,4,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",21,0,7,0,5,0,2,0,6,0,1,0,10,0,4,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",27,0,0,0,13,0,0,0,6,0,0,0,8,0,0,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",46,0,0,0,5,0,0,0,20,0,0,0,21,0,0,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",89,0,12,0,39,0,5,0,33,0,4,0,17,0,3,0
+"221",31,Reporting         ,2344,73,163,0,10.07,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",62,0,12,0,11,0,5,0,32,0,4,0,19,0,3,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",97,0,0,0,29,0,0,0,47,0,0,0,21,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",43,0,0,0,10,0,0,0,29,0,0,0,4,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",37,0,4,0,11,0,1,0,19,0,2,0,7,0,1,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",99,0,4,0,27,0,1,0,55,0,2,0,17,0,1,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",56,0,4,0,8,0,2,0,38,0,2,0,10,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",23,0,4,0,4,0,2,0,12,0,2,0,7,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",38,0,0,0,9,0,0,0,23,0,0,0,6,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",45,0,0,0,5,0,0,0,29,0,0,0,11,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",82,0,0,0,28,0,0,0,41,0,0,0,13,0,0,0
+"222",67,Reporting         ,1784,83,140,0,12.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",58,0,0,0,11,0,0,0,35,0,0,0,12,0,0,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",130,0,0,0,42,0,0,0,59,0,0,0,29,0,0,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",48,0,0,0,17,0,0,0,17,0,0,0,14,0,0,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",58,0,9,0,6,0,1,0,37,0,6,0,15,0,2,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",50,0,9,0,4,0,1,0,33,0,6,0,13,0,2,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",71,0,4,0,28,0,2,0,28,0,1,0,15,0,1,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",103,0,4,0,29,0,2,0,47,0,1,0,27,0,1,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",69,0,7,0,6,0,1,0,45,0,4,0,18,0,2,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",41,0,7,0,4,0,1,0,27,0,4,0,10,0,2,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",39,0,0,0,8,0,0,0,22,0,0,0,9,0,0,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",78,0,0,0,3,0,0,0,54,0,0,0,21,0,0,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",83,0,11,0,29,0,4,0,32,0,6,0,22,0,1,0
+"223",27,Reporting         ,2640,117,178,0,11.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",84,0,11,0,26,0,4,0,38,0,6,0,20,0,1,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",149,0,3,0,43,0,1,0,76,0,2,0,30,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",40,0,3,0,8,0,1,0,17,0,2,0,15,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",54,0,10,0,11,0,9,0,26,0,1,0,17,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",128,0,10,0,32,0,9,0,68,0,1,0,28,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",155,0,14,0,19,0,2,0,91,0,10,0,45,0,2,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",40,0,14,0,9,0,2,0,18,0,10,0,13,0,2,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",73,0,0,0,15,0,0,0,40,0,0,0,18,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",136,0,0,0,15,0,0,0,79,0,0,0,42,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",119,0,9,0,33,0,8,0,60,0,1,0,26,0,0,0
+"224",40,Reporting         ,2278,209,192,0,17.60,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",64,0,9,0,11,0,8,0,34,0,1,0,19,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",84,0,1,0,37,0,0,0,32,0,1,0,15,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",19,0,1,0,4,0,0,0,14,0,1,0,1,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",39,0,8,0,11,0,2,0,17,0,6,0,11,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",57,0,8,0,28,0,2,0,24,0,6,0,5,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",121,0,24,0,18,0,9,0,82,0,10,0,21,0,5,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",52,0,24,0,8,0,9,0,32,0,10,0,12,0,5,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",101,0,1,0,22,0,0,0,60,0,1,0,19,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",95,0,1,0,13,0,0,0,63,0,1,0,19,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",71,0,3,0,30,0,1,0,33,0,2,0,8,0,0,0
+"225",43,Reporting         ,1492,197,104,0,20.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",30,0,3,0,10,0,1,0,12,0,2,0,8,0,0,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",242,0,2,0,98,0,2,0,106,0,0,0,38,0,0,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",64,0,2,0,30,0,2,0,23,0,0,0,11,0,0,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",77,0,12,0,27,0,5,0,33,0,5,0,17,0,2,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",219,0,12,0,98,0,5,0,91,0,5,0,30,0,2,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",235,0,18,0,47,0,5,0,114,0,9,0,74,0,4,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",83,0,18,0,14,0,5,0,43,0,9,0,26,0,4,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",159,0,0,0,50,0,0,0,71,0,0,0,38,0,0,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",177,0,0,0,16,0,0,0,95,0,0,0,66,0,0,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",199,1,14,0,93,1,4,0,76,0,7,0,30,0,3,0
+"226",53,Reporting         ,2740,336,308,0,23.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",94,1,14,0,32,1,4,0,46,0,7,0,16,0,3,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",155,0,1,0,49,0,0,0,67,0,0,0,39,0,1,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",49,0,1,0,16,0,0,0,22,0,0,0,11,0,1,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",49,0,7,0,10,0,1,0,26,0,5,0,13,0,1,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",44,0,7,0,11,0,1,0,21,0,5,0,12,0,1,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",83,0,4,0,25,0,1,0,35,0,1,0,23,0,2,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",118,0,4,0,39,0,1,0,53,0,1,0,26,0,2,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",63,0,4,0,13,0,1,0,28,0,3,0,22,0,0,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",33,0,4,0,8,0,1,0,21,0,3,0,4,0,0,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",45,0,0,0,19,0,0,0,18,0,0,0,8,0,0,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",55,0,0,0,3,0,0,0,34,0,0,0,18,0,0,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",107,0,6,0,34,0,2,0,52,0,3,0,21,0,1,0
+"227",4,Reporting         ,2891,100,205,0,10.55,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",92,0,6,0,29,0,2,0,34,0,3,0,29,0,1,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",173,0,0,0,34,0,0,0,91,0,0,0,48,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",66,0,0,0,13,0,0,0,30,0,0,0,23,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",44,0,11,0,9,0,2,0,24,0,5,0,11,0,4,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",58,0,11,0,9,0,2,0,32,0,5,0,17,0,4,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",97,0,7,0,28,0,2,0,46,0,5,0,23,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",135,0,7,0,17,0,2,0,70,0,5,0,48,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",77,0,5,0,8,0,3,0,47,0,0,0,22,0,2,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",31,0,5,0,9,0,3,0,14,0,0,0,8,0,2,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",38,0,1,0,10,0,0,0,22,0,1,0,6,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",74,0,1,0,10,0,0,0,38,0,1,0,26,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",102,1,6,0,27,1,1,0,45,0,5,0,30,0,0,0
+"228",37,Reporting         ,2876,113,239,0,12.24,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",130,1,6,0,18,1,1,0,71,0,5,0,41,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",49,0,0,0,16,0,0,0,15,0,0,0,18,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",30,0,0,0,4,0,0,0,18,0,0,0,8,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",19,0,2,0,3,0,1,0,11,0,0,0,5,0,1,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",16,0,2,0,8,0,1,0,4,0,0,0,4,0,1,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",37,0,3,0,10,0,0,0,17,0,1,0,10,0,2,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",39,0,3,0,10,0,0,0,15,0,1,0,14,0,2,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",20,0,2,0,6,0,1,0,7,0,1,0,7,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",15,0,2,0,5,0,1,0,7,0,1,0,3,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",12,0,1,0,4,0,1,0,7,0,0,0,1,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",24,0,1,0,7,0,1,0,8,0,0,0,9,0,0,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",25,0,2,0,14,0,0,0,6,0,0,0,5,0,2,0
+"229",33,Reporting         ,2398,37,79,0,4.84,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",52,0,2,0,6,0,0,0,27,0,0,0,19,0,2,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",103,0,1,0,30,0,1,0,52,0,0,0,21,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",21,0,1,0,14,0,1,0,3,0,0,0,4,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",28,0,5,0,13,0,2,0,10,0,3,0,5,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",92,0,5,0,30,0,2,0,42,0,3,0,20,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",81,0,11,0,17,0,8,0,35,0,0,0,29,0,3,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",32,0,11,0,6,0,8,0,14,0,0,0,12,0,3,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",58,0,0,0,20,0,0,0,19,0,0,0,19,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",66,0,0,0,11,0,0,0,30,0,0,0,25,0,0,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",74,0,10,0,28,0,4,0,32,0,4,0,14,0,2,0
+"230",55,Reporting         ,1308,124,125,0,19.04,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",41,0,10,0,13,0,4,0,19,0,4,0,9,0,2,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",119,0,4,0,18,0,4,0,53,0,0,0,48,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",44,0,4,0,6,0,4,0,21,0,0,0,17,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",30,0,0,0,8,0,0,0,17,0,0,0,5,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",43,0,0,0,7,0,0,0,22,0,0,0,14,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",67,0,8,0,13,0,5,0,27,0,1,0,27,0,2,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",92,0,8,0,10,0,5,0,46,0,1,0,36,0,2,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",48,0,0,0,8,0,0,0,28,0,0,0,12,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",25,0,0,0,7,0,0,0,11,0,0,0,7,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",29,0,0,0,8,0,0,0,14,0,0,0,7,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",44,0,0,0,7,0,0,0,25,0,0,0,12,0,0,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",66,0,6,0,18,0,4,0,32,0,1,0,16,0,1,0
+"231",21,Reporting         ,2893,73,167,0,8.30,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",95,0,6,0,6,0,4,0,41,0,1,0,48,0,1,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",88,0,0,0,42,0,0,0,30,0,0,0,16,0,0,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",33,0,0,0,3,0,0,0,22,0,0,0,8,0,0,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",34,0,6,0,12,0,2,0,12,0,3,0,10,0,1,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",81,0,6,0,31,0,2,0,37,0,3,0,13,0,1,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",155,0,12,0,36,0,2,0,73,0,6,0,46,0,4,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",56,0,12,0,12,0,2,0,28,0,6,0,16,0,4,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",105,0,0,0,26,0,0,0,47,0,0,0,32,0,0,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",118,0,0,0,24,0,0,0,60,0,0,0,34,0,0,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",78,0,8,0,33,0,2,0,30,0,6,0,15,0,0,0
+"232",24,Reporting         ,1998,223,121,0,17.22,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",35,0,8,0,10,0,2,0,16,0,6,0,9,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",45,0,0,0,4,0,0,0,20,0,0,0,21,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",11,0,0,0,3,0,0,0,6,0,0,0,2,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",14,0,0,0,1,0,0,0,10,0,0,0,3,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",18,0,0,0,4,0,0,0,10,0,0,0,4,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",24,0,1,0,3,0,0,0,8,0,1,0,13,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",31,0,1,0,4,0,0,0,17,0,1,0,10,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",21,0,0,0,3,0,0,0,14,0,0,0,4,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",11,0,0,0,2,0,0,0,6,0,0,0,3,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",8,0,0,0,3,0,0,0,3,0,0,0,2,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",24,0,0,0,2,0,0,0,17,0,0,0,5,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",23,0,2,0,3,0,0,0,8,0,2,0,12,0,0,0
+"233",7,Reporting         ,1228,32,56,0,7.17,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",31,0,2,0,4,0,0,0,16,0,2,0,11,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",40,0,0,0,11,0,0,0,9,0,0,0,20,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",11,0,0,0,3,0,0,0,5,0,0,0,3,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",10,0,2,0,0,0,1,0,4,0,0,0,6,0,1,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",16,0,2,0,4,0,1,0,6,0,0,0,6,0,1,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",18,0,3,0,3,0,3,0,6,0,0,0,9,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",30,0,3,0,8,0,3,0,8,0,0,0,14,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",16,0,1,0,3,0,1,0,6,0,0,0,7,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",11,0,1,0,1,0,1,0,4,0,0,0,6,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",10,0,0,0,5,0,0,0,2,0,0,0,3,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",18,0,0,0,0,0,0,0,8,0,0,0,10,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",26,0,2,0,8,0,2,0,6,0,0,0,12,0,0,0
+"234",39,Reporting         ,1262,28,51,0,6.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",23,0,2,0,4,0,2,0,8,0,0,0,11,0,0,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",195,0,2,0,58,0,0,0,96,0,1,0,41,0,1,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",70,0,2,0,15,0,0,0,33,0,1,0,22,0,1,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",86,0,5,0,23,0,1,0,37,0,3,0,26,0,1,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",176,0,5,0,49,0,1,0,90,0,3,0,37,0,1,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",163,0,9,0,18,0,1,0,110,0,6,0,35,0,2,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",69,0,9,0,7,0,1,0,44,0,6,0,18,0,2,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",106,0,0,0,20,0,0,0,67,0,0,0,19,0,0,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",135,0,0,0,6,0,0,0,93,0,0,0,36,0,0,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",137,0,12,0,47,0,2,0,62,0,5,0,28,0,5,0
+"235",56,Reporting         ,3072,241,267,0,16.54,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",118,0,12,0,24,0,2,0,63,0,5,0,31,0,5,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",64,0,0,0,22,0,0,0,29,0,0,0,13,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",21,0,0,0,9,0,0,0,4,0,0,0,8,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",24,0,3,0,8,0,3,0,8,0,0,0,8,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",58,0,3,0,20,0,3,0,25,0,0,0,13,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",121,0,9,0,7,0,2,0,87,0,3,0,27,0,4,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",32,0,9,0,2,0,2,0,19,0,3,0,11,0,4,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",46,0,1,0,6,0,0,0,26,0,1,0,14,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",115,0,1,0,5,0,0,0,82,0,1,0,28,0,0,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",56,0,2,0,22,0,1,0,24,0,0,0,10,0,1,0
+"236",26,Reporting         ,1332,162,85,0,18.54,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",27,0,2,0,8,0,1,0,9,0,0,0,10,0,1,0
+"238",68,Reporting         ,157,7,11,0,11.46,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",8,0,0,0,1,0,0,0,4,0,0,0,3,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",6,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",5,0,0,0,2,0,0,0,1,0,0,0,2,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",4,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",2,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0
+"238",68,Reporting         ,157,7,11,0,11.46,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",3,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",3,0,2,0,0,0,1,0,2,0,1,0,1,0,0,0
+"238",68,Reporting         ,157,7,11,0,11.46,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",6,0,2,0,1,0,1,0,3,0,1,0,2,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"301",20,Reporting         ,0,0,0,0,0.00,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",288,0,3,0,159,0,3,0,95,0,0,0,34,0,0,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",92,0,3,0,44,0,3,0,28,0,0,0,20,0,0,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",118,0,20,0,65,0,10,0,32,0,8,0,21,0,2,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",245,0,20,0,131,0,10,0,83,0,8,0,31,0,2,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",302,0,23,0,53,0,9,0,147,0,5,0,102,0,9,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",107,0,23,0,18,0,9,0,35,0,5,0,54,0,9,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",131,0,4,0,35,0,3,0,60,0,0,0,36,0,1,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",297,0,4,0,42,0,3,0,127,0,0,0,128,0,1,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",258,0,21,0,152,0,12,0,78,0,5,0,28,0,4,0
+"315",60,Reporting         ,3542,432,383,0,23.01,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",104,0,21,0,42,0,12,0,40,0,5,0,22,0,4,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",89,0,0,0,51,0,0,0,22,0,0,0,16,0,0,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",25,0,0,0,15,0,0,0,6,0,0,0,4,0,0,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",45,0,5,0,27,0,5,0,9,0,0,0,9,0,0,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",64,0,5,0,34,0,5,0,19,0,0,0,11,0,0,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",74,0,8,0,34,0,4,0,27,0,3,0,13,0,1,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",25,0,8,0,11,0,4,0,8,0,3,0,6,0,1,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",33,0,1,0,23,0,0,0,7,0,0,0,3,0,1,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",73,0,1,0,26,0,0,0,31,0,0,0,16,0,1,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",74,0,6,0,45,0,5,0,19,0,0,0,10,0,1,0
+"316",3,Reporting         ,1682,107,114,0,13.14,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",34,0,6,0,16,0,5,0,9,0,0,0,9,0,1,0
+"317",32,Reporting         ,502,7,43,0,9.96,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",27,0,0,0,3,0,0,0,12,0,0,0,12,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",16,0,0,0,4,0,0,0,5,0,0,0,7,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",4,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",15,0,1,0,4,0,0,0,4,0,1,0,7,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",27,0,1,0,3,0,0,0,12,0,1,0,12,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",5,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",4,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",20,0,2,0,3,0,0,0,11,0,1,0,6,0,1,0
+"317",32,Reporting         ,502,7,43,0,9.96,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",21,0,2,0,4,0,0,0,5,0,1,0,12,0,1,0
+"318",8,Reporting         ,138,9,8,0,12.32,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",6,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",3,0,2,0,0,0,0,0,3,0,2,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",4,0,2,0,1,0,0,0,3,0,2,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",6,0,1,0,4,0,0,0,0,0,1,0,2,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",8,0,0,0,1,0,0,0,7,0,0,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",8,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",4,0,1,0,3,0,0,0,0,0,1,0,1,0,0,0
+"318",8,Reporting         ,138,9,8,0,12.32,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",3,0,1,0,2,0,0,0,0,0,1,0,1,0,0,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",139,0,1,0,42,0,0,0,61,0,0,0,36,0,1,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",64,0,1,0,12,0,0,0,34,0,0,0,18,0,1,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",53,0,10,0,9,0,2,0,27,0,4,0,17,0,4,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",141,0,10,0,43,0,2,0,64,0,4,0,34,0,4,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",43,0,1,0,7,0,0,0,16,0,1,0,20,0,0,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",17,0,1,0,4,0,0,0,8,0,1,0,5,0,0,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",11,0,0,0,5,0,0,0,5,0,0,0,1,0,0,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",50,0,0,0,6,0,0,0,20,0,0,0,24,0,0,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",120,0,12,0,41,0,2,0,57,0,4,0,22,0,6,0
+"330",66,Reporting         ,1852,61,204,0,14.31,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",72,0,12,0,11,0,2,0,34,0,4,0,27,0,6,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",227,0,1,0,73,0,1,0,97,0,0,0,57,0,0,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",93,0,1,0,23,0,1,0,41,0,0,0,29,0,0,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",78,0,9,0,13,0,6,0,34,0,2,0,31,0,1,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",234,0,9,0,78,0,6,0,102,0,2,0,54,0,1,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",69,0,5,0,12,0,0,0,31,0,2,0,26,0,3,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",24,0,5,0,1,0,0,0,10,0,2,0,13,0,3,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",22,0,0,0,4,0,0,0,13,0,0,0,5,0,0,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",76,0,0,0,9,0,0,0,30,0,0,0,37,0,0,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",182,0,15,0,70,0,9,0,77,0,2,0,35,0,4,0
+"332",65,Reporting         ,4052,98,321,0,10.34,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",124,0,15,0,18,0,9,0,59,0,2,0,47,0,4,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",334,0,2,0,157,0,0,0,127,0,1,0,50,0,1,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",92,0,2,0,42,0,0,0,36,0,1,0,14,0,1,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",116,0,18,0,48,0,8,0,48,0,7,0,20,0,3,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",294,0,18,0,143,0,8,0,109,0,7,0,42,0,3,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",409,0,34,0,63,0,11,0,260,0,21,0,86,0,2,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",98,0,34,0,20,0,11,0,63,0,21,0,15,0,2,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",244,0,6,0,54,0,3,0,147,0,3,0,43,0,0,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",291,0,6,0,37,0,3,0,194,0,3,0,60,0,0,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",272,0,33,0,132,0,17,0,93,0,13,0,47,0,3,0
+"333",12,Reporting         ,4057,541,428,0,23.88,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",123,0,33,0,50,0,17,0,58,0,13,0,15,0,3,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",26,0,0,0,1,0,0,0,12,0,0,0,13,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",19,0,0,0,0,0,0,0,9,0,0,0,10,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",3,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",14,0,0,0,0,0,0,0,3,0,0,0,11,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",31,0,0,0,1,0,0,0,18,0,0,0,12,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",3,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",5,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",12,0,1,0,1,0,0,0,6,0,0,0,5,0,1,0
+"334",50,Reporting         ,4316,5,45,0,1.16,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",32,0,1,0,0,0,0,0,15,0,0,0,17,0,1,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",261,0,0,0,105,0,0,0,108,0,0,0,48,0,0,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",60,0,0,0,29,0,0,0,23,0,0,0,8,0,0,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",95,0,7,0,33,0,3,0,44,0,3,0,18,0,1,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",219,0,7,0,98,0,3,0,84,0,3,0,37,0,1,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",353,0,11,0,36,0,3,0,237,0,5,0,80,0,3,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",87,0,11,0,13,0,3,0,52,0,5,0,22,0,3,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",208,0,1,0,23,0,0,0,138,0,1,0,47,0,0,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",242,0,1,0,29,0,0,0,155,0,1,0,58,0,0,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",200,0,21,0,87,0,9,0,78,0,9,0,35,0,3,0
+"335",63,Reporting         ,3418,451,321,0,22.59,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",100,0,21,0,38,0,9,0,44,0,9,0,18,0,3,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",120,0,1,0,50,0,1,0,47,0,0,0,23,0,0,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",57,0,1,0,19,0,1,0,25,0,0,0,13,0,0,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",49,0,9,0,12,0,4,0,25,0,4,0,12,0,1,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",120,0,9,0,54,0,4,0,43,0,4,0,23,0,1,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",90,0,6,0,14,0,0,0,54,0,1,0,22,0,5,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",21,0,6,0,5,0,0,0,12,0,1,0,4,0,5,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",29,0,0,0,9,0,0,0,9,0,0,0,11,0,0,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",88,0,0,0,10,0,0,0,58,0,0,0,20,0,0,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",117,0,8,0,51,0,4,0,47,0,3,0,19,0,1,0
+"336",61,Reporting         ,2537,117,178,0,11.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",53,0,8,0,15,0,4,0,22,0,3,0,16,0,1,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",189,0,0,0,66,0,0,0,85,0,0,0,38,0,0,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",45,0,0,0,18,0,0,0,20,0,0,0,7,0,0,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",73,0,2,0,27,0,1,0,34,0,0,0,12,0,1,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",159,0,2,0,56,0,1,0,71,0,0,0,32,0,1,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",275,0,14,0,32,0,6,0,167,0,6,0,76,0,2,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",56,0,14,0,12,0,6,0,25,0,6,0,19,0,2,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",114,0,2,0,28,0,2,0,62,0,0,0,24,0,0,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",229,0,2,0,20,0,2,0,136,0,0,0,73,0,0,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",152,0,8,0,64,0,3,0,62,0,4,0,26,0,1,0
+"337",2,Reporting         ,2843,345,234,0,20.37,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",74,0,8,0,17,0,3,0,39,0,4,0,18,0,1,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",198,0,0,0,100,0,0,0,69,0,0,0,29,0,0,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",47,0,0,0,22,0,0,0,19,0,0,0,6,0,0,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",70,0,5,0,38,0,2,0,22,0,1,0,10,0,2,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",170,0,5,0,82,0,2,0,65,0,1,0,23,0,2,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",254,0,28,0,50,0,14,0,155,0,10,0,49,0,4,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",70,0,28,0,19,0,14,0,44,0,10,0,7,0,4,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",171,0,2,0,55,0,2,0,92,0,0,0,24,0,0,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",179,0,2,0,26,0,2,0,117,0,0,0,36,0,0,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",171,0,9,0,95,0,4,0,60,0,3,0,16,0,2,0
+"338",13,Reporting         ,2282,352,245,0,26.16,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",65,0,9,0,23,0,4,0,25,0,3,0,17,0,2,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",69,0,0,0,34,0,0,0,31,0,0,0,4,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",24,0,0,0,17,0,0,0,4,0,0,0,3,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",30,0,2,0,13,0,0,0,13,0,2,0,4,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",61,0,2,0,38,0,0,0,20,0,2,0,3,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",91,0,6,0,15,0,3,0,52,0,1,0,24,0,2,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",29,0,6,0,5,0,3,0,18,0,1,0,6,0,2,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",57,0,1,0,15,0,0,0,33,0,1,0,9,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",68,0,1,0,8,0,0,0,37,0,1,0,23,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",54,1,4,0,27,1,4,0,23,0,0,0,4,0,0,0
+"339",51,Reporting         ,1184,126,93,0,18.50,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",34,1,4,0,19,1,4,0,12,0,0,0,3,0,0,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",123,0,0,0,43,0,0,0,58,0,0,0,22,0,0,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",32,0,0,0,5,0,0,0,19,0,0,0,8,0,0,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",41,0,1,0,13,0,0,0,16,0,0,0,12,0,1,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",113,0,1,0,35,0,0,0,61,0,0,0,17,0,1,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",33,0,3,0,3,0,1,0,23,0,1,0,7,0,1,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",12,0,3,0,4,0,1,0,6,0,1,0,2,0,1,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",12,0,2,0,0,0,2,0,9,0,0,0,3,0,0,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",34,0,2,0,6,0,2,0,21,0,0,0,7,0,0,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",104,0,2,0,36,0,0,0,54,0,0,0,14,0,2,0
+"340",25,Reporting         ,2109,48,155,0,9.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",49,0,2,0,12,0,0,0,23,0,0,0,14,0,2,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",10,0,0,0,2,0,0,0,2,0,0,0,6,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",8,0,0,0,1,0,0,0,3,0,0,0,4,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",8,0,0,0,1,0,0,0,2,0,0,0,5,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",10,0,0,0,2,0,0,0,3,0,0,0,5,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",7,0,1,0,1,0,0,0,3,0,0,0,3,0,1,0
+"413",54,Reporting         ,1743,2,18,0,1.15,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",10,0,1,0,2,0,0,0,2,0,0,0,6,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",39,0,2,0,10,0,1,0,13,0,0,0,16,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",22,0,2,0,10,0,1,0,3,0,0,0,9,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",6,0,3,0,2,0,0,0,0,0,1,0,4,0,2,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",13,0,3,0,2,0,0,0,6,0,1,0,5,0,2,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",21,0,2,0,7,0,1,0,5,0,0,0,9,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",40,0,2,0,13,0,1,0,11,0,0,0,16,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",17,0,2,0,3,0,0,0,6,0,0,0,8,0,2,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",3,0,2,0,1,0,0,0,1,0,0,0,1,0,2,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",4,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",18,0,0,0,3,0,0,0,5,0,0,0,10,0,0,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",26,0,2,0,9,0,1,0,8,0,0,0,9,0,1,0
+"414",36,Reporting         ,1902,22,63,0,4.47,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",35,0,2,0,11,0,1,0,8,0,0,0,16,0,1,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",36,0,3,0,7,0,0,0,14,0,0,0,15,0,3,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",31,0,3,0,4,0,0,0,17,0,0,0,10,0,3,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",5,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",7,0,0,0,2,0,0,0,1,0,0,0,4,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",30,0,2,0,4,0,0,0,15,0,0,0,11,0,2,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",38,0,2,0,7,0,0,0,16,0,0,0,15,0,2,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",10,0,0,0,2,0,0,0,3,0,0,0,5,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",5,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",7,0,0,0,1,0,0,0,2,0,0,0,4,0,0,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",29,0,5,0,6,0,0,0,13,0,2,0,10,0,3,0
+"415",9,Reporting         ,3088,12,70,0,2.66,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",36,0,5,0,5,0,0,0,16,0,2,0,15,0,3,0
+"416",59,Reporting         ,171,6,3,0,5.26,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",5,0,1,0,1,0,0,0,1,0,1,0,3,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",5,0,0,0,1,0,0,0,1,0,0,0,3,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",5,0,0,0,0,0,0,0,2,0,0,0,3,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"416",59,Reporting         ,171,6,3,0,5.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",130,0,1,0,33,0,1,0,56,0,0,0,41,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",37,0,1,0,7,0,1,0,10,0,0,0,20,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",59,0,1,0,7,0,0,0,25,0,0,0,27,0,1,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",108,0,1,0,34,0,0,0,41,0,0,0,33,0,1,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",74,0,1,0,11,0,0,0,35,0,1,0,28,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",15,0,1,0,2,0,0,0,1,0,1,0,12,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",28,0,0,0,7,0,0,0,9,0,0,0,12,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",62,0,0,0,6,0,0,0,28,0,0,0,28,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",96,0,1,0,27,0,0,0,39,0,1,0,30,0,0,0
+"417",49,Reporting         ,1966,90,168,0,13.12,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",71,0,1,0,14,0,0,0,26,0,1,0,31,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"418",18,Reporting         ,4,0,0,0,0.00,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",105,0,0,0,31,0,0,0,50,0,0,0,24,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",32,0,0,0,7,0,0,0,17,0,0,0,8,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"U.S. Representative, District 35 (R)",3,"REP","""Guillermo"" William Hayward",2,"REP",56,0,10,0,5,0,1,0,38,0,2,0,13,0,7,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"U.S. Representative, District 35 (R)",3,"REP","Jenny Garcia Sharon",1,"REP",64,0,10,0,8,0,1,0,30,0,2,0,26,0,7,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",41,0,2,0,15,0,1,0,20,0,1,0,6,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",94,0,2,0,22,0,1,0,46,0,1,0,26,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",89,0,8,0,11,0,1,0,48,0,2,0,30,0,5,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",33,0,8,0,2,0,1,0,20,0,2,0,11,0,5,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",54,0,0,0,3,0,0,0,28,0,0,0,23,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",76,0,0,0,11,0,0,0,42,0,0,0,23,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",81,0,3,0,26,0,2,0,38,0,1,0,17,0,0,0
+"419",28,Reporting         ,2068,130,137,0,12.91,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",53,0,3,0,10,0,2,0,28,0,1,0,15,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",58,0,0,0,15,0,0,0,32,0,0,0,11,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",27,0,0,0,3,0,0,0,18,0,0,0,6,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",27,0,4,0,3,0,1,0,19,0,3,0,5,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",54,0,4,0,14,0,1,0,28,0,3,0,12,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",51,0,5,0,3,0,1,0,27,0,3,0,21,0,1,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",30,0,5,0,7,0,1,0,17,0,3,0,6,0,1,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",28,0,0,0,7,0,0,0,15,0,0,0,6,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",58,0,0,0,4,0,0,0,32,0,0,0,22,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",63,0,2,0,9,0,0,0,39,0,2,0,15,0,0,0
+"420",11,Reporting         ,1007,86,85,0,16.98,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",20,0,2,0,9,0,0,0,9,0,2,0,2,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",7,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",6,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",5,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0
+"421",5,Reporting         ,37,8,6,0,37.84,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",141,0,2,0,66,0,1,0,57,0,0,0,18,0,1,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",23,0,2,0,7,0,1,0,12,0,0,0,4,0,1,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",33,0,17,0,11,0,8,0,19,0,5,0,3,0,4,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",116,0,17,0,55,0,8,0,45,0,5,0,16,0,4,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",156,0,12,0,22,0,5,0,104,0,6,0,30,0,1,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",68,0,12,0,7,0,5,0,46,0,6,0,15,0,1,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",66,1,0,0,13,1,0,0,45,0,0,0,8,0,0,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",169,1,0,0,20,1,0,0,111,0,0,0,38,0,0,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",118,0,13,0,53,0,6,0,49,0,5,0,16,0,2,0
+"440",64,Reporting         ,2155,236,166,0,18.65,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",35,0,13,0,15,0,6,0,15,0,5,0,5,0,2,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",189,0,0,0,72,0,0,0,87,0,0,0,30,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",40,0,0,0,14,0,0,0,21,0,0,0,5,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",62,0,4,0,20,0,2,0,34,0,2,0,8,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",163,0,4,0,64,0,2,0,72,0,2,0,27,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",209,0,19,0,31,0,6,0,132,0,4,0,46,0,9,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",56,0,19,0,8,0,6,0,31,0,4,0,17,0,9,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",80,0,1,0,21,0,1,0,47,0,0,0,12,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",203,0,1,0,23,0,1,0,120,0,0,0,60,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",150,0,11,0,60,0,5,0,72,0,6,0,18,0,0,0
+"441",57,Reporting         ,3106,284,229,0,16.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",68,0,11,0,21,0,5,0,30,0,6,0,17,0,0,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",237,0,0,0,106,0,0,0,91,0,0,0,40,0,0,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",70,0,0,0,25,0,0,0,23,0,0,0,22,0,0,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",65,0,15,0,31,0,6,0,20,0,8,0,14,0,1,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",227,0,15,0,94,0,6,0,86,0,8,0,47,0,1,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",152,0,6,0,24,0,1,0,71,0,2,0,57,0,3,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",45,0,6,0,3,0,1,0,17,0,2,0,25,0,3,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",64,0,0,0,15,0,0,0,27,0,0,0,22,0,0,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",139,0,0,0,13,0,0,0,63,0,0,0,63,0,0,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",201,0,21,0,93,0,7,0,68,0,12,0,40,0,2,0
+"442",35,Reporting         ,2948,203,307,0,17.30,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",85,0,21,0,31,0,7,0,34,0,12,0,20,0,2,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",260,0,0,0,68,0,0,0,96,0,0,0,96,0,0,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",68,0,0,0,13,0,0,0,24,0,0,0,31,0,0,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",109,0,9,0,26,0,1,0,39,0,2,0,44,0,6,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",210,0,9,0,54,0,1,0,79,0,2,0,77,0,6,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",230,0,35,0,31,0,4,0,112,0,13,0,87,0,18,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",122,0,35,0,19,0,4,0,57,0,13,0,46,0,18,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",107,0,0,0,30,0,0,0,45,0,0,0,32,0,0,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",280,0,0,0,24,0,0,0,137,0,0,0,119,0,0,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",203,0,22,0,57,0,9,0,79,0,5,0,67,0,8,0
+"443",48,Reporting         ,3793,387,328,0,18.85,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",103,0,22,0,15,0,9,0,36,0,5,0,52,0,8,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",170,0,1,0,55,0,0,0,87,0,1,0,28,0,0,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",55,0,1,0,20,0,0,0,21,0,1,0,14,0,0,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",59,0,15,0,18,0,9,0,28,0,5,0,13,0,1,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",152,0,15,0,48,0,9,0,76,0,5,0,28,0,1,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",175,0,12,0,33,0,0,0,95,0,11,0,47,0,1,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",64,0,12,0,9,0,0,0,40,0,11,0,15,0,1,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",63,0,0,0,25,0,0,0,29,0,0,0,9,0,0,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",188,0,0,0,17,0,0,0,117,0,0,0,54,0,0,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",143,0,13,0,50,0,9,0,65,0,4,0,28,0,0,0
+"444",16,Reporting         ,2639,251,226,0,18.08,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",70,0,13,0,16,0,9,0,40,0,4,0,14,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",121,0,1,0,48,0,1,0,50,0,0,0,23,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",40,0,1,0,14,0,1,0,15,0,0,0,11,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",45,0,11,0,19,0,7,0,18,0,4,0,8,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",106,0,11,0,37,0,7,0,43,0,4,0,26,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",105,0,16,0,25,0,6,0,52,0,9,0,28,0,1,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",35,0,16,0,6,0,6,0,20,0,9,0,9,0,1,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",46,0,0,0,15,0,0,0,26,0,0,0,5,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",110,0,0,0,22,0,0,0,55,0,0,0,33,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",105,0,19,0,37,0,13,0,43,0,6,0,25,0,0,0
+"445",58,Reporting         ,2035,156,162,0,15.63,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",38,0,19,0,13,0,13,0,16,0,6,0,9,0,0,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",154,0,0,0,45,0,0,0,68,0,0,0,41,0,0,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",39,0,0,0,15,0,0,0,16,0,0,0,8,0,0,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",57,0,7,0,16,0,1,0,26,0,4,0,15,0,2,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",129,0,7,0,43,0,1,0,54,0,4,0,32,0,2,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",171,0,7,0,20,0,1,0,113,0,5,0,38,0,1,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",53,0,7,0,12,0,1,0,29,0,5,0,12,0,1,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",121,0,0,0,20,0,0,0,79,0,0,0,22,0,0,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",110,0,0,0,13,0,0,0,68,0,0,0,29,0,0,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",120,0,11,0,42,0,2,0,50,0,7,0,28,0,2,0
+"446",10,Reporting         ,2133,231,193,0,19.88,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",62,0,11,0,16,0,2,0,27,0,7,0,19,0,2,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",109,0,0,0,38,0,0,0,30,0,0,0,41,0,0,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",45,0,0,0,16,0,0,0,16,0,0,0,13,0,0,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",55,0,3,0,18,0,2,0,19,0,0,0,18,0,1,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",96,0,3,0,34,0,2,0,27,0,0,0,35,0,1,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",96,0,6,0,13,0,2,0,37,0,2,0,46,0,2,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",46,0,6,0,8,0,2,0,16,0,2,0,22,0,2,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",40,0,0,0,8,0,0,0,14,0,0,0,18,0,0,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",108,0,0,0,15,0,0,0,41,0,0,0,52,0,0,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",90,0,7,0,34,0,1,0,29,0,2,0,27,0,4,0
+"447",29,Reporting         ,2412,148,154,0,12.52,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",57,0,7,0,19,0,1,0,15,0,2,0,23,0,4,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",123,0,0,0,38,0,0,0,59,0,0,0,26,0,0,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",27,0,0,0,10,0,0,0,12,0,0,0,5,0,0,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",43,0,7,0,14,0,4,0,14,0,2,0,15,0,1,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",100,0,7,0,30,0,4,0,55,0,2,0,15,0,1,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",140,0,11,0,25,0,1,0,87,0,8,0,28,0,2,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",31,0,11,0,4,0,1,0,19,0,8,0,8,0,2,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",53,0,0,0,14,0,0,0,24,0,0,0,15,0,0,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",129,0,0,0,16,0,0,0,90,0,0,0,23,0,0,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",109,0,10,0,37,0,5,0,46,0,4,0,26,0,1,0
+"448",23,Reporting         ,1818,182,150,0,18.26,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",31,0,10,0,6,0,5,0,21,0,4,0,4,0,1,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"U.S. Senator (D)",1,"DEM","Mary ""MJ"" Hegar",2,"DEM",237,0,1,0,91,0,0,0,100,0,1,0,46,0,0,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"U.S. Senator (D)",1,"DEM","Royce West",1,"DEM",63,0,1,0,24,0,0,0,28,0,1,0,11,0,0,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Railroad Commissioner (D)",6,"DEM","Roberto R. ""Beto"" Alonzo",2,"DEM",71,0,13,0,25,0,4,0,31,0,5,0,15,0,4,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Railroad Commissioner (D)",6,"DEM","Chrysta Castañeda",1,"DEM",217,0,13,0,86,0,4,0,93,0,5,0,38,0,4,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Member, State Board of Education, District 5 (R)",4,"REP","Lani Popp",1,"REP",369,0,30,0,61,0,6,0,220,0,14,0,88,0,10,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Member, State Board of Education, District 5 (R)",4,"REP","Robert Morrow",2,"REP",112,0,30,0,19,0,6,0,57,0,14,0,36,0,10,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"State Representative, District 45 (R)",5,"REP","Kent ""Bud"" Wymore",1,"REP",177,0,0,0,43,0,0,0,93,0,0,0,41,0,0,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"State Representative, District 45 (R)",5,"REP","Carrie Isaac",2,"REP",334,0,0,0,43,0,0,0,198,0,0,0,93,0,0,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Chair, Hays County Democratic Party (D)",2,"DEM","Donna Haschke",1,"DEM",195,0,17,0,84,0,4,0,79,0,7,0,32,0,6,0
+"449",44,Reporting         ,4269,511,301,0,19.02,"Chair, Hays County Democratic Party (D)",2,"DEM","Angela ""Tia Angie"" Villescaz",2,"DEM",89,0,17,0,27,0,4,0,43,0,7,0,19,0,6,0

@@ -1,0 +1,56 @@
+#FormatVersion 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Precinct,Precinct ID,Precinct Reporting,Registered Voters,REP Ballots Cast,DEM Ballots Cast,NON Ballots Cast,Turnout Percentage,Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,Absentee Voting Votes,Absentee Voting Overvotes,Absentee Voting Undervotes,Absentee Voting Invalid Votes,Early Voting Votes,Early Voting Overvotes,Early Voting Undervotes,Early Voting Invalid Votes,Election Day Voting Votes,Election Day Voting Overvotes,Election Day Voting Undervotes,Election Day Voting Invalid Votes
+5,5,Reporting         ,0,172,52,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,122,0,0,0,42,0,0,0,45,0,0,0,35,0,0,0
+5,5,Reporting         ,0,172,52,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,50,0,0,0,24,0,0,0,15,0,0,0,11,0,0,0
+5,5,Reporting         ,0,172,52,0,0,United States Senator,1,DEM,Royce West,1,,19,1,0,0,5,1,0,0,10,0,0,0,4,0,0,0
+5,5,Reporting         ,0,172,52,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,32,1,0,0,16,1,0,0,8,0,0,0,8,0,0,0
+5,5,Reporting         ,0,172,52,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,30,0,0,0,13,0,0,0,8,0,0,0,9,0,0,0
+5,5,Reporting         ,0,172,52,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,22,0,0,0,9,0,0,0,10,0,0,0,3,0,0,0
+6,3,Reporting         ,0,10,0,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,9,0,0,0,4,0,0,0,3,0,0,0,2,0,0,0
+6,3,Reporting         ,0,10,0,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6,3,Reporting         ,0,10,0,0,0,United States Senator,1,DEM,Royce West,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,3,Reporting         ,0,10,0,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,3,Reporting         ,0,10,0,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,3,Reporting         ,0,10,0,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,7,Reporting         ,0,13,1,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,10,0,0,0,4,0,0,0,3,0,0,0,3,0,0,0
+7,7,Reporting         ,0,13,1,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,3,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+7,7,Reporting         ,0,13,1,0,0,United States Senator,1,DEM,Royce West,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,7,Reporting         ,0,13,1,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,7,Reporting         ,0,13,1,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,7,Reporting         ,0,13,1,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,1,Reporting         ,0,26,4,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,23,0,0,0,9,0,0,0,2,0,0,0,12,0,0,0
+10,1,Reporting         ,0,26,4,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,3,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+10,1,Reporting         ,0,26,4,0,0,United States Senator,1,DEM,Royce West,1,,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+10,1,Reporting         ,0,26,4,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+10,1,Reporting         ,0,26,4,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,3,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0
+10,1,Reporting         ,0,26,4,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,6,Reporting         ,0,14,0,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,10,0,0,0,3,0,0,0,1,0,0,0,6,0,0,0
+16,6,Reporting         ,0,14,0,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,4,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+16,6,Reporting         ,0,14,0,0,0,United States Senator,1,DEM,Royce West,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,6,Reporting         ,0,14,0,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,6,Reporting         ,0,14,0,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,6,Reporting         ,0,14,0,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,Reporting         ,0,8,5,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,7,0,0,0,1,0,0,0,0,0,0,0,6,0,0,0
+20,2,Reporting         ,0,8,5,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+20,2,Reporting         ,0,8,5,0,0,United States Senator,1,DEM,Royce West,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,2,Reporting         ,0,8,5,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+20,2,Reporting         ,0,8,5,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+20,2,Reporting         ,0,8,5,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+22,9,Reporting         ,0,194,29,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,151,0,3,0,43,0,0,0,47,0,1,0,61,0,2,0
+22,9,Reporting         ,0,194,29,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,40,0,3,0,20,0,0,0,11,0,1,0,9,0,2,0
+22,9,Reporting         ,0,194,29,0,0,United States Senator,1,DEM,Royce West,1,,12,0,0,0,7,0,0,0,3,0,0,0,2,0,0,0
+22,9,Reporting         ,0,194,29,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,17,0,0,0,6,0,0,0,7,0,0,0,4,0,0,0
+22,9,Reporting         ,0,194,29,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,15,0,1,0,6,0,0,0,6,0,0,0,3,0,1,0
+22,9,Reporting         ,0,194,29,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,13,0,1,0,7,0,0,0,4,0,0,0,2,0,1,0
+23,8,Reporting         ,0,128,31,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,88,0,3,0,27,0,0,0,29,0,1,0,32,0,2,0
+23,8,Reporting         ,0,128,31,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,37,0,3,0,17,0,0,0,15,0,1,0,5,0,2,0
+23,8,Reporting         ,0,128,31,0,0,United States Senator,1,DEM,Royce West,1,,12,0,1,0,7,0,0,0,2,0,1,0,3,0,0,0
+23,8,Reporting         ,0,128,31,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,18,0,1,0,10,0,0,0,4,0,1,0,4,0,0,0
+23,8,Reporting         ,0,128,31,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,20,0,2,0,11,0,0,0,4,0,2,0,5,0,0,0
+23,8,Reporting         ,0,128,31,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,9,0,2,0,6,0,0,0,1,0,2,0,2,0,0,0
+24,4,Reporting         ,0,80,33,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Brian Walker,1,,61,0,1,0,20,0,0,0,24,0,1,0,17,0,0,0
+24,4,Reporting         ,0,80,33,0,0,"Justice, 2nd Court of Appeals District, Place 7",2,REP,Elizabeth Beach,2,,18,0,1,0,6,0,0,0,9,0,1,0,3,0,0,0
+24,4,Reporting         ,0,80,33,0,0,United States Senator,1,DEM,Royce West,1,,14,0,1,0,2,0,0,0,4,0,1,0,8,0,0,0
+24,4,Reporting         ,0,80,33,0,0,United States Senator,1,DEM,"Mary ""MJ"" Hegar",2,,18,0,1,0,9,0,0,0,7,0,1,0,2,0,0,0
+24,4,Reporting         ,0,80,33,0,0,Railroad Commissioner,3,DEM,Chrysta Castañeda,2,,22,0,1,0,6,0,0,0,10,0,1,0,6,0,0,0
+24,4,Reporting         ,0,80,33,0,0,Railroad Commissioner,3,DEM,"Roberto R. ""Beto"" Alonzo",1,,10,0,1,0,5,0,0,0,1,0,1,0,4,0,0,0

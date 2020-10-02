@@ -1,0 +1,78 @@
+00010010001000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 1                                             00 
+00010010002000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 2                                             00 
+00010010003000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 3                                             00 
+00010010004000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 4                                             00 
+00020010001000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 1                                             00 
+00020010002000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 2                                             00 
+00020010003000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 3                                             00 
+00020010004000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 4                                             00 
+00030010001000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 1                                             00 
+00030010002000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 2                                             00 
+00030010003000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 3                                             00 
+00030010004000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 4                                             00 
+00040010001000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 1                                             00 
+00040010002000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 2                                             00 
+00040010003000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 3                                             00 
+00040010004000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 4                                             00 
+00050010001000200          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 1                                             00 
+00050010002000246          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 2                                             00 
+00050010003001062          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 3                                             00 
+00050010004000222          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 4                                             00 
+00060010001000116REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 1                                             00 
+00060010002000145REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 2                                             00 
+00060010003000953REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 3                                             00 
+00060010004000091REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 4                                             00 
+00070010001000084DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 1                                             00 
+00070010002000101DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 2                                             00 
+00070010003000109DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 3                                             00 
+00070010004000131DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 4                                             00 
+00080010001000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 1                                             00 
+00080010002000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 2                                             00 
+00080010003000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 3                                             00 
+00080010004000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 4                                             00 
+00090010001000001          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 1                                             00 
+00090010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 2                                             00 
+00090010003000002          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 3                                             00 
+00090010004000002          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 4                                             00 
+00100010001000097REP       REP Justice, 1st Ct of App Dist, Pl 5                   Terry Adams                           Precinct 1                                             01 
+00100010002000128REP       REP Justice, 1st Ct of App Dist, Pl 5                   Terry Adams                           Precinct 2                                             01 
+00100010003000671REP       REP Justice, 1st Ct of App Dist, Pl 5                   Terry Adams                           Precinct 3                                             01 
+00100010004000075REP       REP Justice, 1st Ct of App Dist, Pl 5                   Terry Adams                           Precinct 4                                             01 
+00100020001000018REP       REP Justice, 1st Ct of App Dist, Pl 5                   James Lomardino                       Precinct 1                                             01 
+00100020002000017REP       REP Justice, 1st Ct of App Dist, Pl 5                   James Lomardino                       Precinct 2                                             01 
+00100020003000127REP       REP Justice, 1st Ct of App Dist, Pl 5                   James Lomardino                       Precinct 3                                             01 
+00100020004000014REP       REP Justice, 1st Ct of App Dist, Pl 5                   James Lomardino                       Precinct 4                                             01 
+00110010003000344REPCOM003 REP County Commissioner Pct 3                           Dwain K. Dungen                       Precinct 3                    Precinct 3               01 
+00110020003000607REPCOM003 REP County Commissioner Pct 3                           Keith Neuendorff                      Precinct 3                    Precinct 3               01 
+00120010001000054DEM       DEM US Senator                                          Mary "MJ" Hegar                       Precinct 1                                             01 
+00120010002000051DEM       DEM US Senator                                          Mary "MJ" Hegar                       Precinct 2                                             01 
+00120010003000075DEM       DEM US Senator                                          Mary "MJ" Hegar                       Precinct 3                                             01 
+00120010004000051DEM       DEM US Senator                                          Mary "MJ" Hegar                       Precinct 4                                             01 
+00120020001000030DEM       DEM US Senator                                          Royce West                            Precinct 1                                             01 
+00120020002000049DEM       DEM US Senator                                          Royce West                            Precinct 2                                             01 
+00120020003000031DEM       DEM US Senator                                          Royce West                            Precinct 3                                             01 
+00120020004000078DEM       DEM US Senator                                          Royce West                            Precinct 4                                             01 
+00130010001000054DEM       DEM US Representative, Dist 10                          Mike Siegel                           Precinct 1                                             01 
+00130010002000072DEM       DEM US Representative, Dist 10                          Mike Siegel                           Precinct 2                                             01 
+00130010003000059DEM       DEM US Representative, Dist 10                          Mike Siegel                           Precinct 3                                             01 
+00130010004000085DEM       DEM US Representative, Dist 10                          Mike Siegel                           Precinct 4                                             01 
+00130020001000030DEM       DEM US Representative, Dist 10                          Pritesh Gandhi                        Precinct 1                                             01 
+00130020002000029DEM       DEM US Representative, Dist 10                          Pritesh Gandhi                        Precinct 2                                             01 
+00130020003000046DEM       DEM US Representative, Dist 10                          Pritesh Gandhi                        Precinct 3                                             01 
+00130020004000046DEM       DEM US Representative, Dist 10                          Pritesh Gandhi                        Precinct 4                                             01 
+00140010001000040DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 1                                             01 
+00140010002000055DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 2                                             01 
+00140010003000042DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 3                                             01 
+00140010004000067DEM       DEM Railroad Commissioner                               Roberto R. "Beto" Alonzo              Precinct 4                                             01 
+00140020001000041DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 1                                             01 
+00140020002000043DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 2                                             01 
+00140020003000057DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 3                                             01 
+00140020004000061DEM       DEM Railroad Commissioner                               Chrysta Castaneda                     Precinct 4                                             01 
+00150010001000043DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Tamika "Tami" Craft                   Precinct 1                                             01 
+00150010002000050DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Tamika "Tami" Craft                   Precinct 2                                             01 
+00150010003000045DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Tamika "Tami" Craft                   Precinct 3                                             01 
+00150010004000070DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Tamika "Tami" Craft                   Precinct 4                                             01 
+00150020001000039DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Cheri Thomas                          Precinct 1                                             01 
+00150020002000045DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Cheri Thomas                          Precinct 2                                             01 
+00150020003000053DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Cheri Thomas                          Precinct 3                                             01 
+00150020004000057DEM       DEM Justice, 14th Ct of App Dist, Pl 7                  Cheri Thomas                          Precinct 4                                             01 
