@@ -1,0 +1,372 @@
+00010010001000493          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             101                                                    00 
+00010010002000543          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             201                                                    00 
+00010010003000028          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             202                                                    00 
+00010010004000612          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             301                                                    00 
+00010010005000041          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             302                                                    00 
+00010010006000094          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             303                                                    00 
+00010010007000390          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             401                                                    00 
+00010010008000138          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             402                                                    00 
+00020010001000349          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  101                                                    00 
+00020010002000378          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  201                                                    00 
+00020010003000025          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  202                                                    00 
+00020010004000480          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  301                                                    00 
+00020010005000031          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  302                                                    00 
+00020010006000084          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  303                                                    00 
+00020010007000275          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  401                                                    00 
+00020010008000107          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  402                                                    00 
+00030010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  101                                                    00 
+00030010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  201                                                    00 
+00030010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  202                                                    00 
+00030010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  301                                                    00 
+00030010005000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  302                                                    00 
+00030010006000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  303                                                    00 
+00030010007000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  401                                                    00 
+00030010008000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  402                                                    00 
+00040010001000290REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence101                                                    01 
+00040010002000317REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence201                                                    01 
+00040010003000025REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence202                                                    01 
+00040010004000416REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence301                                                    01 
+00040010005000029REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence302                                                    01 
+00040010006000071REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence303                                                    01 
+00040010007000250REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence401                                                    01 
+00040010008000088REP       President / Vice-President                              REP Donald J. Trump / Michael R. Pence402                                                    01 
+00040020001000049DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris101                                                    01 
+00040020002000054DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris201                                                    01 
+00040020003000000DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris202                                                    01 
+00040020004000055DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris301                                                    01 
+00040020005000001DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris302                                                    01 
+00040020006000012DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris303                                                    01 
+00040020007000018DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris401                                                    01 
+00040020008000017DEM       President / Vice-President                              DEM Joseph R. Biden / Kamala D. Harris402                                                    01 
+00040030001000006LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe101                                                    01 
+00040030002000006LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe201                                                    01 
+00040030003000000LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe202                                                    01 
+00040030004000006LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe301                                                    01 
+00040030005000001LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe302                                                    01 
+00040030006000000LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe303                                                    01 
+00040030007000005LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe401                                                    01 
+00040030008000001LIB       President / Vice-President                              LIB Jo Jorgensen / Jeremy "Spike" Cohe402                                                    01 
+00040040001000001GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     101                                                    01 
+00040040002000000GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     201                                                    01 
+00040040003000000GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     202                                                    01 
+00040040004000000GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     301                                                    01 
+00040040005000000GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     302                                                    01 
+00040040006000000GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     303                                                    01 
+00040040007000001GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     401                                                    01 
+00040040008000001GRN       President / Vice-President                              GRN Howie Hawkins / Angela Walker     402                                                    01 
+00050010001000282REP       US Senator                                              REP John Cornyn                       101                                                    01 
+00050010002000310REP       US Senator                                              REP John Cornyn                       201                                                    01 
+00050010003000025REP       US Senator                                              REP John Cornyn                       202                                                    01 
+00050010004000413REP       US Senator                                              REP John Cornyn                       301                                                    01 
+00050010005000031REP       US Senator                                              REP John Cornyn                       302                                                    01 
+00050010006000070REP       US Senator                                              REP John Cornyn                       303                                                    01 
+00050010007000250REP       US Senator                                              REP John Cornyn                       401                                                    01 
+00050010008000084REP       US Senator                                              REP John Cornyn                       402                                                    01 
+00050020001000049DEM       US Senator                                              DEM Mary "MJ" Hegar                   101                                                    01 
+00050020002000052DEM       US Senator                                              DEM Mary "MJ" Hegar                   201                                                    01 
+00050020003000000DEM       US Senator                                              DEM Mary "MJ" Hegar                   202                                                    01 
+00050020004000048DEM       US Senator                                              DEM Mary "MJ" Hegar                   301                                                    01 
+00050020005000000DEM       US Senator                                              DEM Mary "MJ" Hegar                   302                                                    01 
+00050020006000014DEM       US Senator                                              DEM Mary "MJ" Hegar                   303                                                    01 
+00050020007000017DEM       US Senator                                              DEM Mary "MJ" Hegar                   401                                                    01 
+00050020008000017DEM       US Senator                                              DEM Mary "MJ" Hegar                   402                                                    01 
+00050030001000006LIB       US Senator                                              LIB Kerry Douglas McKennon            101                                                    01 
+00050030002000005LIB       US Senator                                              LIB Kerry Douglas McKennon            201                                                    01 
+00050030003000000LIB       US Senator                                              LIB Kerry Douglas McKennon            202                                                    01 
+00050030004000006LIB       US Senator                                              LIB Kerry Douglas McKennon            301                                                    01 
+00050030005000000LIB       US Senator                                              LIB Kerry Douglas McKennon            302                                                    01 
+00050030006000000LIB       US Senator                                              LIB Kerry Douglas McKennon            303                                                    01 
+00050030007000004LIB       US Senator                                              LIB Kerry Douglas McKennon            401                                                    01 
+00050030008000001LIB       US Senator                                              LIB Kerry Douglas McKennon            402                                                    01 
+00050040001000002GRN       US Senator                                              GRN David B. Collins                  101                                                    01 
+00050040002000002GRN       US Senator                                              GRN David B. Collins                  201                                                    01 
+00050040003000000GRN       US Senator                                              GRN David B. Collins                  202                                                    01 
+00050040004000004GRN       US Senator                                              GRN David B. Collins                  301                                                    01 
+00050040005000000GRN       US Senator                                              GRN David B. Collins                  302                                                    01 
+00050040006000000GRN       US Senator                                              GRN David B. Collins                  303                                                    01 
+00050040007000000GRN       US Senator                                              GRN David B. Collins                  401                                                    01 
+00050040008000001GRN       US Senator                                              GRN David B. Collins                  402                                                    01 
+00060010001000287REP       US Representative, Dist 13                              REP Ronny Jackson                     101                                                    01 
+00060010002000308REP       US Representative, Dist 13                              REP Ronny Jackson                     201                                                    01 
+00060010003000025REP       US Representative, Dist 13                              REP Ronny Jackson                     202                                                    01 
+00060010004000416REP       US Representative, Dist 13                              REP Ronny Jackson                     301                                                    01 
+00060010005000029REP       US Representative, Dist 13                              REP Ronny Jackson                     302                                                    01 
+00060010006000070REP       US Representative, Dist 13                              REP Ronny Jackson                     303                                                    01 
+00060010007000251REP       US Representative, Dist 13                              REP Ronny Jackson                     401                                                    01 
+00060010008000086REP       US Representative, Dist 13                              REP Ronny Jackson                     402                                                    01 
+00060020001000042DEM       US Representative, Dist 13                              DEM Gus Trujillo                      101                                                    01 
+00060020002000055DEM       US Representative, Dist 13                              DEM Gus Trujillo                      201                                                    01 
+00060020003000000DEM       US Representative, Dist 13                              DEM Gus Trujillo                      202                                                    01 
+00060020004000046DEM       US Representative, Dist 13                              DEM Gus Trujillo                      301                                                    01 
+00060020005000000DEM       US Representative, Dist 13                              DEM Gus Trujillo                      302                                                    01 
+00060020006000011DEM       US Representative, Dist 13                              DEM Gus Trujillo                      303                                                    01 
+00060020007000012DEM       US Representative, Dist 13                              DEM Gus Trujillo                      401                                                    01 
+00060020008000016DEM       US Representative, Dist 13                              DEM Gus Trujillo                      402                                                    01 
+00060030001000010LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 101                                                    01 
+00060030002000006LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 201                                                    01 
+00060030003000000LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 202                                                    01 
+00060030004000010LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 301                                                    01 
+00060030005000002LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 302                                                    01 
+00060030006000003LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 303                                                    01 
+00060030007000007LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 401                                                    01 
+00060030008000002LIB       US Representative, Dist 13                              LIB Jack B. Westbrook                 402                                                    01 
+00070010001000280REP       Railroad Commissioner                                   REP James "Jim" Wright                101                                                    01 
+00070010002000304REP       Railroad Commissioner                                   REP James "Jim" Wright                201                                                    01 
+00070010003000025REP       Railroad Commissioner                                   REP James "Jim" Wright                202                                                    01 
+00070010004000400REP       Railroad Commissioner                                   REP James "Jim" Wright                301                                                    01 
+00070010005000030REP       Railroad Commissioner                                   REP James "Jim" Wright                302                                                    01 
+00070010006000073REP       Railroad Commissioner                                   REP James "Jim" Wright                303                                                    01 
+00070010007000245REP       Railroad Commissioner                                   REP James "Jim" Wright                401                                                    01 
+00070010008000084REP       Railroad Commissioner                                   REP James "Jim" Wright                402                                                    01 
+00070020001000048DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 101                                                    01 
+00070020002000050DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 201                                                    01 
+00070020003000000DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 202                                                    01 
+00070020004000056DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 301                                                    01 
+00070020005000000DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 302                                                    01 
+00070020006000009DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 303                                                    01 
+00070020007000016DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 401                                                    01 
+00070020008000017DEM       Railroad Commissioner                                   DEM Chrysta Castaneda                 402                                                    01 
+00070030001000005LIB       Railroad Commissioner                                   LIB Matt Sterett                      101                                                    01 
+00070030002000003LIB       Railroad Commissioner                                   LIB Matt Sterett                      201                                                    01 
+00070030003000000LIB       Railroad Commissioner                                   LIB Matt Sterett                      202                                                    01 
+00070030004000006LIB       Railroad Commissioner                                   LIB Matt Sterett                      301                                                    01 
+00070030005000001LIB       Railroad Commissioner                                   LIB Matt Sterett                      302                                                    01 
+00070030006000002LIB       Railroad Commissioner                                   LIB Matt Sterett                      303                                                    01 
+00070030007000008LIB       Railroad Commissioner                                   LIB Matt Sterett                      401                                                    01 
+00070030008000001LIB       Railroad Commissioner                                   LIB Matt Sterett                      402                                                    01 
+00070040001000001GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               101                                                    01 
+00070040002000006GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               201                                                    01 
+00070040003000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               202                                                    01 
+00070040004000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               301                                                    01 
+00070040005000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               302                                                    01 
+00070040006000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               303                                                    01 
+00070040007000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               401                                                    01 
+00070040008000000GRN       Railroad Commissioner                                   GRN Katija "Kat" Gruene               402                                                    01 
+00080010001000279REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      101                                                    01 
+00080010002000304REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      201                                                    01 
+00080010003000025REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      202                                                    01 
+00080010004000398REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      301                                                    01 
+00080010005000030REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      302                                                    01 
+00080010006000071REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      303                                                    01 
+00080010007000241REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      401                                                    01 
+00080010008000086REP       Chief Justice, Supreme Court                            REP Nathan Hecht                      402                                                    01 
+00080020001000048DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 101                                                    01 
+00080020002000053DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 201                                                    01 
+00080020003000000DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 202                                                    01 
+00080020004000051DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 301                                                    01 
+00080020005000001DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 302                                                    01 
+00080020006000012DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 303                                                    01 
+00080020007000015DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 401                                                    01 
+00080020008000014DEM       Chief Justice, Supreme Court                            DEM Amy Clark Meachum                 402                                                    01 
+00080030001000005LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          101                                                    01 
+00080030002000008LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          201                                                    01 
+00080030003000000LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          202                                                    01 
+00080030004000009LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          301                                                    01 
+00080030005000000LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          302                                                    01 
+00080030006000000LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          303                                                    01 
+00080030007000010LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          401                                                    01 
+00080030008000002LIB       Chief Justice, Supreme Court                            LIB Mark Ash                          402                                                    01 
+00090010001000288REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        101                                                    01 
+00090010002000318REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        201                                                    01 
+00090010003000024REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        202                                                    01 
+00090010004000407REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        301                                                    01 
+00090010005000031REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        302                                                    01 
+00090010006000073REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        303                                                    01 
+00090010007000247REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        401                                                    01 
+00090010008000086REP       Justice, Supreme Court, Pl 6                            REP Jane Bland                        402                                                    01 
+00090020001000042DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       101                                                    01 
+00090020002000047DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       201                                                    01 
+00090020003000000DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       202                                                    01 
+00090020004000049DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       301                                                    01 
+00090020005000000DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       302                                                    01 
+00090020006000010DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       303                                                    01 
+00090020007000017DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       401                                                    01 
+00090020008000013DEM       Justice, Supreme Court, Pl 6                            DEM Kathy Cheng                       402                                                    01 
+00100010001000279REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         101                                                    01 
+00100010002000309REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         201                                                    01 
+00100010003000024REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         202                                                    01 
+00100010004000400REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         301                                                    01 
+00100010005000031REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         302                                                    01 
+00100010006000074REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         303                                                    01 
+00100010007000247REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         401                                                    01 
+00100010008000085REP       Justice, Supreme Court, Pl 7                            REP Jeff Boyd                         402                                                    01 
+00100020001000047DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    101                                                    01 
+00100020002000051DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    201                                                    01 
+00100020003000000DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    202                                                    01 
+00100020004000050DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    301                                                    01 
+00100020005000000DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    302                                                    01 
+00100020006000010DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    303                                                    01 
+00100020007000017DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    401                                                    01 
+00100020008000014DEM       Justice, Supreme Court, Pl 7                            DEM Staci Williams                    402                                                    01 
+00100030001000005LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         101                                                    01 
+00100030002000006LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         201                                                    01 
+00100030003000000LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         202                                                    01 
+00100030004000009LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         301                                                    01 
+00100030005000000LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         302                                                    01 
+00100030006000000LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         303                                                    01 
+00100030007000004LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         401                                                    01 
+00100030008000001LIB       Justice, Supreme Court, Pl 7                            LIB William Bryan Strange III         402                                                    01 
+00110010001000285REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       101                                                    01 
+00110010002000308REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       201                                                    01 
+00110010003000025REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       202                                                    01 
+00110010004000409REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       301                                                    01 
+00110010005000031REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       302                                                    01 
+00110010006000074REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       303                                                    01 
+00110010007000245REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       401                                                    01 
+00110010008000085REP       Justice, Supreme Court, Pl 8                            REP Brett Busby                       402                                                    01 
+00110020001000040DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  101                                                    01 
+00110020002000048DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  201                                                    01 
+00110020003000000DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  202                                                    01 
+00110020004000044DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  301                                                    01 
+00110020005000000DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  302                                                    01 
+00110020006000009DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  303                                                    01 
+00110020007000014DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  401                                                    01 
+00110020008000013DEM       Justice, Supreme Court, Pl 8                            DEM Gisela D. Triana                  402                                                    01 
+00110030001000007LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        101                                                    01 
+00110030002000008LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        201                                                    01 
+00110030003000000LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        202                                                    01 
+00110030004000006LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        301                                                    01 
+00110030005000000LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        302                                                    01 
+00110030006000001LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        303                                                    01 
+00110030007000009LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        401                                                    01 
+00110030008000002LIB       Justice, Supreme Court, Pl 8                            LIB Tom Oxford                        402                                                    01 
+00120010001000280REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   101                                                    01 
+00120010002000309REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   201                                                    01 
+00120010003000024REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   202                                                    01 
+00120010004000406REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   301                                                    01 
+00120010005000030REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   302                                                    01 
+00120010006000074REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   303                                                    01 
+00120010007000246REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   401                                                    01 
+00120010008000087REP       Judge, Ct of Crim App, Pl 3                             REP Bert Richardson                   402                                                    01 
+00120020001000046DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           101                                                    01 
+00120020002000053DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           201                                                    01 
+00120020003000001DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           202                                                    01 
+00120020004000048DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           301                                                    01 
+00120020005000001DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           302                                                    01 
+00120020006000010DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           303                                                    01 
+00120020007000018DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           401                                                    01 
+00120020008000013DEM       Judge, Ct of Crim App, Pl 3                             DEM Elizabeth Davis Frizell           402                                                    01 
+00130010001000281REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               101                                                    01 
+00130010002000309REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               201                                                    01 
+00130010003000025REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               202                                                    01 
+00130010004000404REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               301                                                    01 
+00130010005000030REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               302                                                    01 
+00130010006000070REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               303                                                    01 
+00130010007000248REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               401                                                    01 
+00130010008000081REP       Judge, Ct of Crim App, Pl 4                             REP Kevin Patrick Yeary               402                                                    01 
+00130020001000044DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      101                                                    01 
+00130020002000052DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      201                                                    01 
+00130020003000000DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      202                                                    01 
+00130020004000047DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      301                                                    01 
+00130020005000001DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      302                                                    01 
+00130020006000010DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      303                                                    01 
+00130020007000017DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      401                                                    01 
+00130020008000015DEM       Judge, Ct of Crim App, Pl 4                             DEM Tina Clinton                      402                                                    01 
+00140010001000284REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      101                                                    01 
+00140010002000307REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      201                                                    01 
+00140010003000024REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      202                                                    01 
+00140010004000405REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      301                                                    01 
+00140010005000030REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      302                                                    01 
+00140010006000074REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      303                                                    01 
+00140010007000247REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      401                                                    01 
+00140010008000082REP       Judge, Ct of Crim App, Pl 9                             REP David Newell                      402                                                    01 
+00140020001000041DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                101                                                    01 
+00140020002000048DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                201                                                    01 
+00140020003000000DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                202                                                    01 
+00140020004000047DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                301                                                    01 
+00140020005000000DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                302                                                    01 
+00140020006000009DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                303                                                    01 
+00140020007000015DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                401                                                    01 
+00140020008000016DEM       Judge, Ct of Crim App, Pl 9                             DEM Brandon Birmingham                402                                                    01 
+00150010001000278REP       Member, State BoE, Dist 15                              REP Jay Johnson                       101                                                    01 
+00150010002000307REP       Member, State BoE, Dist 15                              REP Jay Johnson                       201                                                    01 
+00150010003000024REP       Member, State BoE, Dist 15                              REP Jay Johnson                       202                                                    01 
+00150010004000408REP       Member, State BoE, Dist 15                              REP Jay Johnson                       301                                                    01 
+00150010005000031REP       Member, State BoE, Dist 15                              REP Jay Johnson                       302                                                    01 
+00150010006000072REP       Member, State BoE, Dist 15                              REP Jay Johnson                       303                                                    01 
+00150010007000246REP       Member, State BoE, Dist 15                              REP Jay Johnson                       401                                                    01 
+00150010008000086REP       Member, State BoE, Dist 15                              REP Jay Johnson                       402                                                    01 
+00150020001000053DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   101                                                    01 
+00150020002000055DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   201                                                    01 
+00150020003000001DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   202                                                    01 
+00150020004000046DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   301                                                    01 
+00150020005000000DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   302                                                    01 
+00150020006000011DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   303                                                    01 
+00150020007000020DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   401                                                    01 
+00150020008000015DEM       Member, State BoE, Dist 15                              DEM John Betancourt                   402                                                    01 
+00160010001000311REP       State Representative, Dist 88                           REP Ken King                          101                                                    01 
+00160010002000336REP       State Representative, Dist 88                           REP Ken King                          201                                                    01 
+00160010003000025REP       State Representative, Dist 88                           REP Ken King                          202                                                    01 
+00160010004000423REP       State Representative, Dist 88                           REP Ken King                          301                                                    01 
+00160010005000028REP       State Representative, Dist 88                           REP Ken King                          302                                                    01 
+00160010006000079REP       State Representative, Dist 88                           REP Ken King                          303                                                    01 
+00160010007000254REP       State Representative, Dist 88                           REP Ken King                          401                                                    01 
+00160010008000095REP       State Representative, Dist 88                           REP Ken King                          402                                                    01 
+00170010001000297REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       101                                                    01 
+00170010002000318REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       201                                                    01 
+00170010003000023REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       202                                                    01 
+00170010004000432REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       301                                                    01 
+00170010005000031REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       302                                                    01 
+00170010006000075REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       303                                                    01 
+00170010007000255REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       401                                                    01 
+00170010008000091REP       Chief Justice, 7th Ct of App Dist                       REP Brian Quinn                       402                                                    01 
+00180010001000295REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        101                                                    01 
+00180010002000317REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        201                                                    01 
+00180010003000024REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        202                                                    01 
+00180010004000426REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        301                                                    01 
+00180010005000031REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        302                                                    01 
+00180010006000075REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        303                                                    01 
+00180010007000252REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        401                                                    01 
+00180010008000088REP       Justice, 7th Ct of App Dist, Pl 4                       REP Larry Doss                        402                                                    01 
+00190010001000283REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                101                                                    01 
+00190010002000306REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                201                                                    01 
+00190010003000023REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                202                                                    01 
+00190010004000409REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                301                                                    01 
+00190010005000027REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                302                                                    01 
+00190010006000074REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                303                                                    01 
+00190010007000243REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                401                                                    01 
+00190010008000087REP       Dist Attorney, 31st Judicial Dist                       REP Franklin McDonough                402                                                    01 
+00200010001000289REP       County Attorney                                         REP Kyle Miller                       101                                                    01 
+00200010002000306REP       County Attorney                                         REP Kyle Miller                       201                                                    01 
+00200010003000022REP       County Attorney                                         REP Kyle Miller                       202                                                    01 
+00200010004000421REP       County Attorney                                         REP Kyle Miller                       301                                                    01 
+00200010005000027REP       County Attorney                                         REP Kyle Miller                       302                                                    01 
+00200010006000076REP       County Attorney                                         REP Kyle Miller                       303                                                    01 
+00200010007000247REP       County Attorney                                         REP Kyle Miller                       401                                                    01 
+00200010008000093REP       County Attorney                                         REP Kyle Miller                       402                                                    01 
+00210010001000292REP       Sheriff                                                 REP Brent Clapp                       101                                                    01 
+00210010002000316REP       Sheriff                                                 REP Brent Clapp                       201                                                    01 
+00210010003000024REP       Sheriff                                                 REP Brent Clapp                       202                                                    01 
+00210010004000431REP       Sheriff                                                 REP Brent Clapp                       301                                                    01 
+00210010005000030REP       Sheriff                                                 REP Brent Clapp                       302                                                    01 
+00210010006000076REP       Sheriff                                                 REP Brent Clapp                       303                                                    01 
+00210010007000251REP       Sheriff                                                 REP Brent Clapp                       401                                                    01 
+00210010008000095REP       Sheriff                                                 REP Brent Clapp                       402                                                    01 
+00220010001000304REP       County Tax Assessor-Collector                           REP Chris Jackson                     101                                                    01 
+00220010002000318REP       County Tax Assessor-Collector                           REP Chris Jackson                     201                                                    01 
+00220010003000024REP       County Tax Assessor-Collector                           REP Chris Jackson                     202                                                    01 
+00220010004000433REP       County Tax Assessor-Collector                           REP Chris Jackson                     301                                                    01 
+00220010005000030REP       County Tax Assessor-Collector                           REP Chris Jackson                     302                                                    01 
+00220010006000075REP       County Tax Assessor-Collector                           REP Chris Jackson                     303                                                    01 
+00220010007000253REP       County Tax Assessor-Collector                           REP Chris Jackson                     401                                                    01 
+00220010008000095REP       County Tax Assessor-Collector                           REP Chris Jackson                     402                                                    01 
+00230010001000319REPCOM001 County Commissioner Pct 1                               REP Dawn Webb                         101                           Precinct 1               01 
+00240010004000428REPCOM003 County Commissioner Pct 3                               REP Curt McPherson                    301                           Precinct 3               01 
+00240010005000023REPCOM003 County Commissioner Pct 3                               REP Curt McPherson                    302                           Precinct 3               01 
+00240010006000074REPCOM003 County Commissioner Pct 3                               REP Curt McPherson                    303                           Precinct 3               01 
+00250010001000189NONCTY001 City Council City of Canadian                           Gary Prater                           101                           City of Canadian         03 
+00250010002000232NONCTY001 City Council City of Canadian                           Gary Prater                           201                           City of Canadian         03 
+00250010004000217NONCTY001 City Council City of Canadian                           Gary Prater                           301                           City of Canadian         03 
+00250010007000135NONCTY001 City Council City of Canadian                           Gary Prater                           401                           City of Canadian         03 
+00250020001000147NONCTY001 City Council City of Canadian                           Ashlee Talley                         101                           City of Canadian         03 
+00250020002000155NONCTY001 City Council City of Canadian                           Ashlee Talley                         201                           City of Canadian         03 
+00250020004000148NONCTY001 City Council City of Canadian                           Ashlee Talley                         301                           City of Canadian         03 
+00250020007000107NONCTY001 City Council City of Canadian                           Ashlee Talley                         401                           City of Canadian         03 
+00250030001000201NONCTY001 City Council City of Canadian                           Wendie Cook                           101                           City of Canadian         03 
+00250030002000205NONCTY001 City Council City of Canadian                           Wendie Cook                           201                           City of Canadian         03 
+00250030004000187NONCTY001 City Council City of Canadian                           Wendie Cook                           301                           City of Canadian         03 
+00250030007000133NONCTY001 City Council City of Canadian                           Wendie Cook                           401                           City of Canadian         03 
+00250040001000149NONCTY001 City Council City of Canadian                           Jocelyn Timmons                       101                           City of Canadian         03 
+00250040002000142NONCTY001 City Council City of Canadian                           Jocelyn Timmons                       201                           City of Canadian         03 
+00250040004000139NONCTY001 City Council City of Canadian                           Jocelyn Timmons                       301                           City of Canadian         03 
+00250040007000122NONCTY001 City Council City of Canadian                           Jocelyn Timmons                       401                           City of Canadian         03 

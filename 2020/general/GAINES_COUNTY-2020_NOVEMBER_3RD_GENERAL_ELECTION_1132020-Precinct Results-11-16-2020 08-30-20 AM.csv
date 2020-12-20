@@ -1,0 +1,1139 @@
+﻿Contest,PrecinctName,VotingType,Choice,Party,Votes,VotesPercent,TotalVotes,TotalVotesPercent,CastTotal,CastTotalPercent,MainTotal,MainTotalPercent,UnderVotes,TotalUnderVotes,OverVotes,TotalOverVotes,InvalidVotes,TotalInvalidVotes,RejectedWriteInVotes,TotalRejectedWriteInVotes,UnresolvedWriteInVotes,TotalUnresolvedWriteInVotes
+President and Vice President,2,Absentee Voting,Donald J. Trump Michael R. Pence,REP,48,77.42%,1224,90.60%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,Donald J. Trump Michael R. Pence,REP,1025,92.09%,1224,90.60%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,Donald J. Trump Michael R. Pence,REP,151,85.80%,1224,90.60%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,13,20.97%,112,8.29%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,80,7.19%,112,8.29%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,19,10.80%,112,8.29%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,1.61%,13,0.96%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,6,0.54%,13,0.96%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,6,3.41%,13,0.96%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,1,0.07%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,Howie Hawkins Angela Walker,GRN,1,0.09%,1,0.07%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,1,0.07%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Absentee Voting,Brian Carroll (W),,0,0.00%,1,0.07%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,Brian Carroll (W),,1,0.09%,1,0.07%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,Brian Carroll (W),,0,0.00%,1,0.07%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,62,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,1113,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,2,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,176,100.00%,1351,100.00%,0,0,0,0,0,0,0,0,0,0
+United States Senator,2,Absentee Voting,John Cornyn,REP,49,79.03%,1178,89.86%,62,100.00%,1311,100.00%,0,40,0,0,0,0,0,0,0,0
+United States Senator,2,Early Voting,John Cornyn,REP,984,91.20%,1178,89.86%,1079,100.00%,1311,100.00%,34,40,0,0,0,0,0,0,0,0
+United States Senator,2,Election Day Voting,John Cornyn,REP,145,85.29%,1178,89.86%,170,100.00%,1311,100.00%,6,40,0,0,0,0,0,0,0,0
+United States Senator,2,Absentee Voting,"Mary ""MJ"" Hegar",DEM,13,20.97%,111,8.47%,62,100.00%,1311,100.00%,0,40,0,0,0,0,0,0,0,0
+United States Senator,2,Early Voting,"Mary ""MJ"" Hegar",DEM,78,7.23%,111,8.47%,1079,100.00%,1311,100.00%,34,40,0,0,0,0,0,0,0,0
+United States Senator,2,Election Day Voting,"Mary ""MJ"" Hegar",DEM,20,11.76%,111,8.47%,170,100.00%,1311,100.00%,6,40,0,0,0,0,0,0,0,0
+United States Senator,2,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,19,1.45%,62,100.00%,1311,100.00%,0,40,0,0,0,0,0,0,0,0
+United States Senator,2,Early Voting,Kerry Douglas McKennon,LIB,14,1.30%,19,1.45%,1079,100.00%,1311,100.00%,34,40,0,0,0,0,0,0,0,0
+United States Senator,2,Election Day Voting,Kerry Douglas McKennon,LIB,5,2.94%,19,1.45%,170,100.00%,1311,100.00%,6,40,0,0,0,0,0,0,0,0
+United States Senator,2,Absentee Voting,David B. Collins,GRN,0,0.00%,3,0.23%,62,100.00%,1311,100.00%,0,40,0,0,0,0,0,0,0,0
+United States Senator,2,Early Voting,David B. Collins,GRN,3,0.28%,3,0.23%,1079,100.00%,1311,100.00%,34,40,0,0,0,0,0,0,0,0
+United States Senator,2,Election Day Voting,David B. Collins,GRN,0,0.00%,3,0.23%,170,100.00%,1311,100.00%,6,40,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Absentee Voting,Jodey C. Arrington,REP,46,77.97%,1184,90.52%,59,100.00%,1308,100.00%,3,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Early Voting,Jodey C. Arrington,REP,989,91.74%,1184,90.52%,1078,100.00%,1308,100.00%,35,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Election Day Voting,Jodey C. Arrington,REP,149,87.13%,1184,90.52%,171,100.00%,1308,100.00%,5,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Absentee Voting,Tom Watson,DEM,13,22.03%,101,7.72%,59,100.00%,1308,100.00%,3,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Early Voting,Tom Watson,DEM,71,6.59%,101,7.72%,1078,100.00%,1308,100.00%,35,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Election Day Voting,Tom Watson,DEM,17,9.94%,101,7.72%,171,100.00%,1308,100.00%,5,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Absentee Voting,Joe Burnes,LIB,0,0.00%,23,1.76%,59,100.00%,1308,100.00%,3,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Early Voting,Joe Burnes,LIB,18,1.67%,23,1.76%,1078,100.00%,1308,100.00%,35,43,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",2,Election Day Voting,Joe Burnes,LIB,5,2.92%,23,1.76%,171,100.00%,1308,100.00%,5,43,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Absentee Voting,"James ""Jim"" Wright",REP,47,78.33%,1156,89.34%,60,100.00%,1294,100.00%,2,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Early Voting,"James ""Jim"" Wright",REP,965,90.61%,1156,89.34%,1065,100.00%,1294,100.00%,48,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Election Day Voting,"James ""Jim"" Wright",REP,144,85.21%,1156,89.34%,169,100.00%,1294,100.00%,7,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Absentee Voting,Chrysta Castañeda,DEM,13,21.67%,110,8.50%,60,100.00%,1294,100.00%,2,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Early Voting,Chrysta Castañeda,DEM,81,7.61%,110,8.50%,1065,100.00%,1294,100.00%,48,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Election Day Voting,Chrysta Castañeda,DEM,16,9.47%,110,8.50%,169,100.00%,1294,100.00%,7,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Absentee Voting,Matt Sterett,LIB,0,0.00%,24,1.85%,60,100.00%,1294,100.00%,2,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Early Voting,Matt Sterett,LIB,17,1.60%,24,1.85%,1065,100.00%,1294,100.00%,48,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Election Day Voting,Matt Sterett,LIB,7,4.14%,24,1.85%,169,100.00%,1294,100.00%,7,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,4,0.31%,60,100.00%,1294,100.00%,2,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Early Voting,"Katija ""Kat"" Gruene",GRN,2,0.19%,4,0.31%,1065,100.00%,1294,100.00%,48,57,0,0,0,0,0,0,0,0
+Railroad Commissioner,2,Election Day Voting,"Katija ""Kat"" Gruene",GRN,2,1.18%,4,0.31%,169,100.00%,1294,100.00%,7,57,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Absentee Voting,Nathan Hecht,REP,46,79.31%,1146,89.39%,58,100.00%,1282,100.00%,4,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Early Voting,Nathan Hecht,REP,955,90.44%,1146,89.39%,1056,100.00%,1282,100.00%,57,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Election Day Voting,Nathan Hecht,REP,145,86.31%,1146,89.39%,168,100.00%,1282,100.00%,8,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Absentee Voting,Amy Clark Meachum,DEM,12,20.69%,111,8.66%,58,100.00%,1282,100.00%,4,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Early Voting,Amy Clark Meachum,DEM,80,7.58%,111,8.66%,1056,100.00%,1282,100.00%,57,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Election Day Voting,Amy Clark Meachum,DEM,19,11.31%,111,8.66%,168,100.00%,1282,100.00%,8,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Absentee Voting,Mark Ash,LIB,0,0.00%,25,1.95%,58,100.00%,1282,100.00%,4,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Early Voting,Mark Ash,LIB,21,1.99%,25,1.95%,1056,100.00%,1282,100.00%,57,69,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",2,Election Day Voting,Mark Ash,LIB,4,2.38%,25,1.95%,168,100.00%,1282,100.00%,8,69,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Absentee Voting,Jane Bland,REP,45,77.59%,1177,91.67%,58,100.00%,1284,100.00%,4,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Early Voting,Jane Bland,REP,981,92.72%,1177,91.67%,1058,100.00%,1284,100.00%,55,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Election Day Voting,Jane Bland,REP,151,89.88%,1177,91.67%,168,100.00%,1284,100.00%,8,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Absentee Voting,Kathy Cheng,DEM,13,22.41%,107,8.33%,58,100.00%,1284,100.00%,4,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Early Voting,Kathy Cheng,DEM,77,7.28%,107,8.33%,1058,100.00%,1284,100.00%,55,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",2,Election Day Voting,Kathy Cheng,DEM,17,10.12%,107,8.33%,168,100.00%,1284,100.00%,8,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Absentee Voting,Jeff Boyd,REP,46,80.70%,1154,89.81%,57,100.00%,1285,100.00%,5,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Early Voting,Jeff Boyd,REP,964,90.86%,1154,89.81%,1061,100.00%,1285,100.00%,52,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Election Day Voting,Jeff Boyd,REP,144,86.23%,1154,89.81%,167,100.00%,1285,100.00%,9,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Absentee Voting,Staci Williams,DEM,11,19.30%,111,8.64%,57,100.00%,1285,100.00%,5,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Early Voting,Staci Williams,DEM,79,7.45%,111,8.64%,1061,100.00%,1285,100.00%,52,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Election Day Voting,Staci Williams,DEM,21,12.57%,111,8.64%,167,100.00%,1285,100.00%,9,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,20,1.56%,57,100.00%,1285,100.00%,5,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Early Voting,William Bryan Strange III,LIB,18,1.70%,20,1.56%,1061,100.00%,1285,100.00%,52,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",2,Election Day Voting,William Bryan Strange III,LIB,2,1.20%,20,1.56%,167,100.00%,1285,100.00%,9,66,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Absentee Voting,Brett Busby,REP,45,77.59%,1160,90.20%,58,100.00%,1286,100.00%,4,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Early Voting,Brett Busby,REP,968,91.23%,1160,90.20%,1061,100.00%,1286,100.00%,52,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Election Day Voting,Brett Busby,REP,147,88.02%,1160,90.20%,167,100.00%,1286,100.00%,9,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Absentee Voting,Gisela D. Triana,DEM,12,20.69%,105,8.16%,58,100.00%,1286,100.00%,4,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Early Voting,Gisela D. Triana,DEM,76,7.16%,105,8.16%,1061,100.00%,1286,100.00%,52,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Election Day Voting,Gisela D. Triana,DEM,17,10.18%,105,8.16%,167,100.00%,1286,100.00%,9,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Absentee Voting,Tom Oxford,LIB,1,1.72%,21,1.63%,58,100.00%,1286,100.00%,4,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Early Voting,Tom Oxford,LIB,17,1.60%,21,1.63%,1061,100.00%,1286,100.00%,52,65,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",2,Election Day Voting,Tom Oxford,LIB,3,1.80%,21,1.63%,167,100.00%,1286,100.00%,9,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Absentee Voting,Bert Richardson,REP,46,77.97%,1175,91.16%,59,100.00%,1289,100.00%,3,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Early Voting,Bert Richardson,REP,982,92.29%,1175,91.16%,1064,100.00%,1289,100.00%,49,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Election Day Voting,Bert Richardson,REP,147,88.55%,1175,91.16%,166,100.00%,1289,100.00%,10,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Absentee Voting,Elizabeth Davis Frizell,DEM,13,22.03%,114,8.84%,59,100.00%,1289,100.00%,3,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Early Voting,Elizabeth Davis Frizell,DEM,82,7.71%,114,8.84%,1064,100.00%,1289,100.00%,49,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",2,Election Day Voting,Elizabeth Davis Frizell,DEM,19,11.45%,114,8.84%,166,100.00%,1289,100.00%,10,62,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Absentee Voting,Kevin Patrick Yeary,REP,45,78.95%,1176,91.88%,57,100.00%,1280,100.00%,4,70,1,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Early Voting,Kevin Patrick Yeary,REP,982,92.82%,1176,91.88%,1058,100.00%,1280,100.00%,55,70,0,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Election Day Voting,Kevin Patrick Yeary,REP,149,90.30%,1176,91.88%,165,100.00%,1280,100.00%,11,70,0,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Absentee Voting,Tina Clinton,DEM,12,21.05%,104,8.13%,57,100.00%,1280,100.00%,4,70,1,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Early Voting,Tina Clinton,DEM,76,7.18%,104,8.13%,1058,100.00%,1280,100.00%,55,70,0,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",2,Election Day Voting,Tina Clinton,DEM,16,9.70%,104,8.13%,165,100.00%,1280,100.00%,11,70,0,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Absentee Voting,David Newell,REP,45,77.59%,1180,91.90%,58,100.00%,1284,100.00%,4,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Early Voting,David Newell,REP,983,92.74%,1180,91.90%,1060,100.00%,1284,100.00%,53,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Election Day Voting,David Newell,REP,152,91.57%,1180,91.90%,166,100.00%,1284,100.00%,10,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Absentee Voting,Brandon Birmingham,DEM,13,22.41%,104,8.10%,58,100.00%,1284,100.00%,4,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Early Voting,Brandon Birmingham,DEM,77,7.26%,104,8.10%,1060,100.00%,1284,100.00%,53,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",2,Election Day Voting,Brandon Birmingham,DEM,14,8.43%,104,8.10%,166,100.00%,1284,100.00%,10,67,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Absentee Voting,Jay Johnson,REP,48,80.00%,1163,90.30%,60,100.00%,1288,100.00%,2,63,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Early Voting,Jay Johnson,REP,965,91.12%,1163,90.30%,1059,100.00%,1288,100.00%,54,63,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Election Day Voting,Jay Johnson,REP,150,88.76%,1163,90.30%,169,100.00%,1288,100.00%,7,63,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Absentee Voting,John Betancourt,DEM,12,20.00%,125,9.70%,60,100.00%,1288,100.00%,2,63,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Early Voting,John Betancourt,DEM,94,8.88%,125,9.70%,1059,100.00%,1288,100.00%,54,63,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",2,Election Day Voting,John Betancourt,DEM,19,11.24%,125,9.70%,169,100.00%,1288,100.00%,7,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Absentee Voting,Dustin Burrows,REP,46,77.97%,1173,91.14%,59,100.00%,1287,100.00%,3,64,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Early Voting,Dustin Burrows,REP,976,92.08%,1173,91.14%,1060,100.00%,1287,100.00%,53,64,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Election Day Voting,Dustin Burrows,REP,151,89.88%,1173,91.14%,168,100.00%,1287,100.00%,8,64,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Absentee Voting,Addison Perry-Franks,DEM,13,22.03%,114,8.86%,59,100.00%,1287,100.00%,3,64,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Early Voting,Addison Perry-Franks,DEM,84,7.92%,114,8.86%,1060,100.00%,1287,100.00%,53,64,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",2,Election Day Voting,Addison Perry-Franks,DEM,17,10.12%,114,8.86%,168,100.00%,1287,100.00%,8,64,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",2,Absentee Voting,Bruce Williams,REP,51,100.00%,1235,100.00%,51,100.00%,1235,100.00%,11,116,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",2,Early Voting,Bruce Williams,REP,1022,100.00%,1235,100.00%,1022,100.00%,1235,100.00%,91,116,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",2,Election Day Voting,Bruce Williams,REP,162,100.00%,1235,100.00%,162,100.00%,1235,100.00%,14,116,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",2,Absentee Voting,W. Stacy Trotter,REP,51,100.00%,1221,100.00%,51,100.00%,1221,100.00%,11,130,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",2,Early Voting,W. Stacy Trotter,REP,1009,100.00%,1221,100.00%,1009,100.00%,1221,100.00%,104,130,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",2,Election Day Voting,W. Stacy Trotter,REP,161,100.00%,1221,100.00%,161,100.00%,1221,100.00%,15,130,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",2,Absentee Voting,Philip Mack Furlow,REP,52,100.00%,1224,100.00%,52,100.00%,1224,100.00%,10,127,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",2,Early Voting,Philip Mack Furlow,REP,1010,100.00%,1224,100.00%,1010,100.00%,1224,100.00%,103,127,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",2,Election Day Voting,Philip Mack Furlow,REP,162,100.00%,1224,100.00%,162,100.00%,1224,100.00%,14,127,0,0,0,0,0,0,0,0
+County Attorney,2,Absentee Voting,Joe Nagy Jr,REP,52,100.00%,1230,100.00%,52,100.00%,1230,100.00%,10,121,0,0,0,0,0,0,0,0
+County Attorney,2,Early Voting,Joe Nagy Jr,REP,1011,100.00%,1230,100.00%,1011,100.00%,1230,100.00%,102,121,0,0,0,0,0,0,0,0
+County Attorney,2,Election Day Voting,Joe Nagy Jr,REP,167,100.00%,1230,100.00%,167,100.00%,1230,100.00%,9,121,0,0,0,0,0,0,0,0
+Sheriff,2,Absentee Voting,Ronny Pipkin,REP,53,100.00%,1228,100.00%,53,100.00%,1228,100.00%,9,123,0,0,0,0,0,0,0,0
+Sheriff,2,Early Voting,Ronny Pipkin,REP,1008,100.00%,1228,100.00%,1008,100.00%,1228,100.00%,105,123,0,0,0,0,0,0,0,0
+Sheriff,2,Election Day Voting,Ronny Pipkin,REP,167,100.00%,1228,100.00%,167,100.00%,1228,100.00%,9,123,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,2,Absentee Voting,Susan Shaw,REP,52,100.00%,1239,100.00%,52,100.00%,1239,100.00%,10,112,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,2,Early Voting,Susan Shaw,REP,1021,100.00%,1239,100.00%,1021,100.00%,1239,100.00%,92,112,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,2,Election Day Voting,Susan Shaw,REP,166,100.00%,1239,100.00%,166,100.00%,1239,100.00%,10,112,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",2,Absentee Voting,Chad Hallum,REP,54,100.00%,1223,100.00%,54,100.00%,1223,100.00%,8,128,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",2,Early Voting,Chad Hallum,REP,1003,100.00%,1223,100.00%,1003,100.00%,1223,100.00%,110,128,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",2,Election Day Voting,Chad Hallum,REP,166,100.00%,1223,100.00%,166,100.00%,1223,100.00%,10,128,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,Donald J. Trump Michael R. Pence,REP,54,77.14%,1840,93.16%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,Donald J. Trump Michael R. Pence,REP,1644,94.43%,1840,93.16%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,Donald J. Trump Michael R. Pence,REP,142,86.59%,1840,93.16%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,16,22.86%,121,6.13%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,86,4.94%,121,6.13%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,19,11.59%,121,6.13%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,14,0.71%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,11,0.63%,14,0.71%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,3,1.83%,14,0.71%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,70,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,1741,100.00%,1975,100.00%,4,4,0,0,0,0,0,0,0,0
+President and Vice President,3,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,164,100.00%,1975,100.00%,0,4,0,0,0,0,0,0,0,0
+United States Senator,3,Absentee Voting,John Cornyn,REP,53,76.81%,1769,92.52%,69,100.00%,1912,100.00%,1,67,0,0,0,0,0,0,0,0
+United States Senator,3,Early Voting,John Cornyn,REP,1579,93.60%,1769,92.52%,1687,100.00%,1912,100.00%,58,67,0,0,0,0,0,0,0,0
+United States Senator,3,Election Day Voting,John Cornyn,REP,137,87.82%,1769,92.52%,156,100.00%,1912,100.00%,8,67,0,0,0,0,0,0,0,0
+United States Senator,3,Absentee Voting,"Mary ""MJ"" Hegar",DEM,16,23.19%,120,6.28%,69,100.00%,1912,100.00%,1,67,0,0,0,0,0,0,0,0
+United States Senator,3,Early Voting,"Mary ""MJ"" Hegar",DEM,89,5.28%,120,6.28%,1687,100.00%,1912,100.00%,58,67,0,0,0,0,0,0,0,0
+United States Senator,3,Election Day Voting,"Mary ""MJ"" Hegar",DEM,15,9.62%,120,6.28%,156,100.00%,1912,100.00%,8,67,0,0,0,0,0,0,0,0
+United States Senator,3,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,23,1.20%,69,100.00%,1912,100.00%,1,67,0,0,0,0,0,0,0,0
+United States Senator,3,Early Voting,Kerry Douglas McKennon,LIB,19,1.13%,23,1.20%,1687,100.00%,1912,100.00%,58,67,0,0,0,0,0,0,0,0
+United States Senator,3,Election Day Voting,Kerry Douglas McKennon,LIB,4,2.56%,23,1.20%,156,100.00%,1912,100.00%,8,67,0,0,0,0,0,0,0,0
+United States Senator,3,Absentee Voting,David B. Collins,GRN,0,0.00%,0,0.00%,69,100.00%,1912,100.00%,1,67,0,0,0,0,0,0,0,0
+United States Senator,3,Early Voting,David B. Collins,GRN,0,0.00%,0,0.00%,1687,100.00%,1912,100.00%,58,67,0,0,0,0,0,0,0,0
+United States Senator,3,Election Day Voting,David B. Collins,GRN,0,0.00%,0,0.00%,156,100.00%,1912,100.00%,8,67,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Absentee Voting,Jodey C. Arrington,REP,52,78.79%,1779,93.24%,66,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Early Voting,Jodey C. Arrington,REP,1587,94.35%,1779,93.24%,1682,100.00%,1908,100.00%,63,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Election Day Voting,Jodey C. Arrington,REP,140,87.50%,1779,93.24%,160,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Absentee Voting,Tom Watson,DEM,14,21.21%,100,5.24%,66,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Early Voting,Tom Watson,DEM,70,4.16%,100,5.24%,1682,100.00%,1908,100.00%,63,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Election Day Voting,Tom Watson,DEM,16,10.00%,100,5.24%,160,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Absentee Voting,Joe Burnes,LIB,0,0.00%,29,1.52%,66,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Early Voting,Joe Burnes,LIB,25,1.49%,29,1.52%,1682,100.00%,1908,100.00%,63,71,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",3,Election Day Voting,Joe Burnes,LIB,4,2.50%,29,1.52%,160,100.00%,1908,100.00%,4,71,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Absentee Voting,"James ""Jim"" Wright",REP,55,80.88%,1760,93.12%,68,100.00%,1890,100.00%,2,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Early Voting,"James ""Jim"" Wright",REP,1567,94.17%,1760,93.12%,1664,100.00%,1890,100.00%,81,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Election Day Voting,"James ""Jim"" Wright",REP,138,87.34%,1760,93.12%,158,100.00%,1890,100.00%,6,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Absentee Voting,Chrysta Castañeda,DEM,13,19.12%,102,5.40%,68,100.00%,1890,100.00%,2,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Early Voting,Chrysta Castañeda,DEM,73,4.39%,102,5.40%,1664,100.00%,1890,100.00%,81,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Election Day Voting,Chrysta Castañeda,DEM,16,10.13%,102,5.40%,158,100.00%,1890,100.00%,6,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Absentee Voting,Matt Sterett,LIB,0,0.00%,26,1.38%,68,100.00%,1890,100.00%,2,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Early Voting,Matt Sterett,LIB,23,1.38%,26,1.38%,1664,100.00%,1890,100.00%,81,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Election Day Voting,Matt Sterett,LIB,3,1.90%,26,1.38%,158,100.00%,1890,100.00%,6,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,2,0.11%,68,100.00%,1890,100.00%,2,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Early Voting,"Katija ""Kat"" Gruene",GRN,1,0.06%,2,0.11%,1664,100.00%,1890,100.00%,81,89,0,0,0,0,0,0,0,0
+Railroad Commissioner,3,Election Day Voting,"Katija ""Kat"" Gruene",GRN,1,0.63%,2,0.11%,158,100.00%,1890,100.00%,6,89,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Absentee Voting,Nathan Hecht,REP,52,77.61%,1749,92.25%,67,100.00%,1896,100.00%,3,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Early Voting,Nathan Hecht,REP,1562,93.53%,1749,92.25%,1670,100.00%,1896,100.00%,75,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Election Day Voting,Nathan Hecht,REP,135,84.91%,1749,92.25%,159,100.00%,1896,100.00%,5,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Absentee Voting,Amy Clark Meachum,DEM,15,22.39%,119,6.28%,67,100.00%,1896,100.00%,3,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Early Voting,Amy Clark Meachum,DEM,84,5.03%,119,6.28%,1670,100.00%,1896,100.00%,75,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Election Day Voting,Amy Clark Meachum,DEM,20,12.58%,119,6.28%,159,100.00%,1896,100.00%,5,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Absentee Voting,Mark Ash,LIB,0,0.00%,28,1.48%,67,100.00%,1896,100.00%,3,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Early Voting,Mark Ash,LIB,24,1.44%,28,1.48%,1670,100.00%,1896,100.00%,75,83,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",3,Election Day Voting,Mark Ash,LIB,4,2.52%,28,1.48%,159,100.00%,1896,100.00%,5,83,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Absentee Voting,Jane Bland,REP,51,78.46%,1771,94.20%,65,100.00%,1880,100.00%,5,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Early Voting,Jane Bland,REP,1580,95.18%,1771,94.20%,1660,100.00%,1880,100.00%,85,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Election Day Voting,Jane Bland,REP,140,90.32%,1771,94.20%,155,100.00%,1880,100.00%,9,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Absentee Voting,Kathy Cheng,DEM,14,21.54%,109,5.80%,65,100.00%,1880,100.00%,5,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Early Voting,Kathy Cheng,DEM,80,4.82%,109,5.80%,1660,100.00%,1880,100.00%,85,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",3,Election Day Voting,Kathy Cheng,DEM,15,9.68%,109,5.80%,155,100.00%,1880,100.00%,9,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Absentee Voting,Jeff Boyd,REP,50,75.76%,1756,92.96%,66,100.00%,1889,100.00%,4,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Early Voting,Jeff Boyd,REP,1567,94.06%,1756,92.96%,1666,100.00%,1889,100.00%,79,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Election Day Voting,Jeff Boyd,REP,139,88.54%,1756,92.96%,157,100.00%,1889,100.00%,7,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Absentee Voting,Staci Williams,DEM,16,24.24%,103,5.45%,66,100.00%,1889,100.00%,4,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Early Voting,Staci Williams,DEM,73,4.38%,103,5.45%,1666,100.00%,1889,100.00%,79,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Election Day Voting,Staci Williams,DEM,14,8.92%,103,5.45%,157,100.00%,1889,100.00%,7,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,30,1.59%,66,100.00%,1889,100.00%,4,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Early Voting,William Bryan Strange III,LIB,26,1.56%,30,1.59%,1666,100.00%,1889,100.00%,79,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",3,Election Day Voting,William Bryan Strange III,LIB,4,2.55%,30,1.59%,157,100.00%,1889,100.00%,7,90,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Absentee Voting,Brett Busby,REP,51,77.27%,1747,92.93%,66,100.00%,1880,100.00%,4,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Early Voting,Brett Busby,REP,1560,93.98%,1747,92.93%,1660,100.00%,1880,100.00%,85,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Election Day Voting,Brett Busby,REP,136,88.31%,1747,92.93%,154,100.00%,1880,100.00%,10,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Absentee Voting,Gisela D. Triana,DEM,14,21.21%,103,5.48%,66,100.00%,1880,100.00%,4,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Early Voting,Gisela D. Triana,DEM,74,4.46%,103,5.48%,1660,100.00%,1880,100.00%,85,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Election Day Voting,Gisela D. Triana,DEM,15,9.74%,103,5.48%,154,100.00%,1880,100.00%,10,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Absentee Voting,Tom Oxford,LIB,1,1.52%,30,1.60%,66,100.00%,1880,100.00%,4,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Early Voting,Tom Oxford,LIB,26,1.57%,30,1.60%,1660,100.00%,1880,100.00%,85,99,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",3,Election Day Voting,Tom Oxford,LIB,3,1.95%,30,1.60%,154,100.00%,1880,100.00%,10,99,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Absentee Voting,Bert Richardson,REP,50,76.92%,1767,94.04%,65,100.00%,1879,100.00%,5,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Early Voting,Bert Richardson,REP,1577,95.06%,1767,94.04%,1659,100.00%,1879,100.00%,86,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Election Day Voting,Bert Richardson,REP,140,90.32%,1767,94.04%,155,100.00%,1879,100.00%,9,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Absentee Voting,Elizabeth Davis Frizell,DEM,15,23.08%,112,5.96%,65,100.00%,1879,100.00%,5,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Early Voting,Elizabeth Davis Frizell,DEM,82,4.94%,112,5.96%,1659,100.00%,1879,100.00%,86,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",3,Election Day Voting,Elizabeth Davis Frizell,DEM,15,9.68%,112,5.96%,155,100.00%,1879,100.00%,9,100,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Absentee Voting,Kevin Patrick Yeary,REP,49,76.56%,1762,94.28%,64,100.00%,1869,100.00%,6,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Early Voting,Kevin Patrick Yeary,REP,1573,95.22%,1762,94.28%,1652,100.00%,1869,100.00%,93,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Election Day Voting,Kevin Patrick Yeary,REP,140,91.50%,1762,94.28%,153,100.00%,1869,100.00%,11,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Absentee Voting,Tina Clinton,DEM,15,23.44%,107,5.72%,64,100.00%,1869,100.00%,6,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Early Voting,Tina Clinton,DEM,79,4.78%,107,5.72%,1652,100.00%,1869,100.00%,93,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",3,Election Day Voting,Tina Clinton,DEM,13,8.50%,107,5.72%,153,100.00%,1869,100.00%,11,110,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Absentee Voting,David Newell,REP,51,80.95%,1765,94.64%,63,100.00%,1865,100.00%,7,114,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Early Voting,David Newell,REP,1575,95.57%,1765,94.64%,1648,100.00%,1865,100.00%,97,114,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Election Day Voting,David Newell,REP,139,90.26%,1765,94.64%,154,100.00%,1865,100.00%,10,114,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Absentee Voting,Brandon Birmingham,DEM,12,19.05%,100,5.36%,63,100.00%,1865,100.00%,7,114,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Early Voting,Brandon Birmingham,DEM,73,4.43%,100,5.36%,1648,100.00%,1865,100.00%,97,114,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",3,Election Day Voting,Brandon Birmingham,DEM,15,9.74%,100,5.36%,154,100.00%,1865,100.00%,10,114,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Absentee Voting,Jay Johnson,REP,49,76.56%,1761,94.02%,64,100.00%,1873,100.00%,6,106,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Early Voting,Jay Johnson,REP,1575,95.17%,1761,94.02%,1655,100.00%,1873,100.00%,90,106,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Election Day Voting,Jay Johnson,REP,137,88.96%,1761,94.02%,154,100.00%,1873,100.00%,10,106,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Absentee Voting,John Betancourt,DEM,15,23.44%,112,5.98%,64,100.00%,1873,100.00%,6,106,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Early Voting,John Betancourt,DEM,80,4.83%,112,5.98%,1655,100.00%,1873,100.00%,90,106,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",3,Election Day Voting,John Betancourt,DEM,17,11.04%,112,5.98%,154,100.00%,1873,100.00%,10,106,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",3,Absentee Voting,Dustin Burrows,REP,49,77.78%,1747,93.37%,63,100.00%,1871,100.00%,6,107,1,1,0,0,0,0,0,0
+"State Representative, District No. 83",3,Early Voting,Dustin Burrows,REP,1557,94.14%,1747,93.37%,1654,100.00%,1871,100.00%,91,107,0,1,0,0,0,0,0,0
+"State Representative, District No. 83",3,Election Day Voting,Dustin Burrows,REP,141,91.56%,1747,93.37%,154,100.00%,1871,100.00%,10,107,0,1,0,0,0,0,0,0
+"State Representative, District No. 83",3,Absentee Voting,Addison Perry-Franks,DEM,14,22.22%,124,6.63%,63,100.00%,1871,100.00%,6,107,1,1,0,0,0,0,0,0
+"State Representative, District No. 83",3,Early Voting,Addison Perry-Franks,DEM,97,5.86%,124,6.63%,1654,100.00%,1871,100.00%,91,107,0,1,0,0,0,0,0,0
+"State Representative, District No. 83",3,Election Day Voting,Addison Perry-Franks,DEM,13,8.44%,124,6.63%,154,100.00%,1871,100.00%,10,107,0,1,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",3,Absentee Voting,Bruce Williams,REP,55,100.00%,1819,100.00%,55,100.00%,1819,100.00%,15,160,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",3,Early Voting,Bruce Williams,REP,1613,100.00%,1819,100.00%,1613,100.00%,1819,100.00%,132,160,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",3,Election Day Voting,Bruce Williams,REP,151,100.00%,1819,100.00%,151,100.00%,1819,100.00%,13,160,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",3,Absentee Voting,W. Stacy Trotter,REP,57,100.00%,1812,100.00%,57,100.00%,1812,100.00%,13,167,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",3,Early Voting,W. Stacy Trotter,REP,1606,100.00%,1812,100.00%,1606,100.00%,1812,100.00%,139,167,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",3,Election Day Voting,W. Stacy Trotter,REP,149,100.00%,1812,100.00%,149,100.00%,1812,100.00%,15,167,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",3,Absentee Voting,Philip Mack Furlow,REP,53,100.00%,1790,100.00%,53,100.00%,1790,100.00%,17,189,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",3,Early Voting,Philip Mack Furlow,REP,1590,100.00%,1790,100.00%,1590,100.00%,1790,100.00%,155,189,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",3,Election Day Voting,Philip Mack Furlow,REP,147,100.00%,1790,100.00%,147,100.00%,1790,100.00%,17,189,0,0,0,0,0,0,0,0
+County Attorney,3,Absentee Voting,Joe Nagy Jr,REP,55,100.00%,1808,100.00%,55,100.00%,1808,100.00%,15,171,0,0,0,0,0,0,0,0
+County Attorney,3,Early Voting,Joe Nagy Jr,REP,1603,100.00%,1808,100.00%,1603,100.00%,1808,100.00%,142,171,0,0,0,0,0,0,0,0
+County Attorney,3,Election Day Voting,Joe Nagy Jr,REP,150,100.00%,1808,100.00%,150,100.00%,1808,100.00%,14,171,0,0,0,0,0,0,0,0
+Sheriff,3,Absentee Voting,Ronny Pipkin,REP,57,100.00%,1814,100.00%,57,100.00%,1814,100.00%,13,165,0,0,0,0,0,0,0,0
+Sheriff,3,Early Voting,Ronny Pipkin,REP,1610,100.00%,1814,100.00%,1610,100.00%,1814,100.00%,135,165,0,0,0,0,0,0,0,0
+Sheriff,3,Election Day Voting,Ronny Pipkin,REP,147,100.00%,1814,100.00%,147,100.00%,1814,100.00%,17,165,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,3,Absentee Voting,Susan Shaw,REP,58,100.00%,1813,100.00%,58,100.00%,1813,100.00%,12,166,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,3,Early Voting,Susan Shaw,REP,1607,100.00%,1813,100.00%,1607,100.00%,1813,100.00%,138,166,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,3,Election Day Voting,Susan Shaw,REP,148,100.00%,1813,100.00%,148,100.00%,1813,100.00%,16,166,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 3",3,Absentee Voting,David Murphree,REP,54,100.00%,1782,100.00%,54,100.00%,1782,100.00%,16,197,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 3",3,Early Voting,David Murphree,REP,1580,100.00%,1782,100.00%,1580,100.00%,1782,100.00%,165,197,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 3",3,Election Day Voting,David Murphree,REP,148,100.00%,1782,100.00%,148,100.00%,1782,100.00%,16,197,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",3,Absentee Voting,Chad Hallum,REP,54,100.00%,1799,100.00%,54,100.00%,1799,100.00%,16,180,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",3,Early Voting,Chad Hallum,REP,1599,100.00%,1799,100.00%,1599,100.00%,1799,100.00%,146,180,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",3,Election Day Voting,Chad Hallum,REP,146,100.00%,1799,100.00%,146,100.00%,1799,100.00%,18,180,0,0,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,Donald J. Trump Michael R. Pence,REP,19,76.00%,780,86.76%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,Donald J. Trump Michael R. Pence,REP,665,88.20%,780,86.76%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,Donald J. Trump Michael R. Pence,REP,96,80.00%,780,86.76%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,5,20.00%,105,11.68%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,81,10.74%,105,11.68%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,19,15.83%,105,11.68%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,4.00%,12,1.33%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,8,1.06%,12,1.33%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,3,2.50%,12,1.33%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,2,0.22%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,2,0.22%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,Howie Hawkins Angela Walker,GRN,2,1.67%,2,0.22%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,25,100.00%,899,100.00%,0,1,2,2,0,0,0,0,0,0
+President and Vice President,4,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,754,100.00%,899,100.00%,1,1,0,2,0,0,0,0,0,0
+President and Vice President,4,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,120,100.00%,899,100.00%,0,1,0,2,0,0,0,0,0,0
+United States Senator,4,Absentee Voting,John Cornyn,REP,20,83.33%,753,86.65%,24,100.00%,869,100.00%,1,31,2,2,0,0,0,0,0,0
+United States Senator,4,Early Voting,John Cornyn,REP,646,88.37%,753,86.65%,731,100.00%,869,100.00%,24,31,0,2,0,0,0,0,0,0
+United States Senator,4,Election Day Voting,John Cornyn,REP,87,76.32%,753,86.65%,114,100.00%,869,100.00%,6,31,0,2,0,0,0,0,0,0
+United States Senator,4,Absentee Voting,"Mary ""MJ"" Hegar",DEM,4,16.67%,99,11.39%,24,100.00%,869,100.00%,1,31,2,2,0,0,0,0,0,0
+United States Senator,4,Early Voting,"Mary ""MJ"" Hegar",DEM,72,9.85%,99,11.39%,731,100.00%,869,100.00%,24,31,0,2,0,0,0,0,0,0
+United States Senator,4,Election Day Voting,"Mary ""MJ"" Hegar",DEM,23,20.18%,99,11.39%,114,100.00%,869,100.00%,6,31,0,2,0,0,0,0,0,0
+United States Senator,4,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,12,1.38%,24,100.00%,869,100.00%,1,31,2,2,0,0,0,0,0,0
+United States Senator,4,Early Voting,Kerry Douglas McKennon,LIB,9,1.23%,12,1.38%,731,100.00%,869,100.00%,24,31,0,2,0,0,0,0,0,0
+United States Senator,4,Election Day Voting,Kerry Douglas McKennon,LIB,3,2.63%,12,1.38%,114,100.00%,869,100.00%,6,31,0,2,0,0,0,0,0,0
+United States Senator,4,Absentee Voting,David B. Collins,GRN,0,0.00%,5,0.58%,24,100.00%,869,100.00%,1,31,2,2,0,0,0,0,0,0
+United States Senator,4,Early Voting,David B. Collins,GRN,4,0.55%,5,0.58%,731,100.00%,869,100.00%,24,31,0,2,0,0,0,0,0,0
+United States Senator,4,Election Day Voting,David B. Collins,GRN,1,0.88%,5,0.58%,114,100.00%,869,100.00%,6,31,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Absentee Voting,Jodey C. Arrington,REP,17,73.91%,755,87.28%,23,100.00%,865,100.00%,2,35,2,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Early Voting,Jodey C. Arrington,REP,645,88.48%,755,87.28%,729,100.00%,865,100.00%,26,35,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Election Day Voting,Jodey C. Arrington,REP,93,82.30%,755,87.28%,113,100.00%,865,100.00%,7,35,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Absentee Voting,Tom Watson,DEM,6,26.09%,97,11.21%,23,100.00%,865,100.00%,2,35,2,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Early Voting,Tom Watson,DEM,73,10.01%,97,11.21%,729,100.00%,865,100.00%,26,35,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Election Day Voting,Tom Watson,DEM,18,15.93%,97,11.21%,113,100.00%,865,100.00%,7,35,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Absentee Voting,Joe Burnes,LIB,0,0.00%,13,1.50%,23,100.00%,865,100.00%,2,35,2,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Early Voting,Joe Burnes,LIB,11,1.51%,13,1.50%,729,100.00%,865,100.00%,26,35,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",4,Election Day Voting,Joe Burnes,LIB,2,1.77%,13,1.50%,113,100.00%,865,100.00%,7,35,0,2,0,0,0,0,0,0
+Railroad Commissioner,4,Absentee Voting,"James ""Jim"" Wright",REP,20,80.00%,746,86.54%,25,100.00%,862,100.00%,1,39,1,1,0,0,0,0,0,0
+Railroad Commissioner,4,Early Voting,"James ""Jim"" Wright",REP,640,88.15%,746,86.54%,726,100.00%,862,100.00%,29,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Election Day Voting,"James ""Jim"" Wright",REP,86,77.48%,746,86.54%,111,100.00%,862,100.00%,9,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Absentee Voting,Chrysta Castañeda,DEM,5,20.00%,102,11.83%,25,100.00%,862,100.00%,1,39,1,1,0,0,0,0,0,0
+Railroad Commissioner,4,Early Voting,Chrysta Castañeda,DEM,75,10.33%,102,11.83%,726,100.00%,862,100.00%,29,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Election Day Voting,Chrysta Castañeda,DEM,22,19.82%,102,11.83%,111,100.00%,862,100.00%,9,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Absentee Voting,Matt Sterett,LIB,0,0.00%,9,1.04%,25,100.00%,862,100.00%,1,39,1,1,0,0,0,0,0,0
+Railroad Commissioner,4,Early Voting,Matt Sterett,LIB,6,0.83%,9,1.04%,726,100.00%,862,100.00%,29,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Election Day Voting,Matt Sterett,LIB,3,2.70%,9,1.04%,111,100.00%,862,100.00%,9,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,5,0.58%,25,100.00%,862,100.00%,1,39,1,1,0,0,0,0,0,0
+Railroad Commissioner,4,Early Voting,"Katija ""Kat"" Gruene",GRN,5,0.69%,5,0.58%,726,100.00%,862,100.00%,29,39,0,1,0,0,0,0,0,0
+Railroad Commissioner,4,Election Day Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,5,0.58%,111,100.00%,862,100.00%,9,39,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Absentee Voting,Nathan Hecht,REP,17,70.83%,731,85.10%,24,100.00%,859,100.00%,2,42,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Early Voting,Nathan Hecht,REP,629,86.88%,731,85.10%,724,100.00%,859,100.00%,31,42,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Election Day Voting,Nathan Hecht,REP,85,76.58%,731,85.10%,111,100.00%,859,100.00%,9,42,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Absentee Voting,Amy Clark Meachum,DEM,6,25.00%,108,12.57%,24,100.00%,859,100.00%,2,42,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Early Voting,Amy Clark Meachum,DEM,80,11.05%,108,12.57%,724,100.00%,859,100.00%,31,42,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Election Day Voting,Amy Clark Meachum,DEM,22,19.82%,108,12.57%,111,100.00%,859,100.00%,9,42,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Absentee Voting,Mark Ash,LIB,1,4.17%,20,2.33%,24,100.00%,859,100.00%,2,42,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Early Voting,Mark Ash,LIB,15,2.07%,20,2.33%,724,100.00%,859,100.00%,31,42,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",4,Election Day Voting,Mark Ash,LIB,4,3.60%,20,2.33%,111,100.00%,859,100.00%,9,42,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Absentee Voting,Jane Bland,REP,17,70.83%,758,88.24%,24,100.00%,859,100.00%,3,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Early Voting,Jane Bland,REP,650,89.78%,758,88.24%,724,100.00%,859,100.00%,31,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Election Day Voting,Jane Bland,REP,91,81.98%,758,88.24%,111,100.00%,859,100.00%,9,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Absentee Voting,Kathy Cheng,DEM,7,29.17%,101,11.76%,24,100.00%,859,100.00%,3,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Early Voting,Kathy Cheng,DEM,74,10.22%,101,11.76%,724,100.00%,859,100.00%,31,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",4,Election Day Voting,Kathy Cheng,DEM,20,18.02%,101,11.76%,111,100.00%,859,100.00%,9,43,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Absentee Voting,Jeff Boyd,REP,15,65.22%,733,86.64%,23,100.00%,846,100.00%,3,55,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Early Voting,Jeff Boyd,REP,633,88.66%,733,86.64%,714,100.00%,846,100.00%,41,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Election Day Voting,Jeff Boyd,REP,85,77.98%,733,86.64%,109,100.00%,846,100.00%,11,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Absentee Voting,Staci Williams,DEM,6,26.09%,100,11.82%,23,100.00%,846,100.00%,3,55,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Early Voting,Staci Williams,DEM,71,9.94%,100,11.82%,714,100.00%,846,100.00%,41,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Election Day Voting,Staci Williams,DEM,23,21.10%,100,11.82%,109,100.00%,846,100.00%,11,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Absentee Voting,William Bryan Strange III,LIB,2,8.70%,13,1.54%,23,100.00%,846,100.00%,3,55,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Early Voting,William Bryan Strange III,LIB,10,1.40%,13,1.54%,714,100.00%,846,100.00%,41,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",4,Election Day Voting,William Bryan Strange III,LIB,1,0.92%,13,1.54%,109,100.00%,846,100.00%,11,55,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Absentee Voting,Brett Busby,REP,16,69.57%,736,85.88%,23,100.00%,857,100.00%,3,44,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Early Voting,Brett Busby,REP,637,87.86%,736,85.88%,725,100.00%,857,100.00%,30,44,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Election Day Voting,Brett Busby,REP,83,76.15%,736,85.88%,109,100.00%,857,100.00%,11,44,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Absentee Voting,Gisela D. Triana,DEM,6,26.09%,108,12.60%,23,100.00%,857,100.00%,3,44,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Early Voting,Gisela D. Triana,DEM,79,10.90%,108,12.60%,725,100.00%,857,100.00%,30,44,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Election Day Voting,Gisela D. Triana,DEM,23,21.10%,108,12.60%,109,100.00%,857,100.00%,11,44,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Absentee Voting,Tom Oxford,LIB,1,4.35%,13,1.52%,23,100.00%,857,100.00%,3,44,1,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Early Voting,Tom Oxford,LIB,9,1.24%,13,1.52%,725,100.00%,857,100.00%,30,44,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",4,Election Day Voting,Tom Oxford,LIB,3,2.75%,13,1.52%,109,100.00%,857,100.00%,11,44,0,1,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Absentee Voting,Bert Richardson,REP,18,72.00%,753,87.97%,25,100.00%,856,100.00%,2,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Early Voting,Bert Richardson,REP,649,89.64%,753,87.97%,724,100.00%,856,100.00%,31,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Election Day Voting,Bert Richardson,REP,86,80.37%,753,87.97%,107,100.00%,856,100.00%,13,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Absentee Voting,Elizabeth Davis Frizell,DEM,7,28.00%,103,12.03%,25,100.00%,856,100.00%,2,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Early Voting,Elizabeth Davis Frizell,DEM,75,10.36%,103,12.03%,724,100.00%,856,100.00%,31,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",4,Election Day Voting,Elizabeth Davis Frizell,DEM,21,19.63%,103,12.03%,107,100.00%,856,100.00%,13,46,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Absentee Voting,Kevin Patrick Yeary,REP,16,66.67%,749,87.60%,24,100.00%,855,100.00%,3,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Early Voting,Kevin Patrick Yeary,REP,646,89.60%,749,87.60%,721,100.00%,855,100.00%,34,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Election Day Voting,Kevin Patrick Yeary,REP,87,79.09%,749,87.60%,110,100.00%,855,100.00%,10,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Absentee Voting,Tina Clinton,DEM,8,33.33%,106,12.40%,24,100.00%,855,100.00%,3,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Early Voting,Tina Clinton,DEM,75,10.40%,106,12.40%,721,100.00%,855,100.00%,34,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",4,Election Day Voting,Tina Clinton,DEM,23,20.91%,106,12.40%,110,100.00%,855,100.00%,10,47,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Absentee Voting,David Newell,REP,17,70.83%,748,87.69%,24,100.00%,853,100.00%,3,49,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Early Voting,David Newell,REP,641,89.15%,748,87.69%,719,100.00%,853,100.00%,36,49,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Election Day Voting,David Newell,REP,90,81.82%,748,87.69%,110,100.00%,853,100.00%,10,49,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Absentee Voting,Brandon Birmingham,DEM,7,29.17%,105,12.31%,24,100.00%,853,100.00%,3,49,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Early Voting,Brandon Birmingham,DEM,78,10.85%,105,12.31%,719,100.00%,853,100.00%,36,49,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",4,Election Day Voting,Brandon Birmingham,DEM,20,18.18%,105,12.31%,110,100.00%,853,100.00%,10,49,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Absentee Voting,Jay Johnson,REP,18,75.00%,745,86.93%,24,100.00%,857,100.00%,3,45,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Early Voting,Jay Johnson,REP,642,88.80%,745,86.93%,723,100.00%,857,100.00%,32,45,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Election Day Voting,Jay Johnson,REP,85,77.27%,745,86.93%,110,100.00%,857,100.00%,10,45,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Absentee Voting,John Betancourt,DEM,6,25.00%,112,13.07%,24,100.00%,857,100.00%,3,45,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Early Voting,John Betancourt,DEM,81,11.20%,112,13.07%,723,100.00%,857,100.00%,32,45,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",4,Election Day Voting,John Betancourt,DEM,25,22.73%,112,13.07%,110,100.00%,857,100.00%,10,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Absentee Voting,Dustin Burrows,REP,17,73.91%,752,87.75%,23,100.00%,857,100.00%,4,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Early Voting,Dustin Burrows,REP,647,89.49%,752,87.75%,723,100.00%,857,100.00%,32,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Election Day Voting,Dustin Burrows,REP,88,79.28%,752,87.75%,111,100.00%,857,100.00%,9,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Absentee Voting,Addison Perry-Franks,DEM,6,26.09%,105,12.25%,23,100.00%,857,100.00%,4,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Early Voting,Addison Perry-Franks,DEM,76,10.51%,105,12.25%,723,100.00%,857,100.00%,32,45,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",4,Election Day Voting,Addison Perry-Franks,DEM,23,20.72%,105,12.25%,111,100.00%,857,100.00%,9,45,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",4,Absentee Voting,Bruce Williams,REP,22,100.00%,803,100.00%,22,100.00%,803,100.00%,5,99,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",4,Early Voting,Bruce Williams,REP,679,100.00%,803,100.00%,679,100.00%,803,100.00%,76,99,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",4,Election Day Voting,Bruce Williams,REP,102,100.00%,803,100.00%,102,100.00%,803,100.00%,18,99,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",4,Absentee Voting,W. Stacy Trotter,REP,20,100.00%,800,100.00%,20,100.00%,800,100.00%,7,102,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",4,Early Voting,W. Stacy Trotter,REP,680,100.00%,800,100.00%,680,100.00%,800,100.00%,75,102,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",4,Election Day Voting,W. Stacy Trotter,REP,100,100.00%,800,100.00%,100,100.00%,800,100.00%,20,102,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",4,Absentee Voting,Philip Mack Furlow,REP,21,100.00%,803,100.00%,21,100.00%,803,100.00%,6,99,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",4,Early Voting,Philip Mack Furlow,REP,681,100.00%,803,100.00%,681,100.00%,803,100.00%,74,99,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",4,Election Day Voting,Philip Mack Furlow,REP,101,100.00%,803,100.00%,101,100.00%,803,100.00%,19,99,0,0,0,0,0,0,0,0
+County Attorney,4,Absentee Voting,Joe Nagy Jr,REP,21,100.00%,812,100.00%,21,100.00%,812,100.00%,6,90,0,0,0,0,0,0,0,0
+County Attorney,4,Early Voting,Joe Nagy Jr,REP,685,100.00%,812,100.00%,685,100.00%,812,100.00%,70,90,0,0,0,0,0,0,0,0
+County Attorney,4,Election Day Voting,Joe Nagy Jr,REP,106,100.00%,812,100.00%,106,100.00%,812,100.00%,14,90,0,0,0,0,0,0,0,0
+Sheriff,4,Absentee Voting,Ronny Pipkin,REP,21,100.00%,809,100.00%,21,100.00%,809,100.00%,6,93,0,0,0,0,0,0,0,0
+Sheriff,4,Early Voting,Ronny Pipkin,REP,681,100.00%,809,100.00%,681,100.00%,809,100.00%,74,93,0,0,0,0,0,0,0,0
+Sheriff,4,Election Day Voting,Ronny Pipkin,REP,107,100.00%,809,100.00%,107,100.00%,809,100.00%,13,93,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,4,Absentee Voting,Susan Shaw,REP,22,100.00%,820,100.00%,22,100.00%,820,100.00%,5,82,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,4,Early Voting,Susan Shaw,REP,692,100.00%,820,100.00%,692,100.00%,820,100.00%,63,82,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,4,Election Day Voting,Susan Shaw,REP,106,100.00%,820,100.00%,106,100.00%,820,100.00%,14,82,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",4,Absentee Voting,Chad Hallum,REP,22,100.00%,801,100.00%,22,100.00%,801,100.00%,5,101,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",4,Early Voting,Chad Hallum,REP,673,100.00%,801,100.00%,673,100.00%,801,100.00%,82,101,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",4,Election Day Voting,Chad Hallum,REP,106,100.00%,801,100.00%,106,100.00%,801,100.00%,14,101,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,Donald J. Trump Michael R. Pence,REP,7,70.00%,145,91.77%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,Donald J. Trump Michael R. Pence,REP,79,94.05%,145,91.77%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,Donald J. Trump Michael R. Pence,REP,59,92.19%,145,91.77%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,3,30.00%,12,7.59%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,5,5.95%,12,7.59%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,4,6.25%,12,7.59%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,1,0.63%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,1,0.63%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,1.56%,1,0.63%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,10,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,84,100.00%,158,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,5,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,64,100.00%,158,100.00%,1,1,0,0,0,0,0,0,0,0
+United States Senator,5,Absentee Voting,John Cornyn,REP,7,77.78%,143,92.86%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Early Voting,John Cornyn,REP,78,93.98%,143,92.86%,83,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Election Day Voting,John Cornyn,REP,58,93.55%,143,92.86%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+United States Senator,5,Absentee Voting,"Mary ""MJ"" Hegar",DEM,2,22.22%,9,5.84%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Early Voting,"Mary ""MJ"" Hegar",DEM,5,6.02%,9,5.84%,83,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Election Day Voting,"Mary ""MJ"" Hegar",DEM,2,3.23%,9,5.84%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+United States Senator,5,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,2,1.30%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Early Voting,Kerry Douglas McKennon,LIB,0,0.00%,2,1.30%,83,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Election Day Voting,Kerry Douglas McKennon,LIB,2,3.23%,2,1.30%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+United States Senator,5,Absentee Voting,David B. Collins,GRN,0,0.00%,0,0.00%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Early Voting,David B. Collins,GRN,0,0.00%,0,0.00%,83,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+United States Senator,5,Election Day Voting,David B. Collins,GRN,0,0.00%,0,0.00%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Absentee Voting,Jodey C. Arrington,REP,7,70.00%,140,90.91%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Early Voting,Jodey C. Arrington,REP,75,93.75%,140,90.91%,80,100.00%,154,100.00%,4,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Election Day Voting,Jodey C. Arrington,REP,58,90.63%,140,90.91%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Absentee Voting,Tom Watson,DEM,3,30.00%,10,6.49%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Early Voting,Tom Watson,DEM,5,6.25%,10,6.49%,80,100.00%,154,100.00%,4,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Election Day Voting,Tom Watson,DEM,2,3.13%,10,6.49%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Absentee Voting,Joe Burnes,LIB,0,0.00%,4,2.60%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Early Voting,Joe Burnes,LIB,0,0.00%,4,2.60%,80,100.00%,154,100.00%,4,5,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",5,Election Day Voting,Joe Burnes,LIB,4,6.25%,4,2.60%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Absentee Voting,"James ""Jim"" Wright",REP,8,88.89%,141,92.16%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Early Voting,"James ""Jim"" Wright",REP,74,92.50%,141,92.16%,80,100.00%,153,100.00%,4,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Election Day Voting,"James ""Jim"" Wright",REP,59,92.19%,141,92.16%,64,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Absentee Voting,Chrysta Castañeda,DEM,1,11.11%,10,6.54%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Early Voting,Chrysta Castañeda,DEM,6,7.50%,10,6.54%,80,100.00%,153,100.00%,4,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Election Day Voting,Chrysta Castañeda,DEM,3,4.69%,10,6.54%,64,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Absentee Voting,Matt Sterett,LIB,0,0.00%,2,1.31%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Early Voting,Matt Sterett,LIB,0,0.00%,2,1.31%,80,100.00%,153,100.00%,4,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Election Day Voting,Matt Sterett,LIB,2,3.13%,2,1.31%,64,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,0,0.00%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Early Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,0,0.00%,80,100.00%,153,100.00%,4,6,0,0,0,0,0,0,0,0
+Railroad Commissioner,5,Election Day Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,0,0.00%,64,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Absentee Voting,Nathan Hecht,REP,8,88.89%,143,92.86%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Early Voting,Nathan Hecht,REP,76,93.83%,143,92.86%,81,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Election Day Voting,Nathan Hecht,REP,59,92.19%,143,92.86%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Absentee Voting,Amy Clark Meachum,DEM,1,11.11%,8,5.19%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Early Voting,Amy Clark Meachum,DEM,5,6.17%,8,5.19%,81,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Election Day Voting,Amy Clark Meachum,DEM,2,3.13%,8,5.19%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Absentee Voting,Mark Ash,LIB,0,0.00%,3,1.95%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Early Voting,Mark Ash,LIB,0,0.00%,3,1.95%,81,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",5,Election Day Voting,Mark Ash,LIB,3,4.69%,3,1.95%,64,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Absentee Voting,Jane Bland,REP,8,88.89%,144,93.51%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Early Voting,Jane Bland,REP,77,93.90%,144,93.51%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Election Day Voting,Jane Bland,REP,59,93.65%,144,93.51%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Absentee Voting,Kathy Cheng,DEM,1,11.11%,10,6.49%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Early Voting,Kathy Cheng,DEM,5,6.10%,10,6.49%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",5,Election Day Voting,Kathy Cheng,DEM,4,6.35%,10,6.49%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Absentee Voting,Jeff Boyd,REP,9,90.00%,143,92.86%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Early Voting,Jeff Boyd,REP,77,93.90%,143,92.86%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Election Day Voting,Jeff Boyd,REP,57,91.94%,143,92.86%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Absentee Voting,Staci Williams,DEM,1,10.00%,9,5.84%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Early Voting,Staci Williams,DEM,5,6.10%,9,5.84%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Election Day Voting,Staci Williams,DEM,3,4.84%,9,5.84%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,2,1.30%,10,100.00%,154,100.00%,0,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Early Voting,William Bryan Strange III,LIB,0,0.00%,2,1.30%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",5,Election Day Voting,William Bryan Strange III,LIB,2,3.23%,2,1.30%,62,100.00%,154,100.00%,3,5,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Absentee Voting,Brett Busby,REP,8,88.89%,142,93.42%,9,100.00%,152,100.00%,1,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Early Voting,Brett Busby,REP,76,93.83%,142,93.42%,81,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Election Day Voting,Brett Busby,REP,58,93.55%,142,93.42%,62,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Absentee Voting,Gisela D. Triana,DEM,1,11.11%,8,5.26%,9,100.00%,152,100.00%,1,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Early Voting,Gisela D. Triana,DEM,5,6.17%,8,5.26%,81,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Election Day Voting,Gisela D. Triana,DEM,2,3.23%,8,5.26%,62,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Absentee Voting,Tom Oxford,LIB,0,0.00%,2,1.32%,9,100.00%,152,100.00%,1,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Early Voting,Tom Oxford,LIB,0,0.00%,2,1.32%,81,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",5,Election Day Voting,Tom Oxford,LIB,2,3.23%,2,1.32%,62,100.00%,152,100.00%,3,7,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Absentee Voting,Bert Richardson,REP,8,88.89%,143,93.46%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Early Voting,Bert Richardson,REP,76,93.83%,143,93.46%,81,100.00%,153,100.00%,3,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Election Day Voting,Bert Richardson,REP,59,93.65%,143,93.46%,63,100.00%,153,100.00%,2,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Absentee Voting,Elizabeth Davis Frizell,DEM,1,11.11%,10,6.54%,9,100.00%,153,100.00%,1,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Early Voting,Elizabeth Davis Frizell,DEM,5,6.17%,10,6.54%,81,100.00%,153,100.00%,3,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",5,Election Day Voting,Elizabeth Davis Frizell,DEM,4,6.35%,10,6.54%,63,100.00%,153,100.00%,2,6,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Absentee Voting,Kevin Patrick Yeary,REP,8,88.89%,144,93.51%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Early Voting,Kevin Patrick Yeary,REP,77,93.90%,144,93.51%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Election Day Voting,Kevin Patrick Yeary,REP,59,93.65%,144,93.51%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Absentee Voting,Tina Clinton,DEM,1,11.11%,10,6.49%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Early Voting,Tina Clinton,DEM,5,6.10%,10,6.49%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",5,Election Day Voting,Tina Clinton,DEM,4,6.35%,10,6.49%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Absentee Voting,David Newell,REP,8,88.89%,141,94.00%,9,100.00%,150,100.00%,1,9,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Early Voting,David Newell,REP,76,93.83%,141,94.00%,81,100.00%,150,100.00%,3,9,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Election Day Voting,David Newell,REP,57,95.00%,141,94.00%,60,100.00%,150,100.00%,5,9,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Absentee Voting,Brandon Birmingham,DEM,1,11.11%,9,6.00%,9,100.00%,150,100.00%,1,9,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Early Voting,Brandon Birmingham,DEM,5,6.17%,9,6.00%,81,100.00%,150,100.00%,3,9,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",5,Election Day Voting,Brandon Birmingham,DEM,3,5.00%,9,6.00%,60,100.00%,150,100.00%,5,9,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Absentee Voting,Jay Johnson,REP,8,88.89%,139,93.29%,9,100.00%,149,100.00%,1,10,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Early Voting,Jay Johnson,REP,75,93.75%,139,93.29%,80,100.00%,149,100.00%,4,10,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Election Day Voting,Jay Johnson,REP,56,93.33%,139,93.29%,60,100.00%,149,100.00%,5,10,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Absentee Voting,John Betancourt,DEM,1,11.11%,10,6.71%,9,100.00%,149,100.00%,1,10,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Early Voting,John Betancourt,DEM,5,6.25%,10,6.71%,80,100.00%,149,100.00%,4,10,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",5,Election Day Voting,John Betancourt,DEM,4,6.67%,10,6.71%,60,100.00%,149,100.00%,5,10,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Absentee Voting,Dustin Burrows,REP,7,77.78%,144,93.51%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Early Voting,Dustin Burrows,REP,77,93.90%,144,93.51%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Election Day Voting,Dustin Burrows,REP,60,95.24%,144,93.51%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Absentee Voting,Addison Perry-Franks,DEM,2,22.22%,10,6.49%,9,100.00%,154,100.00%,1,5,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Early Voting,Addison Perry-Franks,DEM,5,6.10%,10,6.49%,82,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",5,Election Day Voting,Addison Perry-Franks,DEM,3,4.76%,10,6.49%,63,100.00%,154,100.00%,2,5,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",5,Absentee Voting,Bruce Williams,REP,7,100.00%,148,100.00%,7,100.00%,148,100.00%,3,11,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",5,Early Voting,Bruce Williams,REP,79,100.00%,148,100.00%,79,100.00%,148,100.00%,5,11,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",5,Election Day Voting,Bruce Williams,REP,62,100.00%,148,100.00%,62,100.00%,148,100.00%,3,11,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",5,Absentee Voting,W. Stacy Trotter,REP,7,100.00%,146,100.00%,7,100.00%,146,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",5,Early Voting,W. Stacy Trotter,REP,76,100.00%,146,100.00%,76,100.00%,146,100.00%,8,13,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",5,Election Day Voting,W. Stacy Trotter,REP,63,100.00%,146,100.00%,63,100.00%,146,100.00%,2,13,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",5,Absentee Voting,Philip Mack Furlow,REP,7,100.00%,144,100.00%,7,100.00%,144,100.00%,3,15,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",5,Early Voting,Philip Mack Furlow,REP,74,100.00%,144,100.00%,74,100.00%,144,100.00%,10,15,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",5,Election Day Voting,Philip Mack Furlow,REP,63,100.00%,144,100.00%,63,100.00%,144,100.00%,2,15,0,0,0,0,0,0,0,0
+County Attorney,5,Absentee Voting,Joe Nagy Jr,REP,7,100.00%,147,100.00%,7,100.00%,147,100.00%,3,12,0,0,0,0,0,0,0,0
+County Attorney,5,Early Voting,Joe Nagy Jr,REP,78,100.00%,147,100.00%,78,100.00%,147,100.00%,6,12,0,0,0,0,0,0,0,0
+County Attorney,5,Election Day Voting,Joe Nagy Jr,REP,62,100.00%,147,100.00%,62,100.00%,147,100.00%,3,12,0,0,0,0,0,0,0,0
+Sheriff,5,Absentee Voting,Ronny Pipkin,REP,7,100.00%,139,100.00%,7,100.00%,139,100.00%,3,20,0,0,0,0,0,0,0,0
+Sheriff,5,Early Voting,Ronny Pipkin,REP,72,100.00%,139,100.00%,72,100.00%,139,100.00%,12,20,0,0,0,0,0,0,0,0
+Sheriff,5,Election Day Voting,Ronny Pipkin,REP,60,100.00%,139,100.00%,60,100.00%,139,100.00%,5,20,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,5,Absentee Voting,Susan Shaw,REP,7,100.00%,147,100.00%,7,100.00%,147,100.00%,3,12,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,5,Early Voting,Susan Shaw,REP,79,100.00%,147,100.00%,79,100.00%,147,100.00%,5,12,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,5,Election Day Voting,Susan Shaw,REP,61,100.00%,147,100.00%,61,100.00%,147,100.00%,4,12,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",5,Absentee Voting,Brian Rosson,REP,7,100.00%,143,100.00%,7,100.00%,143,100.00%,3,16,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",5,Early Voting,Brian Rosson,REP,74,100.00%,143,100.00%,74,100.00%,143,100.00%,10,16,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",5,Election Day Voting,Brian Rosson,REP,62,100.00%,143,100.00%,62,100.00%,143,100.00%,3,16,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Henry Froese,,4,19.05%,107,22.11%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Henry Froese,,54,21.69%,107,22.11%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Henry Froese,,49,22.90%,107,22.11%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Brady McConal,,6,28.57%,88,18.18%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Brady McConal,,49,19.68%,88,18.18%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Brady McConal,,33,15.42%,88,18.18%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Norman Crow,,5,23.81%,74,15.29%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Norman Crow,,35,14.06%,74,15.29%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Norman Crow,,34,15.89%,74,15.29%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Jerry Bingham,,1,4.76%,67,13.84%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Jerry Bingham,,35,14.06%,67,13.84%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Jerry Bingham,,31,14.49%,67,13.84%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Bennie Wright,,4,19.05%,62,12.81%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Bennie Wright,,28,11.24%,62,12.81%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Bennie Wright,,30,14.02%,62,12.81%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Tracy Harris,,0,0.00%,45,9.30%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Tracy Harris,,27,10.84%,45,9.30%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Tracy Harris,,18,8.41%,45,9.30%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Absentee Voting,Heath Haynes,,1,4.76%,41,8.47%,21,100.00%,484,100.00%,3,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Early Voting,Heath Haynes,,21,8.43%,41,8.47%,249,100.00%,484,100.00%,83,124,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",5,Election Day Voting,Heath Haynes,,19,8.88%,41,8.47%,214,100.00%,484,100.00%,38,124,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,Donald J. Trump Michael R. Pence,REP,3,27.27%,114,75.50%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,Donald J. Trump Michael R. Pence,REP,92,80.00%,114,75.50%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,Donald J. Trump Michael R. Pence,REP,19,76.00%,114,75.50%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,8,72.73%,35,23.18%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,21,18.26%,35,23.18%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,6,24.00%,35,23.18%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,2,1.32%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,1.74%,2,1.32%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,2,1.32%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,0,0.00%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,11,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,115,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,6,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,25,100.00%,151,100.00%,0,0,0,0,0,0,0,0,0,0
+United States Senator,6,Absentee Voting,John Cornyn,REP,1,11.11%,108,76.60%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Early Voting,John Cornyn,REP,87,79.82%,108,76.60%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+United States Senator,6,Election Day Voting,John Cornyn,REP,20,86.96%,108,76.60%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Absentee Voting,"Mary ""MJ"" Hegar",DEM,8,88.89%,32,22.70%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Early Voting,"Mary ""MJ"" Hegar",DEM,21,19.27%,32,22.70%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+United States Senator,6,Election Day Voting,"Mary ""MJ"" Hegar",DEM,3,13.04%,32,22.70%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,1,0.71%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Early Voting,Kerry Douglas McKennon,LIB,1,0.92%,1,0.71%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+United States Senator,6,Election Day Voting,Kerry Douglas McKennon,LIB,0,0.00%,1,0.71%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Absentee Voting,David B. Collins,GRN,0,0.00%,0,0.00%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+United States Senator,6,Early Voting,David B. Collins,GRN,0,0.00%,0,0.00%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+United States Senator,6,Election Day Voting,David B. Collins,GRN,0,0.00%,0,0.00%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Absentee Voting,Jodey C. Arrington,REP,0,0.00%,108,76.60%,8,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Early Voting,Jodey C. Arrington,REP,90,81.82%,108,76.60%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Election Day Voting,Jodey C. Arrington,REP,18,78.26%,108,76.60%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Absentee Voting,Tom Watson,DEM,8,100.00%,30,21.28%,8,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Early Voting,Tom Watson,DEM,18,16.36%,30,21.28%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Election Day Voting,Tom Watson,DEM,4,17.39%,30,21.28%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Absentee Voting,Joe Burnes,LIB,0,0.00%,3,2.13%,8,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Early Voting,Joe Burnes,LIB,2,1.82%,3,2.13%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",6,Election Day Voting,Joe Burnes,LIB,1,4.35%,3,2.13%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Absentee Voting,"James ""Jim"" Wright",REP,1,11.11%,104,73.76%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Early Voting,"James ""Jim"" Wright",REP,86,78.90%,104,73.76%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Election Day Voting,"James ""Jim"" Wright",REP,17,73.91%,104,73.76%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Absentee Voting,Chrysta Castañeda,DEM,8,88.89%,34,24.11%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Early Voting,Chrysta Castañeda,DEM,20,18.35%,34,24.11%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Election Day Voting,Chrysta Castañeda,DEM,6,26.09%,34,24.11%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Absentee Voting,Matt Sterett,LIB,0,0.00%,2,1.42%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Early Voting,Matt Sterett,LIB,2,1.83%,2,1.42%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Election Day Voting,Matt Sterett,LIB,0,0.00%,2,1.42%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,1,0.71%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Early Voting,"Katija ""Kat"" Gruene",GRN,1,0.92%,1,0.71%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+Railroad Commissioner,6,Election Day Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,1,0.71%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Absentee Voting,Nathan Hecht,REP,1,11.11%,107,75.89%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Early Voting,Nathan Hecht,REP,88,80.73%,107,75.89%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Election Day Voting,Nathan Hecht,REP,18,78.26%,107,75.89%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Absentee Voting,Amy Clark Meachum,DEM,8,88.89%,33,23.40%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Early Voting,Amy Clark Meachum,DEM,20,18.35%,33,23.40%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Election Day Voting,Amy Clark Meachum,DEM,5,21.74%,33,23.40%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Absentee Voting,Mark Ash,LIB,0,0.00%,1,0.71%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Early Voting,Mark Ash,LIB,1,0.92%,1,0.71%,109,100.00%,141,100.00%,6,10,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",6,Election Day Voting,Mark Ash,LIB,0,0.00%,1,0.71%,23,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Absentee Voting,Jane Bland,REP,0,0.00%,106,77.37%,8,100.00%,137,100.00%,3,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Early Voting,Jane Bland,REP,87,82.08%,106,77.37%,106,100.00%,137,100.00%,9,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Election Day Voting,Jane Bland,REP,19,82.61%,106,77.37%,23,100.00%,137,100.00%,2,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Absentee Voting,Kathy Cheng,DEM,8,100.00%,31,22.63%,8,100.00%,137,100.00%,3,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Early Voting,Kathy Cheng,DEM,19,17.92%,31,22.63%,106,100.00%,137,100.00%,9,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",6,Election Day Voting,Kathy Cheng,DEM,4,17.39%,31,22.63%,23,100.00%,137,100.00%,2,14,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Absentee Voting,Jeff Boyd,REP,0,0.00%,106,76.81%,8,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Early Voting,Jeff Boyd,REP,88,81.48%,106,76.81%,108,100.00%,138,100.00%,7,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Election Day Voting,Jeff Boyd,REP,18,81.82%,106,76.81%,22,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Absentee Voting,Staci Williams,DEM,8,100.00%,31,22.46%,8,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Early Voting,Staci Williams,DEM,19,17.59%,31,22.46%,108,100.00%,138,100.00%,7,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Election Day Voting,Staci Williams,DEM,4,18.18%,31,22.46%,22,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,1,0.72%,8,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Early Voting,William Bryan Strange III,LIB,1,0.93%,1,0.72%,108,100.00%,138,100.00%,7,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",6,Election Day Voting,William Bryan Strange III,LIB,0,0.00%,1,0.72%,22,100.00%,138,100.00%,3,13,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Absentee Voting,Brett Busby,REP,0,0.00%,105,74.47%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Early Voting,Brett Busby,REP,87,79.09%,105,74.47%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Election Day Voting,Brett Busby,REP,18,81.82%,105,74.47%,22,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Absentee Voting,Gisela D. Triana,DEM,8,88.89%,33,23.40%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Early Voting,Gisela D. Triana,DEM,21,19.09%,33,23.40%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Election Day Voting,Gisela D. Triana,DEM,4,18.18%,33,23.40%,22,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Absentee Voting,Tom Oxford,LIB,1,11.11%,3,2.13%,9,100.00%,141,100.00%,2,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Early Voting,Tom Oxford,LIB,2,1.82%,3,2.13%,110,100.00%,141,100.00%,5,10,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",6,Election Day Voting,Tom Oxford,LIB,0,0.00%,3,2.13%,22,100.00%,141,100.00%,3,10,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Absentee Voting,Bert Richardson,REP,1,11.11%,110,78.57%,9,100.00%,140,100.00%,2,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Early Voting,Bert Richardson,REP,90,83.33%,110,78.57%,108,100.00%,140,100.00%,7,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Election Day Voting,Bert Richardson,REP,19,82.61%,110,78.57%,23,100.00%,140,100.00%,2,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Absentee Voting,Elizabeth Davis Frizell,DEM,8,88.89%,30,21.43%,9,100.00%,140,100.00%,2,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Early Voting,Elizabeth Davis Frizell,DEM,18,16.67%,30,21.43%,108,100.00%,140,100.00%,7,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",6,Election Day Voting,Elizabeth Davis Frizell,DEM,4,17.39%,30,21.43%,23,100.00%,140,100.00%,2,11,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Absentee Voting,Kevin Patrick Yeary,REP,0,0.00%,107,76.98%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Early Voting,Kevin Patrick Yeary,REP,88,81.48%,107,76.98%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Election Day Voting,Kevin Patrick Yeary,REP,19,82.61%,107,76.98%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Absentee Voting,Tina Clinton,DEM,8,100.00%,32,23.02%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Early Voting,Tina Clinton,DEM,20,18.52%,32,23.02%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",6,Election Day Voting,Tina Clinton,DEM,4,17.39%,32,23.02%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Absentee Voting,David Newell,REP,0,0.00%,108,77.70%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Early Voting,David Newell,REP,89,82.41%,108,77.70%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Election Day Voting,David Newell,REP,19,82.61%,108,77.70%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Absentee Voting,Brandon Birmingham,DEM,8,100.00%,31,22.30%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Early Voting,Brandon Birmingham,DEM,19,17.59%,31,22.30%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",6,Election Day Voting,Brandon Birmingham,DEM,4,17.39%,31,22.30%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Absentee Voting,Jay Johnson,REP,0,0.00%,110,79.14%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Early Voting,Jay Johnson,REP,90,83.33%,110,79.14%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Election Day Voting,Jay Johnson,REP,20,86.96%,110,79.14%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Absentee Voting,John Betancourt,DEM,8,100.00%,29,20.86%,8,100.00%,139,100.00%,3,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Early Voting,John Betancourt,DEM,18,16.67%,29,20.86%,108,100.00%,139,100.00%,7,12,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",6,Election Day Voting,John Betancourt,DEM,3,13.04%,29,20.86%,23,100.00%,139,100.00%,2,12,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Absentee Voting,Dustin Burrows,REP,0,0.00%,108,78.83%,8,100.00%,137,100.00%,3,14,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Early Voting,Dustin Burrows,REP,89,83.96%,108,78.83%,106,100.00%,137,100.00%,9,14,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Election Day Voting,Dustin Burrows,REP,19,82.61%,108,78.83%,23,100.00%,137,100.00%,2,14,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Absentee Voting,Addison Perry-Franks,DEM,8,100.00%,29,21.17%,8,100.00%,137,100.00%,3,14,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Early Voting,Addison Perry-Franks,DEM,17,16.04%,29,21.17%,106,100.00%,137,100.00%,9,14,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",6,Election Day Voting,Addison Perry-Franks,DEM,4,17.39%,29,21.17%,23,100.00%,137,100.00%,2,14,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",6,Absentee Voting,Bruce Williams,REP,4,100.00%,123,100.00%,4,100.00%,123,100.00%,7,28,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",6,Early Voting,Bruce Williams,REP,97,100.00%,123,100.00%,97,100.00%,123,100.00%,18,28,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",6,Election Day Voting,Bruce Williams,REP,22,100.00%,123,100.00%,22,100.00%,123,100.00%,3,28,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",6,Absentee Voting,W. Stacy Trotter,REP,4,100.00%,119,100.00%,4,100.00%,119,100.00%,7,32,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",6,Early Voting,W. Stacy Trotter,REP,93,100.00%,119,100.00%,93,100.00%,119,100.00%,22,32,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",6,Election Day Voting,W. Stacy Trotter,REP,22,100.00%,119,100.00%,22,100.00%,119,100.00%,3,32,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",6,Absentee Voting,Philip Mack Furlow,REP,4,100.00%,121,100.00%,4,100.00%,121,100.00%,7,30,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",6,Early Voting,Philip Mack Furlow,REP,95,100.00%,121,100.00%,95,100.00%,121,100.00%,20,30,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",6,Election Day Voting,Philip Mack Furlow,REP,22,100.00%,121,100.00%,22,100.00%,121,100.00%,3,30,0,0,0,0,0,0,0,0
+County Attorney,6,Absentee Voting,Joe Nagy Jr,REP,4,100.00%,123,100.00%,4,100.00%,123,100.00%,7,28,0,0,0,0,0,0,0,0
+County Attorney,6,Early Voting,Joe Nagy Jr,REP,96,100.00%,123,100.00%,96,100.00%,123,100.00%,19,28,0,0,0,0,0,0,0,0
+County Attorney,6,Election Day Voting,Joe Nagy Jr,REP,23,100.00%,123,100.00%,23,100.00%,123,100.00%,2,28,0,0,0,0,0,0,0,0
+Sheriff,6,Absentee Voting,Ronny Pipkin,REP,4,100.00%,121,100.00%,4,100.00%,121,100.00%,7,30,0,0,0,0,0,0,0,0
+Sheriff,6,Early Voting,Ronny Pipkin,REP,94,100.00%,121,100.00%,94,100.00%,121,100.00%,21,30,0,0,0,0,0,0,0,0
+Sheriff,6,Election Day Voting,Ronny Pipkin,REP,23,100.00%,121,100.00%,23,100.00%,121,100.00%,2,30,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,6,Absentee Voting,Susan Shaw,REP,6,100.00%,125,100.00%,6,100.00%,125,100.00%,5,26,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,6,Early Voting,Susan Shaw,REP,96,100.00%,125,100.00%,96,100.00%,125,100.00%,19,26,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,6,Election Day Voting,Susan Shaw,REP,23,100.00%,125,100.00%,23,100.00%,125,100.00%,2,26,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",6,Absentee Voting,Chad Hallum,REP,4,100.00%,120,100.00%,4,100.00%,120,100.00%,7,31,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",6,Early Voting,Chad Hallum,REP,93,100.00%,120,100.00%,93,100.00%,120,100.00%,22,31,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",6,Election Day Voting,Chad Hallum,REP,23,100.00%,120,100.00%,23,100.00%,120,100.00%,2,31,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,Donald J. Trump Michael R. Pence,REP,1,25.00%,170,68.55%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,Donald J. Trump Michael R. Pence,REP,126,70.79%,170,68.55%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,Donald J. Trump Michael R. Pence,REP,43,65.15%,170,68.55%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,3,75.00%,75,30.24%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,50,28.09%,75,30.24%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,22,33.33%,75,30.24%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,2,0.81%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,Howie Hawkins Angela Walker,GRN,1,0.56%,2,0.81%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,Howie Hawkins Angela Walker,GRN,1,1.52%,2,0.81%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,1,0.40%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,0.56%,1,0.40%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,1,0.40%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,4,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,178,100.00%,248,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,7,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,66,100.00%,248,100.00%,0,1,0,0,0,0,0,0,0,0
+United States Senator,7,Absentee Voting,John Cornyn,REP,1,25.00%,156,69.03%,4,100.00%,226,100.00%,0,23,0,0,0,0,0,0,0,0
+United States Senator,7,Early Voting,John Cornyn,REP,115,70.99%,156,69.03%,162,100.00%,226,100.00%,17,23,0,0,0,0,0,0,0,0
+United States Senator,7,Election Day Voting,John Cornyn,REP,40,66.67%,156,69.03%,60,100.00%,226,100.00%,6,23,0,0,0,0,0,0,0,0
+United States Senator,7,Absentee Voting,"Mary ""MJ"" Hegar",DEM,3,75.00%,65,28.76%,4,100.00%,226,100.00%,0,23,0,0,0,0,0,0,0,0
+United States Senator,7,Early Voting,"Mary ""MJ"" Hegar",DEM,45,27.78%,65,28.76%,162,100.00%,226,100.00%,17,23,0,0,0,0,0,0,0,0
+United States Senator,7,Election Day Voting,"Mary ""MJ"" Hegar",DEM,17,28.33%,65,28.76%,60,100.00%,226,100.00%,6,23,0,0,0,0,0,0,0,0
+United States Senator,7,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,3,1.33%,4,100.00%,226,100.00%,0,23,0,0,0,0,0,0,0,0
+United States Senator,7,Early Voting,Kerry Douglas McKennon,LIB,1,0.62%,3,1.33%,162,100.00%,226,100.00%,17,23,0,0,0,0,0,0,0,0
+United States Senator,7,Election Day Voting,Kerry Douglas McKennon,LIB,2,3.33%,3,1.33%,60,100.00%,226,100.00%,6,23,0,0,0,0,0,0,0,0
+United States Senator,7,Absentee Voting,David B. Collins,GRN,0,0.00%,2,0.88%,4,100.00%,226,100.00%,0,23,0,0,0,0,0,0,0,0
+United States Senator,7,Early Voting,David B. Collins,GRN,1,0.62%,2,0.88%,162,100.00%,226,100.00%,17,23,0,0,0,0,0,0,0,0
+United States Senator,7,Election Day Voting,David B. Collins,GRN,1,1.67%,2,0.88%,60,100.00%,226,100.00%,6,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Absentee Voting,Jodey C. Arrington,REP,0,0.00%,163,72.12%,3,100.00%,226,100.00%,1,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Early Voting,Jodey C. Arrington,REP,121,75.16%,163,72.12%,161,100.00%,226,100.00%,18,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Election Day Voting,Jodey C. Arrington,REP,42,67.74%,163,72.12%,62,100.00%,226,100.00%,4,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Absentee Voting,Tom Watson,DEM,3,100.00%,58,25.66%,3,100.00%,226,100.00%,1,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Early Voting,Tom Watson,DEM,37,22.98%,58,25.66%,161,100.00%,226,100.00%,18,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Election Day Voting,Tom Watson,DEM,18,29.03%,58,25.66%,62,100.00%,226,100.00%,4,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Absentee Voting,Joe Burnes,LIB,0,0.00%,5,2.21%,3,100.00%,226,100.00%,1,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Early Voting,Joe Burnes,LIB,3,1.86%,5,2.21%,161,100.00%,226,100.00%,18,23,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",7,Election Day Voting,Joe Burnes,LIB,2,3.23%,5,2.21%,62,100.00%,226,100.00%,4,23,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Absentee Voting,"James ""Jim"" Wright",REP,1,25.00%,157,68.86%,4,100.00%,228,100.00%,0,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Early Voting,"James ""Jim"" Wright",REP,114,70.37%,157,68.86%,162,100.00%,228,100.00%,17,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Election Day Voting,"James ""Jim"" Wright",REP,42,67.74%,157,68.86%,62,100.00%,228,100.00%,4,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Absentee Voting,Chrysta Castañeda,DEM,2,50.00%,63,27.63%,4,100.00%,228,100.00%,0,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Early Voting,Chrysta Castañeda,DEM,44,27.16%,63,27.63%,162,100.00%,228,100.00%,17,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Election Day Voting,Chrysta Castañeda,DEM,17,27.42%,63,27.63%,62,100.00%,228,100.00%,4,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Absentee Voting,Matt Sterett,LIB,0,0.00%,4,1.75%,4,100.00%,228,100.00%,0,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Early Voting,Matt Sterett,LIB,3,1.85%,4,1.75%,162,100.00%,228,100.00%,17,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Election Day Voting,Matt Sterett,LIB,1,1.61%,4,1.75%,62,100.00%,228,100.00%,4,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Absentee Voting,"Katija ""Kat"" Gruene",GRN,1,25.00%,4,1.75%,4,100.00%,228,100.00%,0,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Early Voting,"Katija ""Kat"" Gruene",GRN,1,0.62%,4,1.75%,162,100.00%,228,100.00%,17,21,0,0,0,0,0,0,0,0
+Railroad Commissioner,7,Election Day Voting,"Katija ""Kat"" Gruene",GRN,2,3.23%,4,1.75%,62,100.00%,228,100.00%,4,21,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Absentee Voting,Nathan Hecht,REP,0,0.00%,150,67.26%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Early Voting,Nathan Hecht,REP,112,70.89%,150,67.26%,158,100.00%,223,100.00%,21,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Election Day Voting,Nathan Hecht,REP,38,61.29%,150,67.26%,62,100.00%,223,100.00%,4,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Absentee Voting,Amy Clark Meachum,DEM,2,66.67%,67,30.04%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Early Voting,Amy Clark Meachum,DEM,44,27.85%,67,30.04%,158,100.00%,223,100.00%,21,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Election Day Voting,Amy Clark Meachum,DEM,21,33.87%,67,30.04%,62,100.00%,223,100.00%,4,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Absentee Voting,Mark Ash,LIB,1,33.33%,6,2.69%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Early Voting,Mark Ash,LIB,2,1.27%,6,2.69%,158,100.00%,223,100.00%,21,26,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",7,Election Day Voting,Mark Ash,LIB,3,4.84%,6,2.69%,62,100.00%,223,100.00%,4,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Absentee Voting,Jane Bland,REP,0,0.00%,160,71.75%,2,100.00%,223,100.00%,2,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Early Voting,Jane Bland,REP,119,75.32%,160,71.75%,158,100.00%,223,100.00%,21,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Election Day Voting,Jane Bland,REP,41,65.08%,160,71.75%,63,100.00%,223,100.00%,3,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Absentee Voting,Kathy Cheng,DEM,2,100.00%,63,28.25%,2,100.00%,223,100.00%,2,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Early Voting,Kathy Cheng,DEM,39,24.68%,63,28.25%,158,100.00%,223,100.00%,21,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",7,Election Day Voting,Kathy Cheng,DEM,22,34.92%,63,28.25%,63,100.00%,223,100.00%,3,26,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Absentee Voting,Jeff Boyd,REP,0,0.00%,154,68.44%,3,100.00%,225,100.00%,1,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Early Voting,Jeff Boyd,REP,114,71.25%,154,68.44%,160,100.00%,225,100.00%,19,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Election Day Voting,Jeff Boyd,REP,40,64.52%,154,68.44%,62,100.00%,225,100.00%,4,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Absentee Voting,Staci Williams,DEM,3,100.00%,69,30.67%,3,100.00%,225,100.00%,1,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Early Voting,Staci Williams,DEM,45,28.13%,69,30.67%,160,100.00%,225,100.00%,19,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Election Day Voting,Staci Williams,DEM,21,33.87%,69,30.67%,62,100.00%,225,100.00%,4,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,2,0.89%,3,100.00%,225,100.00%,1,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Early Voting,William Bryan Strange III,LIB,1,0.63%,2,0.89%,160,100.00%,225,100.00%,19,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",7,Election Day Voting,William Bryan Strange III,LIB,1,1.61%,2,0.89%,62,100.00%,225,100.00%,4,24,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Absentee Voting,Brett Busby,REP,0,0.00%,153,69.55%,2,100.00%,220,100.00%,2,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Early Voting,Brett Busby,REP,112,70.89%,153,69.55%,158,100.00%,220,100.00%,21,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Election Day Voting,Brett Busby,REP,41,68.33%,153,69.55%,60,100.00%,220,100.00%,6,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Absentee Voting,Gisela D. Triana,DEM,2,100.00%,64,29.09%,2,100.00%,220,100.00%,2,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Early Voting,Gisela D. Triana,DEM,43,27.22%,64,29.09%,158,100.00%,220,100.00%,21,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Election Day Voting,Gisela D. Triana,DEM,19,31.67%,64,29.09%,60,100.00%,220,100.00%,6,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Absentee Voting,Tom Oxford,LIB,0,0.00%,3,1.36%,2,100.00%,220,100.00%,2,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Early Voting,Tom Oxford,LIB,3,1.90%,3,1.36%,158,100.00%,220,100.00%,21,29,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",7,Election Day Voting,Tom Oxford,LIB,0,0.00%,3,1.36%,60,100.00%,220,100.00%,6,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Absentee Voting,Bert Richardson,REP,1,33.33%,156,69.96%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Early Voting,Bert Richardson,REP,114,71.25%,156,69.96%,160,100.00%,223,100.00%,19,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Election Day Voting,Bert Richardson,REP,41,68.33%,156,69.96%,60,100.00%,223,100.00%,6,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Absentee Voting,Elizabeth Davis Frizell,DEM,2,66.67%,67,30.04%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Early Voting,Elizabeth Davis Frizell,DEM,46,28.75%,67,30.04%,160,100.00%,223,100.00%,19,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",7,Election Day Voting,Elizabeth Davis Frizell,DEM,19,31.67%,67,30.04%,60,100.00%,223,100.00%,6,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Absentee Voting,Kevin Patrick Yeary,REP,0,0.00%,156,69.96%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Early Voting,Kevin Patrick Yeary,REP,115,71.43%,156,69.96%,161,100.00%,223,100.00%,18,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Election Day Voting,Kevin Patrick Yeary,REP,41,69.49%,156,69.96%,59,100.00%,223,100.00%,7,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Absentee Voting,Tina Clinton,DEM,3,100.00%,67,30.04%,3,100.00%,223,100.00%,1,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Early Voting,Tina Clinton,DEM,46,28.57%,67,30.04%,161,100.00%,223,100.00%,18,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",7,Election Day Voting,Tina Clinton,DEM,18,30.51%,67,30.04%,59,100.00%,223,100.00%,7,26,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Absentee Voting,David Newell,REP,0,0.00%,155,70.45%,3,100.00%,220,100.00%,1,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Early Voting,David Newell,REP,114,72.15%,155,70.45%,158,100.00%,220,100.00%,21,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Election Day Voting,David Newell,REP,41,69.49%,155,70.45%,59,100.00%,220,100.00%,7,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Absentee Voting,Brandon Birmingham,DEM,3,100.00%,65,29.55%,3,100.00%,220,100.00%,1,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Early Voting,Brandon Birmingham,DEM,44,27.85%,65,29.55%,158,100.00%,220,100.00%,21,29,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",7,Election Day Voting,Brandon Birmingham,DEM,18,30.51%,65,29.55%,59,100.00%,220,100.00%,7,29,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Absentee Voting,Jay Johnson,REP,0,0.00%,154,70.64%,2,100.00%,218,100.00%,2,31,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Early Voting,Jay Johnson,REP,115,73.72%,154,70.64%,156,100.00%,218,100.00%,23,31,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Election Day Voting,Jay Johnson,REP,39,65.00%,154,70.64%,60,100.00%,218,100.00%,6,31,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Absentee Voting,John Betancourt,DEM,2,100.00%,64,29.36%,2,100.00%,218,100.00%,2,31,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Early Voting,John Betancourt,DEM,41,26.28%,64,29.36%,156,100.00%,218,100.00%,23,31,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",7,Election Day Voting,John Betancourt,DEM,21,35.00%,64,29.36%,60,100.00%,218,100.00%,6,31,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Absentee Voting,Dustin Burrows,REP,0,0.00%,154,70.97%,2,100.00%,217,100.00%,2,32,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Early Voting,Dustin Burrows,REP,115,73.25%,154,70.97%,157,100.00%,217,100.00%,22,32,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Election Day Voting,Dustin Burrows,REP,39,67.24%,154,70.97%,58,100.00%,217,100.00%,8,32,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Absentee Voting,Addison Perry-Franks,DEM,2,100.00%,63,29.03%,2,100.00%,217,100.00%,2,32,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Early Voting,Addison Perry-Franks,DEM,42,26.75%,63,29.03%,157,100.00%,217,100.00%,22,32,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",7,Election Day Voting,Addison Perry-Franks,DEM,19,32.76%,63,29.03%,58,100.00%,217,100.00%,8,32,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",7,Absentee Voting,Bruce Williams,REP,0,0.00%,182,100.00%,0,0.00%,182,100.00%,4,67,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",7,Early Voting,Bruce Williams,REP,133,100.00%,182,100.00%,133,100.00%,182,100.00%,46,67,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",7,Election Day Voting,Bruce Williams,REP,49,100.00%,182,100.00%,49,100.00%,182,100.00%,17,67,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",7,Absentee Voting,W. Stacy Trotter,REP,0,0.00%,178,100.00%,0,0.00%,178,100.00%,4,71,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",7,Early Voting,W. Stacy Trotter,REP,132,100.00%,178,100.00%,132,100.00%,178,100.00%,47,71,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",7,Election Day Voting,W. Stacy Trotter,REP,46,100.00%,178,100.00%,46,100.00%,178,100.00%,20,71,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",7,Absentee Voting,Philip Mack Furlow,REP,0,0.00%,176,100.00%,0,0.00%,176,100.00%,4,73,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",7,Early Voting,Philip Mack Furlow,REP,128,100.00%,176,100.00%,128,100.00%,176,100.00%,51,73,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",7,Election Day Voting,Philip Mack Furlow,REP,48,100.00%,176,100.00%,48,100.00%,176,100.00%,18,73,0,0,0,0,0,0,0,0
+County Attorney,7,Absentee Voting,Joe Nagy Jr,REP,0,0.00%,181,100.00%,0,0.00%,181,100.00%,4,68,0,0,0,0,0,0,0,0
+County Attorney,7,Early Voting,Joe Nagy Jr,REP,132,100.00%,181,100.00%,132,100.00%,181,100.00%,47,68,0,0,0,0,0,0,0,0
+County Attorney,7,Election Day Voting,Joe Nagy Jr,REP,49,100.00%,181,100.00%,49,100.00%,181,100.00%,17,68,0,0,0,0,0,0,0,0
+Sheriff,7,Absentee Voting,Ronny Pipkin,REP,1,100.00%,186,100.00%,1,100.00%,186,100.00%,3,63,0,0,0,0,0,0,0,0
+Sheriff,7,Early Voting,Ronny Pipkin,REP,136,100.00%,186,100.00%,136,100.00%,186,100.00%,43,63,0,0,0,0,0,0,0,0
+Sheriff,7,Election Day Voting,Ronny Pipkin,REP,49,100.00%,186,100.00%,49,100.00%,186,100.00%,17,63,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,7,Absentee Voting,Susan Shaw,REP,1,100.00%,186,100.00%,1,100.00%,186,100.00%,3,63,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,7,Early Voting,Susan Shaw,REP,136,100.00%,186,100.00%,136,100.00%,186,100.00%,43,63,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,7,Election Day Voting,Susan Shaw,REP,49,100.00%,186,100.00%,49,100.00%,186,100.00%,17,63,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Absentee Voting,Shannon Wadzeck,,0,0.00%,26,66.67%,2,100.00%,39,100.00%,1,5,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Early Voting,Shannon Wadzeck,,25,73.53%,26,66.67%,34,100.00%,39,100.00%,4,5,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Election Day Voting,Shannon Wadzeck,,1,33.33%,26,66.67%,3,100.00%,39,100.00%,0,5,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Absentee Voting,Justin Cantwell,,2,100.00%,13,33.33%,2,100.00%,39,100.00%,1,5,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Early Voting,Justin Cantwell,,9,26.47%,13,33.33%,34,100.00%,39,100.00%,4,5,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,7,Election Day Voting,Justin Cantwell,,2,66.67%,13,33.33%,3,100.00%,39,100.00%,0,5,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,Donald J. Trump Michael R. Pence,REP,20,74.07%,543,86.33%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,Donald J. Trump Michael R. Pence,REP,449,88.21%,543,86.33%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,Donald J. Trump Michael R. Pence,REP,74,79.57%,543,86.33%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,7,25.93%,75,11.92%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,51,10.02%,75,11.92%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,17,18.28%,75,11.92%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,7,1.11%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,5,0.98%,7,1.11%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,2.15%,7,1.11%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,4,0.64%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,Howie Hawkins Angela Walker,GRN,4,0.79%,4,0.64%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,4,0.64%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,27,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,509,100.00%,629,100.00%,1,1,0,0,0,0,0,0,0,0
+President and Vice President,8,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,93,100.00%,629,100.00%,0,1,0,0,0,0,0,0,0,0
+United States Senator,8,Absentee Voting,John Cornyn,REP,20,76.92%,524,86.04%,26,100.00%,609,100.00%,1,21,0,0,0,0,0,0,0,0
+United States Senator,8,Early Voting,John Cornyn,REP,436,88.44%,524,86.04%,493,100.00%,609,100.00%,17,21,0,0,0,0,0,0,0,0
+United States Senator,8,Election Day Voting,John Cornyn,REP,68,75.56%,524,86.04%,90,100.00%,609,100.00%,3,21,0,0,0,0,0,0,0,0
+United States Senator,8,Absentee Voting,"Mary ""MJ"" Hegar",DEM,6,23.08%,72,11.82%,26,100.00%,609,100.00%,1,21,0,0,0,0,0,0,0,0
+United States Senator,8,Early Voting,"Mary ""MJ"" Hegar",DEM,49,9.94%,72,11.82%,493,100.00%,609,100.00%,17,21,0,0,0,0,0,0,0,0
+United States Senator,8,Election Day Voting,"Mary ""MJ"" Hegar",DEM,17,18.89%,72,11.82%,90,100.00%,609,100.00%,3,21,0,0,0,0,0,0,0,0
+United States Senator,8,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,7,1.15%,26,100.00%,609,100.00%,1,21,0,0,0,0,0,0,0,0
+United States Senator,8,Early Voting,Kerry Douglas McKennon,LIB,4,0.81%,7,1.15%,493,100.00%,609,100.00%,17,21,0,0,0,0,0,0,0,0
+United States Senator,8,Election Day Voting,Kerry Douglas McKennon,LIB,3,3.33%,7,1.15%,90,100.00%,609,100.00%,3,21,0,0,0,0,0,0,0,0
+United States Senator,8,Absentee Voting,David B. Collins,GRN,0,0.00%,6,0.99%,26,100.00%,609,100.00%,1,21,0,0,0,0,0,0,0,0
+United States Senator,8,Early Voting,David B. Collins,GRN,4,0.81%,6,0.99%,493,100.00%,609,100.00%,17,21,0,0,0,0,0,0,0,0
+United States Senator,8,Election Day Voting,David B. Collins,GRN,2,2.22%,6,0.99%,90,100.00%,609,100.00%,3,21,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Absentee Voting,Jodey C. Arrington,REP,18,72.00%,527,87.54%,25,100.00%,602,100.00%,2,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Early Voting,Jodey C. Arrington,REP,441,90.18%,527,87.54%,489,100.00%,602,100.00%,21,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Election Day Voting,Jodey C. Arrington,REP,68,77.27%,527,87.54%,88,100.00%,602,100.00%,5,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Absentee Voting,Tom Watson,DEM,6,24.00%,64,10.63%,25,100.00%,602,100.00%,2,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Early Voting,Tom Watson,DEM,42,8.59%,64,10.63%,489,100.00%,602,100.00%,21,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Election Day Voting,Tom Watson,DEM,16,18.18%,64,10.63%,88,100.00%,602,100.00%,5,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Absentee Voting,Joe Burnes,LIB,1,4.00%,11,1.83%,25,100.00%,602,100.00%,2,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Early Voting,Joe Burnes,LIB,6,1.23%,11,1.83%,489,100.00%,602,100.00%,21,28,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",8,Election Day Voting,Joe Burnes,LIB,4,4.55%,11,1.83%,88,100.00%,602,100.00%,5,28,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Absentee Voting,"James ""Jim"" Wright",REP,20,76.92%,513,85.64%,26,100.00%,599,100.00%,1,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Early Voting,"James ""Jim"" Wright",REP,425,87.63%,513,85.64%,485,100.00%,599,100.00%,25,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Election Day Voting,"James ""Jim"" Wright",REP,68,77.27%,513,85.64%,88,100.00%,599,100.00%,5,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Absentee Voting,Chrysta Castañeda,DEM,6,23.08%,74,12.35%,26,100.00%,599,100.00%,1,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Early Voting,Chrysta Castañeda,DEM,50,10.31%,74,12.35%,485,100.00%,599,100.00%,25,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Election Day Voting,Chrysta Castañeda,DEM,18,20.45%,74,12.35%,88,100.00%,599,100.00%,5,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Absentee Voting,Matt Sterett,LIB,0,0.00%,8,1.34%,26,100.00%,599,100.00%,1,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Early Voting,Matt Sterett,LIB,7,1.44%,8,1.34%,485,100.00%,599,100.00%,25,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Election Day Voting,Matt Sterett,LIB,1,1.14%,8,1.34%,88,100.00%,599,100.00%,5,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,4,0.67%,26,100.00%,599,100.00%,1,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Early Voting,"Katija ""Kat"" Gruene",GRN,3,0.62%,4,0.67%,485,100.00%,599,100.00%,25,31,0,0,0,0,0,0,0,0
+Railroad Commissioner,8,Election Day Voting,"Katija ""Kat"" Gruene",GRN,1,1.14%,4,0.67%,88,100.00%,599,100.00%,5,31,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Absentee Voting,Nathan Hecht,REP,20,76.92%,512,84.91%,26,100.00%,603,100.00%,1,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Early Voting,Nathan Hecht,REP,427,87.32%,512,84.91%,489,100.00%,603,100.00%,21,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Election Day Voting,Nathan Hecht,REP,65,73.86%,512,84.91%,88,100.00%,603,100.00%,5,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Absentee Voting,Amy Clark Meachum,DEM,6,23.08%,80,13.27%,26,100.00%,603,100.00%,1,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Early Voting,Amy Clark Meachum,DEM,55,11.25%,80,13.27%,489,100.00%,603,100.00%,21,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Election Day Voting,Amy Clark Meachum,DEM,19,21.59%,80,13.27%,88,100.00%,603,100.00%,5,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Absentee Voting,Mark Ash,LIB,0,0.00%,11,1.82%,26,100.00%,603,100.00%,1,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Early Voting,Mark Ash,LIB,7,1.43%,11,1.82%,489,100.00%,603,100.00%,21,27,0,0,0,0,0,0,0,0
+"Chief Justice, Supreme Court",8,Election Day Voting,Mark Ash,LIB,4,4.55%,11,1.82%,88,100.00%,603,100.00%,5,27,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Absentee Voting,Jane Bland,REP,18,75.00%,525,87.79%,24,100.00%,598,100.00%,3,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Early Voting,Jane Bland,REP,436,89.34%,525,87.79%,488,100.00%,598,100.00%,22,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Election Day Voting,Jane Bland,REP,71,82.56%,525,87.79%,86,100.00%,598,100.00%,7,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Absentee Voting,Kathy Cheng,DEM,6,25.00%,73,12.21%,24,100.00%,598,100.00%,3,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Early Voting,Kathy Cheng,DEM,52,10.66%,73,12.21%,488,100.00%,598,100.00%,22,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",8,Election Day Voting,Kathy Cheng,DEM,15,17.44%,73,12.21%,86,100.00%,598,100.00%,7,32,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Absentee Voting,Jeff Boyd,REP,17,70.83%,505,84.59%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Early Voting,Jeff Boyd,REP,423,87.22%,505,84.59%,485,100.00%,597,100.00%,25,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Election Day Voting,Jeff Boyd,REP,65,73.86%,505,84.59%,88,100.00%,597,100.00%,5,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Absentee Voting,Staci Williams,DEM,7,29.17%,80,13.40%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Early Voting,Staci Williams,DEM,55,11.34%,80,13.40%,485,100.00%,597,100.00%,25,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Election Day Voting,Staci Williams,DEM,18,20.45%,80,13.40%,88,100.00%,597,100.00%,5,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,12,2.01%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Early Voting,William Bryan Strange III,LIB,7,1.44%,12,2.01%,485,100.00%,597,100.00%,25,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",8,Election Day Voting,William Bryan Strange III,LIB,5,5.68%,12,2.01%,88,100.00%,597,100.00%,5,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Absentee Voting,Brett Busby,REP,18,75.00%,514,86.10%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Early Voting,Brett Busby,REP,428,88.43%,514,86.10%,484,100.00%,597,100.00%,26,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Election Day Voting,Brett Busby,REP,68,76.40%,514,86.10%,89,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Absentee Voting,Gisela D. Triana,DEM,6,25.00%,72,12.06%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Early Voting,Gisela D. Triana,DEM,48,9.92%,72,12.06%,484,100.00%,597,100.00%,26,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Election Day Voting,Gisela D. Triana,DEM,18,20.22%,72,12.06%,89,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Absentee Voting,Tom Oxford,LIB,0,0.00%,11,1.84%,24,100.00%,597,100.00%,3,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Early Voting,Tom Oxford,LIB,8,1.65%,11,1.84%,484,100.00%,597,100.00%,26,33,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",8,Election Day Voting,Tom Oxford,LIB,3,3.37%,11,1.84%,89,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Absentee Voting,Bert Richardson,REP,20,76.92%,521,86.54%,26,100.00%,602,100.00%,1,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Early Voting,Bert Richardson,REP,430,88.48%,521,86.54%,486,100.00%,602,100.00%,24,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Election Day Voting,Bert Richardson,REP,71,78.89%,521,86.54%,90,100.00%,602,100.00%,3,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Absentee Voting,Elizabeth Davis Frizell,DEM,6,23.08%,81,13.46%,26,100.00%,602,100.00%,1,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Early Voting,Elizabeth Davis Frizell,DEM,56,11.52%,81,13.46%,486,100.00%,602,100.00%,24,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",8,Election Day Voting,Elizabeth Davis Frizell,DEM,19,21.11%,81,13.46%,90,100.00%,602,100.00%,3,28,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Absentee Voting,Kevin Patrick Yeary,REP,17,73.91%,519,86.93%,23,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Early Voting,Kevin Patrick Yeary,REP,432,89.07%,519,86.93%,485,100.00%,597,100.00%,25,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Election Day Voting,Kevin Patrick Yeary,REP,70,78.65%,519,86.93%,89,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Absentee Voting,Tina Clinton,DEM,6,26.09%,78,13.07%,23,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Early Voting,Tina Clinton,DEM,53,10.93%,78,13.07%,485,100.00%,597,100.00%,25,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",8,Election Day Voting,Tina Clinton,DEM,19,21.35%,78,13.07%,89,100.00%,597,100.00%,4,33,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Absentee Voting,David Newell,REP,17,73.91%,521,88.01%,23,100.00%,592,100.00%,4,38,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Early Voting,David Newell,REP,433,89.83%,521,88.01%,482,100.00%,592,100.00%,28,38,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Election Day Voting,David Newell,REP,71,81.61%,521,88.01%,87,100.00%,592,100.00%,6,38,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Absentee Voting,Brandon Birmingham,DEM,6,26.09%,71,11.99%,23,100.00%,592,100.00%,4,38,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Early Voting,Brandon Birmingham,DEM,49,10.17%,71,11.99%,482,100.00%,592,100.00%,28,38,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",8,Election Day Voting,Brandon Birmingham,DEM,16,18.39%,71,11.99%,87,100.00%,592,100.00%,6,38,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Absentee Voting,Jay Johnson,REP,17,73.91%,517,87.18%,23,100.00%,593,100.00%,4,37,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Early Voting,Jay Johnson,REP,431,89.42%,517,87.18%,482,100.00%,593,100.00%,28,37,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Election Day Voting,Jay Johnson,REP,69,78.41%,517,87.18%,88,100.00%,593,100.00%,5,37,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Absentee Voting,John Betancourt,DEM,6,26.09%,76,12.82%,23,100.00%,593,100.00%,4,37,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Early Voting,John Betancourt,DEM,51,10.58%,76,12.82%,482,100.00%,593,100.00%,28,37,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",8,Election Day Voting,John Betancourt,DEM,19,21.59%,76,12.82%,88,100.00%,593,100.00%,5,37,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Absentee Voting,Dustin Burrows,REP,17,70.83%,517,87.04%,24,100.00%,594,100.00%,3,36,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Early Voting,Dustin Burrows,REP,431,89.23%,517,87.04%,483,100.00%,594,100.00%,27,36,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Election Day Voting,Dustin Burrows,REP,69,79.31%,517,87.04%,87,100.00%,594,100.00%,6,36,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Absentee Voting,Addison Perry-Franks,DEM,7,29.17%,77,12.96%,24,100.00%,594,100.00%,3,36,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Early Voting,Addison Perry-Franks,DEM,52,10.77%,77,12.96%,483,100.00%,594,100.00%,27,36,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",8,Election Day Voting,Addison Perry-Franks,DEM,18,20.69%,77,12.96%,87,100.00%,594,100.00%,6,36,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",8,Absentee Voting,Bruce Williams,REP,20,100.00%,556,100.00%,20,100.00%,556,100.00%,7,74,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",8,Early Voting,Bruce Williams,REP,459,100.00%,556,100.00%,459,100.00%,556,100.00%,51,74,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",8,Election Day Voting,Bruce Williams,REP,77,100.00%,556,100.00%,77,100.00%,556,100.00%,16,74,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",8,Absentee Voting,W. Stacy Trotter,REP,19,100.00%,557,100.00%,19,100.00%,557,100.00%,8,73,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",8,Early Voting,W. Stacy Trotter,REP,459,100.00%,557,100.00%,459,100.00%,557,100.00%,51,73,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",8,Election Day Voting,W. Stacy Trotter,REP,79,100.00%,557,100.00%,79,100.00%,557,100.00%,14,73,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",8,Absentee Voting,Philip Mack Furlow,REP,20,100.00%,555,100.00%,20,100.00%,555,100.00%,7,75,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",8,Early Voting,Philip Mack Furlow,REP,456,100.00%,555,100.00%,456,100.00%,555,100.00%,54,75,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",8,Election Day Voting,Philip Mack Furlow,REP,79,100.00%,555,100.00%,79,100.00%,555,100.00%,14,75,0,0,0,0,0,0,0,0
+County Attorney,8,Absentee Voting,Joe Nagy Jr,REP,20,100.00%,559,100.00%,20,100.00%,559,100.00%,7,71,0,0,0,0,0,0,0,0
+County Attorney,8,Early Voting,Joe Nagy Jr,REP,462,100.00%,559,100.00%,462,100.00%,559,100.00%,48,71,0,0,0,0,0,0,0,0
+County Attorney,8,Election Day Voting,Joe Nagy Jr,REP,77,100.00%,559,100.00%,77,100.00%,559,100.00%,16,71,0,0,0,0,0,0,0,0
+Sheriff,8,Absentee Voting,Ronny Pipkin,REP,23,100.00%,566,100.00%,23,100.00%,566,100.00%,4,64,0,0,0,0,0,0,0,0
+Sheriff,8,Early Voting,Ronny Pipkin,REP,466,100.00%,566,100.00%,466,100.00%,566,100.00%,44,64,0,0,0,0,0,0,0,0
+Sheriff,8,Election Day Voting,Ronny Pipkin,REP,77,100.00%,566,100.00%,77,100.00%,566,100.00%,16,64,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,8,Absentee Voting,Susan Shaw,REP,21,100.00%,568,100.00%,21,100.00%,568,100.00%,6,62,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,8,Early Voting,Susan Shaw,REP,468,100.00%,568,100.00%,468,100.00%,568,100.00%,42,62,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,8,Election Day Voting,Susan Shaw,REP,79,100.00%,568,100.00%,79,100.00%,568,100.00%,14,62,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",8,Absentee Voting,Brian Rosson,REP,24,100.00%,569,100.00%,24,100.00%,569,100.00%,3,61,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",8,Early Voting,Brian Rosson,REP,467,100.00%,569,100.00%,467,100.00%,569,100.00%,43,61,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",8,Election Day Voting,Brian Rosson,REP,78,100.00%,569,100.00%,78,100.00%,569,100.00%,15,61,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Absentee Voting,Shannon Wadzeck,,11,84.62%,42,68.85%,13,100.00%,61,100.00%,7,13,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Early Voting,Shannon Wadzeck,,30,65.22%,42,68.85%,46,100.00%,61,100.00%,5,13,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Election Day Voting,Shannon Wadzeck,,1,50.00%,42,68.85%,2,100.00%,61,100.00%,1,13,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Absentee Voting,Justin Cantwell,,2,15.38%,19,31.15%,13,100.00%,61,100.00%,7,13,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Early Voting,Justin Cantwell,,16,34.78%,19,31.15%,46,100.00%,61,100.00%,5,13,0,0,0,0,0,0,0,0
+CITY OF SEAGRAVES Alderman - District 1 - Vote for none or one,8,Election Day Voting,Justin Cantwell,,1,50.00%,19,31.15%,2,100.00%,61,100.00%,1,13,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Brady McConal,,0,0.00%,1,25.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Brady McConal,,1,33.33%,1,25.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Brady McConal,,0,0.00%,1,25.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Bennie Wright,,0,0.00%,1,25.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Bennie Wright,,1,33.33%,1,25.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Bennie Wright,,0,0.00%,1,25.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Henry Froese,,0,0.00%,1,25.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Henry Froese,,0,0.00%,1,25.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Henry Froese,,1,100.00%,1,25.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Norman Crow,,0,0.00%,1,25.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Norman Crow,,1,33.33%,1,25.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Norman Crow,,0,0.00%,1,25.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Jerry Bingham,,0,0.00%,0,0.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Jerry Bingham,,0,0.00%,0,0.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Jerry Bingham,,0,0.00%,0,0.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Heath Haynes,,0,0.00%,0,0.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Heath Haynes,,0,0.00%,0,0.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Heath Haynes,,0,0.00%,0,0.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Absentee Voting,Tracy Harris,,0,0.00%,0,0.00%,0,0.00%,4,100.00%,0,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Early Voting,Tracy Harris,,0,0.00%,0,0.00%,3,100.00%,4,100.00%,5,8,0,0,0,0,0,0,0,0
+"LOOP INDEPENDENT SCHOOL DISTRICT Board of Trustees - At Large - Vote for none, one, two, three or four",8,Election Day Voting,Tracy Harris,,0,0.00%,0,0.00%,1,100.00%,4,100.00%,3,8,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,Donald J. Trump Michael R. Pence,REP,14,70.00%,539,92.14%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,Donald J. Trump Michael R. Pence,REP,463,93.72%,539,92.14%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,Donald J. Trump Michael R. Pence,REP,62,87.32%,539,92.14%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,Joseph R. Biden Kamala D. Harris,DEM,6,30.00%,41,7.01%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,Joseph R. Biden Kamala D. Harris,DEM,28,5.67%,41,7.01%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,Joseph R. Biden Kamala D. Harris,DEM,7,9.86%,41,7.01%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0.00%,4,0.68%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,0.40%,4,0.68%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,2.82%,4,0.68%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,1,0.17%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,Howie Hawkins Angela Walker,GRN,1,0.20%,1,0.17%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,Howie Hawkins Angela Walker,GRN,0,0.00%,1,0.17%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,Brian Carroll (W),,0,0.00%,0,0.00%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,Brian Carroll (W),,0,0.00%,0,0.00%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,Brian Carroll (W),,0,0.00%,0,0.00%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Absentee Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,20,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Early Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,494,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+President and Vice President,9,Election Day Voting,JOAQUIN GUZMAN (W),,0,0.00%,0,0.00%,71,100.00%,585,100.00%,0,0,0,0,0,0,0,0,0,0
+United States Senator,9,Absentee Voting,John Cornyn,REP,12,70.59%,487,90.52%,17,100.00%,538,100.00%,1,45,2,2,0,0,0,0,0,0
+United States Senator,9,Early Voting,John Cornyn,REP,414,91.39%,487,90.52%,453,100.00%,538,100.00%,41,45,0,2,0,0,0,0,0,0
+United States Senator,9,Election Day Voting,John Cornyn,REP,61,89.71%,487,90.52%,68,100.00%,538,100.00%,3,45,0,2,0,0,0,0,0,0
+United States Senator,9,Absentee Voting,"Mary ""MJ"" Hegar",DEM,5,29.41%,40,7.43%,17,100.00%,538,100.00%,1,45,2,2,0,0,0,0,0,0
+United States Senator,9,Early Voting,"Mary ""MJ"" Hegar",DEM,30,6.62%,40,7.43%,453,100.00%,538,100.00%,41,45,0,2,0,0,0,0,0,0
+United States Senator,9,Election Day Voting,"Mary ""MJ"" Hegar",DEM,5,7.35%,40,7.43%,68,100.00%,538,100.00%,3,45,0,2,0,0,0,0,0,0
+United States Senator,9,Absentee Voting,Kerry Douglas McKennon,LIB,0,0.00%,9,1.67%,17,100.00%,538,100.00%,1,45,2,2,0,0,0,0,0,0
+United States Senator,9,Early Voting,Kerry Douglas McKennon,LIB,7,1.55%,9,1.67%,453,100.00%,538,100.00%,41,45,0,2,0,0,0,0,0,0
+United States Senator,9,Election Day Voting,Kerry Douglas McKennon,LIB,2,2.94%,9,1.67%,68,100.00%,538,100.00%,3,45,0,2,0,0,0,0,0,0
+United States Senator,9,Absentee Voting,David B. Collins,GRN,0,0.00%,2,0.37%,17,100.00%,538,100.00%,1,45,2,2,0,0,0,0,0,0
+United States Senator,9,Early Voting,David B. Collins,GRN,2,0.44%,2,0.37%,453,100.00%,538,100.00%,41,45,0,2,0,0,0,0,0,0
+United States Senator,9,Election Day Voting,David B. Collins,GRN,0,0.00%,2,0.37%,68,100.00%,538,100.00%,3,45,0,2,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Absentee Voting,Jodey C. Arrington,REP,14,73.68%,492,91.45%,19,100.00%,538,100.00%,1,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Early Voting,Jodey C. Arrington,REP,417,92.26%,492,91.45%,452,100.00%,538,100.00%,42,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Election Day Voting,Jodey C. Arrington,REP,61,91.04%,492,91.45%,67,100.00%,538,100.00%,4,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Absentee Voting,Tom Watson,DEM,5,26.32%,38,7.06%,19,100.00%,538,100.00%,1,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Early Voting,Tom Watson,DEM,29,6.42%,38,7.06%,452,100.00%,538,100.00%,42,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Election Day Voting,Tom Watson,DEM,4,5.97%,38,7.06%,67,100.00%,538,100.00%,4,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Absentee Voting,Joe Burnes,LIB,0,0.00%,8,1.49%,19,100.00%,538,100.00%,1,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Early Voting,Joe Burnes,LIB,6,1.33%,8,1.49%,452,100.00%,538,100.00%,42,47,0,0,0,0,0,0,0,0
+"United States Representative, District No. 19",9,Election Day Voting,Joe Burnes,LIB,2,2.99%,8,1.49%,67,100.00%,538,100.00%,4,47,0,0,0,0,0,0,0,0
+Railroad Commissioner,9,Absentee Voting,"James ""Jim"" Wright",REP,13,72.22%,476,90.67%,18,100.00%,525,100.00%,1,59,1,1,0,0,0,0,0,0
+Railroad Commissioner,9,Early Voting,"James ""Jim"" Wright",REP,405,91.84%,476,90.67%,441,100.00%,525,100.00%,53,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Election Day Voting,"James ""Jim"" Wright",REP,58,87.88%,476,90.67%,66,100.00%,525,100.00%,5,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Absentee Voting,Chrysta Castañeda,DEM,5,27.78%,39,7.43%,18,100.00%,525,100.00%,1,59,1,1,0,0,0,0,0,0
+Railroad Commissioner,9,Early Voting,Chrysta Castañeda,DEM,28,6.35%,39,7.43%,441,100.00%,525,100.00%,53,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Election Day Voting,Chrysta Castañeda,DEM,6,9.09%,39,7.43%,66,100.00%,525,100.00%,5,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Absentee Voting,Matt Sterett,LIB,0,0.00%,7,1.33%,18,100.00%,525,100.00%,1,59,1,1,0,0,0,0,0,0
+Railroad Commissioner,9,Early Voting,Matt Sterett,LIB,6,1.36%,7,1.33%,441,100.00%,525,100.00%,53,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Election Day Voting,Matt Sterett,LIB,1,1.52%,7,1.33%,66,100.00%,525,100.00%,5,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Absentee Voting,"Katija ""Kat"" Gruene",GRN,0,0.00%,3,0.57%,18,100.00%,525,100.00%,1,59,1,1,0,0,0,0,0,0
+Railroad Commissioner,9,Early Voting,"Katija ""Kat"" Gruene",GRN,2,0.45%,3,0.57%,441,100.00%,525,100.00%,53,59,0,1,0,0,0,0,0,0
+Railroad Commissioner,9,Election Day Voting,"Katija ""Kat"" Gruene",GRN,1,1.52%,3,0.57%,66,100.00%,525,100.00%,5,59,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Absentee Voting,Nathan Hecht,REP,13,72.22%,475,90.65%,18,100.00%,524,100.00%,1,60,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Early Voting,Nathan Hecht,REP,404,91.82%,475,90.65%,440,100.00%,524,100.00%,54,60,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Election Day Voting,Nathan Hecht,REP,58,87.88%,475,90.65%,66,100.00%,524,100.00%,5,60,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Absentee Voting,Amy Clark Meachum,DEM,5,27.78%,40,7.63%,18,100.00%,524,100.00%,1,60,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Early Voting,Amy Clark Meachum,DEM,30,6.82%,40,7.63%,440,100.00%,524,100.00%,54,60,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Election Day Voting,Amy Clark Meachum,DEM,5,7.58%,40,7.63%,66,100.00%,524,100.00%,5,60,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Absentee Voting,Mark Ash,LIB,0,0.00%,9,1.72%,18,100.00%,524,100.00%,1,60,1,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Early Voting,Mark Ash,LIB,6,1.36%,9,1.72%,440,100.00%,524,100.00%,54,60,0,1,0,0,0,0,0,0
+"Chief Justice, Supreme Court",9,Election Day Voting,Mark Ash,LIB,3,4.55%,9,1.72%,66,100.00%,524,100.00%,5,60,0,1,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Absentee Voting,Jane Bland,REP,14,73.68%,483,92.18%,19,100.00%,524,100.00%,1,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Early Voting,Jane Bland,REP,408,93.15%,483,92.18%,438,100.00%,524,100.00%,56,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Election Day Voting,Jane Bland,REP,61,91.04%,483,92.18%,67,100.00%,524,100.00%,4,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Absentee Voting,Kathy Cheng,DEM,5,26.32%,41,7.82%,19,100.00%,524,100.00%,1,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Early Voting,Kathy Cheng,DEM,30,6.85%,41,7.82%,438,100.00%,524,100.00%,56,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 6 Unexpired Term",9,Election Day Voting,Kathy Cheng,DEM,6,8.96%,41,7.82%,67,100.00%,524,100.00%,4,61,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Absentee Voting,Jeff Boyd,REP,14,73.68%,472,90.25%,19,100.00%,523,100.00%,1,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Early Voting,Jeff Boyd,REP,400,91.12%,472,90.25%,439,100.00%,523,100.00%,55,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Election Day Voting,Jeff Boyd,REP,58,89.23%,472,90.25%,65,100.00%,523,100.00%,6,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Absentee Voting,Staci Williams,DEM,5,26.32%,40,7.65%,19,100.00%,523,100.00%,1,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Early Voting,Staci Williams,DEM,30,6.83%,40,7.65%,439,100.00%,523,100.00%,55,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Election Day Voting,Staci Williams,DEM,5,7.69%,40,7.65%,65,100.00%,523,100.00%,6,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Absentee Voting,William Bryan Strange III,LIB,0,0.00%,11,2.10%,19,100.00%,523,100.00%,1,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Early Voting,William Bryan Strange III,LIB,9,2.05%,11,2.10%,439,100.00%,523,100.00%,55,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 7",9,Election Day Voting,William Bryan Strange III,LIB,2,3.08%,11,2.10%,65,100.00%,523,100.00%,6,62,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Absentee Voting,Brett Busby,REP,14,73.68%,467,90.15%,19,100.00%,518,100.00%,1,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Early Voting,Brett Busby,REP,395,91.22%,467,90.15%,433,100.00%,518,100.00%,61,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Election Day Voting,Brett Busby,REP,58,87.88%,467,90.15%,66,100.00%,518,100.00%,5,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Absentee Voting,Gisela D. Triana,DEM,5,26.32%,42,8.11%,19,100.00%,518,100.00%,1,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Early Voting,Gisela D. Triana,DEM,30,6.93%,42,8.11%,433,100.00%,518,100.00%,61,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Election Day Voting,Gisela D. Triana,DEM,7,10.61%,42,8.11%,66,100.00%,518,100.00%,5,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Absentee Voting,Tom Oxford,LIB,0,0.00%,9,1.74%,19,100.00%,518,100.00%,1,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Early Voting,Tom Oxford,LIB,8,1.85%,9,1.74%,433,100.00%,518,100.00%,61,67,0,0,0,0,0,0,0,0
+"Justice, Supreme Court, Place No. 8",9,Election Day Voting,Tom Oxford,LIB,1,1.52%,9,1.74%,66,100.00%,518,100.00%,5,67,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Absentee Voting,Bert Richardson,REP,14,73.68%,479,92.12%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Early Voting,Bert Richardson,REP,405,93.32%,479,92.12%,434,100.00%,520,100.00%,60,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Election Day Voting,Bert Richardson,REP,60,89.55%,479,92.12%,67,100.00%,520,100.00%,4,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Absentee Voting,Elizabeth Davis Frizell,DEM,5,26.32%,41,7.88%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Early Voting,Elizabeth Davis Frizell,DEM,29,6.68%,41,7.88%,434,100.00%,520,100.00%,60,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 3",9,Election Day Voting,Elizabeth Davis Frizell,DEM,7,10.45%,41,7.88%,67,100.00%,520,100.00%,4,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Absentee Voting,Kevin Patrick Yeary,REP,13,72.22%,479,92.65%,18,100.00%,517,100.00%,2,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Early Voting,Kevin Patrick Yeary,REP,408,93.79%,479,92.65%,435,100.00%,517,100.00%,59,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Election Day Voting,Kevin Patrick Yeary,REP,58,90.63%,479,92.65%,64,100.00%,517,100.00%,7,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Absentee Voting,Tina Clinton,DEM,5,27.78%,38,7.35%,18,100.00%,517,100.00%,2,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Early Voting,Tina Clinton,DEM,27,6.21%,38,7.35%,435,100.00%,517,100.00%,59,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 4",9,Election Day Voting,Tina Clinton,DEM,6,9.38%,38,7.35%,64,100.00%,517,100.00%,7,68,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Absentee Voting,David Newell,REP,14,73.68%,480,92.31%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Early Voting,David Newell,REP,408,93.58%,480,92.31%,436,100.00%,520,100.00%,58,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Election Day Voting,David Newell,REP,58,89.23%,480,92.31%,65,100.00%,520,100.00%,6,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Absentee Voting,Brandon Birmingham,DEM,5,26.32%,40,7.69%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Early Voting,Brandon Birmingham,DEM,28,6.42%,40,7.69%,436,100.00%,520,100.00%,58,65,0,0,0,0,0,0,0,0
+"Judge, Court of Criminal Appeals, Place No. 9",9,Election Day Voting,Brandon Birmingham,DEM,7,10.77%,40,7.69%,65,100.00%,520,100.00%,6,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Absentee Voting,Jay Johnson,REP,14,73.68%,479,92.12%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Early Voting,Jay Johnson,REP,406,93.33%,479,92.12%,435,100.00%,520,100.00%,59,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Election Day Voting,Jay Johnson,REP,59,89.39%,479,92.12%,66,100.00%,520,100.00%,5,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Absentee Voting,John Betancourt,DEM,5,26.32%,41,7.88%,19,100.00%,520,100.00%,1,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Early Voting,John Betancourt,DEM,29,6.67%,41,7.88%,435,100.00%,520,100.00%,59,65,0,0,0,0,0,0,0,0
+"Member State Board of Education, District No. 15",9,Election Day Voting,John Betancourt,DEM,7,10.61%,41,7.88%,66,100.00%,520,100.00%,5,65,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Absentee Voting,Dustin Burrows,REP,13,72.22%,482,92.34%,18,100.00%,522,100.00%,2,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Early Voting,Dustin Burrows,REP,410,93.39%,482,92.34%,439,100.00%,522,100.00%,55,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Election Day Voting,Dustin Burrows,REP,59,90.77%,482,92.34%,65,100.00%,522,100.00%,6,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Absentee Voting,Addison Perry-Franks,DEM,5,27.78%,40,7.66%,18,100.00%,522,100.00%,2,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Early Voting,Addison Perry-Franks,DEM,29,6.61%,40,7.66%,439,100.00%,522,100.00%,55,63,0,0,0,0,0,0,0,0
+"State Representative, District No. 83",9,Election Day Voting,Addison Perry-Franks,DEM,6,9.23%,40,7.66%,65,100.00%,522,100.00%,6,63,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",9,Absentee Voting,Bruce Williams,REP,13,100.00%,499,100.00%,13,100.00%,499,100.00%,7,86,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",9,Early Voting,Bruce Williams,REP,423,100.00%,499,100.00%,423,100.00%,499,100.00%,71,86,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 2",9,Election Day Voting,Bruce Williams,REP,63,100.00%,499,100.00%,63,100.00%,499,100.00%,8,86,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",9,Absentee Voting,W. Stacy Trotter,REP,13,100.00%,495,100.00%,13,100.00%,495,100.00%,7,90,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",9,Early Voting,W. Stacy Trotter,REP,420,100.00%,495,100.00%,420,100.00%,495,100.00%,74,90,0,0,0,0,0,0,0,0
+"Justice, 11th Court of Appeals District, Place No. 3 Unexpired Term",9,Election Day Voting,W. Stacy Trotter,REP,62,100.00%,495,100.00%,62,100.00%,495,100.00%,9,90,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",9,Absentee Voting,Philip Mack Furlow,REP,13,100.00%,501,100.00%,13,100.00%,501,100.00%,7,84,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",9,Early Voting,Philip Mack Furlow,REP,425,100.00%,501,100.00%,425,100.00%,501,100.00%,69,84,0,0,0,0,0,0,0,0
+"District Attorney, 106th Judicial District",9,Election Day Voting,Philip Mack Furlow,REP,63,100.00%,501,100.00%,63,100.00%,501,100.00%,8,84,0,0,0,0,0,0,0,0
+County Attorney,9,Absentee Voting,Joe Nagy Jr,REP,14,100.00%,505,100.00%,14,100.00%,505,100.00%,6,80,0,0,0,0,0,0,0,0
+County Attorney,9,Early Voting,Joe Nagy Jr,REP,429,100.00%,505,100.00%,429,100.00%,505,100.00%,65,80,0,0,0,0,0,0,0,0
+County Attorney,9,Election Day Voting,Joe Nagy Jr,REP,62,100.00%,505,100.00%,62,100.00%,505,100.00%,9,80,0,0,0,0,0,0,0,0
+Sheriff,9,Absentee Voting,Ronny Pipkin,REP,17,100.00%,502,100.00%,17,100.00%,502,100.00%,3,83,0,0,0,0,0,0,0,0
+Sheriff,9,Early Voting,Ronny Pipkin,REP,422,100.00%,502,100.00%,422,100.00%,502,100.00%,72,83,0,0,0,0,0,0,0,0
+Sheriff,9,Election Day Voting,Ronny Pipkin,REP,63,100.00%,502,100.00%,63,100.00%,502,100.00%,8,83,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,9,Absentee Voting,Susan Shaw,REP,17,100.00%,506,100.00%,17,100.00%,506,100.00%,3,79,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,9,Early Voting,Susan Shaw,REP,426,100.00%,506,100.00%,426,100.00%,506,100.00%,68,79,0,0,0,0,0,0,0,0
+County Tax Assessor-Collector,9,Election Day Voting,Susan Shaw,REP,63,100.00%,506,100.00%,63,100.00%,506,100.00%,8,79,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",9,Absentee Voting,Brian Rosson,REP,13,100.00%,493,100.00%,13,100.00%,493,100.00%,7,92,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",9,Early Voting,Brian Rosson,REP,419,100.00%,493,100.00%,419,100.00%,493,100.00%,75,92,0,0,0,0,0,0,0,0
+"County Commissioner, Precinct No. 1",9,Election Day Voting,Brian Rosson,REP,61,100.00%,493,100.00%,61,100.00%,493,100.00%,10,92,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",9,Absentee Voting,Chad Hallum,REP,14,100.00%,492,100.00%,14,100.00%,492,100.00%,6,93,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",9,Early Voting,Chad Hallum,REP,417,100.00%,492,100.00%,417,100.00%,492,100.00%,77,93,0,0,0,0,0,0,0,0
+"Constable, Precinct No. 1",9,Election Day Voting,Chad Hallum,REP,61,100.00%,492,100.00%,61,100.00%,492,100.00%,10,93,0,0,0,0,0,0,0,0
+
