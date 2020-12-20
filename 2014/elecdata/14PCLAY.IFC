@@ -1,0 +1,343 @@
+CUST        CLAY COUNTY,TEXAS             TX100B2014 PRIMARY ELECTION         CPRI 000N                         AA        
+PTY         1REPREPUBLICAN PARTY    
+PTY         2DEMDEMOCRATIC PARTY    
+PTY         0NONNONPARTISAN         
+PREC0001    PCT 1 - SE HENRIETTA           00000100002000000000                                                                                                           
+PREC0002    PCT 6 - BYERS                  00000100002000000000                                                                                                           
+PREC0003    PCT 8 - NE HENRIETTA           00000100002000000000                                                                                                           
+PREC0004    PCT 9 - NW HENRIETTA           00000100002000000000                                                                                                           
+PREC0005    PCT 10 - VASHTI                00000100002000000000                                                                                                           
+PREC0006    PCT 11 - DEAN                  00000100002000000000                                                                                                           
+PREC0007    PCT 12 - JOLLY                 00000100002000000000                                                                                                           
+PREC0008    PCT 13 - THORNBERRY            00000100002000000000                                                                                                           
+PREC0009    PCT 14 - CHARLIE               00000100002000000000                                                                                                           
+PREC0010    PCT 15 - SW HENRIETTA          00000100002000000000                                                                                                           
+PREC0011    PCT 17 - ARROWHEAD             00000100002000000000                                                                                                           
+PREC0012    PCT 20 - MIDWAY                00000100002000000000                                                                                                           
+PREC0013    PCT 24 - BELLEVUE              00000100002000000000                                                                                                           
+PREC0014    PCT 26 - BUFFALO SPRINGS       00000100002000000000                                                                                                           
+PREC0015    PCT 27 - PETROLIA              00000100002000000000                                                                                                           
+PREC0016    PCT 32 - WINDTHORST            00000100002000000000                                                                                                           
+POL10001    PRECINCT 1 01            
+POL20001    0001
+POL10002    PRECINCT 6 02            
+POL20002    0002
+POL10003    PRECINCT 8 03            
+POL20003    0003
+POL10004    PRECINCT 9 04            
+POL20004    0004
+POL10005    PRECINCT 10 05           
+POL20005    0005
+POL10006    PRECINCT 11 06           
+POL20006    0006
+POL10007    PRECINCT 12 07           
+POL20007    0007
+POL10008    PRECINCT 13 08           
+POL20008    0008
+POL10009    PRECINCT 14 09           
+POL20009    0009
+POL10010    PRECINCT 15 10           
+POL20010    0010
+POL10011    PRECINCT 17 11           
+POL20011    0011
+POL10012    PRECINCT 20 12           
+POL20012    0012
+POL10013    PRECINCT 24 13           
+POL20013    0013
+POL10014    PRECINCT 26 14           
+POL20014    0014
+POL10015    PRECINCT 27 15           
+POL20015    0015
+POL10016    PRECINCT 32 16           
+POL20016    0016
+POL10017    EARLY VOTING #1 17       
+POL20017    00010002000300040005000600070008
+POL10018    EARLY VOTING #2 18       
+POL20018    00090010001100120013001400150016
+CONT0100    PRECINCTS COUNTED TOTAL                                                                                         000COUNTY  01B200001
+CONT0101    REGISTERED VOTERS TOTAL                                                                                         000COUNTY  01B200002
+CONT0102    BALLOTS COUNTED TOTAL                                                                                           000COUNTY  01B200003
+CONT0103    BALLOTS COUNTED REPUBLICAN PARTY                                                                                000COUNTY 101B200004
+CONT0104    BALLOTS COUNTED DEMOCRATIC PARTY                                                                                000COUNTY 201B200004
+CONT0105    United States Senator                                                                                           008COUNTY 101 200005
+CAND0105 110   1         Dwayne Stovall                    300006                      
+CAND0105 111   1         Reid Reasor                       300007                      
+CAND0105 112   1         Curt Cleaver                      300008                      
+CAND0105 113   1         Linda Vega                        300009                      
+CAND0105 114   1         John Cornyn                       300010                      
+CAND0105 115   1         Ken Cope                          300011                      
+CAND0105 116   1         Chris Mapp                        300012                      
+CAND0105 117   1         Steve Stockman                    300013                      
+CONT0106    United States Representative, Dist 13                                                                           003COUNTY 101 200014
+CAND0106 120   1         Mac Thornberry                    300015                      
+CAND0106 121   1         Pam Barlow                        300016                      
+CAND0106 122   1         Elaine Hays                       300017                      
+CONT0107    Governor                                                                                                        004COUNTY 101 200018
+CAND0107 126   1         Lisa Fritsch                      300019                      
+CAND0107 127   1         Greg Abbott                       300020                      
+CAND0107 128   1         Miriam Martinez                   300021                      
+CAND0107 129   1         SECEDE Kilgore                    300022                      
+CONT0108    Lieutenant Governor                                                                                             004COUNTY 101 200023
+CAND0108 132   1         Todd Staples                      300024                      
+CAND0108 133   1         Dan Patrick                       300025                      
+CAND0108 134   1         Jerry Patterson                   300026                      
+CAND0108 135   1         David Dewhurst                    300027                      
+CONT0109    Attorney General                                                                                                003COUNTY 101 200028
+CAND0109 210   1         Barry Smitherman                  300029                      
+CAND0109 211   1         Ken Paxton                        300030                      
+CAND0109 212   1         Dan Branch                        300031                      
+CONT0110    Comptroller of Public Accounts                                                                                  004COUNTY 101 200032
+CAND0110 215   1         Glenn Hegar                       300033                      
+CAND0110 216   1         Debra Medina                      300034                      
+CAND0110 217   1         Raul Torres                       300035                      
+CAND0110 218   1         Harvey Hilderbran                 300036                      
+CONT0111    Commissioner of the General Land Office                                                                         002COUNTY 101 200037
+CAND0111 221   1         David Watts                       300038                      
+CAND0111 222   1         George P. Bush                    300039                      
+CONT0112    Commissioner of Agriculture                                                                                     005COUNTY 101 200040
+CAND0112 225   1         Tommy Merritt                     300041                      
+CAND0112 226   1         Sid Miller                        300042                      
+CAND0112 227   1         J. Allen Carnes                   300043                      
+CAND0112 228   1         Eric Opiela                       300044                      
+CAND0112 229   1         Joe Cotten                        300045                      
+CONT0113    Railroad Commissioner                                                                                           004COUNTY 101 200046
+CAND0113 232   1         Ryan Sitton                       300047                      
+CAND0113 233   1         Malachi Boyuls                    300048                      
+CAND0113 234   1         Becky Berger                      300049                      
+CAND0113 235   1         Wayne Christian                   300050                      
+CONT0114    Chief Justice, Supreme Court                                                                                    002COUNTY 101 200051
+CAND0114 310   1         Robert Talton                     300052                      
+CAND0114 311   1         Nathan Hecht                      300053                      
+CONT0115    Supreme Court, Place 6, Unexpired Term                                                                          002COUNTY 101 200054
+CAND0115 314   1         Joe Pool                          300055                      
+CAND0115 315   1         Jeff Brown                        300056                      
+CONT0116    Justice, Supreme Court, Place 7                                                                                 001COUNTY 101 200057
+CAND0116 318   1         Jeff Boyd                         300058                      
+CONT0117    Justice, Supreme Court, Place 8                                                                                 002COUNTY 101 200059
+CAND0117 321   1         Sharon McCally                    300060                      
+CAND0117 322   1         Phil Johnson                      300061                      
+CONT0118    Judge, Court of Criminal Appeals, Pl 3                                                                          002COUNTY 101 200062
+CAND0118 325   1         Barbara Walther                   300063                      
+CAND0118 326   1         Bert Richardson                   300064                      
+CONT0119    Judge, Court of Criminal Appeals, Pl 4                                                                          003COUNTY 101 200065
+CAND0119 329   1         Richard Dean Davis                300066                      
+CAND0119 330   1         Kevin Patrick Yeary               300067                      
+CAND0119 331   1         Jani Jo Wood                      300068                      
+CONT0120    Judge, Court of Criminal Appeals, Pl 9                                                                          002COUNTY 101 200069
+CAND0120 404   1         W.C. "Bud" Kirkendall             300070                      
+CAND0120 405   1         David Newell                      300071                      
+CONT0121    State Senator, District 30                                                                                      001COUNTY 101 200072
+CAND0121 408   1         Craig Estes                       300073                      
+CONT0122    State Representative, District 69                                                                               001COUNTY 101 200074
+CAND0122 411   1         James Frank                       300075                      
+CONT0123    2nd Court of Appeals District, Place 2                                                                          001COUNTY 101 200076
+CAND0123 414   1         Bill Meier                        300077                      
+CONT0124    2nd Court of Appeals District, Place 7                                                                          001COUNTY 101 200078
+CAND0124 417   1         Lee Gabriel                       300079                      
+CONT0125    County Judge                                                                                                    002COUNTY 101 200080
+CAND0125 421   1         A.J. Peek                         300081                      
+CAND0125 422   1         Kenneth Liggett                   300082                      
+CONT0126    District Clerk                                                                                                  001COUNTY 101 200083
+CAND0126 425   1         Dan Slagle                        300084                      
+CONT0127    County Clerk                                                                                                    001COUNTY 101 200085
+CAND0127 428   1         Sasha Kelton                      300086                      
+CONT0128    County Treasurer                                                                                                001COUNTY 101 200087
+CAND0128 431   1         Debra D. Alexander                300088                      
+CONT0129    County Commissioner, Precinct No. 2                     COMMISSIONER PRECINCT 2                                 002CCOM002101 200102
+CAND0129 434   1         Van D. Blevins                    300103                      
+CAND0129 435   1         Johnny Gee                        300104                      
+CONT0130    County Commissioner, Precinct No. 4                     COMMISSIONER PRECINCT 4                                 002CCOM004101 200089
+CAND0130 434   1         Richard Keen                      300090                      
+CAND0130 435   1         Scott Graham                      300091                      
+CONT0131    Justice of the Peace                                                                                            001COUNTY 101 200092
+CAND0131 434   1         John Swenson                      300093                      
+ROTP01310001434                                                                                                                                                                                                               
+ROTP01310002504                                                                                                                                                                                                               
+CONT0132    County Chairman                                                                                                 001COUNTY 101 200094
+CAND0132 504   1         Chris Riordan                     300095                      
+ROTP01320001504                                                                                                                                                                                                               
+ROTP01320002507                                                                                                                                                                                                               
+CONT0133    United States Senator                                                                                           005COUNTY 201 200005
+CAND0133 110   2         Michael "Fjet" Fjetland           300006                      
+CAND0133 111   2         Maxey Marie Scherr                300007                      
+CAND0133 112   2         Harry Kim                         300008                      
+CAND0133 113   2         David M. Alameel                  300009                      
+CAND0133 114   2         Kesha Rogers                      300010                      
+CONT0134    United States Representative, Dist 13                                                                           001COUNTY 201 200011
+CAND0134 117   2         Mike Minter                       300012                      
+CONT0135    Governor                                                                                                        002COUNTY 201 200013
+CAND0135 121   2         Reynaldo "Ray" Madrigal           300014                      
+CAND0135 122   2         Wendy R. Davis                    300015                      
+CONT0136    Lieutenant Governor                                                                                             001COUNTY 201 200016
+CAND0136 125   2         Leticia Van de Putte              300017                      
+CONT0137    Attorney General                                                                                                001COUNTY 201 200018
+CAND0137 128   2         Sam Houston                       300019                      
+CONT0138    Comptroller of Public Accounts                                                                                  001COUNTY 201 200020
+CAND0138 131   2         Mike Collier                      300021                      
+CONT0139    Commissioner of the General Land Office                                                                         001COUNTY 201 200022
+CAND0139 134   2         John Cook                         300023                      
+CONT0140    Commissioner of Agriculture                                                                                     003COUNTY 201 200024
+CAND0140 210   2         Jim Hogan                         300025                      
+CAND0140 211   2         Richard "Kinky" Friedman          300026                      
+CAND0140 212   2         Hugh Asa Fitzsimons III           300027                      
+CONT0141    Railroad Commissioner                                                                                           002COUNTY 201 200028
+CAND0141 215   2         Steve Brown                       300029                      
+CAND0141 216   2         Dale Henry                        300030                      
+CONT0142    Chief Justice, Supreme Court                                                                                    001COUNTY 201 200031
+CAND0142 219   2         William Moody                     300032                      
+CONT0143    Supreme Court, Place 6, Unexpired Term                                                                          001COUNTY 201 200033
+CAND0143 222   2         Lawrence Edward Meyers            300034                      
+CONT0144    Justice, Supreme Court, Place 7                                                                                 001COUNTY 201 200035
+CAND0144 225   2         Gina Benavides                    300036                      
+CONT0145    Judge, Court of Criminal Appeals, Pl 3                                                                          001COUNTY 201 200038
+CAND0145 228   2         John Granberg                     300039                      
+CONT0146    County Chairman                                                                                                 001COUNTY 201 200052
+CAND0146 232   2         Carol Ann Hale                    300053                      
+CONT0147    RELIGIOUS FREEDOM                                                                                               002COUNTY 101Q400096
+CAND0147 516             YES  (SI)                         B00096                      
+CAND0147 517             NO  (NO)                          B00096                      
+ROTP01470001516517                                                                                                                                                                                                            
+ROTP01470002519520                                                                                                                                                                                                            
+CONT0148    SECOND AMENDMENT                                                                                                002COUNTY 101Q400097
+CAND0148 524             YES  (SI)                         B00097                      
+CAND0148 525             NO  (NO)                          B00097                      
+ROTP01480001524525                                                                                                                                                                                                            
+ROTP01480002527528                                                                                                                                                                                                            
+CONT0149    FRANCHISE TAX                                                                                                   002COUNTY 101Q400098
+CAND0149 531             YES  (SI)                         B00098                      
+CAND0149 532             NO  (NO)                          B00098                      
+ROTP01490001531532                                                                                                                                                                                                            
+ROTP01490002534535                                                                                                                                                                                                            
+CONT0150    WELFARE REFORM                                                                                                  002COUNTY 101Q400099
+CAND0150 609             YES  (SI)                         B00099                      
+CAND0150 610             NO  (NO)                          B00099                      
+CONT0151    NO LAWMAKERS EXCEPTIONS                                                                                         002COUNTY 101Q400100
+CAND0151 616             YES  (SI)                         B00100                      
+CAND0151 617             NO  (NO)                          B00100                      
+CONT0152    OBAMACARE                                                                                                       002COUNTY 101Q400101
+CAND0152 622             YES  (SI)                         B00101                      
+CAND0152 623             NO  (NO)                          B00101                      
+CONT0153    ON IMMIGRATION REFORM                                                                                           002COUNTY 201Q400054
+CAND0153 319             FOR  (A FAVOR)                    B00054                      
+CAND0153 320             AGAINST  (EN CONTRA)              B00054                      
+CONT0154    A LIVING WAGE FOR ALL TEXANS                                                                                    002COUNTY 201Q400055
+CAND0154 327             FOR  (A FAVOR)                    B00055                      
+CAND0154 328             AGAINST  (EN CONTRA)              B00055                      
+CONT0155    MEDICAID EXPANSION                                                                                              002COUNTY 201Q400056
+CAND0155 409             FOR  (A FAVOR)                    B00056                      
+CAND0155 410             AGAINST  (EN CONTRA)              B00056                      
+CONT0156    ON NON-DISCRIMINATION LEGISLATION                                                                               002COUNTY 201Q400057
+CAND0156 419             FOR  (A FAVOR)                    B00057                      
+CAND0156 420             AGAINST  (EN CONTRA)              B00057                      
+BAL10001    0000065793
+BAL20001    0001
+BAL30001    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013000013102
+BAL30001    013202014702014802014902015000015100015200
+BAL10002    0000131329
+BAL20002    0002
+BAL30002    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30002    014701014801014901015000015100015200
+BAL10003    0000196865
+BAL20003    0003
+BAL30003    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30003    014701014801014901015000015100015200
+BAL10004    0000262401
+BAL20004    0004
+BAL30004    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800012900013102
+BAL30004    013202014702014802014902015000015100015200
+BAL10005    0000327937
+BAL20005    0005
+BAL30005    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013000013102
+BAL30005    013202014702014802014902015000015100015200
+BAL10006    0000393473
+BAL20006    0006
+BAL30006    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800012900013102
+BAL30006    013202014702014802014902015000015100015200
+BAL10007    0000459009
+BAL20007    0007
+BAL30007    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800012900013102
+BAL30007    013202014702014802014902015000015100015200
+BAL10008    0000524545
+BAL20008    0008
+BAL30008    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800012900013102
+BAL30008    013202014702014802014902015000015100015200
+BAL10009    0000590081
+BAL20009    0009
+BAL30009    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800012900013102
+BAL30009    013202014702014802014902015000015100015200
+BAL10010    0000655617
+BAL20010    0010
+BAL30010    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30010    014701014801014901015000015100015200
+BAL10011    0000721153
+BAL20011    0011
+BAL30011    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30011    014701014801014901015000015100015200
+BAL10012    0000786689
+BAL20012    0012
+BAL30012    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30012    014701014801014901015000015100015200
+BAL10013    0000852225
+BAL20013    0013
+BAL30013    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013000013102
+BAL30013    013202014702014802014902015000015100015200
+BAL10014    0000917761
+BAL20014    0014
+BAL30014    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013000013102
+BAL30014    013202014702014802014902015000015100015200
+BAL10015    0000983297
+BAL20015    0015
+BAL30015    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30015    014701014801014901015000015100015200
+BAL10016    0001048833
+BAL20016    0016
+BAL30016    010000010100010200010300010500010600010700010800010900011000011100011200011300011400011500011600011700011800011900012000012100012200012300012400012500012600012700012800013101013201
+BAL30016    014701014801014901015000015100015200
+BAL10017    0000066049
+BAL20017    0001
+BAL30017    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10018    0000131585
+BAL20018    0002
+BAL30018    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10019    0000197121
+BAL20019    0003
+BAL30019    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10020    0000262657
+BAL20020    0004
+BAL30020    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10021    0000328193
+BAL20021    0005
+BAL30021    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10022    0000393729
+BAL20022    0006
+BAL30022    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10023    0000459265
+BAL20023    0007
+BAL30023    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10024    0000524801
+BAL20024    0008
+BAL30024    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10025    0000590337
+BAL20025    0009
+BAL30025    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10026    0000655873
+BAL20026    0010
+BAL30026    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10027    0000721409
+BAL20027    0011
+BAL30027    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10028    0000786945
+BAL20028    0012
+BAL30028    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10029    0000852481
+BAL20029    0013
+BAL30029    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10030    0000918017
+BAL20030    0014
+BAL30030    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10031    0000983553
+BAL20031    0015
+BAL30031    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
+BAL10032    0001049089
+BAL20032    0016
+BAL30032    010000010100010200010400013300013400013500013600013700013800013900014000014100014200014300014400014500014600015300015400015500015600
