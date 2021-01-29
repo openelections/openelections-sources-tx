@@ -1,12 +1,8 @@
 political_subdivision,election_date,election_name,total provisional ballots,total provisional ballots counted,precinct_number,reg_voters,race_name,candidate_name,party code,early_votes,election_votes,Absentee Voting Votes,Early Voting Votes
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,121,29,13,108
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,117,17,22,95
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,1,0,0,1
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,0,0,2
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Donald J. Trump Michael R. Pence",REP,121,29,13,108
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,117,17,22,95
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,0,0,1
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -35,10 +31,8 @@ Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,Railroad Commissio
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Chief Justice, Supreme Court",Nathan Hecht,REP,107,28,10,97
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,115,16,19,96
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Chief Justice, Supreme Court",Mark Ash,LIB,3,0,1,2
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,118,25,11,107
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,104,18,19,85
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,118,25,11,107
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,104,18,19,85
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,112,27,10,102
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,105,16,19,86
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,0,1,2
@@ -54,10 +48,8 @@ Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Judge, Court of C
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"State Senator, District No. 18",Lois W. Kolkhorst,REP,119,26,11,108
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"State Senator, District No. 18",Michael Antalan,DEM,102,18,18,84
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"State Representative, District No. 30",Geanie W. Morrison,REP,151,34,15,136
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,116,24,11,105
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,103,18,20,83
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,116,24,11,105
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,103,18,20,83
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,119,25,11,108
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,102,18,19,83
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"District Judge, 24th Judicial District",Jack W. Marr,REP,145,32,14,131
@@ -70,19 +62,13 @@ Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,Sheriff,MATTHEW TU
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,Sheriff,Rejected write-ins,,2,2,0,2
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,188,38,30,158
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"County Commissioner,
-Precinct No. 1",Roy Payne,REP,129,30,13,116
-Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"County Commissioner,
-Precinct No. 1",George Hernandez,DEM,101,16,18,83
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"County Commissioner, Precinct No. 1",Roy Payne,REP,129,30,13,116
+Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"County Commissioner, Precinct No. 1",George Hernandez,DEM,101,16,18,83
 Refugio County,11/3/2020,General Election,0,0,1 - CO-RCMH,488,"Constable, No. 1",Mark Winston Moore,REP,164,35,19,145
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Donald J. Trump Michael R. Pence",REP,3,0,0,3
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -111,10 +97,8 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,Railroad Commission
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Chief Justice, Supreme Court",Nathan Hecht,REP,3,0,0,3
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,3,0,0,3
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,3,0,0,3
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -130,10 +114,8 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Judge, Court of Cr
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"State Senator, District No. 18",Lois W. Kolkhorst,REP,3,0,0,3
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"State Senator, District No. 18",Michael Antalan,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"State Representative, District No. 30",Geanie W. Morrison,REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,3,0,0,3
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,3,0,0,3
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"District Judge, 24th Judicial District",Jack W. Marr,REP,2,0,0,2
@@ -146,19 +128,13 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,Sheriff,MATTHEW TUT
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,Sheriff,Rejected write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"County Commissioner,
-Precinct No. 1",Roy Payne,REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"County Commissioner,
-Precinct No. 1",George Hernandez,DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"County Commissioner, Precinct No. 1",Roy Payne,REP,3,0,0,3
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"County Commissioner, Precinct No. 1",George Hernandez,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH,5,"Constable, No. 1",Mark Winston Moore,REP,3,0,0,3
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,137,47,9,128
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,142,47,34,108
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,2,3,0,2
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,1,0,2
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Donald J. Trump Michael R. Pence",REP,137,47,9,128
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,142,47,34,108
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,3,0,2
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,1,0,2
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -187,10 +163,8 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,Railroad Commi
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Chief Justice, Supreme Court",Nathan Hecht,REP,117,37,9,108
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,138,49,29,109
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Chief Justice, Supreme Court",Mark Ash,LIB,4,4,0,4
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,119,44,8,111
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,133,45,29,104
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,119,44,8,111
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,133,45,29,104
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,114,35,9,105
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,135,45,29,106
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,9,0,3
@@ -206,10 +180,8 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Judge, Court 
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"State Senator, District No. 18",Lois W. Kolkhorst,REP,121,41,8,113
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"State Senator, District No. 18",Michael Antalan,DEM,130,42,29,101
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"State Representative, District No. 30",Geanie W. Morrison,REP,178,57,14,164
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,123,37,8,115
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,139,47,30,109
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,123,37,8,115
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,139,47,30,109
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,128,40,8,120
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,130,44,30,100
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"District Judge, 24th Judicial District",Jack W. Marr,REP,177,59,17,160
@@ -222,19 +194,13 @@ Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,Sheriff,MATTHE
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,Sheriff,Rejected write-ins,,4,3,1,3
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,233,81,40,193
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"County Commissioner,
-Precinct No. 1",Roy Payne,REP,136,46,15,121
-Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"County Commissioner,
-Precinct No. 1",George Hernandez,DEM,142,50,27,115
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"County Commissioner, Precinct No. 1",Roy Payne,REP,136,46,15,121
+Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"County Commissioner, Precinct No. 1",George Hernandez,DEM,142,50,27,115
 Refugio County,11/3/2020,General Election,0,0,1A - CO-RCMH-WO,575,"Constable, No. 1",Mark Winston Moore,REP,199,69,21,178
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,251,36,9,242
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,33,16,9,24
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,2,0,0,2
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,0,0,2
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Donald J. Trump Michael R. Pence",REP,251,36,9,242
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,33,16,9,24
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,0,0,2
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,0,0,2
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,1,0,1,0
@@ -263,10 +229,8 @@ Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,Railroad Commissio
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Chief Justice, Supreme Court",Nathan Hecht,REP,226,24,8,218
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,40,14,10,30
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Chief Justice, Supreme Court",Mark Ash,LIB,2,2,0,2
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,227,28,8,219
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,33,13,10,23
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,227,28,8,219
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,33,13,10,23
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,231,27,9,222
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,34,12,9,25
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,3,0,2
@@ -282,10 +246,8 @@ Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Judge, Court of C
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"State Senator, District No. 18",Lois W. Kolkhorst,REP,237,29,11,226
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"State Senator, District No. 18",Michael Antalan,DEM,31,13,8,23
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"State Representative, District No. 30",Geanie W. Morrison,REP,246,35,13,233
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,230,25,9,221
-Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,36,15,9,27
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,230,25,9,221
+Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,36,15,9,27
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,234,26,10,224
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,28,13,8,20
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"District Judge, 24th Judicial District",Jack W. Marr,REP,239,33,11,228
@@ -299,14 +261,10 @@ Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,Sheriff,Rejected w
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,185,34,15,170
 Refugio County,11/3/2020,General Election,1,0,2 - CO-RCMH,453,"Constable, No. 2",Johnnie Garza,DEM,157,31,13,144
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,174,60,15,159
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,72,23,11,61
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,3,1,0,3
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,1,1,0,1
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Donald J. Trump Michael R. Pence",REP,174,60,15,159
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,72,23,11,61
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,3,1,0,3
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,"Howie Hawkins Angela Walker",GRN,1,1,0,1
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -335,10 +293,8 @@ Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,Railroad Commis
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Chief Justice, Supreme Court",Nathan Hecht,REP,160,52,15,145
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,74,26,10,64
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Chief Justice, Supreme Court",Mark Ash,LIB,4,1,0,4
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,161,55,15,146
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,75,22,10,65
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,161,55,15,146
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,75,22,10,65
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,163,51,15,148
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,73,23,9,64
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,2,1,0
@@ -354,10 +310,8 @@ Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Judge, Court o
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"State Senator, District No. 18",Lois W. Kolkhorst,REP,160,53,15,145
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"State Senator, District No. 18",Michael Antalan,DEM,66,22,10,56
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"State Representative, District No. 30",Geanie W. Morrison,REP,196,65,16,180
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,161,50,15,146
-Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,71,23,10,61
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,161,50,15,146
+Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,71,23,10,61
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,160,53,15,145
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,67,22,9,58
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"District Judge, 24th Judicial District",Jack W. Marr,REP,192,61,16,176
@@ -371,14 +325,10 @@ Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,Sheriff,Rejecte
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,179,56,21,158
 Refugio County,11/3/2020,General Election,0,0,2 - CO-RCMH-WO,473,"Constable, No. 2",Johnnie Garza,DEM,161,55,18,143
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,102,38,7,95
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,11,6,2,9
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,1,0,0
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,1,0,0
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Donald J. Trump Michael R. Pence",REP,102,38,7,95
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,11,6,2,9
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,1,0,0
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,1,0,0
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -407,10 +357,8 @@ Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,Railroad Commissi
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Chief Justice, Supreme Court",Nathan Hecht,REP,98,36,7,91
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,11,7,2,9
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,101,38,7,94
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,9,6,2,7
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,101,38,7,94
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,9,6,2,7
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,98,37,7,91
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,10,6,2,8
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -426,10 +374,8 @@ Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Judge, Court of 
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"State Senator, District No. 18",Lois W. Kolkhorst,REP,96,38,5,91
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"State Senator, District No. 18",Michael Antalan,DEM,10,6,3,7
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"State Representative, District No. 30",Geanie W. Morrison,REP,95,40,6,89
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,98,38,6,92
-Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,9,6,3,6
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,98,38,6,92
+Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,9,6,3,6
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,96,35,7,89
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,9,6,2,7
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"District Judge, 24th Judicial District",Jack W. Marr,REP,101,40,6,95
@@ -443,14 +389,10 @@ Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,Sheriff,Rejected 
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,59,27,7,52
 Refugio County,11/3/2020,General Election,0,0,2A - CO-RCMH,196,"Constable, No. 2",Johnnie Garza,DEM,55,21,6,49
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,7,0,1,6
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,5,0,2,3
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Donald J. Trump Michael R. Pence",REP,7,0,1,6
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,5,0,2,3
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -479,10 +421,8 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,Railroad Commissio
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Chief Justice, Supreme Court",Nathan Hecht,REP,7,0,1,6
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,5,0,2,3
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,7,0,1,6
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,4,0,2,2
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,7,0,1,6
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,4,0,2,2
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,7,0,1,6
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,5,0,2,3
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -498,10 +438,8 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Judge, Court of C
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"State Senator, District No. 18",Lois W. Kolkhorst,REP,7,0,1,6
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"State Senator, District No. 18",Michael Antalan,DEM,5,0,2,3
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"State Representative, District No. 30",Geanie W. Morrison,REP,7,0,1,6
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,7,0,1,6
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,5,0,2,3
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,7,0,1,6
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,5,0,2,3
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,7,0,1,6
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,5,0,2,3
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"District Judge, 24th Judicial District",Jack W. Marr,REP,7,0,0,7
@@ -515,14 +453,10 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,Sheriff,Rejected w
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,10,0,2,8
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH,31,"Constable, No. 2",Johnnie Garza,DEM,9,0,2,7
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,77,54,5,72
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,36,26,10,26
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,3,1,1,2
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Donald J. Trump Michael R. Pence",REP,77,54,5,72
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,36,26,10,26
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,3,1,1,2
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -551,10 +485,8 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,Railroad Commi
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Chief Justice, Supreme Court",Nathan Hecht,REP,74,51,6,68
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,35,28,10,25
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Chief Justice, Supreme Court",Mark Ash,LIB,2,1,0,2
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,78,54,5,73
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,29,25,10,19
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,78,54,5,73
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,29,25,10,19
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,74,53,6,68
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,30,23,10,20
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,5,3,0,5
@@ -570,10 +502,8 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Judge, Court 
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"State Senator, District No. 18",Lois W. Kolkhorst,REP,80,53,6,74
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"State Senator, District No. 18",Michael Antalan,DEM,27,27,10,17
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"State Representative, District No. 30",Geanie W. Morrison,REP,88,61,8,80
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,76,56,6,70
-Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,30,22,10,20
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,76,56,6,70
+Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,30,22,10,20
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,75,54,6,69
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,30,24,9,21
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"District Judge, 24th Judicial District",Jack W. Marr,REP,81,60,7,74
@@ -587,14 +517,10 @@ Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,Sheriff,Reject
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,76,61,14,62
 Refugio County,11/3/2020,General Election,0,0,2B - CO-RCMH-BA,276,"Constable, No. 2",Johnnie Garza,DEM,68,56,13,55
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,330,57,20,310
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,102,16,17,85
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,2,2,0,2
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,3,0,0,3
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Donald J. Trump Michael R. Pence",REP,330,57,20,310
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,102,16,17,85
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,2,0,2
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,"Howie Hawkins Angela Walker",GRN,3,0,0,3
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -623,10 +549,8 @@ Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,Railroad Commissio
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Chief Justice, Supreme Court",Nathan Hecht,REP,305,48,20,285
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,108,18,17,91
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Chief Justice, Supreme Court",Mark Ash,LIB,8,1,0,8
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,313,48,20,293
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,102,20,17,85
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,313,48,20,293
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,102,20,17,85
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,310,46,21,289
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,106,19,16,90
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,6,1,0,6
@@ -642,10 +566,8 @@ Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Judge, Court of C
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"State Senator, District No. 18",Lois W. Kolkhorst,REP,321,48,19,302
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"State Senator, District No. 18",Michael Antalan,DEM,100,17,18,82
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"State Representative, District No. 30",Geanie W. Morrison,REP,361,60,22,339
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,312,44,19,293
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,104,25,18,86
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,312,44,19,293
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,104,25,18,86
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,315,47,20,295
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,100,19,16,84
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"District Judge, 24th Judicial District",Jack W. Marr,REP,358,60,22,336
@@ -658,17 +580,12 @@ Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,Sheriff,MATTHEW TU
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,Sheriff,Rejected write-ins,,4,1,0,4
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,319,59,31,288
-Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"County Commissioner,
-Precinct No. 3",Gary Wright,REP,373,66,27,346
+Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"County Commissioner, Precinct No. 3",Gary Wright,REP,373,66,27,346
 Refugio County,11/3/2020,General Election,2,0,3 - CO-RCMH,723,"Constable, No. 2",Johnnie Garza,DEM,294,55,30,264
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,314,41,17,297
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,95,19,17,78
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,2,0,0,2
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,0,0,2
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Donald J. Trump Michael R. Pence",REP,314,41,17,297
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,95,19,17,78
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,0,0,2
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,0,0,2
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -697,10 +614,8 @@ Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,Railroad Commissi
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Chief Justice, Supreme Court",Nathan Hecht,REP,293,38,17,276
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,92,14,16,76
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Chief Justice, Supreme Court",Mark Ash,LIB,6,1,1,5
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,305,42,18,287
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,82,14,15,67
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,305,42,18,287
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,82,14,15,67
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,293,37,17,276
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,90,15,16,74
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,8,0,0,8
@@ -716,10 +631,8 @@ Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Judge, Court of 
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"State Senator, District No. 18",Lois W. Kolkhorst,REP,311,43,22,289
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"State Senator, District No. 18",Michael Antalan,DEM,78,13,12,66
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"State Representative, District No. 30",Geanie W. Morrison,REP,347,50,26,321
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,296,40,20,276
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,87,16,13,74
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,296,40,20,276
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,87,16,13,74
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,295,42,17,278
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,90,13,15,75
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"District Judge, 24th Judicial District",Jack W. Marr,REP,345,49,27,318
@@ -732,17 +645,12 @@ Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,Sheriff,MATTHEW T
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,Sheriff,Rejected write-ins,,8,0,2,6
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,306,52,29,277
-Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"County Commissioner,
-Precinct No. 3",Gary Wright,REP,354,52,30,324
+Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"County Commissioner, Precinct No. 3",Gary Wright,REP,354,52,30,324
 Refugio County,11/3/2020,General Election,3,0,3A - CO-RCMH,709,"Constable, No. 2",Johnnie Garza,DEM,262,45,25,237
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Donald J. Trump Michael R. Pence",REP,2,0,0,2
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -771,10 +679,8 @@ Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,Railroad Commiss
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Chief Justice, Supreme Court",Nathan Hecht,REP,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,2,0,0,2
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -790,10 +696,8 @@ Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Judge, Court of
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"State Senator, District No. 18",Lois W. Kolkhorst,REP,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"State Senator, District No. 18",Michael Antalan,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"State Representative, District No. 30",Geanie W. Morrison,REP,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,2,0,0,2
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"District Judge, 24th Judicial District",Jack W. Marr,REP,2,0,0,2
@@ -806,17 +710,12 @@ Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,Sheriff,MATTHEW 
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,Sheriff,Rejected write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,2,0,0,2
-Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"County Commissioner,
-Precinct No. 3",Gary Wright,REP,2,0,0,2
+Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"County Commissioner, Precinct No. 3",Gary Wright,REP,2,0,0,2
 Refugio County,11/3/2020,General Election,0,0,3A - CO-RCMH-WO,2,"Constable, No. 2",Johnnie Garza,DEM,1,0,0,1
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,69,21,6,63
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,136,31,29,107
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,1,0,0
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,1,0,2
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Donald J. Trump Michael R. Pence",REP,69,21,6,63
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,136,31,29,107
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,1,0,0
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,1,0,2
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -845,10 +744,8 @@ Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,Railroad Commissio
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Chief Justice, Supreme Court",Nathan Hecht,REP,62,15,4,58
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,127,32,26,101
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Chief Justice, Supreme Court",Mark Ash,LIB,3,0,0,3
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,67,18,4,63
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,127,31,26,101
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,67,18,4,63
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,127,31,26,101
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,62,15,4,58
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,125,32,26,99
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,2,0,2
@@ -864,10 +761,8 @@ Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Judge, Court of C
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"State Senator, District No. 18",Lois W. Kolkhorst,REP,64,21,4,60
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"State Senator, District No. 18",Michael Antalan,DEM,130,29,25,105
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"State Representative, District No. 30",Geanie W. Morrison,REP,111,37,12,99
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,63,20,4,59
-Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,126,31,25,101
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,63,20,4,59
+Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,126,31,25,101
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,65,18,4,61
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,129,31,26,103
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"District Judge, 24th Judicial District",Jack W. Marr,REP,105,31,12,93
@@ -881,14 +776,10 @@ Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,Sheriff,Rejected w
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,190,48,34,156
 Refugio County,11/3/2020,General Election,1,0,4 - CO-RCMH,496,"Constable, No. 1",Mark Winston Moore,REP,140,36,22,118
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,47,116,8,39
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,47,58,5,42
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,2,0,0
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,1,1,1,0
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Donald J. Trump Michael R. Pence",REP,47,116,8,39
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,47,58,5,42
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,2,0,0
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,"Howie Hawkins Angela Walker",GRN,1,1,1,0
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -917,10 +808,8 @@ Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,Railroad Commissi
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Chief Justice, Supreme Court",Nathan Hecht,REP,42,93,8,34
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,45,55,5,40
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Chief Justice, Supreme Court",Mark Ash,LIB,1,6,0,1
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,44,98,8,36
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,41,56,5,36
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,44,98,8,36
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,41,56,5,36
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,44,97,8,36
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,43,54,5,38
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,7,0,1
@@ -936,10 +825,8 @@ Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Judge, Court of 
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"State Senator, District No. 18",Lois W. Kolkhorst,REP,51,105,8,43
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"State Senator, District No. 18",Michael Antalan,DEM,37,47,3,34
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"State Representative, District No. 30",Geanie W. Morrison,REP,63,132,8,55
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,44,104,7,37
-Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,41,53,4,37
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,44,104,7,37
+Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,41,53,4,37
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,43,104,6,37
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,41,50,5,36
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"District Judge, 24th Judicial District",Jack W. Marr,REP,62,121,8,54
@@ -953,14 +840,10 @@ Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,Sheriff,Rejected 
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,77,118,11,66
 Refugio County,11/3/2020,General Election,0,0,4A - CO-RCMH,428,"Constable, No. 1",Mark Winston Moore,REP,59,113,6,53
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,35,42,11,24
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,36,17,17,19
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,1,0,0
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Donald J. Trump Michael R. Pence",REP,35,42,11,24
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,36,17,17,19
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,1,0,0
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,ABRAM LOEB / JENNIFER JAIRALA,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,BRIAN CARROLL /  AMAR PATEL,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,President and Vice President,GLORIA LA RIVA / LEONARD PELTIER,,0,0,0,0
@@ -989,10 +872,8 @@ Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,Railroad Commissi
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Chief Justice, Supreme Court",Nathan Hecht,REP,31,38,11,20
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,30,14,16,14
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Chief Justice, Supreme Court",Mark Ash,LIB,1,2,0,1
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,30,42,8,22
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,31,14,17,14
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,30,42,8,22
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,31,14,17,14
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,30,39,9,21
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,32,16,17,15
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -1008,10 +889,8 @@ Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Judge, Court of 
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"State Senator, District No. 18",Lois W. Kolkhorst,REP,32,41,9,23
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"State Senator, District No. 18",Michael Antalan,DEM,32,14,17,15
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"State Representative, District No. 30",Geanie W. Morrison,REP,46,45,15,31
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Jaime Tijerina,REP,33,39,10,23
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 4
-Unexpired Term",Migdalia Lopez,DEM,25,13,15,10
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Jaime Tijerina,REP,33,39,10,23
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 4 Unexpired Term",Migdalia Lopez,DEM,25,13,15,10
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 6",Clarissa Silva,REP,31,39,10,21
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Justice, 13th Court of Appeals District, Place No. 6",Nereida Lopez-Singleterry,DEM,24,14,13,11
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"District Judge, 24th Judicial District",Jack W. Marr,REP,41,40,14,27
@@ -1024,4 +903,4 @@ Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,Sheriff,MATTHEW T
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,Sheriff,Rejected write-ins,,0,1,0,0
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,Sheriff,Unassigned write-ins,,0,0,0,0
 Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,County Tax Assessor-Collector,Ida Mascorro Turner,DEM,55,42,24,31
-Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Constable, No. 1",Mark Winston Moore,REP,40,36,14,26
+Refugio County,11/3/2020,General Election,0,0,4B - CO-RCMH,167,"Constable, No. 1",Mark Winston Moore,REP,40,36,14,26 

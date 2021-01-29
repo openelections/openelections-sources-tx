@@ -1,12 +1,8 @@
 political_subdivision,election_date,election_name,total provisional ballots,total provisional ballots counted,precinct_number,reg_voters,race_name,candidate_name,party code,early_votes,election_votes,Absentee Voting Votes,Early Voting Votes
-Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,966,143,69,897
-Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,276,10,42,234
-Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,7,3,0,7
-Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,3,1,1,2
+Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Donald J. Trump Michael R. Pence",REP,966,143,69,897
+Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,276,10,42,234
+Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,7,3,0,7
+Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,"Howie Hawkins Angela Walker",GRN,3,1,1,2
 Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,7,0,101,1945,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -37,10 +33,8 @@ Bandera County,11/3/2020,General Election,7,0,101,1945,Railroad Commissioner,"Ka
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Chief Justice, Supreme Court",Nathan Hecht,REP,947,133,71,876
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,245,10,41,204
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Chief Justice, Supreme Court",Mark Ash,LIB,25,9,1,24
-Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,980,141,69,911
-Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,244,10,42,202
+Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,980,141,69,911
+Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,244,10,42,202
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,954,134,66,888
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,246,11,42,204
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,24,6,3,21
@@ -65,17 +59,12 @@ Bandera County,11/3/2020,General Election,7,0,101,1945,"District Attorney, 198th
 Bandera County,11/3/2020,General Election,7,0,101,1945,County Attorney,Janna Lindig,REP,1062,141,88,974
 Bandera County,11/3/2020,General Election,7,0,101,1945,Sheriff,Daniel R. Butts,REP,1068,141,87,981
 Bandera County,11/3/2020,General Election,7,0,101,1945,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,1067,143,88,979
-Bandera County,11/3/2020,General Election,7,0,101,1945,"County Commissioner,
-Precinct No. 1",Bruce Eliker,REP,1052,145,83,969
+Bandera County,11/3/2020,General Election,7,0,101,1945,"County Commissioner, Precinct No. 1",Bruce Eliker,REP,1052,145,83,969
 Bandera County,11/3/2020,General Election,7,0,101,1945,"Constable, Precinct No. 1",Phillip P Tobin,REP,1065,143,84,981
-Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,1464,220,101,1363
-Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,363,34,83,280
-Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,16,8,1,15
-Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,5,1,0,5
+Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Donald J. Trump Michael R. Pence",REP,1464,220,101,1363
+Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,363,34,83,280
+Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,16,8,1,15
+Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,"Howie Hawkins Angela Walker",GRN,5,1,0,5
 Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,19,0,102,2755,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -106,10 +95,8 @@ Bandera County,11/3/2020,General Election,19,0,102,2755,Railroad Commissioner,"K
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Chief Justice, Supreme Court",Nathan Hecht,REP,1444,209,107,1337
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,338,25,72,266
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Chief Justice, Supreme Court",Mark Ash,LIB,36,20,1,35
-Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,1473,222,109,1364
-Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,336,28,71,265
+Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,1473,222,109,1364
+Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,336,28,71,265
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,1452,204,107,1345
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,331,26,72,259
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,36,22,1,35
@@ -134,17 +121,12 @@ Bandera County,11/3/2020,General Election,19,0,102,2755,"District Attorney, 198t
 Bandera County,11/3/2020,General Election,19,0,102,2755,County Attorney,Janna Lindig,REP,1565,230,117,1448
 Bandera County,11/3/2020,General Election,19,0,102,2755,Sheriff,Daniel R. Butts,REP,1559,231,119,1440
 Bandera County,11/3/2020,General Election,19,0,102,2755,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,1562,231,118,1444
-Bandera County,11/3/2020,General Election,19,0,102,2755,"County Commissioner,
-Precinct No. 1",Bruce Eliker,REP,1566,228,118,1448
+Bandera County,11/3/2020,General Election,19,0,102,2755,"County Commissioner, Precinct No. 1",Bruce Eliker,REP,1566,228,118,1448
 Bandera County,11/3/2020,General Election,19,0,102,2755,"Constable, Precinct No. 1",Phillip P Tobin,REP,1570,234,112,1458
-Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,1186,135,70,1116
-Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,372,35,60,312
-Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,15,2,0,15
-Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Donald J. Trump Michael R. Pence",REP,1186,135,70,1116
+Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,372,35,60,312
+Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,15,2,0,15
+Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,7,1,203,2382,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -175,10 +157,8 @@ Bandera County,11/3/2020,General Election,7,1,203,2382,Railroad Commissioner,"Ka
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Chief Justice, Supreme Court",Nathan Hecht,REP,1169,129,70,1099
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,337,32,56,281
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Chief Justice, Supreme Court",Mark Ash,LIB,37,6,3,34
-Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,1211,133,72,1139
-Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,329,32,56,273
+Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,1211,133,72,1139
+Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,329,32,56,273
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,1157,129,71,1086
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,330,35,55,275
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,45,5,3,42
@@ -203,18 +183,12 @@ Bandera County,11/3/2020,General Election,7,1,203,2382,"District Attorney, 198th
 Bandera County,11/3/2020,General Election,7,1,203,2382,County Attorney,Janna Lindig,REP,1310,146,80,1230
 Bandera County,11/3/2020,General Election,7,1,203,2382,Sheriff,Daniel R. Butts,REP,1303,150,80,1223
 Bandera County,11/3/2020,General Election,7,1,203,2382,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,1303,145,79,1224
-Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice of the Peace,
-Precinct No. 2
-Unexpired Term",Gina Grothues,REP,1300,146,77,1223
+Bandera County,11/3/2020,General Election,7,1,203,2382,"Justice of the Peace, Precinct No. 2 Unexpired Term",Gina Grothues,REP,1300,146,77,1223
 Bandera County,11/3/2020,General Election,7,1,203,2382,"Constable, Precinct No. 2",Greg Spengler,REP,1301,147,72,1229
-Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,831,137,49,782
-Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,303,21,52,251
-Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,7,3,0,7
-Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,1,0,2
+Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Donald J. Trump Michael R. Pence",REP,831,137,49,782
+Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,303,21,52,251
+Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,7,3,0,7
+Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,1,0,2
 Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,11,0,204,1785,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -245,10 +219,8 @@ Bandera County,11/3/2020,General Election,11,0,204,1785,Railroad Commissioner,"K
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Chief Justice, Supreme Court",Nathan Hecht,REP,806,127,51,755
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,280,21,42,238
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Chief Justice, Supreme Court",Mark Ash,LIB,24,9,2,22
-Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,830,137,53,777
-Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,279,18,42,237
+Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,830,137,53,777
+Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,279,18,42,237
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,813,125,52,761
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,265,22,41,224
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,22,8,1,21
@@ -273,18 +245,12 @@ Bandera County,11/3/2020,General Election,11,0,204,1785,"District Attorney, 198t
 Bandera County,11/3/2020,General Election,11,0,204,1785,County Attorney,Janna Lindig,REP,912,144,51,861
 Bandera County,11/3/2020,General Election,11,0,204,1785,Sheriff,Daniel R. Butts,REP,907,145,55,852
 Bandera County,11/3/2020,General Election,11,0,204,1785,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,914,147,53,861
-Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice of the Peace,
-Precinct No. 2
-Unexpired Term",Gina Grothues,REP,930,150,55,875
+Bandera County,11/3/2020,General Election,11,0,204,1785,"Justice of the Peace, Precinct No. 2 Unexpired Term",Gina Grothues,REP,930,150,55,875
 Bandera County,11/3/2020,General Election,11,0,204,1785,"Constable, Precinct No. 2",Greg Spengler,REP,916,150,51,865
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,330,45,29,301
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,96,9,24,72
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,6,1,0,6
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,3,0,2
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Donald J. Trump Michael R. Pence",REP,330,45,29,301
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,96,9,24,72
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,6,1,0,6
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,3,0,2
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -315,10 +281,8 @@ Bandera County,11/3/2020,General Election,3,0,305 CITY,729,Railroad Commissioner
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Chief Justice, Supreme Court",Nathan Hecht,REP,320,45,29,291
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,93,10,20,73
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Chief Justice, Supreme Court",Mark Ash,LIB,12,2,3,9
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,328,46,31,297
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,91,8,20,71
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,328,46,31,297
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,91,8,20,71
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,319,44,30,289
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,92,10,19,73
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,9,3,1,8
@@ -343,27 +307,12 @@ Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"District Attorney, 1
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,County Attorney,Janna Lindig,REP,351,52,34,317
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,Sheriff,Daniel R. Butts,REP,357,49,34,323
 Bandera County,11/3/2020,General Election,3,0,305 CITY,729,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,352,47,32,320
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"County Commissioner,
-Precinct No. 3",Jack Moseley,REP,357,54,33,324
-Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Constable, Precinct No. 3",Don Walters,REP,351,50,31,320
-City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA
-Mayor",Cindy Lou Coffey,,159,24,13,146
-City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA
-Mayor",Suzanne Schauman,,223,31,29,194
-City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA
-City Council",Toni D Kunz,,210,32,20,190
-City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA
-City Council",Darcy Hasty,,175,17,14,161
-City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA
-City Council",Andrea K. Jankoski,,134,18,23,111
-Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,965,108,65,900
-Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,184,18,34,150
-Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,5,3,1,4
-Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,3,1,0,3
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"County Commissioner, Precinct No. 3",Jack Moseley,REP,357,54,33,324
+Bandera County,11/3/2020,General Election,3,0,305 CITY,729,"Constable, Precinct No. 3",Don Walters,REP,351,50,31,320 City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA Mayor",Cindy Lou Coffey,,159,24,13,146 City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA Mayor",Suzanne Schauman,,223,31,29,194 City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA City Council",Toni D Kunz,,210,32,20,190 City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA City Council",Darcy Hasty,,175,17,14,161 City Of Bandera,11/3/2020,General Election,3,0,305 CITY,729,"CITY OF BANDERA City Council",Andrea K. Jankoski,,134,18,23,111
+Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Donald J. Trump Michael R. Pence",REP,965,108,65,900
+Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,184,18,34,150
+Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,5,3,1,4
+Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,"Howie Hawkins Angela Walker",GRN,3,1,0,3
 Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,Brian Carroll/Amar Patel,,1,0,0,1
 Bandera County,11/3/2020,General Election,25,0,305,1822,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -394,10 +343,8 @@ Bandera County,11/3/2020,General Election,25,0,305,1822,Railroad Commissioner,"K
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Chief Justice, Supreme Court",Nathan Hecht,REP,947,94,69,878
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,166,15,25,141
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Chief Justice, Supreme Court",Mark Ash,LIB,20,13,2,18
-Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,974,106,70,904
-Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,157,20,24,133
+Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,974,106,70,904
+Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,157,20,24,133
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,955,96,70,885
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,152,19,21,131
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,15,11,2,13
@@ -422,17 +369,12 @@ Bandera County,11/3/2020,General Election,25,0,305,1822,"District Attorney, 198t
 Bandera County,11/3/2020,General Election,25,0,305,1822,County Attorney,Janna Lindig,REP,1004,115,70,934
 Bandera County,11/3/2020,General Election,25,0,305,1822,Sheriff,Daniel R. Butts,REP,995,116,70,925
 Bandera County,11/3/2020,General Election,25,0,305,1822,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,1001,116,69,932
-Bandera County,11/3/2020,General Election,25,0,305,1822,"County Commissioner,
-Precinct No. 3",Jack Moseley,REP,996,113,72,924
+Bandera County,11/3/2020,General Election,25,0,305,1822,"County Commissioner, Precinct No. 3",Jack Moseley,REP,996,113,72,924
 Bandera County,11/3/2020,General Election,25,0,305,1822,"Constable, Precinct No. 3",Don Walters,REP,1006,117,63,943
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,99,4,24,75
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,33,0,23,10
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,1,0,0,1
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Donald J. Trump Michael R. Pence",REP,99,4,24,75
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,33,0,23,10
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,1,0,0,1
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -463,10 +405,8 @@ Bandera County,11/3/2020,General Election,0,0,305 MISD,123,Railroad Commissioner
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Chief Justice, Supreme Court",Nathan Hecht,REP,99,3,27,72
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,29,0,19,10
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Chief Justice, Supreme Court",Mark Ash,LIB,3,0,0,3
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,104,4,26,78
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,28,0,20,8
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,104,4,26,78
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,28,0,20,8
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,101,4,27,74
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,28,0,19,9
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,0,0,3
@@ -491,21 +431,12 @@ Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"District Attorney, 1
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,County Attorney,Janna Lindig,REP,106,3,29,77
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,Sheriff,Daniel R. Butts,REP,109,4,31,78
 Bandera County,11/3/2020,General Election,0,0,305 MISD,123,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,105,3,29,76
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"County Commissioner,
-Precinct No. 3",Jack Moseley,REP,105,4,29,76
-Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Constable, Precinct No. 3",Don Walters,REP,108,4,31,77
-Medina ISD Tax Election,11/3/2020,General Election,0,0,305 MISD,123,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",FOR,,58,3,21,37
-Medina ISD Tax Election,11/3/2020,General Election,0,0,305 MISD,123,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",AGAINST,,67,1,21,46
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,857,114,33,824
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,134,8,24,110
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,10,3,2,8
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,1,0,0,1
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"County Commissioner, Precinct No. 3",Jack Moseley,REP,105,4,29,76
+Bandera County,11/3/2020,General Election,0,0,305 MISD,123,"Constable, Precinct No. 3",Don Walters,REP,108,4,31,77 Medina ISD Tax Election,11/3/2020,General Election,0,0,305 MISD,123,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",FOR,,58,3,21,37 Medina ISD Tax Election,11/3/2020,General Election,0,0,305 MISD,123,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",AGAINST,,67,1,21,46
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Donald J. Trump Michael R. Pence",REP,857,114,33,824
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,134,8,24,110
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,10,3,2,8
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,"Howie Hawkins Angela Walker",GRN,1,0,0,1
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -536,10 +467,8 @@ Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,Railroad Commissione
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Chief Justice, Supreme Court",Nathan Hecht,REP,831,99,33,798
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,124,9,21,103
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Chief Justice, Supreme Court",Mark Ash,LIB,19,7,3,16
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,852,108,36,816
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,123,7,21,102
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,852,108,36,816
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,123,7,21,102
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,844,103,33,811
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,118,8,22,96
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,17,6,2,15
@@ -564,21 +493,12 @@ Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"District Attorney, 
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,County Attorney,Janna Lindig,REP,873,105,39,834
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,Sheriff,Daniel R. Butts,REP,876,113,40,836
 Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,871,111,37,834
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"County Commissioner,
-Precinct No. 3",Jack Moseley,REP,876,111,38,838
-Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Constable, Precinct No. 3",Don Walters,REP,904,115,40,864
-Medina ISD Tax Election,11/3/2020,General Election,8,1,306 MISD,1533,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",FOR,,496,61,29,467
-Medina ISD Tax Election,11/3/2020,General Election,8,1,306 MISD,1533,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",AGAINST,,456,52,17,439
-Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,1136,125,73,1063
-Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,264,18,44,220
-Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,16,1,3,13
-Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,1,0,0,1
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"County Commissioner, Precinct No. 3",Jack Moseley,REP,876,111,38,838
+Bandera County,11/3/2020,General Election,8,1,306 MISD,1533,"Constable, Precinct No. 3",Don Walters,REP,904,115,40,864 Medina ISD Tax Election,11/3/2020,General Election,8,1,306 MISD,1533,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",FOR,,496,61,29,467 Medina ISD Tax Election,11/3/2020,General Election,8,1,306 MISD,1533,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",AGAINST,,456,52,17,439
+Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Donald J. Trump Michael R. Pence",REP,1136,125,73,1063
+Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,264,18,44,220
+Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,16,1,3,13
+Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,"Howie Hawkins Angela Walker",GRN,1,0,0,1
 Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,Brian Carroll/Amar Patel,,1,0,0,1
 Bandera County,11/3/2020,General Election,10,0,407,1993,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -609,10 +529,8 @@ Bandera County,11/3/2020,General Election,10,0,407,1993,Railroad Commissioner,"K
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Chief Justice, Supreme Court",Nathan Hecht,REP,1125,119,75,1050
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,253,16,42,211
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Chief Justice, Supreme Court",Mark Ash,LIB,20,7,1,19
-Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,1153,125,74,1079
-Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,239,16,42,197
+Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,1153,125,74,1079
+Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,239,16,42,197
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,1134,120,76,1058
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,244,14,40,204
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,15,6,1,14
@@ -638,14 +556,10 @@ Bandera County,11/3/2020,General Election,10,0,407,1993,County Attorney,Janna Li
 Bandera County,11/3/2020,General Election,10,0,407,1993,Sheriff,Daniel R. Butts,REP,1222,131,83,1139
 Bandera County,11/3/2020,General Election,10,0,407,1993,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,1214,130,83,1131
 Bandera County,11/3/2020,General Election,10,0,407,1993,"Constable, Precinct No. 4",Rod Chalmers,REP,1221,129,82,1139
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,218,20,6,212
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,43,2,9,34
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,4,0,0,4
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,0,0,2
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Donald J. Trump Michael R. Pence",REP,218,20,6,212
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,43,2,9,34
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,4,0,0,4
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,0,0,2
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,Brian Carroll/Amar Patel,,1,0,0,1
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -676,10 +590,8 @@ Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,Railroad Commissi
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Chief Justice, Supreme Court",Nathan Hecht,REP,215,19,6,209
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,36,1,8,28
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Chief Justice, Supreme Court",Mark Ash,LIB,7,1,0,7
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,218,20,6,212
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,39,1,8,31
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,218,20,6,212
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,39,1,8,31
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,218,20,6,212
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,37,0,8,29
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,1,0,3
@@ -704,27 +616,11 @@ Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"District Attorne
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,County Attorney,Janna Lindig,REP,229,21,10,219
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,Sheriff,Daniel R. Butts,REP,237,21,11,226
 Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,232,21,11,221
-Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Constable, Precinct No. 4",Rod Chalmers,REP,231,21,11,220
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Nathon Laws,,106,9,3,103
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Patrick Raab,,51,9,2,49
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Sally Reyes,,103,9,5,98
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Chris Molnar,,31,4,3,28
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Judd Ryan,,120,9,3,117
-Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT
-Board of Directors - At Large",Don Bateman,,115,8,6,109
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,5,2,1,4
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,1,0,0,1
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Bandera County,11/3/2020,General Election,0,0,407 FLYING L,366,"Constable, Precinct No. 4",Rod Chalmers,REP,231,21,11,220 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Nathon Laws,,106,9,3,103 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Patrick Raab,,51,9,2,49 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Sally Reyes,,103,9,5,98 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Chris Molnar,,31,4,3,28 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Judd Ryan,,120,9,3,117 Flying L PUD ,11/3/2020,General Election,0,0,407 FLYING L,366,"FLYING L PUBLIC UTILITY DISTRICT Board of Directors - At Large",Don Bateman,,115,8,6,109
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Donald J. Trump Michael R. Pence",REP,5,2,1,4
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,1,0,0,1
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -755,10 +651,8 @@ Bandera County,11/3/2020,General Election,0,0,407 MISD,14,Railroad Commissioner,
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Chief Justice, Supreme Court",Nathan Hecht,REP,5,2,1,4
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,1,0,0,1
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,5,2,1,4
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,1,0,0,1
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,5,2,1,4
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,1,0,0,1
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,5,2,1,4
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,1,0,0,1
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -783,19 +677,11 @@ Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"District Attorney, 19
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,County Attorney,Janna Lindig,REP,6,2,1,5
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,Sheriff,Daniel R. Butts,REP,6,2,1,5
 Bandera County,11/3/2020,General Election,0,0,407 MISD,14,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,6,2,1,5
-Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Constable, Precinct No. 4",Rod Chalmers,REP,6,2,1,5
-Medina ISD Tax Election,11/3/2020,General Election,0,0,407 MISD,14,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",FOR,,6,1,1,5
-Medina ISD Tax Election,11/3/2020,General Election,0,0,407 MISD,14,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",AGAINST,,0,1,0,0
-Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,42,43,9,33
-Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,27,7,9,18
-Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,1,0,0
-Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,1,0,0,1
+Bandera County,11/3/2020,General Election,0,0,407 MISD,14,"Constable, Precinct No. 4",Rod Chalmers,REP,6,2,1,5 Medina ISD Tax Election,11/3/2020,General Election,0,0,407 MISD,14,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",FOR,,6,1,1,5 Medina ISD Tax Election,11/3/2020,General Election,0,0,407 MISD,14,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",AGAINST,,0,1,0,0
+Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Donald J. Trump Michael R. Pence",REP,42,43,9,33
+Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,27,7,9,18
+Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,1,0,0
+Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,"Howie Hawkins Angela Walker",GRN,1,0,0,1
 Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,1,0,408,153,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -826,10 +712,8 @@ Bandera County,11/3/2020,General Election,1,0,408,153,Railroad Commissioner,"Kat
 Bandera County,11/3/2020,General Election,1,0,408,153,"Chief Justice, Supreme Court",Nathan Hecht,REP,42,42,9,33
 Bandera County,11/3/2020,General Election,1,0,408,153,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,27,9,9,18
 Bandera County,11/3/2020,General Election,1,0,408,153,"Chief Justice, Supreme Court",Mark Ash,LIB,1,0,0,1
-Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,44,42,9,35
-Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,27,8,9,18
+Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,44,42,9,35
+Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,27,8,9,18
 Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,44,43,9,35
 Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,27,6,9,18
 Bandera County,11/3/2020,General Election,1,0,408,153,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,1,0,0
@@ -855,14 +739,10 @@ Bandera County,11/3/2020,General Election,1,0,408,153,County Attorney,Janna Lind
 Bandera County,11/3/2020,General Election,1,0,408,153,Sheriff,Daniel R. Butts,REP,51,47,15,36
 Bandera County,11/3/2020,General Election,1,0,408,153,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,53,46,16,37
 Bandera County,11/3/2020,General Election,1,0,408,153,"Constable, Precinct No. 4",Rod Chalmers,REP,50,45,13,37
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,31,13,4,27
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,15,4,5,10
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,2,0,0
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,1,0,0
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Donald J. Trump Michael R. Pence",REP,31,13,4,27
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,15,4,5,10
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,2,0,0
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,1,0,0
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -893,10 +773,8 @@ Bandera County,11/3/2020,General Election,0,0,408 MISD,74,Railroad Commissioner,
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Chief Justice, Supreme Court",Nathan Hecht,REP,29,13,4,25
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,15,4,5,10
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Chief Justice, Supreme Court",Mark Ash,LIB,1,2,0,1
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,33,16,5,28
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,13,4,4,9
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,33,16,5,28
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,13,4,4,9
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,32,14,4,28
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,13,3,5,8
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,3,0,1
@@ -921,19 +799,11 @@ Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"District Attorney, 19
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,County Attorney,Janna Lindig,REP,36,16,6,30
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,Sheriff,Daniel R. Butts,REP,36,15,6,30
 Bandera County,11/3/2020,General Election,0,0,408 MISD,74,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,36,16,6,30
-Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Constable, Precinct No. 4",Rod Chalmers,REP,38,17,6,32
-Medina ISD Tax Election,11/3/2020,General Election,0,0,408 MISD,74,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",FOR,,19,7,5,14
-Medina ISD Tax Election,11/3/2020,General Election,0,0,408 MISD,74,"MEDINA INDEPENDENT SCHOOL DISTRICT
-PROPOSITION A",AGAINST,,24,13,3,21
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,28,8,6,22
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,12,2,5,7
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,0,0,0,0
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Bandera County,11/3/2020,General Election,0,0,408 MISD,74,"Constable, Precinct No. 4",Rod Chalmers,REP,38,17,6,32 Medina ISD Tax Election,11/3/2020,General Election,0,0,408 MISD,74,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",FOR,,19,7,5,14 Medina ISD Tax Election,11/3/2020,General Election,0,0,408 MISD,74,"MEDINA INDEPENDENT SCHOOL DISTRICT PROPOSITION A",AGAINST,,24,13,3,21
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Donald J. Trump Michael R. Pence",REP,28,8,6,22
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,12,2,5,7
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,0,0,0,0
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -964,10 +834,8 @@ Bandera County,11/3/2020,General Election,0,0,408 UISD,61,Railroad Commissioner,
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Chief Justice, Supreme Court",Nathan Hecht,REP,28,8,6,22
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,12,2,5,7
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0,0,0
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,28,8,6,22
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,12,2,5,7
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,28,8,6,22
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,12,2,5,7
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,28,8,6,22
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,12,2,5,7
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0,0,0
@@ -992,27 +860,11 @@ Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"District Attorney, 19
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,County Attorney,Janna Lindig,REP,31,8,8,23
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,Sheriff,Daniel R. Butts,REP,34,8,10,24
 Bandera County,11/3/2020,General Election,0,0,408 UISD,61,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,33,8,9,24
-Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Constable, Precinct No. 4",Rod Chalmers,REP,34,8,10,24
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Jeremy McCarty,,4,1,0,4
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Steve Harthcock,,5,1,0,5
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Jena Mauldin Smothers,,9,2,2,7
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Kyle Peterson,,3,1,0,3
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Wayne Moore,,9,1,5,4
-Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Terry Snow,,7,1,3,4
-Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,324,117,26,298
-Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,110,23,28,82
-Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,2,1,0,2
-Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,2,0,0,2
+Bandera County,11/3/2020,General Election,0,0,408 UISD,61,"Constable, Precinct No. 4",Rod Chalmers,REP,34,8,10,24 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Jeremy McCarty,,4,1,0,4 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Steve Harthcock,,5,1,0,5 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Jena Mauldin Smothers,,9,2,2,7 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Kyle Peterson,,3,1,0,3 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Wayne Moore,,9,1,5,4 Utopia ISD ,11/3/2020,General Election,0,0,408 UISD,61,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Terry Snow,,7,1,3,4
+Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Donald J. Trump Michael R. Pence",REP,324,117,26,298
+Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,110,23,28,82
+Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,2,1,0,2
+Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,"Howie Hawkins Angela Walker",GRN,2,0,0,2
 Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,8,1,409,917,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -1043,10 +895,8 @@ Bandera County,11/3/2020,General Election,8,1,409,917,Railroad Commissioner,"Kat
 Bandera County,11/3/2020,General Election,8,1,409,917,"Chief Justice, Supreme Court",Nathan Hecht,REP,314,109,24,290
 Bandera County,11/3/2020,General Election,8,1,409,917,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,106,23,27,79
 Bandera County,11/3/2020,General Election,8,1,409,917,"Chief Justice, Supreme Court",Mark Ash,LIB,6,6,2,4
-Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,314,115,24,290
-Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,110,24,28,82
+Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,314,115,24,290
+Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,110,24,28,82
 Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,310,112,22,288
 Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,111,21,29,82
 Bandera County,11/3/2020,General Election,8,1,409,917,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,5,5,1,4
@@ -1072,14 +922,10 @@ Bandera County,11/3/2020,General Election,8,1,409,917,County Attorney,Janna Lind
 Bandera County,11/3/2020,General Election,8,1,409,917,Sheriff,Daniel R. Butts,REP,342,125,33,309
 Bandera County,11/3/2020,General Election,8,1,409,917,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,345,129,35,310
 Bandera County,11/3/2020,General Election,8,1,409,917,"Constable, Precinct No. 4",Rod Chalmers,REP,348,125,35,313
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Donald J. Trump
-Michael R. Pence",REP,189,152,39,150
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Joseph R. Biden
-Kamala D. Harris",DEM,64,17,21,43
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Jo Jorgensen
-Jeremy ""Spike"" Cohen",LIB,3,0,0,3
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Howie Hawkins
-Angela Walker",GRN,0,0,0,0
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Donald J. Trump Michael R. Pence",REP,189,152,39,150
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Joseph R. Biden Kamala D. Harris",DEM,64,17,21,43
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Jo Jorgensen Jeremy ""Spike"" Cohen",LIB,3,0,0,3
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,"Howie Hawkins Angela Walker",GRN,0,0,0,0
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,Abram Loeb/Jennifer Jairala,,0,0,0,0
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,Brian Carroll/Amar Patel,,0,0,0,0
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,President and Vice President,Gloria La Riva/Leonard Peltier,,0,0,0,0
@@ -1110,10 +956,8 @@ Bandera County,11/3/2020,General Election,3,0,410 UISD,527,Railroad Commissioner
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Chief Justice, Supreme Court",Nathan Hecht,REP,186,151,42,144
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,52,12,13,39
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Chief Justice, Supreme Court",Mark Ash,LIB,4,2,1,3
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Jane Bland,REP,194,155,45,149
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 6
-Unexpired Term",Kathy Cheng,DEM,51,9,12,39
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 6 Unexpired Term",Jane Bland,REP,194,155,45,149
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 6 Unexpired Term",Kathy Cheng,DEM,51,9,12,39
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,184,155,41,143
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,53,9,14,39
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,5,0,1,4
@@ -1138,16 +982,4 @@ Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"District Attorney, 1
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,County Attorney,Janna Lindig,REP,199,154,46,153
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,Sheriff,Daniel R. Butts,REP,195,157,44,151
 Bandera County,11/3/2020,General Election,3,0,410 UISD,527,County Tax Assessor-Collector,"Rebekah ""Reba"" Douglas",REP,199,155,45,154
-Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Constable, Precinct No. 4",Rod Chalmers,REP,206,155,48,158
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Jeremy McCarty,,71,40,15,56
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Steve Harthcock,,41,23,7,34
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Jena Mauldin Smothers,,126,80,32,94
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Kyle Peterson,,28,31,3,25
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Wayne Moore,,128,84,33,95
-Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT
-School Board Trustees - At Large",Terry Snow,,104,57,35,69
+Bandera County,11/3/2020,General Election,3,0,410 UISD,527,"Constable, Precinct No. 4",Rod Chalmers,REP,206,155,48,158 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Jeremy McCarty,,71,40,15,56 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Steve Harthcock,,41,23,7,34 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Jena Mauldin Smothers,,126,80,32,94 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Kyle Peterson,,28,31,3,25 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Wayne Moore,,128,84,33,95 Utopia ISD ,11/3/2020,General Election,3,0,410 UISD,527,"UTOPIA INDEPENDENT SCHOOL DISTRICT School Board Trustees - At Large",Terry Snow,,104,57,35,69 
