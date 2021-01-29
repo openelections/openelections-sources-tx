@@ -1,620 +1,620 @@
-political_subdivision,election_date,election_name,total provisional ballots,total provisional ballots counted,precinct_number,Registered Voters,race_name,candidate_name,party code,early_votes,election_votes
-floyd county,11/3/2020,Nov 2020 General,8,3,1,1132,President and Vice President,"Donald J. Trump
+political_subdivision,election_date,election_name,total provisional ballots,total provisional ballots counted,precinct_number,reg_voters,race_name,candidate_name,Party_Code,early_votes,election_votes
+floyd county,11/3/20,Nov 2020 General,8,3,1,1132,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,524,76
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,1,1132,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,106,21
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,1,1132,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,3,3
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,1,1132,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,John Cornyn,REP,518,75
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,"Mary ""MJ"" Hegar",DEM,99,17
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,Kerry Douglas McKennon,LIB,2,3
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,David B. Collins,GRN,1,1
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Jodey C. Arrington,REP,531,76
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Tom Watson,DEM,85,18
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Joe Burnes,LIB,8,4
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,Railroad Commissioner,"James ""Jim"" Wright",REP,517,72
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,Railroad Commissioner,Chrysta Castañeda,DEM,89,19
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,Railroad Commissioner,Matt Sterett,LIB,4,4
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,1
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Nathan Hecht,REP,514,71
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,94,23
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Mark Ash,LIB,3,3
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,1,1132,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,1,1132,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,John Cornyn,REP,518,75
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,"Mary ""MJ"" Hegar",DEM,99,17
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,Kerry Douglas McKennon,LIB,2,3
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,David B. Collins,GRN,1,1
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,1,1132,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Jodey C. Arrington,REP,531,76
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Tom Watson,DEM,85,18
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"United States Representative, District No. 19",Joe Burnes,LIB,8,4
+floyd county,11/3/20,Nov 2020 General,,,1,1132,Railroad Commissioner,"James ""Jim"" Wright",REP,517,72
+floyd county,11/3/20,Nov 2020 General,,,1,1132,Railroad Commissioner,Chrysta Castañeda,DEM,89,19
+floyd county,11/3/20,Nov 2020 General,,,1,1132,Railroad Commissioner,Matt Sterett,LIB,4,4
+floyd county,11/3/20,Nov 2020 General,,,1,1132,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,1
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Nathan Hecht,REP,514,71
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,94,23
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Chief Justice, Supreme Court",Mark Ash,LIB,3,3
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,520,77
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,88,19
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,507,77
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,91,16
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,5,4
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,511,72
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,88,18
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,6,4
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,510,76
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,96,19
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,513,76
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,92,19
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,515,76
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,88,19
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Member State Board of Education, District No. 15",Jay Johnson,REP,515,77
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Member State Board of Education, District No. 15",John Betancourt,DEM,92,17
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"State Senator, District No. 28",Charles Perry,REP,560,87
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"State Representative, District No. 68",Drew Springer,REP,522,75
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"State Representative, District No. 68",Patsy Ledbetter,DEM,86,20
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,546,87
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,507,77
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,91,16
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,5,4
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,511,72
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,88,18
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,6,4
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,510,76
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,96,19
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,513,76
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,92,19
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,515,76
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,88,19
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Member State Board of Education, District No. 15",Jay Johnson,REP,515,77
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Member State Board of Education, District No. 15",John Betancourt,DEM,92,17
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"State Senator, District No. 28",Charles Perry,REP,560,87
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"State Representative, District No. 68",Drew Springer,REP,522,75
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"State Representative, District No. 68",Patsy Ledbetter,DEM,86,20
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,546,87
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,548,86
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"District Attorney, 110th Judicial District",Wade Jackson,REP,562,86
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,County Attorney,Lex Herrington,REP,532,85
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,Sheriff,Paul Raissez,REP,562,84
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,County Tax Assessor-Collector,Delia Suarez,REP,577,83
-floyd county,11/3/2020,Nov 2020 General,,,1,1132,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"District Attorney, 110th Judicial District",Wade Jackson,REP,562,86
+floyd county,11/3/20,Nov 2020 General,,,1,1132,County Attorney,Lex Herrington,REP,532,85
+floyd county,11/3/20,Nov 2020 General,,,1,1132,Sheriff,Paul Raissez,REP,562,84
+floyd county,11/3/20,Nov 2020 General,,,1,1132,County Tax Assessor-Collector,Delia Suarez,REP,577,83
+floyd county,11/3/20,Nov 2020 General,,,1,1132,"County Commissioner,
 Precinct No. 1",Tanner Smith,REP,575,84
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,54,16
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,4,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,John Cornyn,REP,53,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,"Mary ""MJ"" Hegar",DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,Kerry Douglas McKennon,LIB,3,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,David B. Collins,GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Ronny Jackson,REP,57,13
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Gus Trujillo,DEM,2,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,Railroad Commissioner,"James ""Jim"" Wright",REP,55,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,Railroad Commissioner,Chrysta Castañeda,DEM,2,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,Railroad Commissioner,Matt Sterett,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Nathan Hecht,REP,50,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,5,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Mark Ash,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,John Cornyn,REP,53,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,"Mary ""MJ"" Hegar",DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,Kerry Douglas McKennon,LIB,3,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,David B. Collins,GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Ronny Jackson,REP,57,13
+floyd county,11/3/20,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Gus Trujillo,DEM,2,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,Railroad Commissioner,"James ""Jim"" Wright",REP,55,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,Railroad Commissioner,Chrysta Castañeda,DEM,2,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,Railroad Commissioner,Matt Sterett,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Nathan Hecht,REP,50,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,5,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Chief Justice, Supreme Court",Mark Ash,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,56,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,2,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,52,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,54,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,2,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,55,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,54,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,54,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Member State Board of Education, District No. 15",Jay Johnson,REP,54,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Member State Board of Education, District No. 15",John Betancourt,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"State Senator, District No. 28",Charles Perry,REP,56,16
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"State Representative, District No. 68",Drew Springer,REP,55,14
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"State Representative, District No. 68",Patsy Ledbetter,DEM,2,1
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,55,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,52,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,54,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,2,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,55,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,54,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,54,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Member State Board of Education, District No. 15",Jay Johnson,REP,54,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Member State Board of Education, District No. 15",John Betancourt,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"State Senator, District No. 28",Charles Perry,REP,56,16
+floyd county,11/3/20,Nov 2020 General,,,9,101,"State Representative, District No. 68",Drew Springer,REP,55,14
+floyd county,11/3/20,Nov 2020 General,,,9,101,"State Representative, District No. 68",Patsy Ledbetter,DEM,2,1
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,55,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,56,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"District Attorney, 110th Judicial District",Wade Jackson,REP,57,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,County Attorney,Lex Herrington,REP,51,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,Sheriff,Paul Raissez,REP,57,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,County Tax Assessor-Collector,Delia Suarez,REP,56,15
-floyd county,11/3/2020,Nov 2020 General,,,9,101,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,9,101,"District Attorney, 110th Judicial District",Wade Jackson,REP,57,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,County Attorney,Lex Herrington,REP,51,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,Sheriff,Paul Raissez,REP,57,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,County Tax Assessor-Collector,Delia Suarez,REP,56,15
+floyd county,11/3/20,Nov 2020 General,,,9,101,"County Commissioner,
 Precinct No. 3",Nathan Johnson,REP,55,15
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,175,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,15,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,John Cornyn,REP,174,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,"Mary ""MJ"" Hegar",DEM,12,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,Kerry Douglas McKennon,LIB,3,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,David B. Collins,GRN,0,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Ronny Jackson,REP,169,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Gus Trujillo,DEM,15,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,"James ""Jim"" Wright",REP,172,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,Chrysta Castañeda,DEM,13,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,Matt Sterett,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Nathan Hecht,REP,166,22
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,17,2
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Mark Ash,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,John Cornyn,REP,174,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,"Mary ""MJ"" Hegar",DEM,12,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,Kerry Douglas McKennon,LIB,3,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,David B. Collins,GRN,0,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Ronny Jackson,REP,169,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Gus Trujillo,DEM,15,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,"James ""Jim"" Wright",REP,172,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,Chrysta Castañeda,DEM,13,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,Matt Sterett,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Nathan Hecht,REP,166,22
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,17,2
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Chief Justice, Supreme Court",Mark Ash,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,168,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,17,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,170,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,16,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,167,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,16,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,171,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,16,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,167,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,17,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,167,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,15,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Member State Board of Education, District No. 15",Jay Johnson,REP,164,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Member State Board of Education, District No. 15",John Betancourt,DEM,15,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"State Senator, District No. 28",Charles Perry,REP,183,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"State Representative, District No. 68",Drew Springer,REP,171,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"State Representative, District No. 68",Patsy Ledbetter,DEM,13,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,175,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,170,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,16,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,167,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,16,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,171,24
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,16,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,167,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,17,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,167,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,15,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Member State Board of Education, District No. 15",Jay Johnson,REP,164,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Member State Board of Education, District No. 15",John Betancourt,DEM,15,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"State Senator, District No. 28",Charles Perry,REP,183,24
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"State Representative, District No. 68",Drew Springer,REP,171,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"State Representative, District No. 68",Patsy Ledbetter,DEM,13,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,175,24
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,176,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,"District Attorney, 110th Judicial District",Wade Jackson,REP,178,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,County Attorney,Lex Herrington,REP,172,23
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,Sheriff,Paul Raissez,REP,174,22
-floyd county,11/3/2020,Nov 2020 General,,,18 - CO,1080,County Tax Assessor-Collector,Delia Suarez,REP,176,24
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,"District Attorney, 110th Judicial District",Wade Jackson,REP,178,24
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,County Attorney,Lex Herrington,REP,172,23
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,Sheriff,Paul Raissez,REP,174,22
+floyd county,11/3/20,Nov 2020 General,,,18 - CO,1080,County Tax Assessor-Collector,Delia Suarez,REP,176,24
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,196,32
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,50,12
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,John Cornyn,REP,195,31
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,"Mary ""MJ"" Hegar",DEM,42,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Kerry Douglas McKennon,LIB,2,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,David B. Collins,GRN,1,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Ronny Jackson,REP,195,32
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Gus Trujillo,DEM,42,12
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,"James ""Jim"" Wright",REP,191,30
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,Chrysta Castañeda,DEM,41,13
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,Matt Sterett,LIB,4,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,187,31
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,43,12
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Mark Ash,LIB,5,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,John Cornyn,REP,195,31
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,"Mary ""MJ"" Hegar",DEM,42,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Kerry Douglas McKennon,LIB,2,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,David B. Collins,GRN,1,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Ronny Jackson,REP,195,32
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Gus Trujillo,DEM,42,12
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,2,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,"James ""Jim"" Wright",REP,191,30
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,Chrysta Castañeda,DEM,41,13
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,Matt Sterett,LIB,4,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,187,31
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,43,12
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, Supreme Court",Mark Ash,LIB,5,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,193,30
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,44,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,192,29
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,42,12
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,189,30
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,42,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,3,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,190,31
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,45,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,193,33
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,44,9
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,189,32
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,42,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,189,30
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,45,13
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"State Senator, District No. 28",Charles Perry,REP,203,33
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"State Representative, District No. 68",Drew Springer,REP,191,31
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,43,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,203,33
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,192,29
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,42,12
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,3,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,189,30
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,42,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,3,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,190,31
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,45,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,193,33
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,44,9
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,189,32
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,42,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,189,30
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,45,13
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"State Senator, District No. 28",Charles Perry,REP,203,33
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"State Representative, District No. 68",Drew Springer,REP,191,31
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,43,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,203,33
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,200,34
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,212,34
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,County Attorney,Lex Herrington,REP,204,34
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,Sheriff,Paul Raissez,REP,209,35
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY AL,0,County Tax Assessor-Collector,Delia Suarez,REP,214,39
-floyd county,11/3/2020,city of lockney,,,18 - CITY AL,0,Mayor,Michael Deleon,,164,35
-floyd county,11/3/2020,city of lockney,,,18 - CITY AL,0,Mayor,Archie Jones,,76,8
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,212,34
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,County Attorney,Lex Herrington,REP,204,34
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,Sheriff,Paul Raissez,REP,209,35
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY AL,0,County Tax Assessor-Collector,Delia Suarez,REP,214,39
+floyd county,11/3/20,city of lockney,,,18 - CITY AL,0,Mayor,Michael Deleon,,164,35
+floyd county,11/3/20,city of lockney,,,18 - CITY AL,0,Mayor,Archie Jones,,76,8
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,40,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,10,7
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,John Cornyn,REP,41,16
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,"Mary ""MJ"" Hegar",DEM,7,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Kerry Douglas McKennon,LIB,1,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,David B. Collins,GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Ronny Jackson,REP,43,16
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Gus Trujillo,DEM,6,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,"James ""Jim"" Wright",REP,40,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,Chrysta Castañeda,DEM,8,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,Matt Sterett,LIB,1,2
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,41,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,6,4
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Mark Ash,LIB,2,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,John Cornyn,REP,41,16
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,"Mary ""MJ"" Hegar",DEM,7,5
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Kerry Douglas McKennon,LIB,1,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,David B. Collins,GRN,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Ronny Jackson,REP,43,16
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Gus Trujillo,DEM,6,5
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,"James ""Jim"" Wright",REP,40,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,Chrysta Castañeda,DEM,8,5
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,Matt Sterett,LIB,1,2
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,41,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,6,4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, Supreme Court",Mark Ash,LIB,2,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,43,19
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,6,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,43,17
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,6,4
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,41,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,6,4
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,1,2
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,43,17
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,6,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,42,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,6,5
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,45,17
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,4,6
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,41,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,7,6
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"State Senator, District No. 28",Charles Perry,REP,47,19
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"State Representative, District No. 68",Drew Springer,REP,42,17
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,8,6
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,44,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,43,17
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,6,4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,41,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,6,4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,1,2
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,43,17
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,6,5
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,42,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,6,5
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,45,17
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,4,6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,41,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,7,6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"State Senator, District No. 28",Charles Perry,REP,47,19
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"State Representative, District No. 68",Drew Springer,REP,42,17
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,8,6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,44,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,44,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,45,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,County Attorney,Lex Herrington,REP,45,19
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,Sheriff,Paul Raissez,REP,46,18
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 4,0,County Tax Assessor-Collector,Delia Suarez,REP,47,22
-floyd county,11/3/2020,city of lockney,,,18 - CITY 4,0,Mayor,Michael Deleon,,29,17
-floyd county,11/3/2020,city of lockney,,,18 - CITY 4,0,Mayor,Archie Jones,,17,8
-floyd county,11/3/2020,city of lockney,,,18 - CITY 4,0,Council Member District 4,David Cole,,43,22
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,45,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,County Attorney,Lex Herrington,REP,45,19
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,Sheriff,Paul Raissez,REP,46,18
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 4,0,County Tax Assessor-Collector,Delia Suarez,REP,47,22
+floyd county,11/3/20,city of lockney,,,18 - CITY 4,0,Mayor,Michael Deleon,,29,17
+floyd county,11/3/20,city of lockney,,,18 - CITY 4,0,Mayor,Archie Jones,,17,8
+floyd county,11/3/20,city of lockney,,,18 - CITY 4,0,Council Member District 4,David Cole,,43,22
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,39,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,John Cornyn,REP,37,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,"Mary ""MJ"" Hegar",DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Kerry Douglas McKennon,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,David B. Collins,GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Ronny Jackson,REP,37,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Gus Trujillo,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,"James ""Jim"" Wright",REP,37,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,Chrysta Castañeda,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,Matt Sterett,LIB,1,1
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,37,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Mark Ash,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,John Cornyn,REP,37,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,"Mary ""MJ"" Hegar",DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Kerry Douglas McKennon,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,David B. Collins,GRN,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Ronny Jackson,REP,37,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Gus Trujillo,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,"James ""Jim"" Wright",REP,37,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,Chrysta Castañeda,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,Matt Sterett,LIB,1,1
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,37,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, Supreme Court",Mark Ash,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,37,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,37,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,37,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,6,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,38,9
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,4,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,36,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,36,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,5,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,38,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,4,2
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"State Senator, District No. 28",Charles Perry,REP,41,10
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"State Representative, District No. 68",Drew Springer,REP,37,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,4,3
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,37,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,37,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,37,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,6,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,38,9
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,4,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,36,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,36,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,5,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,38,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,4,2
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"State Senator, District No. 28",Charles Perry,REP,41,10
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"State Representative, District No. 68",Drew Springer,REP,37,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,4,3
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,37,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,38,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,39,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,County Attorney,Lex Herrington,REP,39,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,Sheriff,Paul Raissez,REP,41,11
-floyd county,11/3/2020,Nov 2020 General,,,18 - CITY 5,0,County Tax Assessor-Collector,Delia Suarez,REP,43,12
-floyd county,11/3/2020,city of lockney,,,18 - CITY 5,0,Mayor,Michael Deleon,,25,7
-floyd county,11/3/2020,city of lockney,,,18 - CITY 5,0,Mayor,Archie Jones,,19,6
-floyd county,11/3/2020,city of lockney,,,18 - CITY 5,0,Council Member District 5,Steve Wright,,43,12
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,39,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,County Attorney,Lex Herrington,REP,39,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,Sheriff,Paul Raissez,REP,41,11
+floyd county,11/3/20,Nov 2020 General,,,18 - CITY 5,0,County Tax Assessor-Collector,Delia Suarez,REP,43,12
+floyd county,11/3/20,city of lockney,,,18 - CITY 5,0,Mayor,Michael Deleon,,25,7
+floyd county,11/3/20,city of lockney,,,18 - CITY 5,0,Mayor,Archie Jones,,19,6
+floyd county,11/3/20,city of lockney,,,18 - CITY 5,0,Council Member District 5,Steve Wright,,43,12
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,181,52
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,77,27
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,President and Vice President,Unassigned write-ins,,1,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,John Cornyn,REP,179,47
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,"Mary ""MJ"" Hegar",DEM,76,24
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,Kerry Douglas McKennon,LIB,2,2
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,David B. Collins,GRN,1,1
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Jodey C. Arrington,REP,183,49
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Tom Watson,DEM,71,23
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Joe Burnes,LIB,2,3
-floyd county,11/3/2020,Nov 2020 General,,,23,831,Railroad Commissioner,"James ""Jim"" Wright",REP,175,48
-floyd county,11/3/2020,Nov 2020 General,,,23,831,Railroad Commissioner,Chrysta Castañeda,DEM,71,21
-floyd county,11/3/2020,Nov 2020 General,,,23,831,Railroad Commissioner,Matt Sterett,LIB,5,1
-floyd county,11/3/2020,Nov 2020 General,,,23,831,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,3
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Nathan Hecht,REP,176,47
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,73,22
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Mark Ash,LIB,3,2
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,23,831,President and Vice President,Unassigned write-ins,,1,0
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,John Cornyn,REP,179,47
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,"Mary ""MJ"" Hegar",DEM,76,24
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,Kerry Douglas McKennon,LIB,2,2
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,David B. Collins,GRN,1,1
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,23,831,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Jodey C. Arrington,REP,183,49
+floyd county,11/3/20,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Tom Watson,DEM,71,23
+floyd county,11/3/20,Nov 2020 General,,,23,831,"United States Representative, District No. 19",Joe Burnes,LIB,2,3
+floyd county,11/3/20,Nov 2020 General,,,23,831,Railroad Commissioner,"James ""Jim"" Wright",REP,175,48
+floyd county,11/3/20,Nov 2020 General,,,23,831,Railroad Commissioner,Chrysta Castañeda,DEM,71,21
+floyd county,11/3/20,Nov 2020 General,,,23,831,Railroad Commissioner,Matt Sterett,LIB,5,1
+floyd county,11/3/20,Nov 2020 General,,,23,831,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,3
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Nathan Hecht,REP,176,47
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,73,22
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Chief Justice, Supreme Court",Mark Ash,LIB,3,2
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,182,50
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,70,24
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,180,47
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,70,26
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,4,0
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,174,46
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,76,24
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,3,2
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,173,50
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,77,25
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,180,49
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,73,26
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,178,47
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,71,26
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Member State Board of Education, District No. 15",Jay Johnson,REP,178,49
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Member State Board of Education, District No. 15",John Betancourt,DEM,74,26
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"State Senator, District No. 28",Charles Perry,REP,210,62
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"State Representative, District No. 68",Drew Springer,REP,179,48
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"State Representative, District No. 68",Patsy Ledbetter,DEM,71,24
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,210,60
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,180,47
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,70,26
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,4,0
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,174,46
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,76,24
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,3,2
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,173,50
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,77,25
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,180,49
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,73,26
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,178,47
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,71,26
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Member State Board of Education, District No. 15",Jay Johnson,REP,178,49
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Member State Board of Education, District No. 15",John Betancourt,DEM,74,26
+floyd county,11/3/20,Nov 2020 General,,,23,831,"State Senator, District No. 28",Charles Perry,REP,210,62
+floyd county,11/3/20,Nov 2020 General,,,23,831,"State Representative, District No. 68",Drew Springer,REP,179,48
+floyd county,11/3/20,Nov 2020 General,,,23,831,"State Representative, District No. 68",Patsy Ledbetter,DEM,71,24
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,210,60
+floyd county,11/3/20,Nov 2020 General,,,23,831,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,208,58
-floyd county,11/3/2020,Nov 2020 General,,,23,831,"District Attorney, 110th Judicial District",Wade Jackson,REP,213,61
-floyd county,11/3/2020,Nov 2020 General,,,23,831,County Attorney,Lex Herrington,REP,209,65
-floyd county,11/3/2020,Nov 2020 General,,,23,831,Sheriff,Paul Raissez,REP,221,65
-floyd county,11/3/2020,Nov 2020 General,,,23,831,County Tax Assessor-Collector,Delia Suarez,REP,228,64
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,23,831,"District Attorney, 110th Judicial District",Wade Jackson,REP,213,61
+floyd county,11/3/20,Nov 2020 General,,,23,831,County Attorney,Lex Herrington,REP,209,65
+floyd county,11/3/20,Nov 2020 General,,,23,831,Sheriff,Paul Raissez,REP,221,65
+floyd county,11/3/20,Nov 2020 General,,,23,831,County Tax Assessor-Collector,Delia Suarez,REP,228,64
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,31,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,11,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,John Cornyn,REP,31,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,"Mary ""MJ"" Hegar",DEM,11,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,Kerry Douglas McKennon,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,David B. Collins,GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Ronny Jackson,REP,30,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Gus Trujillo,DEM,10,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,"James ""Jim"" Wright",REP,29,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,Chrysta Castañeda,DEM,12,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,Matt Sterett,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Nathan Hecht,REP,28,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,12,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Mark Ash,LIB,0,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,John Cornyn,REP,31,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,"Mary ""MJ"" Hegar",DEM,11,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,Kerry Douglas McKennon,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,David B. Collins,GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Ronny Jackson,REP,30,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Gus Trujillo,DEM,10,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,"James ""Jim"" Wright",REP,29,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,Chrysta Castañeda,DEM,12,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,Matt Sterett,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Nathan Hecht,REP,28,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,12,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Chief Justice, Supreme Court",Mark Ash,LIB,0,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,29,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,11,3
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,28,4
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,9,3
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,28,5
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,9,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,29,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,12,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,29,5
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,11,3
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,29,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,10,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Member State Board of Education, District No. 15",Jay Johnson,REP,28,5
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Member State Board of Education, District No. 15",John Betancourt,DEM,11,4
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"State Senator, District No. 28",Charles Perry,REP,34,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"State Representative, District No. 68",Drew Springer,REP,31,6
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"State Representative, District No. 68",Patsy Ledbetter,DEM,11,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,32,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,28,4
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,9,3
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,2,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,28,5
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,9,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,29,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,12,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,29,5
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,11,3
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,29,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,10,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Member State Board of Education, District No. 15",Jay Johnson,REP,28,5
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Member State Board of Education, District No. 15",John Betancourt,DEM,11,4
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"State Senator, District No. 28",Charles Perry,REP,34,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"State Representative, District No. 68",Drew Springer,REP,31,6
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"State Representative, District No. 68",Patsy Ledbetter,DEM,11,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,32,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,33,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"District Attorney, 110th Judicial District",Wade Jackson,REP,35,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,County Attorney,Lex Herrington,REP,32,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,Sheriff,Paul Raissez,REP,32,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,County Tax Assessor-Collector,Delia Suarez,REP,34,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CO,389,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"District Attorney, 110th Judicial District",Wade Jackson,REP,35,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,County Attorney,Lex Herrington,REP,32,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,Sheriff,Paul Raissez,REP,32,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,County Tax Assessor-Collector,Delia Suarez,REP,34,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CO,389,"County Commissioner,
 Precinct No. 3",Nathan Johnson,REP,35,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,36,13
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,24,10
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,John Cornyn,REP,39,13
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,"Mary ""MJ"" Hegar",DEM,18,10
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Kerry Douglas McKennon,LIB,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,David B. Collins,GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Ronny Jackson,REP,35,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Gus Trujillo,DEM,23,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,"James ""Jim"" Wright",REP,37,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,Chrysta Castañeda,DEM,21,9
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,Matt Sterett,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,36,14
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,21,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Mark Ash,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,John Cornyn,REP,39,13
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,"Mary ""MJ"" Hegar",DEM,18,10
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Kerry Douglas McKennon,LIB,3,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,David B. Collins,GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Ronny Jackson,REP,35,15
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Gus Trujillo,DEM,23,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,"James ""Jim"" Wright",REP,37,15
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,Chrysta Castañeda,DEM,21,9
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,Matt Sterett,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,1,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,36,14
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,21,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, Supreme Court",Mark Ash,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,37,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,22,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,37,14
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,21,9
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,35,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,23,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,35,13
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,22,10
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,35,16
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,22,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,35,16
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,21,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,36,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,22,9
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"State Senator, District No. 28",Charles Perry,REP,42,20
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"State Representative, District No. 68",Drew Springer,REP,37,15
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,20,8
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,41,20
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,37,14
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,21,9
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,35,15
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,23,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,35,13
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,22,10
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,35,16
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,22,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,35,16
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,21,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,36,15
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,22,9
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"State Senator, District No. 28",Charles Perry,REP,42,20
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"State Representative, District No. 68",Drew Springer,REP,37,15
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,20,8
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,41,20
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,41,20
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,44,21
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,County Attorney,Lex Herrington,REP,42,19
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,Sheriff,Paul Raissez,REP,41,18
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,County Tax Assessor-Collector,Delia Suarez,REP,50,20
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY AL,0,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,44,21
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,County Attorney,Lex Herrington,REP,42,19
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,Sheriff,Paul Raissez,REP,41,18
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,County Tax Assessor-Collector,Delia Suarez,REP,50,20
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY AL,0,"County Commissioner,
 Precinct No. 3",Nathan Johnson,REP,45,20
-floyd county,11/3/2020,city of lockney,,,24 - CITY AL,0,Mayor,Michael Deleon,,40,16
-floyd county,11/3/2020,city of lockney,,,24 - CITY AL,0,Mayor,Archie Jones,,20,7
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,city of lockney,,,24 - CITY AL,0,Mayor,Michael Deleon,,40,16
+floyd county,11/3/20,city of lockney,,,24 - CITY AL,0,Mayor,Archie Jones,,20,7
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,6,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,John Cornyn,REP,6,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,"Mary ""MJ"" Hegar",DEM,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Kerry Douglas McKennon,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,David B. Collins,GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Ronny Jackson,REP,6,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Gus Trujillo,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,"James ""Jim"" Wright",REP,6,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,Chrysta Castañeda,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,Matt Sterett,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,John Cornyn,REP,6,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,"Mary ""MJ"" Hegar",DEM,3,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Kerry Douglas McKennon,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,David B. Collins,GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Ronny Jackson,REP,6,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Gus Trujillo,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"United States Representative, District No. 13",Jack B. Westbrook,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,"James ""Jim"" Wright",REP,6,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,Chrysta Castañeda,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,Matt Sterett,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Nathan Hecht,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, Supreme Court",Mark Ash,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,5,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,5,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,3,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,5,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,3,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"State Senator, District No. 28",Charles Perry,REP,7,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"State Representative, District No. 68",Drew Springer,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,2,0
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,6,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,0,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,5,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,3,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,3,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Member State Board of Education, District No. 15",Jay Johnson,REP,5,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Member State Board of Education, District No. 15",John Betancourt,DEM,3,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"State Senator, District No. 28",Charles Perry,REP,7,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"State Representative, District No. 68",Drew Springer,REP,5,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"State Representative, District No. 68",Patsy Ledbetter,DEM,2,0
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,6,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,5,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,7,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,County Attorney,Lex Herrington,REP,7,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,Sheriff,Paul Raissez,REP,6,1
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,County Tax Assessor-Collector,Delia Suarez,REP,7,2
-floyd county,11/3/2020,Nov 2020 General,,,24 - CITY 5,0,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"District Attorney, 110th Judicial District",Wade Jackson,REP,7,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,County Attorney,Lex Herrington,REP,7,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,Sheriff,Paul Raissez,REP,6,1
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,County Tax Assessor-Collector,Delia Suarez,REP,7,2
+floyd county,11/3/20,Nov 2020 General,,,24 - CITY 5,0,"County Commissioner,
 Precinct No. 3",Nathan Johnson,REP,7,2
-floyd county,11/3/2020,city of lockney,,,24 - CITY 5,0,Mayor,Michael Deleon,,5,2
-floyd county,11/3/2020,city of lockney,,,24 - CITY 5,0,Mayor,Archie Jones,,3,0
-floyd county,11/3/2020,city of lockney,,,24 - CITY 5,0,Council Member District 5,Steve Wright,,7,2
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,"Donald J. Trump
+floyd county,11/3/20,city of lockney,,,24 - CITY 5,0,Mayor,Michael Deleon,,5,2
+floyd county,11/3/20,city of lockney,,,24 - CITY 5,0,Mayor,Archie Jones,,3,0
+floyd county,11/3/20,city of lockney,,,24 - CITY 5,0,Council Member District 5,Steve Wright,,7,2
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,"Donald J. Trump
 Michael R. Pence",REP,33,20
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,"Joseph R. Biden
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,"Joseph R. Biden
 Kamala D. Harris",DEM,35,15
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,"Jo Jorgensen
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,"Jo Jorgensen
 Jeremy ""Spike"" Cohen",LIB,2,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,"Howie Hawkins
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,"Howie Hawkins
 Angela Walker",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,President and Vice President,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,John Cornyn,REP,30,13
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,"Mary ""MJ"" Hegar",DEM,33,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,Kerry Douglas McKennon,LIB,0,3
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,David B. Collins,GRN,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,Rejected write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,United States Senator,Unassigned write-ins,,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Jodey C. Arrington,REP,35,18
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Tom Watson,DEM,29,14
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Joe Burnes,LIB,0,1
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,Railroad Commissioner,"James ""Jim"" Wright",REP,33,14
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,Railroad Commissioner,Chrysta Castañeda,DEM,30,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,Railroad Commissioner,Matt Sterett,LIB,3,2
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Nathan Hecht,REP,29,14
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,32,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Mark Ash,LIB,3,3
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24B,299,President and Vice President,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,John Cornyn,REP,30,13
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,"Mary ""MJ"" Hegar",DEM,33,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,Kerry Douglas McKennon,LIB,0,3
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,David B. Collins,GRN,0,1
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,Rejected write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24B,299,United States Senator,Unassigned write-ins,,0,0
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Jodey C. Arrington,REP,35,18
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Tom Watson,DEM,29,14
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"United States Representative, District No. 19",Joe Burnes,LIB,0,1
+floyd county,11/3/20,Nov 2020 General,,,24B,299,Railroad Commissioner,"James ""Jim"" Wright",REP,33,14
+floyd county,11/3/20,Nov 2020 General,,,24B,299,Railroad Commissioner,Chrysta Castañeda,DEM,30,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,Railroad Commissioner,Matt Sterett,LIB,3,2
+floyd county,11/3/20,Nov 2020 General,,,24B,299,Railroad Commissioner,"Katija ""Kat"" Gruene",GRN,0,0
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Nathan Hecht,REP,29,14
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Amy Clark Meachum,DEM,32,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Chief Justice, Supreme Court",Mark Ash,LIB,3,3
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Jane Bland,REP,32,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 6
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 6
 Unexpired Term",Kathy Cheng,DEM,30,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,30,17
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,31,13
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,1
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,29,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,33,15
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,1
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,30,15
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,34,17
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,30,17
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,33,15
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,30,13
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,33,19
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Member State Board of Education, District No. 15",Jay Johnson,REP,31,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Member State Board of Education, District No. 15",John Betancourt,DEM,34,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"State Senator, District No. 28",Charles Perry,REP,45,25
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"State Representative, District No. 68",Drew Springer,REP,28,18
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"State Representative, District No. 68",Patsy Ledbetter,DEM,36,16
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,45,28
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"Justice, 7th Court of Appeals District, Place No. 4
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",Jeff Boyd,REP,30,17
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",Staci Williams,DEM,31,13
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 7",William Bryan Strange III,LIB,1,1
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Brett Busby,REP,29,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Gisela D. Triana,DEM,33,15
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, Supreme Court, Place No. 8",Tom Oxford,LIB,2,1
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 3",Bert Richardson,REP,30,15
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 3",Elizabeth Davis Frizell,DEM,34,17
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 4",Kevin Patrick Yeary,REP,30,17
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 4",Tina Clinton,DEM,33,15
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 9",David Newell,REP,30,13
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Judge, Court of Criminal Appeals, Place No. 9",Brandon Birmingham,DEM,33,19
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Member State Board of Education, District No. 15",Jay Johnson,REP,31,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Member State Board of Education, District No. 15",John Betancourt,DEM,34,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"State Senator, District No. 28",Charles Perry,REP,45,25
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"State Representative, District No. 68",Drew Springer,REP,28,18
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"State Representative, District No. 68",Patsy Ledbetter,DEM,36,16
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Chief Justice, 7th Court of Appeals District",Brian Quinn,REP,45,28
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"Justice, 7th Court of Appeals District, Place No. 4
 Unexpired Term",Larry Doss,REP,45,28
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"District Attorney, 110th Judicial District",Wade Jackson,REP,49,27
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,County Attorney,Lex Herrington,REP,49,24
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,Sheriff,Paul Raissez,REP,54,26
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,County Tax Assessor-Collector,Delia Suarez,REP,60,30
-floyd county,11/3/2020,Nov 2020 General,,,24B,299,"County Commissioner,
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"District Attorney, 110th Judicial District",Wade Jackson,REP,49,27
+floyd county,11/3/20,Nov 2020 General,,,24B,299,County Attorney,Lex Herrington,REP,49,24
+floyd county,11/3/20,Nov 2020 General,,,24B,299,Sheriff,Paul Raissez,REP,54,26
+floyd county,11/3/20,Nov 2020 General,,,24B,299,County Tax Assessor-Collector,Delia Suarez,REP,60,30
+floyd county,11/3/20,Nov 2020 General,,,24B,299,"County Commissioner,
 Precinct No. 3",Nathan Johnson,REP,47,28
