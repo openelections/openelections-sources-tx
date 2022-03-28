@@ -1,0 +1,684 @@
+00030010001000532NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 1                                             00 
+00030010002000961NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 2                                             00 
+00030010003000683NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 3                                             00 
+00030010004000502NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 4                                             00 
+00030010005000348NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 6                                             00 
+00030010006000425NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 7                                             00 
+00030010007000031NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 9                                             00 
+00030010008000299NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 11                                            00 
+00040010001000129REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 1                                             00 
+00040010002000203REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 2                                             00 
+00040010003000229REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 3                                             00 
+00040010004000059REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 4                                             00 
+00040010005000058REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 6                                             00 
+00040010006000130REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 7                                             00 
+00040010007000017REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 9                                             00 
+00040010008000071REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 11                                            00 
+00050010001000119REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 1                                             01 
+00050010002000174REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 2                                             01 
+00050010003000209REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 3                                             01 
+00050010004000050REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 4                                             01 
+00050010005000053REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 6                                             01 
+00050010006000114REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 7                                             01 
+00050010007000014REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 9                                             01 
+00050010008000067REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 11                                            01 
+00060010001000011REP       REP Governor                                            Don Huffines                          Precinct 1                                             01 
+00060010002000025REP       REP Governor                                            Don Huffines                          Precinct 2                                             01 
+00060010003000026REP       REP Governor                                            Don Huffines                          Precinct 3                                             01 
+00060010004000003REP       REP Governor                                            Don Huffines                          Precinct 4                                             01 
+00060010005000007REP       REP Governor                                            Don Huffines                          Precinct 6                                             01 
+00060010006000011REP       REP Governor                                            Don Huffines                          Precinct 7                                             01 
+00060010007000000REP       REP Governor                                            Don Huffines                          Precinct 9                                             01 
+00060010008000004REP       REP Governor                                            Don Huffines                          Precinct 11                                            01 
+00060020001000005REP       REP Governor                                            Chad Prather                          Precinct 1                                             01 
+00060020002000014REP       REP Governor                                            Chad Prather                          Precinct 2                                             01 
+00060020003000021REP       REP Governor                                            Chad Prather                          Precinct 3                                             01 
+00060020004000004REP       REP Governor                                            Chad Prather                          Precinct 4                                             01 
+00060020005000007REP       REP Governor                                            Chad Prather                          Precinct 6                                             01 
+00060020006000019REP       REP Governor                                            Chad Prather                          Precinct 7                                             01 
+00060020007000002REP       REP Governor                                            Chad Prather                          Precinct 9                                             01 
+00060020008000007REP       REP Governor                                            Chad Prather                          Precinct 11                                            01 
+00060030001000003REP       REP Governor                                            Kandy Kaye Horn                       Precinct 1                                             01 
+00060030002000007REP       REP Governor                                            Kandy Kaye Horn                       Precinct 2                                             01 
+00060030003000003REP       REP Governor                                            Kandy Kaye Horn                       Precinct 3                                             01 
+00060030004000002REP       REP Governor                                            Kandy Kaye Horn                       Precinct 4                                             01 
+00060030005000000REP       REP Governor                                            Kandy Kaye Horn                       Precinct 6                                             01 
+00060030006000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 7                                             01 
+00060030007000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 9                                             01 
+00060030008000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 11                                            01 
+00060040001000016REP       REP Governor                                            Allen B. West                         Precinct 1                                             01 
+00060040002000007REP       REP Governor                                            Allen B. West                         Precinct 2                                             01 
+00060040003000005REP       REP Governor                                            Allen B. West                         Precinct 3                                             01 
+00060040004000003REP       REP Governor                                            Allen B. West                         Precinct 4                                             01 
+00060040005000003REP       REP Governor                                            Allen B. West                         Precinct 6                                             01 
+00060040006000007REP       REP Governor                                            Allen B. West                         Precinct 7                                             01 
+00060040007000003REP       REP Governor                                            Allen B. West                         Precinct 9                                             01 
+00060040008000002REP       REP Governor                                            Allen B. West                         Precinct 11                                            01 
+00060050001000086REP       REP Governor                                            Greg Abbott                           Precinct 1                                             01 
+00060050002000138REP       REP Governor                                            Greg Abbott                           Precinct 2                                             01 
+00060050003000159REP       REP Governor                                            Greg Abbott                           Precinct 3                                             01 
+00060050004000038REP       REP Governor                                            Greg Abbott                           Precinct 4                                             01 
+00060050005000038REP       REP Governor                                            Greg Abbott                           Precinct 6                                             01 
+00060050006000085REP       REP Governor                                            Greg Abbott                           Precinct 7                                             01 
+00060050007000009REP       REP Governor                                            Greg Abbott                           Precinct 9                                             01 
+00060050008000055REP       REP Governor                                            Greg Abbott                           Precinct 11                                            01 
+00060060001000000REP       REP Governor                                            Paul Belew                            Precinct 1                                             01 
+00060060002000000REP       REP Governor                                            Paul Belew                            Precinct 2                                             01 
+00060060003000004REP       REP Governor                                            Paul Belew                            Precinct 3                                             01 
+00060060004000001REP       REP Governor                                            Paul Belew                            Precinct 4                                             01 
+00060060005000000REP       REP Governor                                            Paul Belew                            Precinct 6                                             01 
+00060060006000000REP       REP Governor                                            Paul Belew                            Precinct 7                                             01 
+00060060007000000REP       REP Governor                                            Paul Belew                            Precinct 9                                             01 
+00060060008000000REP       REP Governor                                            Paul Belew                            Precinct 11                                            01 
+00060070001000000REP       REP Governor                                            Danny Harrison                        Precinct 1                                             01 
+00060070002000000REP       REP Governor                                            Danny Harrison                        Precinct 2                                             01 
+00060070003000000REP       REP Governor                                            Danny Harrison                        Precinct 3                                             01 
+00060070004000001REP       REP Governor                                            Danny Harrison                        Precinct 4                                             01 
+00060070005000000REP       REP Governor                                            Danny Harrison                        Precinct 6                                             01 
+00060070006000000REP       REP Governor                                            Danny Harrison                        Precinct 7                                             01 
+00060070007000000REP       REP Governor                                            Danny Harrison                        Precinct 9                                             01 
+00060070008000000REP       REP Governor                                            Danny Harrison                        Precinct 11                                            01 
+00060080001000007REP       REP Governor                                            Rick Perry                            Precinct 1                                             01 
+00060080002000009REP       REP Governor                                            Rick Perry                            Precinct 2                                             01 
+00060080003000010REP       REP Governor                                            Rick Perry                            Precinct 3                                             01 
+00060080004000003REP       REP Governor                                            Rick Perry                            Precinct 4                                             01 
+00060080005000003REP       REP Governor                                            Rick Perry                            Precinct 6                                             01 
+00060080006000007REP       REP Governor                                            Rick Perry                            Precinct 7                                             01 
+00060080007000002REP       REP Governor                                            Rick Perry                            Precinct 9                                             01 
+00060080008000001REP       REP Governor                                            Rick Perry                            Precinct 11                                            01 
+00070010001000014REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 1                                             01 
+00070010002000017REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 2                                             01 
+00070010003000035REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 3                                             01 
+00070010004000009REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 4                                             01 
+00070010005000005REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 6                                             01 
+00070010006000016REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 7                                             01 
+00070010007000000REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 9                                             01 
+00070010008000004REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 11                                            01 
+00070020001000004REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 1                                             01 
+00070020002000015REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 2                                             01 
+00070020003000007REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 3                                             01 
+00070020004000003REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 4                                             01 
+00070020005000000REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 6                                             01 
+00070020006000009REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 7                                             01 
+00070020007000002REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 9                                             01 
+00070020008000000REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 11                                            01 
+00070030001000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 1                                             01 
+00070030002000007REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 2                                             01 
+00070030003000010REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 3                                             01 
+00070030004000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 4                                             01 
+00070030005000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 6                                             01 
+00070030006000005REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 7                                             01 
+00070030007000001REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 9                                             01 
+00070030008000003REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 11                                            01 
+00070040001000003REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 1                                             01 
+00070040002000009REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 2                                             01 
+00070040003000002REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 3                                             01 
+00070040004000001REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 4                                             01 
+00070040005000004REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 6                                             01 
+00070040006000005REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 7                                             01 
+00070040007000000REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 9                                             01 
+00070040008000000REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 11                                            01 
+00070050001000012REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 1                                             01 
+00070050002000005REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 2                                             01 
+00070050003000016REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 3                                             01 
+00070050004000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 4                                             01 
+00070050005000003REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 6                                             01 
+00070050006000010REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 7                                             01 
+00070050007000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 9                                             01 
+00070050008000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 11                                            01 
+00070060001000083REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 1                                             01 
+00070060002000133REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 2                                             01 
+00070060003000146REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 3                                             01 
+00070060004000035REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 4                                             01 
+00070060005000035REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 6                                             01 
+00070060006000079REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 7                                             01 
+00070060007000010REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 9                                             01 
+00070060008000057REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 11                                            01 
+00080010001000027REP       REP Attorney General                                    Eva Guzman                            Precinct 1                                             01 
+00080010002000048REP       REP Attorney General                                    Eva Guzman                            Precinct 2                                             01 
+00080010003000050REP       REP Attorney General                                    Eva Guzman                            Precinct 3                                             01 
+00080010004000015REP       REP Attorney General                                    Eva Guzman                            Precinct 4                                             01 
+00080010005000009REP       REP Attorney General                                    Eva Guzman                            Precinct 6                                             01 
+00080010006000021REP       REP Attorney General                                    Eva Guzman                            Precinct 7                                             01 
+00080010007000004REP       REP Attorney General                                    Eva Guzman                            Precinct 9                                             01 
+00080010008000009REP       REP Attorney General                                    Eva Guzman                            Precinct 11                                            01 
+00080020001000064REP       REP Attorney General                                    Ken Paxton                            Precinct 1                                             01 
+00080020002000081REP       REP Attorney General                                    Ken Paxton                            Precinct 2                                             01 
+00080020003000112REP       REP Attorney General                                    Ken Paxton                            Precinct 3                                             01 
+00080020004000029REP       REP Attorney General                                    Ken Paxton                            Precinct 4                                             01 
+00080020005000028REP       REP Attorney General                                    Ken Paxton                            Precinct 6                                             01 
+00080020006000065REP       REP Attorney General                                    Ken Paxton                            Precinct 7                                             01 
+00080020007000010REP       REP Attorney General                                    Ken Paxton                            Precinct 9                                             01 
+00080020008000038REP       REP Attorney General                                    Ken Paxton                            Precinct 11                                            01 
+00080030001000025REP       REP Attorney General                                    George P. Bush                        Precinct 1                                             01 
+00080030002000050REP       REP Attorney General                                    George P. Bush                        Precinct 2                                             01 
+00080030003000044REP       REP Attorney General                                    George P. Bush                        Precinct 3                                             01 
+00080030004000007REP       REP Attorney General                                    George P. Bush                        Precinct 4                                             01 
+00080030005000009REP       REP Attorney General                                    George P. Bush                        Precinct 6                                             01 
+00080030006000025REP       REP Attorney General                                    George P. Bush                        Precinct 7                                             01 
+00080030007000002REP       REP Attorney General                                    George P. Bush                        Precinct 9                                             01 
+00080030008000015REP       REP Attorney General                                    George P. Bush                        Precinct 11                                            01 
+00080040001000011REP       REP Attorney General                                    Louie Gohmert                         Precinct 1                                             01 
+00080040002000018REP       REP Attorney General                                    Louie Gohmert                         Precinct 2                                             01 
+00080040003000018REP       REP Attorney General                                    Louie Gohmert                         Precinct 3                                             01 
+00080040004000005REP       REP Attorney General                                    Louie Gohmert                         Precinct 4                                             01 
+00080040005000011REP       REP Attorney General                                    Louie Gohmert                         Precinct 6                                             01 
+00080040006000015REP       REP Attorney General                                    Louie Gohmert                         Precinct 7                                             01 
+00080040007000000REP       REP Attorney General                                    Louie Gohmert                         Precinct 9                                             01 
+00080040008000006REP       REP Attorney General                                    Louie Gohmert                         Precinct 11                                            01 
+00090010001000030REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 1                                             01 
+00090010002000045REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 2                                             01 
+00090010003000048REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 3                                             01 
+00090010004000015REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 4                                             01 
+00090010005000009REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 6                                             01 
+00090010006000022REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 7                                             01 
+00090010007000003REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 9                                             01 
+00090010008000011REP       REP Comptroller of Public Accounts                      Mark V. Goloby                        Precinct 11                                            01 
+00090020001000084REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 1                                             01 
+00090020002000126REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 2                                             01 
+00090020003000151REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 3                                             01 
+00090020004000033REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 4                                             01 
+00090020005000043REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 6                                             01 
+00090020006000088REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 7                                             01 
+00090020007000009REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 9                                             01 
+00090020008000054REP       REP Comptroller of Public Accounts                      Glenn Hegar                           Precinct 11                                            01 
+00100010001000013REP       REP Comm General Land Office                            Victor Avila                          Precinct 1                                             01 
+00100010002000019REP       REP Comm General Land Office                            Victor Avila                          Precinct 2                                             01 
+00100010003000030REP       REP Comm General Land Office                            Victor Avila                          Precinct 3                                             01 
+00100010004000008REP       REP Comm General Land Office                            Victor Avila                          Precinct 4                                             01 
+00100010005000003REP       REP Comm General Land Office                            Victor Avila                          Precinct 6                                             01 
+00100010006000006REP       REP Comm General Land Office                            Victor Avila                          Precinct 7                                             01 
+00100010007000000REP       REP Comm General Land Office                            Victor Avila                          Precinct 9                                             01 
+00100010008000005REP       REP Comm General Land Office                            Victor Avila                          Precinct 11                                            01 
+00100020001000007REP       REP Comm General Land Office                            Weston Martinez                       Precinct 1                                             01 
+00100020002000012REP       REP Comm General Land Office                            Weston Martinez                       Precinct 2                                             01 
+00100020003000002REP       REP Comm General Land Office                            Weston Martinez                       Precinct 3                                             01 
+00100020004000003REP       REP Comm General Land Office                            Weston Martinez                       Precinct 4                                             01 
+00100020005000001REP       REP Comm General Land Office                            Weston Martinez                       Precinct 6                                             01 
+00100020006000007REP       REP Comm General Land Office                            Weston Martinez                       Precinct 7                                             01 
+00100020007000000REP       REP Comm General Land Office                            Weston Martinez                       Precinct 9                                             01 
+00100020008000003REP       REP Comm General Land Office                            Weston Martinez                       Precinct 11                                            01 
+00100030001000014REP       REP Comm General Land Office                            Don W. Minton                         Precinct 1                                             01 
+00100030002000018REP       REP Comm General Land Office                            Don W. Minton                         Precinct 2                                             01 
+00100030003000024REP       REP Comm General Land Office                            Don W. Minton                         Precinct 3                                             01 
+00100030004000008REP       REP Comm General Land Office                            Don W. Minton                         Precinct 4                                             01 
+00100030005000008REP       REP Comm General Land Office                            Don W. Minton                         Precinct 6                                             01 
+00100030006000020REP       REP Comm General Land Office                            Don W. Minton                         Precinct 7                                             01 
+00100030007000000REP       REP Comm General Land Office                            Don W. Minton                         Precinct 9                                             01 
+00100030008000007REP       REP Comm General Land Office                            Don W. Minton                         Precinct 11                                            01 
+00100040001000016REP       REP Comm General Land Office                            Tim Westley                           Precinct 1                                             01 
+00100040002000038REP       REP Comm General Land Office                            Tim Westley                           Precinct 2                                             01 
+00100040003000031REP       REP Comm General Land Office                            Tim Westley                           Precinct 3                                             01 
+00100040004000011REP       REP Comm General Land Office                            Tim Westley                           Precinct 4                                             01 
+00100040005000008REP       REP Comm General Land Office                            Tim Westley                           Precinct 6                                             01 
+00100040006000028REP       REP Comm General Land Office                            Tim Westley                           Precinct 7                                             01 
+00100040007000003REP       REP Comm General Land Office                            Tim Westley                           Precinct 9                                             01 
+00100040008000012REP       REP Comm General Land Office                            Tim Westley                           Precinct 11                                            01 
+00100050001000004REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 1                                             01 
+00100050002000007REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 2                                             01 
+00100050003000003REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 3                                             01 
+00100050004000001REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 4                                             01 
+00100050005000001REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 6                                             01 
+00100050006000003REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 7                                             01 
+00100050007000000REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 9                                             01 
+00100050008000002REP       REP Comm General Land Office                            Rufus Lopez                           Precinct 11                                            01 
+00100060001000011REP       REP Comm General Land Office                            Jon Spiers                            Precinct 1                                             01 
+00100060002000018REP       REP Comm General Land Office                            Jon Spiers                            Precinct 2                                             01 
+00100060003000022REP       REP Comm General Land Office                            Jon Spiers                            Precinct 3                                             01 
+00100060004000005REP       REP Comm General Land Office                            Jon Spiers                            Precinct 4                                             01 
+00100060005000010REP       REP Comm General Land Office                            Jon Spiers                            Precinct 6                                             01 
+00100060006000009REP       REP Comm General Land Office                            Jon Spiers                            Precinct 7                                             01 
+00100060007000003REP       REP Comm General Land Office                            Jon Spiers                            Precinct 9                                             01 
+00100060008000006REP       REP Comm General Land Office                            Jon Spiers                            Precinct 11                                            01 
+00100070001000003REP       REP Comm General Land Office                            Ben Armenta                           Precinct 1                                             01 
+00100070002000006REP       REP Comm General Land Office                            Ben Armenta                           Precinct 2                                             01 
+00100070003000007REP       REP Comm General Land Office                            Ben Armenta                           Precinct 3                                             01 
+00100070004000002REP       REP Comm General Land Office                            Ben Armenta                           Precinct 4                                             01 
+00100070005000000REP       REP Comm General Land Office                            Ben Armenta                           Precinct 6                                             01 
+00100070006000002REP       REP Comm General Land Office                            Ben Armenta                           Precinct 7                                             01 
+00100070007000000REP       REP Comm General Land Office                            Ben Armenta                           Precinct 9                                             01 
+00100070008000000REP       REP Comm General Land Office                            Ben Armenta                           Precinct 11                                            01 
+00100080001000041REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 1                                             01 
+00100080002000058REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 2                                             01 
+00100080003000076REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 3                                             01 
+00100080004000014REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 4                                             01 
+00100080005000016REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 6                                             01 
+00100080006000033REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 7                                             01 
+00100080007000005REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 9                                             01 
+00100080008000025REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 11                                            01 
+00110010001000029REP       REP Commissioner of Agriculture                         James White                           Precinct 1                                             01 
+00110010002000054REP       REP Commissioner of Agriculture                         James White                           Precinct 2                                             01 
+00110010003000061REP       REP Commissioner of Agriculture                         James White                           Precinct 3                                             01 
+00110010004000014REP       REP Commissioner of Agriculture                         James White                           Precinct 4                                             01 
+00110010005000025REP       REP Commissioner of Agriculture                         James White                           Precinct 6                                             01 
+00110010006000036REP       REP Commissioner of Agriculture                         James White                           Precinct 7                                             01 
+00110010007000003REP       REP Commissioner of Agriculture                         James White                           Precinct 9                                             01 
+00110010008000011REP       REP Commissioner of Agriculture                         James White                           Precinct 11                                            01 
+00110020001000016REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 1                                             01 
+00110020002000010REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 2                                             01 
+00110020003000021REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 3                                             01 
+00110020004000004REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 4                                             01 
+00110020005000002REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 6                                             01 
+00110020006000006REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 7                                             01 
+00110020007000001REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 9                                             01 
+00110020008000004REP       REP Commissioner of Agriculture                         Carey A. Counsil                      Precinct 11                                            01 
+00110030001000077REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 1                                             01 
+00110030002000114REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 2                                             01 
+00110030003000129REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 3                                             01 
+00110030004000033REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 4                                             01 
+00110030005000025REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 6                                             01 
+00110030006000072REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 7                                             01 
+00110030007000010REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 9                                             01 
+00110030008000052REP       REP Commissioner of Agriculture                         Sid Miller                            Precinct 11                                            01 
+00120010001000017REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 1                                             01 
+00120010002000034REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 2                                             01 
+00120010003000038REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 3                                             01 
+00120010004000006REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 4                                             01 
+00120010005000008REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 6                                             01 
+00120010006000024REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 7                                             01 
+00120010007000004REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 9                                             01 
+00120010008000010REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 11                                            01 
+00120020001000016REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 1                                             01 
+00120020002000015REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 2                                             01 
+00120020003000015REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 3                                             01 
+00120020004000004REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 4                                             01 
+00120020005000005REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 6                                             01 
+00120020006000013REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 7                                             01 
+00120020007000001REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 9                                             01 
+00120020008000008REP       REP Railroad Commissioner                               Marvin "Sarge" Summers                Precinct 11                                            01 
+00120030001000011REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 1                                             01 
+00120030002000022REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 2                                             01 
+00120030003000026REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 3                                             01 
+00120030004000007REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 4                                             01 
+00120030005000003REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 6                                             01 
+00120030006000011REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 7                                             01 
+00120030007000000REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 9                                             01 
+00120030008000006REP       REP Railroad Commissioner                               Tom Slocum Jr                         Precinct 11                                            01 
+00120040001000022REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 1                                             01 
+00120040002000038REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 2                                             01 
+00120040003000039REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 3                                             01 
+00120040004000009REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 4                                             01 
+00120040005000009REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 6                                             01 
+00120040006000018REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 7                                             01 
+00120040007000001REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 9                                             01 
+00120040008000006REP       REP Railroad Commissioner                               Dawayne Tipton                        Precinct 11                                            01 
+00120050001000045REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 1                                             01 
+00120050002000068REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 2                                             01 
+00120050003000076REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 3                                             01 
+00120050004000026REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 4                                             01 
+00120050005000024REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 6                                             01 
+00120050006000040REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 7                                             01 
+00120050007000005REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 9                                             01 
+00120050008000032REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 11                                            01 
+00130010001000112REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 1                                             01 
+00130010002000176REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 2                                             01 
+00130010003000201REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 3                                             01 
+00130010004000050REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 4                                             01 
+00130010005000052REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 6                                             01 
+00130010006000110REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 7                                             01 
+00130010007000011REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 9                                             01 
+00130010008000064REP       REP Justice, Supreme Court, Pl 3                        Debra Lehrmann                        Precinct 11                                            01 
+00140010001000112REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 1                                             01 
+00140010002000170REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 2                                             01 
+00140010003000199REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 3                                             01 
+00140010004000049REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 4                                             01 
+00140010005000051REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 6                                             01 
+00140010006000108REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 7                                             01 
+00140010007000011REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 9                                             01 
+00140010008000063REP       REP Justice, Supreme Court, Pl 5                        Rebeca Huddle                         Precinct 11                                            01 
+00150010001000053REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 1                                             01 
+00150010002000076REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 2                                             01 
+00150010003000085REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 3                                             01 
+00150010004000020REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 4                                             01 
+00150010005000026REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 6                                             01 
+00150010006000051REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 7                                             01 
+00150010007000005REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 9                                             01 
+00150010008000026REP       REP Justice, Supreme Court, Pl 9                        David J. Schenck                      Precinct 11                                            01 
+00150020001000060REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 1                                             01 
+00150020002000090REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 2                                             01 
+00150020003000102REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 3                                             01 
+00150020004000030REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 4                                             01 
+00150020005000020REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 6                                             01 
+00150020006000057REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 7                                             01 
+00150020007000007REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 9                                             01 
+00150020008000031REP       REP Justice, Supreme Court, Pl 9                        Evan Young                            Precinct 11                                            01 
+00160010001000112REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 1                                             01 
+00160010002000173REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 2                                             01 
+00160010003000198REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 3                                             01 
+00160010004000050REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 4                                             01 
+00160010005000049REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 6                                             01 
+00160010006000110REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 7                                             01 
+00160010007000010REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 9                                             01 
+00160010008000063REP       REP Judge, Ct of Crim App, Pl 2                         Mary Lou Keel                         Precinct 11                                            01 
+00170010001000058REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 1                                             01 
+00170010002000088REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 2                                             01 
+00170010003000102REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 3                                             01 
+00170010004000023REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 4                                             01 
+00170010005000023REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 6                                             01 
+00170010006000056REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 7                                             01 
+00170010007000007REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 9                                             01 
+00170010008000015REP       REP Judge, Ct of Crim App, Pl 5                         Clint Morgan                          Precinct 11                                            01 
+00170020001000053REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 1                                             01 
+00170020002000084REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 2                                             01 
+00170020003000092REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 3                                             01 
+00170020004000026REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 4                                             01 
+00170020005000022REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 6                                             01 
+00170020006000051REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 7                                             01 
+00170020007000005REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 9                                             01 
+00170020008000047REP       REP Judge, Ct of Crim App, Pl 5                         Scott Walker                          Precinct 11                                            01 
+00180010001000114REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 1                                             01 
+00180010002000169REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 2                                             01 
+00180010003000193REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 3                                             01 
+00180010004000050REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 4                                             01 
+00180010005000052REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 6                                             01 
+00180010006000109REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 7                                             01 
+00180010007000010REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 9                                             01 
+00180010008000063REP       REP Judge, Ct of Crim App, Pl 6                         Jesse F. McClure, III                 Precinct 11                                            01 
+00190010001000068REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 1                                             01 
+00190010002000102REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 2                                             01 
+00190010003000132REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 3                                             01 
+00190010004000038REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 4                                             01 
+00190010005000033REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 6                                             01 
+00190010006000081REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 7                                             01 
+00190010007000009REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 9                                             01 
+00190010008000030REP       REP Member, State BoE, Dist 15                          Jay Johnson                           Precinct 11                                            01 
+00190020001000048REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 1                                             01 
+00190020002000075REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 2                                             01 
+00190020003000073REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 3                                             01 
+00190020004000016REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 4                                             01 
+00190020005000015REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 6                                             01 
+00190020006000034REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 7                                             01 
+00190020007000007REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 9                                             01 
+00190020008000031REP       REP Member, State BoE, Dist 15                          Aaron Kinsey                          Precinct 11                                            01 
+00200010001000057REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 1                                             01 
+00200010002000090REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 2                                             01 
+00200010003000096REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 3                                             01 
+00200010004000023REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 4                                             01 
+00200010005000023REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 6                                             01 
+00200010006000041REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 7                                             01 
+00200010007000008REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 9                                             01 
+00200010008000027REP       REP State Senator, Dist 31                              Kevin Sparks                          Precinct 11                                            01 
+00200020001000007REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 1                                             01 
+00200020002000013REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 2                                             01 
+00200020003000018REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 3                                             01 
+00200020004000007REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 4                                             01 
+00200020005000003REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 6                                             01 
+00200020006000014REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 7                                             01 
+00200020007000001REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 9                                             01 
+00200020008000006REP       REP State Senator, Dist 31                              Jesse Quackenbush                     Precinct 11                                            01 
+00200030001000015REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 1                                             01 
+00200030002000022REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 2                                             01 
+00200030003000013REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 3                                             01 
+00200030004000012REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 4                                             01 
+00200030005000016REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 6                                             01 
+00200030006000014REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 7                                             01 
+00200030007000001REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 9                                             01 
+00200030008000015REP       REP State Senator, Dist 31                              Stormy Bradley                        Precinct 11                                            01 
+00200040001000044REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 1                                             01 
+00200040002000059REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 2                                             01 
+00200040003000086REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 3                                             01 
+00200040004000012REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 4                                             01 
+00200040005000009REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 6                                             01 
+00200040006000051REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 7                                             01 
+00200040007000006REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 9                                             01 
+00200040008000016REP       REP State Senator, Dist 31                              Tim Reid                              Precinct 11                                            01 
+00210010001000048REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 1                                             01 
+00210010002000070REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 2                                             01 
+00210010003000086REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 3                                             01 
+00210010004000028REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 4                                             01 
+00210010005000018REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 6                                             01 
+00210010006000053REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 7                                             01 
+00210010007000007REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 9                                             01 
+00210010008000015REP       REP State Rep, Dist 88                                  Ted Hutto                             Precinct 11                                            01 
+00210020001000077REP       REP State Rep, Dist 88                                  Ken King                              Precinct 1                                             01 
+00210020002000119REP       REP State Rep, Dist 88                                  Ken King                              Precinct 2                                             01 
+00210020003000136REP       REP State Rep, Dist 88                                  Ken King                              Precinct 3                                             01 
+00210020004000028REP       REP State Rep, Dist 88                                  Ken King                              Precinct 4                                             01 
+00210020005000038REP       REP State Rep, Dist 88                                  Ken King                              Precinct 6                                             01 
+00210020006000071REP       REP State Rep, Dist 88                                  Ken King                              Precinct 7                                             01 
+00210020007000008REP       REP State Rep, Dist 88                                  Ken King                              Precinct 9                                             01 
+00210020008000055REP       REP State Rep, Dist 88                                  Ken King                              Precinct 11                                            01 
+00220010001000114REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 1                                             01 
+00220010002000172REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 2                                             01 
+00220010003000200REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 3                                             01 
+00220010004000052REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 4                                             01 
+00220010005000050REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 6                                             01 
+00220010006000110REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 7                                             01 
+00220010007000011REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 9                                             01 
+00220010008000061REP       REP Justice, 7th Ct of App Dist, Pl 4                   Larry Doss                            Precinct 11                                            01 
+00230010001000117REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 1                                             01 
+00230010002000171REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 2                                             01 
+00230010003000197REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 3                                             01 
+00230010004000046REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 4                                             01 
+00230010005000051REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 6                                             01 
+00230010006000107REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 7                                             01 
+00230010007000010REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 9                                             01 
+00230010008000059REP       REP Dist Judge, 64th Judicial Dist                      Danah Zirpoli                         Precinct 11                                            01 
+00240010001000117REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 1                                             01 
+00240010002000171REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 2                                             01 
+00240010003000199REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 3                                             01 
+00240010004000050REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 4                                             01 
+00240010005000051REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 6                                             01 
+00240010006000108REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 7                                             01 
+00240010007000010REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 9                                             01 
+00240010008000062REP       REP Dist Judge, 242nd Judicial Dist                     Lowell Kregg Hukill                   Precinct 11                                            01 
+00250010001000118REP       REP County Judge                                        Harold Keeter                         Precinct 1                                             01 
+00250010002000190REP       REP County Judge                                        Harold Keeter                         Precinct 2                                             01 
+00250010003000212REP       REP County Judge                                        Harold Keeter                         Precinct 3                                             01 
+00250010004000053REP       REP County Judge                                        Harold Keeter                         Precinct 4                                             01 
+00250010005000054REP       REP County Judge                                        Harold Keeter                         Precinct 6                                             01 
+00250010006000119REP       REP County Judge                                        Harold Keeter                         Precinct 7                                             01 
+00250010007000016REP       REP County Judge                                        Harold Keeter                         Precinct 9                                             01 
+00250010008000067REP       REP County Judge                                        Harold Keeter                         Precinct 11                                            01 
+00260010001000122REP       REP District and County Clerk                           CJ Chasco                             Precinct 1                                             01 
+00260010002000188REP       REP District and County Clerk                           CJ Chasco                             Precinct 2                                             01 
+00260010003000218REP       REP District and County Clerk                           CJ Chasco                             Precinct 3                                             01 
+00260010004000052REP       REP District and County Clerk                           CJ Chasco                             Precinct 4                                             01 
+00260010005000052REP       REP District and County Clerk                           CJ Chasco                             Precinct 6                                             01 
+00260010006000119REP       REP District and County Clerk                           CJ Chasco                             Precinct 7                                             01 
+00260010007000015REP       REP District and County Clerk                           CJ Chasco                             Precinct 9                                             01 
+00260010008000064REP       REP District and County Clerk                           CJ Chasco                             Precinct 11                                            01 
+00270010001000124REP       REP County Treasurer                                    Jolina Flowers                        Precinct 1                                             01 
+00270010002000189REP       REP County Treasurer                                    Jolina Flowers                        Precinct 2                                             01 
+00270010003000214REP       REP County Treasurer                                    Jolina Flowers                        Precinct 3                                             01 
+00270010004000050REP       REP County Treasurer                                    Jolina Flowers                        Precinct 4                                             01 
+00270010005000053REP       REP County Treasurer                                    Jolina Flowers                        Precinct 6                                             01 
+00270010006000115REP       REP County Treasurer                                    Jolina Flowers                        Precinct 7                                             01 
+00270010007000015REP       REP County Treasurer                                    Jolina Flowers                        Precinct 9                                             01 
+00270010008000064REP       REP County Treasurer                                    Jolina Flowers                        Precinct 11                                            01 
+00280010002000185REPCOM002 REP County Commissioner Pct 2                           Danny Morgan                          Precinct 2                    Precinct No. 2           01 
+00280010007000015REPCOM002 REP County Commissioner Pct 2                           Danny Morgan                          Precinct 9                    Precinct No. 2           01 
+00290010004000048REPCOM004 REP County Commissioner Pct 4                           Larry Buske                           Precinct 4                    Precinct No. 4           01 
+00290010005000052REPCOM004 REP County Commissioner Pct 4                           Larry Buske                           Precinct 6                    Precinct No. 4           01 
+00300010001000044REP       REP Justice of the Peace                                Tyson Willis                          Precinct 1                                             01 
+00300010002000072REP       REP Justice of the Peace                                Tyson Willis                          Precinct 2                                             01 
+00300010003000080REP       REP Justice of the Peace                                Tyson Willis                          Precinct 3                                             01 
+00300010004000018REP       REP Justice of the Peace                                Tyson Willis                          Precinct 4                                             01 
+00300010005000017REP       REP Justice of the Peace                                Tyson Willis                          Precinct 6                                             01 
+00300010006000035REP       REP Justice of the Peace                                Tyson Willis                          Precinct 7                                             01 
+00300010007000008REP       REP Justice of the Peace                                Tyson Willis                          Precinct 9                                             01 
+00300010008000021REP       REP Justice of the Peace                                Tyson Willis                          Precinct 11                                            01 
+00300020001000068REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 1                                             01 
+00300020002000097REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 2                                             01 
+00300020003000117REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 3                                             01 
+00300020004000028REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 4                                             01 
+00300020005000014REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 6                                             01 
+00300020006000056REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 7                                             01 
+00300020007000006REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 9                                             01 
+00300020008000019REP       REP Justice of the Peace                                Elsa Carrasco                         Precinct 11                                            01 
+00300030001000015REP       REP Justice of the Peace                                Gregory Needham                       Precinct 1                                             01 
+00300030002000031REP       REP Justice of the Peace                                Gregory Needham                       Precinct 2                                             01 
+00300030003000031REP       REP Justice of the Peace                                Gregory Needham                       Precinct 3                                             01 
+00300030004000012REP       REP Justice of the Peace                                Gregory Needham                       Precinct 4                                             01 
+00300030005000021REP       REP Justice of the Peace                                Gregory Needham                       Precinct 6                                             01 
+00300030006000031REP       REP Justice of the Peace                                Gregory Needham                       Precinct 7                                             01 
+00300030007000001REP       REP Justice of the Peace                                Gregory Needham                       Precinct 9                                             01 
+00300030008000022REP       REP Justice of the Peace                                Gregory Needham                       Precinct 11                                            01 
+00310010001000119REP       REP County Chair                                        Ella Wegscheid                        Precinct 1                                             01 
+00310010002000174REP       REP County Chair                                        Ella Wegscheid                        Precinct 2                                             01 
+00310010003000194REP       REP County Chair                                        Ella Wegscheid                        Precinct 3                                             01 
+00310010004000051REP       REP County Chair                                        Ella Wegscheid                        Precinct 4                                             01 
+00310010005000053REP       REP County Chair                                        Ella Wegscheid                        Precinct 6                                             01 
+00310010006000106REP       REP County Chair                                        Ella Wegscheid                        Precinct 7                                             01 
+00310010007000013REP       REP County Chair                                        Ella Wegscheid                        Precinct 9                                             01 
+00310010008000062REP       REP County Chair                                        Ella Wegscheid                        Precinct 11                                            01 
+00320010001000116REP       REP Proposition 1                                       YES                                   Precinct 1                                             01Y
+00320010002000179REP       REP Proposition 1                                       YES                                   Precinct 2                                             01Y
+00320010003000205REP       REP Proposition 1                                       YES                                   Precinct 3                                             01Y
+00320010004000051REP       REP Proposition 1                                       YES                                   Precinct 4                                             01Y
+00320010005000053REP       REP Proposition 1                                       YES                                   Precinct 6                                             01Y
+00320010006000117REP       REP Proposition 1                                       YES                                   Precinct 7                                             01Y
+00320010007000016REP       REP Proposition 1                                       YES                                   Precinct 9                                             01Y
+00320010008000068REP       REP Proposition 1                                       YES                                   Precinct 11                                            01Y
+00320020001000011REP       REP Proposition 1                                       NO                                    Precinct 1                                             01Y
+00320020002000019REP       REP Proposition 1                                       NO                                    Precinct 2                                             01Y
+00320020003000022REP       REP Proposition 1                                       NO                                    Precinct 3                                             01Y
+00320020004000007REP       REP Proposition 1                                       NO                                    Precinct 4                                             01Y
+00320020005000003REP       REP Proposition 1                                       NO                                    Precinct 6                                             01Y
+00320020006000008REP       REP Proposition 1                                       NO                                    Precinct 7                                             01Y
+00320020007000001REP       REP Proposition 1                                       NO                                    Precinct 9                                             01Y
+00320020008000002REP       REP Proposition 1                                       NO                                    Precinct 11                                            01Y
+00330010001000092REP       REP Proposition 2                                       YES                                   Precinct 1                                             01Y
+00330010002000151REP       REP Proposition 2                                       YES                                   Precinct 2                                             01Y
+00330010003000156REP       REP Proposition 2                                       YES                                   Precinct 3                                             01Y
+00330010004000049REP       REP Proposition 2                                       YES                                   Precinct 4                                             01Y
+00330010005000039REP       REP Proposition 2                                       YES                                   Precinct 6                                             01Y
+00330010006000086REP       REP Proposition 2                                       YES                                   Precinct 7                                             01Y
+00330010007000013REP       REP Proposition 2                                       YES                                   Precinct 9                                             01Y
+00330010008000051REP       REP Proposition 2                                       YES                                   Precinct 11                                            01Y
+00330020001000036REP       REP Proposition 2                                       NO                                    Precinct 1                                             01Y
+00330020002000045REP       REP Proposition 2                                       NO                                    Precinct 2                                             01Y
+00330020003000068REP       REP Proposition 2                                       NO                                    Precinct 3                                             01Y
+00330020004000009REP       REP Proposition 2                                       NO                                    Precinct 4                                             01Y
+00330020005000014REP       REP Proposition 2                                       NO                                    Precinct 6                                             01Y
+00330020006000038REP       REP Proposition 2                                       NO                                    Precinct 7                                             01Y
+00330020007000003REP       REP Proposition 2                                       NO                                    Precinct 9                                             01Y
+00330020008000018REP       REP Proposition 2                                       NO                                    Precinct 11                                            01Y
+00340010001000114REP       REP Proposition 3                                       YES                                   Precinct 1                                             01Y
+00340010002000177REP       REP Proposition 3                                       YES                                   Precinct 2                                             01Y
+00340010003000186REP       REP Proposition 3                                       YES                                   Precinct 3                                             01Y
+00340010004000050REP       REP Proposition 3                                       YES                                   Precinct 4                                             01Y
+00340010005000051REP       REP Proposition 3                                       YES                                   Precinct 6                                             01Y
+00340010006000119REP       REP Proposition 3                                       YES                                   Precinct 7                                             01Y
+00340010007000013REP       REP Proposition 3                                       YES                                   Precinct 9                                             01Y
+00340010008000064REP       REP Proposition 3                                       YES                                   Precinct 11                                            01Y
+00340020001000015REP       REP Proposition 3                                       NO                                    Precinct 1                                             01Y
+00340020002000022REP       REP Proposition 3                                       NO                                    Precinct 2                                             01Y
+00340020003000039REP       REP Proposition 3                                       NO                                    Precinct 3                                             01Y
+00340020004000009REP       REP Proposition 3                                       NO                                    Precinct 4                                             01Y
+00340020005000005REP       REP Proposition 3                                       NO                                    Precinct 6                                             01Y
+00340020006000008REP       REP Proposition 3                                       NO                                    Precinct 7                                             01Y
+00340020007000004REP       REP Proposition 3                                       NO                                    Precinct 9                                             01Y
+00340020008000006REP       REP Proposition 3                                       NO                                    Precinct 11                                            01Y
+00350010001000111REP       REP Proposition 4                                       YES                                   Precinct 1                                             01Y
+00350010002000177REP       REP Proposition 4                                       YES                                   Precinct 2                                             01Y
+00350010003000204REP       REP Proposition 4                                       YES                                   Precinct 3                                             01Y
+00350010004000052REP       REP Proposition 4                                       YES                                   Precinct 4                                             01Y
+00350010005000053REP       REP Proposition 4                                       YES                                   Precinct 6                                             01Y
+00350010006000114REP       REP Proposition 4                                       YES                                   Precinct 7                                             01Y
+00350010007000014REP       REP Proposition 4                                       YES                                   Precinct 9                                             01Y
+00350010008000063REP       REP Proposition 4                                       YES                                   Precinct 11                                            01Y
+00350020001000015REP       REP Proposition 4                                       NO                                    Precinct 1                                             01Y
+00350020002000023REP       REP Proposition 4                                       NO                                    Precinct 2                                             01Y
+00350020003000019REP       REP Proposition 4                                       NO                                    Precinct 3                                             01Y
+00350020004000005REP       REP Proposition 4                                       NO                                    Precinct 4                                             01Y
+00350020005000002REP       REP Proposition 4                                       NO                                    Precinct 6                                             01Y
+00350020006000013REP       REP Proposition 4                                       NO                                    Precinct 7                                             01Y
+00350020007000002REP       REP Proposition 4                                       NO                                    Precinct 9                                             01Y
+00350020008000007REP       REP Proposition 4                                       NO                                    Precinct 11                                            01Y
+00360010001000102REP       REP Proposition 5                                       YES                                   Precinct 1                                             01Y
+00360010002000171REP       REP Proposition 5                                       YES                                   Precinct 2                                             01Y
+00360010003000194REP       REP Proposition 5                                       YES                                   Precinct 3                                             01Y
+00360010004000053REP       REP Proposition 5                                       YES                                   Precinct 4                                             01Y
+00360010005000056REP       REP Proposition 5                                       YES                                   Precinct 6                                             01Y
+00360010006000110REP       REP Proposition 5                                       YES                                   Precinct 7                                             01Y
+00360010007000012REP       REP Proposition 5                                       YES                                   Precinct 9                                             01Y
+00360010008000062REP       REP Proposition 5                                       YES                                   Precinct 11                                            01Y
+00360020001000021REP       REP Proposition 5                                       NO                                    Precinct 1                                             01Y
+00360020002000025REP       REP Proposition 5                                       NO                                    Precinct 2                                             01Y
+00360020003000029REP       REP Proposition 5                                       NO                                    Precinct 3                                             01Y
+00360020004000006REP       REP Proposition 5                                       NO                                    Precinct 4                                             01Y
+00360020005000001REP       REP Proposition 5                                       NO                                    Precinct 6                                             01Y
+00360020006000017REP       REP Proposition 5                                       NO                                    Precinct 7                                             01Y
+00360020007000003REP       REP Proposition 5                                       NO                                    Precinct 9                                             01Y
+00360020008000005REP       REP Proposition 5                                       NO                                    Precinct 11                                            01Y
+00370010001000091REP       REP Proposition 6                                       YES                                   Precinct 1                                             01Y
+00370010002000158REP       REP Proposition 6                                       YES                                   Precinct 2                                             01Y
+00370010003000171REP       REP Proposition 6                                       YES                                   Precinct 3                                             01Y
+00370010004000044REP       REP Proposition 6                                       YES                                   Precinct 4                                             01Y
+00370010005000051REP       REP Proposition 6                                       YES                                   Precinct 6                                             01Y
+00370010006000094REP       REP Proposition 6                                       YES                                   Precinct 7                                             01Y
+00370010007000013REP       REP Proposition 6                                       YES                                   Precinct 9                                             01Y
+00370010008000052REP       REP Proposition 6                                       YES                                   Precinct 11                                            01Y
+00370020001000033REP       REP Proposition 6                                       NO                                    Precinct 1                                             01Y
+00370020002000037REP       REP Proposition 6                                       NO                                    Precinct 2                                             01Y
+00370020003000049REP       REP Proposition 6                                       NO                                    Precinct 3                                             01Y
+00370020004000013REP       REP Proposition 6                                       NO                                    Precinct 4                                             01Y
+00370020005000004REP       REP Proposition 6                                       NO                                    Precinct 6                                             01Y
+00370020006000031REP       REP Proposition 6                                       NO                                    Precinct 7                                             01Y
+00370020007000003REP       REP Proposition 6                                       NO                                    Precinct 9                                             01Y
+00370020008000017REP       REP Proposition 6                                       NO                                    Precinct 11                                            01Y
+00380010001000124REP       REP Proposition 7                                       YES                                   Precinct 1                                             01Y
+00380010002000191REP       REP Proposition 7                                       YES                                   Precinct 2                                             01Y
+00380010003000212REP       REP Proposition 7                                       YES                                   Precinct 3                                             01Y
+00380010004000050REP       REP Proposition 7                                       YES                                   Precinct 4                                             01Y
+00380010005000054REP       REP Proposition 7                                       YES                                   Precinct 6                                             01Y
+00380010006000119REP       REP Proposition 7                                       YES                                   Precinct 7                                             01Y
+00380010007000015REP       REP Proposition 7                                       YES                                   Precinct 9                                             01Y
+00380010008000065REP       REP Proposition 7                                       YES                                   Precinct 11                                            01Y
+00380020001000003REP       REP Proposition 7                                       NO                                    Precinct 1                                             01Y
+00380020002000009REP       REP Proposition 7                                       NO                                    Precinct 2                                             01Y
+00380020003000014REP       REP Proposition 7                                       NO                                    Precinct 3                                             01Y
+00380020004000007REP       REP Proposition 7                                       NO                                    Precinct 4                                             01Y
+00380020005000001REP       REP Proposition 7                                       NO                                    Precinct 6                                             01Y
+00380020006000008REP       REP Proposition 7                                       NO                                    Precinct 7                                             01Y
+00380020007000002REP       REP Proposition 7                                       NO                                    Precinct 9                                             01Y
+00380020008000002REP       REP Proposition 7                                       NO                                    Precinct 11                                            01Y
+00390010001000116REP       REP Proposition 8                                       YES                                   Precinct 1                                             01Y
+00390010002000187REP       REP Proposition 8                                       YES                                   Precinct 2                                             01Y
+00390010003000207REP       REP Proposition 8                                       YES                                   Precinct 3                                             01Y
+00390010004000051REP       REP Proposition 8                                       YES                                   Precinct 4                                             01Y
+00390010005000057REP       REP Proposition 8                                       YES                                   Precinct 6                                             01Y
+00390010006000112REP       REP Proposition 8                                       YES                                   Precinct 7                                             01Y
+00390010007000014REP       REP Proposition 8                                       YES                                   Precinct 9                                             01Y
+00390010008000065REP       REP Proposition 8                                       YES                                   Precinct 11                                            01Y
+00390020001000007REP       REP Proposition 8                                       NO                                    Precinct 1                                             01Y
+00390020002000011REP       REP Proposition 8                                       NO                                    Precinct 2                                             01Y
+00390020003000018REP       REP Proposition 8                                       NO                                    Precinct 3                                             01Y
+00390020004000006REP       REP Proposition 8                                       NO                                    Precinct 4                                             01Y
+00390020005000001REP       REP Proposition 8                                       NO                                    Precinct 6                                             01Y
+00390020006000015REP       REP Proposition 8                                       NO                                    Precinct 7                                             01Y
+00390020007000002REP       REP Proposition 8                                       NO                                    Precinct 9                                             01Y
+00390020008000003REP       REP Proposition 8                                       NO                                    Precinct 11                                            01Y
+00400010001000108REP       REP Proposition 9                                       YES                                   Precinct 1                                             01Y
+00400010002000171REP       REP Proposition 9                                       YES                                   Precinct 2                                             01Y
+00400010003000174REP       REP Proposition 9                                       YES                                   Precinct 3                                             01Y
+00400010004000053REP       REP Proposition 9                                       YES                                   Precinct 4                                             01Y
+00400010005000046REP       REP Proposition 9                                       YES                                   Precinct 6                                             01Y
+00400010006000082REP       REP Proposition 9                                       YES                                   Precinct 7                                             01Y
+00400010007000014REP       REP Proposition 9                                       YES                                   Precinct 9                                             01Y
+00400010008000059REP       REP Proposition 9                                       YES                                   Precinct 11                                            01Y
+00400020001000018REP       REP Proposition 9                                       NO                                    Precinct 1                                             01Y
+00400020002000028REP       REP Proposition 9                                       NO                                    Precinct 2                                             01Y
+00400020003000051REP       REP Proposition 9                                       NO                                    Precinct 3                                             01Y
+00400020004000004REP       REP Proposition 9                                       NO                                    Precinct 4                                             01Y
+00400020005000012REP       REP Proposition 9                                       NO                                    Precinct 6                                             01Y
+00400020006000045REP       REP Proposition 9                                       NO                                    Precinct 7                                             01Y
+00400020007000003REP       REP Proposition 9                                       NO                                    Precinct 9                                             01Y
+00400020008000010REP       REP Proposition 9                                       NO                                    Precinct 11                                            01Y
+00410010001000115REP       REP Proposition 10                                      YES                                   Precinct 1                                             01Y
+00410010002000186REP       REP Proposition 10                                      YES                                   Precinct 2                                             01Y
+00410010003000210REP       REP Proposition 10                                      YES                                   Precinct 3                                             01Y
+00410010004000057REP       REP Proposition 10                                      YES                                   Precinct 4                                             01Y
+00410010005000055REP       REP Proposition 10                                      YES                                   Precinct 6                                             01Y
+00410010006000118REP       REP Proposition 10                                      YES                                   Precinct 7                                             01Y
+00410010007000013REP       REP Proposition 10                                      YES                                   Precinct 9                                             01Y
+00410010008000063REP       REP Proposition 10                                      YES                                   Precinct 11                                            01Y
+00410020001000009REP       REP Proposition 10                                      NO                                    Precinct 1                                             01Y
+00410020002000013REP       REP Proposition 10                                      NO                                    Precinct 2                                             01Y
+00410020003000016REP       REP Proposition 10                                      NO                                    Precinct 3                                             01Y
+00410020004000002REP       REP Proposition 10                                      NO                                    Precinct 4                                             01Y
+00410020005000002REP       REP Proposition 10                                      NO                                    Precinct 6                                             01Y
+00410020006000009REP       REP Proposition 10                                      NO                                    Precinct 7                                             01Y
+00410020007000003REP       REP Proposition 10                                      NO                                    Precinct 9                                             01Y
+00410020008000004REP       REP Proposition 10                                      NO                                    Precinct 11                                            01Y

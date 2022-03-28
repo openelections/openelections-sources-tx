@@ -1,0 +1,1052 @@
+#FormatVersion 1
+#Precinct,Precinct ID,Precinct Reporting,"Registered Voters","REP Ballots Cast","DEM Ballots Cast","NON Ballots Cast","Turnout Percentage",Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,"Absentee Voting Votes","Absentee Voting Overvotes","Absentee Voting Undervotes","Absentee Voting Invalid Votes","Early Voting Votes","Early Voting Overvotes","Early Voting Undervotes","Early Voting Invalid Votes","Election Day Voting Votes","Election Day Voting Overvotes","Election Day Voting Undervotes","Election Day Voting Invalid Votes"
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",12,0,0,0,6,0,0,0,3,0,0,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",6,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",4,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",4,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",8,0,0,0,4,0,0,0,2,0,0,0,2,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",5,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",6,0,0,0,2,0,0,0,1,0,0,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",6,0,0,0,4,0,0,0,2,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",8,0,1,0,5,0,0,0,2,0,1,0,1,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",4,0,1,0,2,0,0,0,0,0,1,0,2,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",12,0,1,0,7,0,0,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",10,0,0,0,4,0,0,0,3,0,0,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",11,0,2,0,6,0,1,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",5,0,0,0,1,0,0,0,1,0,0,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",12,0,1,0,7,0,0,0,2,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",93,0,8,0,5,0,1,0,59,0,4,0,29,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Paul Belew",3,"",1,0,2,0,0,0,0,0,0,0,1,0,1,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",1,0,2,0,0,0,0,0,1,0,1,0,0,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",73,0,2,0,5,0,0,0,48,0,1,0,20,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Don Huffines",2,"",4,0,2,0,0,0,0,0,3,0,1,0,1,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Allen B. West",1,"",13,0,2,0,0,0,0,0,8,0,1,0,5,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Rick Perry",6,"",1,0,2,0,1,0,0,0,0,0,1,0,0,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Governor",54,"REP","Chad Prather",4,"",6,0,2,0,0,0,0,0,2,0,1,0,4,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",77,0,3,0,5,0,0,0,48,0,2,0,24,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",2,0,3,0,0,0,0,0,1,0,2,0,1,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",8,0,3,0,1,0,0,0,6,0,2,0,1,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",3,0,3,0,0,0,0,0,1,0,2,0,2,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",3,0,3,0,0,0,0,0,3,0,2,0,0,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",5,0,3,0,0,0,0,0,2,0,2,0,3,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",24,0,3,0,0,0,0,0,19,0,3,0,5,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",42,0,3,0,3,0,0,0,25,0,3,0,14,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",15,0,3,0,1,0,0,0,7,0,3,0,7,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",17,0,3,0,2,0,0,0,9,0,3,0,6,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",16,0,9,0,2,0,0,0,7,0,5,0,7,0,4,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",76,0,9,0,4,0,0,0,51,0,5,0,21,0,4,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",5,0,9,0,1,0,0,0,1,0,4,0,3,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",2,0,9,0,0,0,0,0,0,0,4,0,2,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",2,0,9,0,0,0,0,0,1,0,4,0,1,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",1,0,9,0,0,0,0,0,1,0,4,0,0,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",7,0,9,0,1,0,0,0,5,0,4,0,1,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",66,0,9,0,4,0,0,0,43,0,4,0,19,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",1,0,9,0,0,0,0,0,0,0,4,0,1,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",8,0,9,0,0,0,0,0,8,0,4,0,0,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",32,0,6,0,4,0,0,0,20,0,3,0,8,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",56,0,6,0,2,0,0,0,35,0,3,0,19,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",7,0,6,0,0,0,0,0,5,0,3,0,2,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",22,0,15,0,1,0,0,0,14,0,5,0,7,0,10,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",13,0,15,0,1,0,0,0,11,0,5,0,1,0,10,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",10,0,15,0,1,0,0,0,4,0,5,0,5,0,10,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",5,0,15,0,1,0,0,0,3,0,5,0,1,0,10,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",36,0,15,0,2,0,0,0,26,0,5,0,8,0,10,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",86,0,15,0,5,0,1,0,54,0,9,0,27,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",83,0,18,0,5,0,1,0,53,0,10,0,25,0,7,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",55,0,23,0,5,0,0,0,36,0,12,0,14,0,11,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",23,0,23,0,1,0,0,0,15,0,12,0,7,0,11,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",79,0,22,0,5,0,1,0,50,0,13,0,24,0,8,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",54,0,23,0,2,0,1,0,33,0,13,0,19,0,9,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",24,0,23,0,3,0,1,0,17,0,13,0,4,0,9,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",80,0,21,0,5,0,1,0,49,0,14,0,26,0,6,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",83,0,18,0,5,0,1,0,51,0,12,0,27,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",48,0,5,0,2,0,0,0,31,0,3,0,15,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",31,0,5,0,2,0,0,0,18,0,3,0,11,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",17,0,5,0,2,0,0,0,11,0,3,0,4,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",67,0,2,0,4,0,0,0,40,0,2,0,23,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",32,0,2,0,2,0,0,0,21,0,2,0,9,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",81,0,20,0,5,0,1,0,50,0,13,0,26,0,6,0
+"101",1,Reporting         ,0,101,13,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",85,0,16,0,5,0,1,0,53,0,10,0,27,0,5,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",89,0,12,0,6,0,0,0,55,0,8,0,28,0,4,0
+"101",1,Reporting         ,0,101,13,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",87,0,14,0,5,0,1,0,53,0,10,0,29,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",79,0,22,0,3,0,3,0,50,0,13,0,26,0,6,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",90,0,11,0,5,0,1,0,55,0,8,0,30,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",87,0,14,0,4,0,2,0,54,0,9,0,29,0,3,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Marquis Cantu",2,"",64,0,17,0,3,0,2,0,42,0,9,0,19,0,6,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Bebe Rocha",1,"",20,0,17,0,1,0,2,0,12,0,9,0,7,0,6,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Constable, Precinct Num. 1, Unexpired Term",37,"REP","Gary Silver",1,"",81,0,20,0,4,0,2,0,49,0,14,0,28,0,4,0
+"101",1,Reporting         ,0,101,13,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",81,0,20,0,4,0,2,0,49,0,14,0,28,0,4,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 1",14,"REP","YES",2,"",91,0,3,0,5,0,0,0,61,0,1,0,25,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 1",14,"REP","NO",1,"",7,0,3,0,1,0,0,0,1,0,1,0,5,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 2",66,"REP","YES",2,"",76,0,7,0,5,0,0,0,49,0,5,0,22,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 2",66,"REP","NO",1,"",18,0,7,0,1,0,0,0,9,0,5,0,8,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 3",35,"REP","YES",1,"",83,0,4,0,4,0,1,0,53,0,3,0,26,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 3",35,"REP","NO",2,"",14,0,4,0,1,0,1,0,7,0,3,0,6,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 4",23,"REP","YES",1,"",91,0,3,0,5,0,1,0,58,0,2,0,28,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 4",23,"REP","NO",2,"",7,0,3,0,0,0,1,0,3,0,2,0,4,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 5",38,"REP","YES",2,"",78,0,6,0,6,0,0,0,49,0,5,0,23,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 5",38,"REP","NO",1,"",17,0,6,0,0,0,0,0,9,0,5,0,8,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 6",7,"REP","YES",1,"",76,0,6,0,4,0,1,0,51,0,3,0,21,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 6",7,"REP","NO",2,"",19,0,6,0,1,0,1,0,9,0,3,0,9,0,2,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 7",44,"REP","YES",1,"",95,0,2,0,5,0,1,0,61,0,1,0,29,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 7",44,"REP","NO",2,"",4,0,2,0,0,0,1,0,1,0,1,0,3,0,0,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 8",65,"REP","YES",1,"",91,0,3,0,6,0,0,0,58,0,2,0,27,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 8",65,"REP","NO",2,"",7,0,3,0,0,0,0,0,3,0,2,0,4,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 9",53,"REP","YES",2,"",86,0,3,0,5,0,0,0,57,0,2,0,24,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 9",53,"REP","NO",1,"",12,0,3,0,1,0,0,0,4,0,2,0,7,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 10",45,"REP","YES",1,"",88,0,5,0,6,0,0,0,55,0,4,0,27,0,1,0
+"101",1,Reporting         ,0,101,13,0,0.00,"Proposition 10",45,"REP","NO",2,"",8,0,5,0,0,0,0,0,4,0,4,0,4,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",27,0,0,0,8,0,0,0,8,0,0,0,11,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",18,0,1,0,7,0,1,0,5,0,0,0,6,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",5,0,1,0,2,0,1,0,2,0,0,0,1,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",6,0,1,0,0,0,1,0,1,0,0,0,5,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",14,0,1,0,6,0,0,0,2,0,0,0,6,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",4,0,1,0,2,0,0,0,1,0,0,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",6,0,1,0,2,0,0,0,3,0,0,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",5,0,1,0,0,0,0,0,2,0,0,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",19,0,1,0,4,0,0,0,7,0,0,0,8,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",7,0,1,0,4,0,0,0,1,0,0,0,2,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",3,0,1,0,2,0,0,0,0,0,0,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",7,0,1,0,4,0,0,0,1,0,0,0,2,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",2,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",6,0,1,0,4,0,0,0,1,0,0,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",14,0,1,0,2,0,0,0,5,0,0,0,7,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",19,0,1,0,7,0,0,0,4,0,0,0,8,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",10,0,1,0,3,0,0,0,4,0,0,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",27,0,3,0,10,0,0,0,7,0,1,0,10,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",22,0,1,0,7,0,0,0,7,0,0,0,8,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",7,0,1,0,3,0,0,0,1,0,0,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",11,0,4,0,3,0,1,0,5,0,2,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",12,0,4,0,5,0,1,0,1,0,2,0,6,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",3,0,4,0,1,0,1,0,0,0,2,0,2,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",28,0,2,0,10,0,0,0,7,0,1,0,11,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",214,0,26,0,19,0,5,0,120,0,15,0,75,0,6,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Paul Belew",3,"",1,0,4,0,0,0,0,0,1,0,3,0,0,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",2,0,4,0,0,0,0,0,1,0,3,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",7,0,4,0,3,0,0,0,1,0,3,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",175,0,4,0,21,0,0,0,96,0,3,0,58,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Don Huffines",2,"",12,0,4,0,0,0,0,0,9,0,3,0,3,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Allen B. West",1,"",21,0,4,0,0,0,0,0,16,0,3,0,5,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Rick Perry",6,"",4,0,4,0,0,0,0,0,3,0,3,0,1,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Governor",54,"REP","Chad Prather",4,"",14,0,4,0,0,0,0,0,5,0,3,0,9,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",178,0,8,0,13,0,2,0,106,0,4,0,59,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",11,0,8,0,0,0,2,0,8,0,4,0,3,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",9,0,8,0,0,0,2,0,6,0,4,0,3,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",11,0,8,0,4,0,2,0,4,0,4,0,3,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",10,0,8,0,3,0,2,0,2,0,4,0,5,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",13,0,8,0,2,0,2,0,5,0,4,0,6,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",55,0,2,0,8,0,1,0,32,0,1,0,15,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",80,0,2,0,5,0,1,0,42,0,1,0,33,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",28,0,2,0,2,0,1,0,21,0,1,0,5,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",75,0,2,0,8,0,1,0,39,0,1,0,28,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",33,0,35,0,2,0,5,0,20,0,18,0,11,0,12,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",172,0,35,0,17,0,5,0,97,0,18,0,58,0,12,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",10,0,27,0,0,0,1,0,5,0,17,0,5,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",17,0,27,0,2,0,1,0,7,0,17,0,8,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",4,0,27,0,0,0,1,0,2,0,17,0,2,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",11,0,27,0,0,0,1,0,5,0,17,0,6,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",9,0,27,0,0,0,1,0,6,0,17,0,3,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",147,0,27,0,20,0,1,0,86,0,17,0,41,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",9,0,27,0,1,0,1,0,5,0,17,0,3,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",6,0,27,0,0,0,1,0,2,0,17,0,4,0,9,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",78,0,36,0,2,0,8,0,45,0,21,0,31,0,7,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",111,0,36,0,8,0,8,0,61,0,21,0,42,0,7,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",15,0,36,0,6,0,8,0,8,0,21,0,1,0,7,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",48,0,50,0,3,0,9,0,29,0,28,0,16,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",26,0,50,0,1,0,9,0,9,0,28,0,16,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",22,0,50,0,4,0,9,0,8,0,28,0,10,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",19,0,50,0,2,0,9,0,11,0,28,0,6,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",75,0,50,0,5,0,9,0,50,0,28,0,20,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",190,0,50,0,13,0,11,0,109,0,26,0,68,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",187,0,53,0,13,0,11,0,107,0,28,0,67,0,14,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",104,0,61,0,8,0,11,0,56,0,35,0,40,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",75,0,61,0,5,0,11,0,44,0,35,0,26,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",188,0,52,0,13,0,11,0,109,0,26,0,66,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",119,0,59,0,10,0,11,0,65,0,35,0,44,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",62,0,59,0,3,0,11,0,35,0,35,0,24,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",182,0,58,0,12,0,12,0,104,0,31,0,66,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",182,0,58,0,11,0,13,0,104,0,31,0,67,0,14,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",80,0,29,0,12,0,5,0,45,0,20,0,23,0,4,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",94,0,29,0,6,0,5,0,51,0,20,0,37,0,4,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",37,0,29,0,1,0,5,0,19,0,20,0,17,0,4,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",130,0,30,0,16,0,4,0,64,0,21,0,50,0,5,0
+"102",7,Reporting         ,0,240,30,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",80,0,30,0,4,0,4,0,50,0,21,0,26,0,5,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",180,0,60,0,13,0,11,0,103,0,32,0,64,0,17,0
+"102",7,Reporting         ,0,240,30,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",178,0,62,0,10,0,14,0,103,0,32,0,65,0,16,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",191,0,49,0,13,0,11,0,107,0,28,0,71,0,10,0
+"102",7,Reporting         ,0,240,30,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",189,0,51,0,14,0,10,0,109,0,26,0,66,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",189,0,51,0,15,0,9,0,109,0,26,0,65,0,16,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",185,0,55,0,14,0,10,0,107,0,28,0,64,0,17,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",185,0,55,0,11,0,13,0,108,0,27,0,66,0,15,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Marquis Cantu",2,"",176,0,5,0,17,0,0,0,109,0,2,0,50,0,3,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Bebe Rocha",1,"",59,0,5,0,7,0,0,0,24,0,2,0,28,0,3,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Constable, Precinct Num. 1, Unexpired Term",37,"REP","Gary Silver",1,"",191,0,49,0,15,0,9,0,108,0,27,0,68,0,13,0
+"102",7,Reporting         ,0,240,30,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",190,0,50,0,14,0,10,0,107,0,28,0,69,0,12,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 1",14,"REP","YES",2,"",218,0,3,0,21,0,0,0,124,0,1,0,73,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 1",14,"REP","NO",1,"",19,0,3,0,3,0,0,0,10,0,1,0,6,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 2",66,"REP","YES",2,"",141,0,11,0,9,0,2,0,87,0,5,0,45,0,4,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 2",66,"REP","NO",1,"",88,0,11,0,13,0,2,0,43,0,5,0,32,0,4,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 3",35,"REP","YES",1,"",204,0,0,0,17,0,0,0,118,0,0,0,69,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 3",35,"REP","NO",2,"",36,0,0,0,7,0,0,0,17,0,0,0,12,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 4",23,"REP","YES",1,"",214,0,3,0,20,0,1,0,123,0,1,0,71,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 4",23,"REP","NO",2,"",23,0,3,0,3,0,1,0,11,0,1,0,9,0,1,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 5",38,"REP","YES",2,"",168,0,5,0,12,0,1,0,96,0,2,0,60,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 5",38,"REP","NO",1,"",67,0,5,0,11,0,1,0,37,0,2,0,19,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 6",7,"REP","YES",1,"",169,0,11,0,11,0,1,0,99,0,5,0,59,0,5,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 6",7,"REP","NO",2,"",60,0,11,0,12,0,1,0,31,0,5,0,17,0,5,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 7",44,"REP","YES",1,"",231,0,2,0,22,0,1,0,129,0,1,0,80,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 7",44,"REP","NO",2,"",7,0,2,0,1,0,1,0,5,0,1,0,1,0,0,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 8",65,"REP","YES",1,"",218,0,5,0,19,0,2,0,125,0,1,0,74,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 8",65,"REP","NO",2,"",17,0,5,0,3,0,2,0,9,0,1,0,5,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 9",53,"REP","YES",2,"",210,0,3,0,20,0,0,0,118,0,1,0,72,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 9",53,"REP","NO",1,"",27,0,3,0,4,0,0,0,16,0,1,0,7,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 10",45,"REP","YES",1,"",212,0,8,0,16,0,3,0,120,0,3,0,76,0,2,0
+"102",7,Reporting         ,0,240,30,0,0.00,"Proposition 10",45,"REP","NO",2,"",20,0,8,0,5,0,3,0,12,0,3,0,3,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",51,0,0,0,18,0,0,0,15,0,0,0,18,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",28,0,3,0,12,0,0,0,7,0,2,0,9,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",11,0,3,0,2,0,0,0,3,0,2,0,6,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",10,0,3,0,4,0,0,0,3,0,2,0,3,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",20,0,3,0,7,0,0,0,4,0,2,0,9,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",8,0,3,0,4,0,0,0,3,0,2,0,1,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",15,0,3,0,5,0,0,0,5,0,2,0,5,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",4,0,3,0,1,0,0,0,1,0,2,0,2,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",2,0,3,0,1,0,0,0,0,0,2,0,1,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",29,0,3,0,12,0,0,0,5,0,2,0,12,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",12,0,3,0,3,0,0,0,5,0,2,0,4,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",8,0,3,0,3,0,0,0,3,0,2,0,2,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",14,0,4,0,7,0,0,0,3,0,3,0,4,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",9,0,4,0,4,0,0,0,2,0,3,0,3,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",7,0,4,0,3,0,0,0,2,0,3,0,2,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",18,0,4,0,4,0,0,0,5,0,3,0,9,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",42,0,2,0,16,0,0,0,9,0,1,0,17,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",8,0,2,0,2,0,0,0,5,0,1,0,1,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",47,0,5,0,18,0,0,0,11,0,4,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",47,0,5,0,18,0,0,0,11,0,4,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",47,0,5,0,18,0,0,0,11,0,4,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",47,0,5,0,18,0,0,0,11,0,4,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",48,0,4,0,18,0,0,0,12,0,3,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",46,0,6,0,18,0,0,0,11,0,4,0,17,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",42,0,3,0,17,0,0,0,11,0,2,0,14,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",7,0,3,0,1,0,0,0,2,0,2,0,4,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",46,0,6,0,18,0,0,0,11,0,4,0,17,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",23,0,6,0,7,0,0,0,6,0,4,0,10,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",14,0,6,0,5,0,0,0,4,0,4,0,5,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",9,0,6,0,6,0,0,0,1,0,4,0,2,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",47,0,5,0,17,0,1,0,12,0,3,0,18,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",278,0,30,0,33,0,11,0,119,0,11,0,126,0,8,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Paul Belew",3,"",1,0,2,0,0,0,0,0,1,0,2,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",2,0,2,0,1,0,0,0,1,0,2,0,0,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",235,0,2,0,39,0,0,0,97,0,2,0,99,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Don Huffines",2,"",20,0,2,0,1,0,0,0,6,0,2,0,13,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Allen B. West",1,"",33,0,2,0,1,0,0,0,18,0,2,0,14,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Rick Perry",6,"",7,0,2,0,1,0,0,0,3,0,2,0,3,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Governor",54,"REP","Chad Prather",4,"",8,0,2,0,1,0,0,0,2,0,2,0,5,0,0,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",238,0,12,0,29,0,4,0,106,0,2,0,103,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",7,0,12,0,0,0,4,0,3,0,2,0,4,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",24,0,12,0,8,0,4,0,5,0,2,0,11,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",10,0,12,0,3,0,4,0,4,0,2,0,3,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",8,0,12,0,0,0,4,0,6,0,2,0,2,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",9,0,12,0,0,0,4,0,4,0,2,0,5,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",75,0,2,0,15,0,1,0,35,0,0,0,25,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",128,0,2,0,18,0,1,0,56,0,0,0,54,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",31,0,2,0,2,0,1,0,13,0,0,0,16,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",72,0,2,0,8,0,1,0,26,0,0,0,38,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",45,0,33,0,10,0,6,0,16,0,12,0,19,0,15,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",230,0,33,0,28,0,6,0,102,0,12,0,100,0,15,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",9,0,33,0,1,0,5,0,2,0,11,0,6,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",21,0,33,0,7,0,5,0,6,0,11,0,8,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",5,0,33,0,1,0,5,0,2,0,11,0,2,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",21,0,33,0,4,0,5,0,12,0,11,0,5,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",15,0,33,0,1,0,5,0,7,0,11,0,7,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",166,0,33,0,20,0,5,0,74,0,11,0,72,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",18,0,33,0,3,0,5,0,6,0,11,0,9,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",20,0,33,0,2,0,5,0,10,0,11,0,8,0,17,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",80,0,29,0,13,0,3,0,33,0,11,0,34,0,15,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",181,0,29,0,26,0,3,0,79,0,11,0,76,0,15,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",18,0,29,0,2,0,3,0,7,0,11,0,9,0,15,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",44,0,51,0,7,0,4,0,24,0,17,0,13,0,30,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",27,0,51,0,5,0,4,0,9,0,17,0,13,0,30,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",38,0,51,0,7,0,4,0,12,0,17,0,19,0,30,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",27,0,51,0,1,0,4,0,12,0,17,0,14,0,30,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",121,0,51,0,20,0,4,0,56,0,17,0,45,0,30,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",253,0,55,0,35,0,9,0,112,0,18,0,106,0,28,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",246,0,62,0,35,0,9,0,110,0,20,0,101,0,33,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",177,0,60,0,23,0,6,0,81,0,22,0,73,0,32,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",71,0,60,0,15,0,6,0,27,0,22,0,29,0,32,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",244,0,64,0,35,0,9,0,108,0,22,0,101,0,33,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",146,0,59,0,26,0,5,0,61,0,20,0,59,0,34,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",103,0,59,0,13,0,5,0,49,0,20,0,41,0,34,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",240,0,68,0,35,0,9,0,106,0,24,0,99,0,35,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",242,0,66,0,35,0,9,0,107,0,23,0,100,0,34,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",100,0,21,0,17,0,3,0,42,0,7,0,41,0,11,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",127,0,21,0,13,0,3,0,54,0,7,0,60,0,11,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",60,0,21,0,11,0,3,0,27,0,7,0,22,0,11,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",157,0,25,0,19,0,3,0,68,0,8,0,70,0,14,0
+"108",9,Reporting         ,0,308,52,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",126,0,25,0,22,0,3,0,54,0,8,0,50,0,14,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",242,0,66,0,35,0,9,0,108,0,22,0,99,0,35,0
+"108",9,Reporting         ,0,308,52,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",242,0,66,0,34,0,10,0,106,0,24,0,102,0,32,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",255,0,53,0,35,0,9,0,110,0,20,0,110,0,24,0
+"108",9,Reporting         ,0,308,52,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",245,0,63,0,35,0,9,0,107,0,23,0,103,0,31,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",245,0,63,0,35,0,9,0,105,0,25,0,105,0,29,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",242,0,66,0,35,0,9,0,106,0,24,0,101,0,33,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",243,0,65,0,35,0,9,0,106,0,24,0,102,0,32,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Marquis Cantu",2,"",136,0,48,0,19,0,6,0,60,0,21,0,57,0,21,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Bebe Rocha",1,"",124,0,48,0,19,0,6,0,49,0,21,0,56,0,21,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Constable, Precinct Num. 1, Unexpired Term",37,"REP","Gary Silver",1,"",241,0,67,0,35,0,9,0,105,0,25,0,101,0,33,0
+"108",9,Reporting         ,0,308,52,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",246,0,62,0,35,0,9,0,106,0,24,0,105,0,29,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 1",14,"REP","YES",2,"",284,0,6,0,40,0,0,0,120,0,4,0,124,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 1",14,"REP","NO",1,"",18,0,6,0,4,0,0,0,6,0,4,0,8,0,2,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 2",66,"REP","YES",2,"",185,0,12,0,23,0,2,0,83,0,7,0,79,0,3,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 2",66,"REP","NO",1,"",111,0,12,0,19,0,2,0,40,0,7,0,52,0,3,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 3",35,"REP","YES",1,"",258,0,7,0,32,0,1,0,113,0,5,0,113,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 3",35,"REP","NO",2,"",43,0,7,0,11,0,1,0,12,0,5,0,20,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 4",23,"REP","YES",1,"",273,1,6,0,37,1,2,0,119,0,1,0,117,0,3,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 4",23,"REP","NO",2,"",28,1,6,0,4,1,2,0,10,0,1,0,14,0,3,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 5",38,"REP","YES",2,"",219,0,10,0,32,0,2,0,95,0,3,0,92,0,5,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 5",38,"REP","NO",1,"",79,0,10,0,10,0,2,0,32,0,3,0,37,0,5,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 6",7,"REP","YES",1,"",226,0,18,0,28,0,6,0,105,0,6,0,93,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 6",7,"REP","NO",2,"",64,0,18,0,10,0,6,0,19,0,6,0,35,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 7",44,"REP","YES",1,"",291,0,1,0,42,0,0,0,126,0,0,0,123,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 7",44,"REP","NO",2,"",16,0,1,0,2,0,0,0,4,0,0,0,10,0,1,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 8",65,"REP","YES",1,"",281,0,7,0,40,0,0,0,123,0,1,0,118,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 8",65,"REP","NO",2,"",20,0,7,0,4,0,0,0,6,0,1,0,10,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 9",53,"REP","YES",2,"",262,0,9,0,39,0,0,0,108,0,2,0,115,0,7,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 9",53,"REP","NO",1,"",37,0,9,0,5,0,0,0,20,0,2,0,12,0,7,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 10",45,"REP","YES",1,"",274,0,13,0,38,0,2,0,117,0,5,0,119,0,6,0
+"108",9,Reporting         ,0,308,52,0,0.00,"Proposition 10",45,"REP","NO",2,"",21,0,13,0,4,0,2,0,8,0,5,0,9,0,6,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",132,0,0,0,43,0,0,0,61,0,0,0,28,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",92,0,5,0,31,0,2,0,41,0,1,0,20,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",25,0,5,0,9,0,2,0,13,0,1,0,3,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",15,0,5,0,3,0,2,0,7,0,1,0,5,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",69,0,2,0,25,0,0,0,37,0,0,0,7,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",10,0,2,0,5,0,0,0,2,0,0,0,3,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",48,0,2,0,13,0,0,0,20,0,0,0,15,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",8,0,2,0,2,0,0,0,3,0,0,0,3,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",78,0,11,0,27,0,3,0,37,0,5,0,14,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",25,0,11,0,9,0,3,0,9,0,5,0,7,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",23,0,11,0,6,0,3,0,11,0,5,0,6,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",41,0,8,0,17,0,1,0,17,0,4,0,7,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",23,0,8,0,6,0,1,0,10,0,4,0,7,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",12,0,8,0,4,0,1,0,3,0,4,0,5,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",53,0,8,0,17,0,1,0,28,0,4,0,8,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",111,0,10,0,39,0,2,0,51,0,5,0,21,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",16,0,10,0,4,0,2,0,6,0,5,0,6,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",126,0,11,0,43,0,2,0,53,0,9,0,30,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",126,0,11,0,44,0,1,0,53,0,9,0,29,0,1,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",128,0,9,0,44,0,1,0,54,0,8,0,30,0,0,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",127,0,10,0,44,0,1,0,54,0,8,0,29,0,1,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",127,0,10,0,44,0,1,0,54,0,8,0,29,0,1,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",126,0,11,0,45,0,0,0,53,0,9,0,28,0,2,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",91,0,14,0,29,0,7,0,43,0,4,0,19,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",32,0,14,0,9,0,7,0,15,0,4,0,8,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",125,0,12,0,42,0,3,0,54,0,8,0,29,0,1,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",43,0,17,0,10,0,9,0,22,0,4,0,11,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",38,0,17,0,9,0,9,0,22,0,4,0,7,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",39,0,17,0,17,0,9,0,14,0,4,0,8,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",124,0,13,0,38,0,7,0,57,0,5,0,29,0,1,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",1098,0,127,0,80,0,23,0,645,0,50,0,373,0,54,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Paul Belew",3,"",10,0,10,0,0,0,3,0,6,0,4,0,4,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",1,0,10,0,0,0,3,0,1,0,4,0,0,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",16,0,10,0,4,0,3,0,5,0,4,0,7,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",844,0,10,0,73,0,3,0,481,0,4,0,290,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Don Huffines",2,"",73,0,10,0,7,0,3,0,41,0,4,0,25,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Allen B. West",1,"",208,0,10,0,12,0,3,0,122,0,4,0,74,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Rick Perry",6,"",33,0,10,0,3,0,3,0,18,0,4,0,12,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Governor",54,"REP","Chad Prather",4,"",30,0,10,0,1,0,3,0,17,0,4,0,12,0,3,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",949,0,40,0,76,0,4,0,526,0,21,0,347,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",23,0,40,0,3,0,4,0,16,0,21,0,4,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",64,0,40,0,5,0,4,0,36,0,21,0,23,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",42,0,40,0,3,0,4,0,25,0,21,0,14,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",62,0,40,0,9,0,4,0,36,0,21,0,17,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",45,0,40,0,3,0,4,0,35,0,21,0,7,0,15,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",241,0,15,0,22,0,4,0,147,0,7,0,72,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",560,0,15,0,44,0,4,0,310,0,7,0,206,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",158,0,15,0,6,0,4,0,86,0,7,0,66,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",251,0,15,0,27,0,4,0,145,0,7,0,79,0,4,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",156,0,147,0,9,0,16,0,82,0,62,0,65,0,69,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",922,0,147,0,78,0,16,0,551,0,62,0,293,0,69,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",31,0,114,0,3,0,9,0,16,0,52,0,12,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",92,0,114,0,9,0,9,0,43,0,52,0,40,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",8,0,114,0,0,0,9,0,4,0,52,0,4,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",80,0,114,0,2,0,9,0,52,0,52,0,26,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",46,0,114,0,1,0,9,0,31,0,52,0,14,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",773,0,114,0,73,0,9,0,455,0,52,0,245,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",46,0,114,0,4,0,9,0,25,0,52,0,17,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",35,0,114,0,2,0,9,0,17,0,52,0,16,0,53,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",349,0,168,0,30,0,16,0,205,0,75,0,114,0,77,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",597,0,168,0,44,0,16,0,359,0,75,0,194,0,77,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",111,0,168,0,13,0,16,0,56,0,75,0,42,0,77,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",230,0,216,0,9,0,19,0,151,0,103,0,70,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",77,0,216,0,7,0,19,0,34,0,103,0,36,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",135,0,216,0,9,0,19,0,72,0,103,0,54,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",74,0,216,0,8,0,19,0,39,0,103,0,27,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",493,0,216,0,51,0,19,0,296,0,103,0,146,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",1035,0,190,0,72,0,31,0,608,0,87,0,355,0,72,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",1030,0,195,0,73,0,30,0,606,0,89,0,351,0,76,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",622,0,256,0,53,0,29,0,374,0,117,0,195,0,110,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",347,0,256,0,21,0,29,0,204,0,117,0,122,0,110,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",1021,0,204,0,71,0,32,0,602,0,93,0,348,0,79,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",641,0,260,0,47,0,27,0,372,0,123,0,222,0,110,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",324,0,260,0,29,0,27,0,200,0,123,0,95,0,110,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",1001,0,224,0,74,0,29,0,594,0,101,0,333,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",1008,0,217,0,73,0,30,0,595,0,100,0,340,0,87,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",416,0,143,0,32,0,17,0,262,0,61,0,122,0,65,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",474,0,143,0,41,0,17,0,270,0,61,0,163,0,65,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",192,0,143,0,13,0,17,0,102,0,61,0,77,0,65,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",724,0,127,0,62,0,16,0,423,0,51,0,239,0,60,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",374,0,127,0,25,0,16,0,221,0,51,0,128,0,60,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",998,0,227,0,73,0,30,0,596,0,99,0,329,0,98,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",1002,0,223,0,74,0,29,0,595,0,100,0,333,0,94,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",1043,0,182,0,78,0,25,0,616,0,79,0,349,0,78,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",1012,0,213,0,74,0,29,0,603,0,92,0,335,0,92,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",1012,0,213,0,74,0,29,0,602,0,93,0,336,0,91,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",1012,0,213,0,74,0,29,0,602,0,93,0,336,0,91,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",1008,0,217,0,74,0,29,0,598,0,97,0,336,0,91,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Marquis Cantu",2,"",774,0,72,0,63,0,10,0,467,0,25,0,244,0,37,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Justice of the Peace, Precinct No. 1",26,"REP","Bebe Rocha",1,"",379,0,72,0,30,0,10,0,203,0,25,0,146,0,37,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Constable, Precinct Num. 1, Unexpired Term",37,"REP","Gary Silver",1,"",1021,0,204,0,75,0,28,0,605,0,90,0,341,0,86,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",1007,0,218,0,71,0,32,0,597,0,98,0,339,0,88,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 1",14,"REP","YES",2,"",1119,0,20,0,86,0,3,0,641,0,9,0,392,0,8,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 1",14,"REP","NO",1,"",86,0,20,0,14,0,3,0,45,0,9,0,27,0,8,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 2",66,"REP","YES",2,"",791,0,56,0,56,0,7,0,464,0,22,0,271,0,27,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 2",66,"REP","NO",1,"",378,0,56,0,40,0,7,0,209,0,22,0,129,0,27,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 3",35,"REP","YES",1,"",1066,0,27,0,73,0,7,0,607,0,11,0,386,0,9,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 3",35,"REP","NO",2,"",132,0,27,0,23,0,7,0,77,0,11,0,32,0,9,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 4",23,"REP","YES",1,"",1116,0,25,0,88,0,3,0,643,0,9,0,385,0,13,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 4",23,"REP","NO",2,"",84,0,25,0,12,0,3,0,43,0,9,0,29,0,13,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 5",38,"REP","YES",2,"",939,0,51,0,71,0,5,0,516,0,26,0,352,0,20,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 5",38,"REP","NO",1,"",235,0,51,0,27,0,5,0,153,0,26,0,55,0,20,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 6",7,"REP","YES",1,"",913,0,53,0,65,0,10,0,520,0,23,0,328,0,20,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 6",7,"REP","NO",2,"",259,0,53,0,28,0,10,0,152,0,23,0,79,0,20,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 7",44,"REP","YES",1,"",1160,0,22,0,93,0,3,0,665,0,10,0,402,0,9,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 7",44,"REP","NO",2,"",43,0,22,0,7,0,3,0,20,0,10,0,16,0,9,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 8",65,"REP","YES",1,"",1124,0,28,0,90,0,5,0,645,0,9,0,389,0,14,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 8",65,"REP","NO",2,"",73,0,28,0,8,0,5,0,41,0,9,0,24,0,14,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 9",53,"REP","YES",2,"",1078,0,28,0,80,0,2,0,625,0,10,0,373,0,16,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 9",53,"REP","NO",1,"",119,0,28,0,21,0,2,0,60,0,10,0,38,0,16,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 10",45,"REP","YES",1,"",1072,0,42,0,76,0,7,0,611,0,19,0,385,0,16,0
+"109",8,Reporting         ,0,1225,137,0,0.00,"Proposition 10",45,"REP","NO",2,"",111,0,42,0,20,0,7,0,65,0,19,0,26,0,16,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",80,0,1,0,22,0,0,0,34,0,1,0,24,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",2,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",51,0,3,0,14,0,0,0,22,0,1,0,15,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",15,0,3,0,7,0,0,0,7,0,1,0,1,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",15,0,3,0,1,0,0,0,7,0,1,0,7,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",46,0,3,0,18,0,0,0,15,0,2,0,13,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",5,0,3,0,0,0,0,0,4,0,2,0,1,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",22,0,3,0,3,0,0,0,12,0,2,0,7,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",5,0,3,0,0,0,0,0,4,0,2,0,1,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",3,0,3,0,1,0,0,0,0,0,2,0,2,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",55,0,6,0,16,0,3,0,25,0,3,0,14,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",12,0,6,0,1,0,3,0,4,0,3,0,7,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",11,0,6,0,2,0,3,0,5,0,3,0,4,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",24,0,5,0,4,0,4,0,12,0,1,0,8,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",11,0,5,0,3,0,4,0,6,0,1,0,2,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",13,0,5,0,4,0,4,0,2,0,1,0,7,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",31,0,5,0,7,0,4,0,16,0,1,0,8,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",67,0,4,0,18,0,3,0,31,0,1,0,18,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",13,0,4,0,1,0,3,0,5,0,1,0,7,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",73,0,11,0,20,0,2,0,30,0,7,0,23,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",71,0,13,0,20,0,2,0,29,0,8,0,22,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",72,0,12,0,20,0,2,0,29,0,8,0,23,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",70,0,14,0,20,0,2,0,28,0,9,0,22,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",72,0,12,0,20,0,2,0,30,0,7,0,22,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",69,0,15,0,20,0,2,0,28,0,9,0,21,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",65,0,7,0,17,0,3,0,29,0,2,0,19,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",12,0,7,0,2,0,3,0,6,0,2,0,4,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",71,0,13,0,20,0,2,0,29,0,8,0,22,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",35,0,8,0,6,0,3,0,16,0,4,0,13,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",28,0,8,0,10,0,3,0,8,0,4,0,10,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",13,0,8,0,3,0,3,0,9,0,4,0,1,0,1,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",73,0,11,0,20,0,2,0,30,0,7,0,23,0,2,0
+"203",3,Reporting         ,0,687,84,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",613,0,74,0,62,0,18,0,310,0,26,0,241,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Paul Belew",3,"",2,0,4,0,1,0,1,0,0,0,3,0,1,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",4,0,4,0,1,0,1,0,3,0,3,0,0,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",2,0,4,0,1,0,1,0,1,0,3,0,0,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",476,0,4,0,64,0,1,0,232,0,3,0,180,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Don Huffines",2,"",67,0,4,0,6,0,1,0,34,0,3,0,27,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Allen B. West",1,"",92,0,4,0,5,0,1,0,49,0,3,0,38,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Rick Perry",6,"",15,0,4,0,1,0,1,0,7,0,3,0,7,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Governor",54,"REP","Chad Prather",4,"",25,0,4,0,0,0,1,0,7,0,3,0,18,0,0,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",550,0,15,0,62,0,1,0,268,0,8,0,220,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",26,0,15,0,2,0,1,0,11,0,8,0,13,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",37,0,15,0,6,0,1,0,21,0,8,0,10,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",19,0,15,0,3,0,1,0,10,0,8,0,6,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",26,0,15,0,3,0,1,0,11,0,8,0,12,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",14,0,15,0,3,0,1,0,7,0,8,0,4,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",141,0,9,0,15,0,0,0,76,0,6,0,50,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",318,0,9,0,45,0,0,0,144,0,6,0,129,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",99,0,9,0,9,0,0,0,47,0,6,0,43,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",120,0,9,0,11,0,0,0,63,0,6,0,46,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",102,0,89,0,9,0,13,0,53,0,43,0,40,0,33,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",496,0,89,0,58,0,13,0,240,0,43,0,198,0,33,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",29,0,77,0,1,0,9,0,11,0,38,0,17,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",57,0,77,0,6,0,9,0,25,0,38,0,26,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",9,0,77,0,0,0,9,0,4,0,38,0,5,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",45,0,77,0,6,0,9,0,17,0,38,0,22,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",43,0,77,0,7,0,9,0,18,0,38,0,18,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",392,0,77,0,47,0,9,0,202,0,38,0,143,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",15,0,77,0,2,0,9,0,9,0,38,0,4,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",20,0,77,0,2,0,9,0,12,0,38,0,6,0,30,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",198,0,73,0,21,0,10,0,97,0,32,0,80,0,31,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",383,0,73,0,43,0,10,0,190,0,32,0,150,0,31,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",33,0,73,0,6,0,10,0,17,0,32,0,10,0,31,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",141,0,107,0,18,0,14,0,70,0,51,0,53,0,42,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",70,0,107,0,7,0,14,0,33,0,51,0,30,0,42,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",68,0,107,0,3,0,14,0,33,0,51,0,32,0,42,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",53,0,107,0,5,0,14,0,23,0,51,0,25,0,42,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",248,0,107,0,33,0,14,0,126,0,51,0,89,0,42,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",576,0,111,0,61,0,19,0,285,0,51,0,230,0,41,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",566,0,121,0,61,0,19,0,281,0,55,0,224,0,47,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",362,0,132,0,38,0,17,0,183,0,63,0,141,0,52,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",193,0,132,0,25,0,17,0,90,0,63,0,78,0,52,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",563,0,124,0,59,0,21,0,283,0,53,0,221,0,50,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",364,0,128,0,45,0,14,0,174,0,64,0,145,0,50,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",195,0,128,0,21,0,14,0,98,0,64,0,76,0,50,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",548,0,139,0,60,0,20,0,273,0,63,0,215,0,56,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",553,0,134,0,60,0,20,0,274,0,62,0,219,0,52,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",260,0,43,0,28,0,7,0,143,0,18,0,89,0,18,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",276,0,43,0,27,0,7,0,128,0,18,0,121,0,18,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",108,0,43,0,18,0,7,0,47,0,18,0,43,0,18,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",366,0,54,0,51,0,7,0,165,0,26,0,150,0,21,0
+"203",3,Reporting         ,0,687,84,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",267,0,54,0,22,0,7,0,145,0,26,0,100,0,21,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",556,0,131,0,61,0,19,0,276,0,60,0,219,0,52,0
+"203",3,Reporting         ,0,687,84,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",561,0,126,0,61,0,19,0,279,0,57,0,221,0,50,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",579,0,108,0,62,0,18,0,284,0,52,0,233,0,38,0
+"203",3,Reporting         ,0,687,84,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",564,0,123,0,62,0,18,0,277,0,59,0,225,0,46,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",563,0,124,0,62,0,18,0,275,0,61,0,226,0,45,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",562,0,125,0,62,0,18,0,276,0,60,0,224,0,47,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",555,0,132,0,61,0,19,0,273,0,63,0,221,0,50,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Commissioner, Precinct No. 2",51,"REP","Linda Raschke",1,"",572,0,115,0,63,0,17,0,284,0,52,0,225,0,46,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Justice of the Peace, Precinct No. 2",78,"REP","Maureen Riggs",1,"",565,0,122,0,63,0,17,0,278,0,58,0,224,0,47,0
+"203",3,Reporting         ,0,687,84,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",557,0,130,0,61,0,19,0,272,0,64,0,224,0,47,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 1",14,"REP","YES",2,"",654,0,7,0,78,0,0,0,317,0,4,0,259,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 1",14,"REP","NO",1,"",26,0,7,0,2,0,0,0,15,0,4,0,9,0,3,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 2",66,"REP","YES",2,"",493,1,22,0,49,1,0,0,248,0,13,0,196,0,9,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 2",66,"REP","NO",1,"",171,1,22,0,30,1,0,0,75,0,13,0,66,0,9,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 3",35,"REP","YES",1,"",634,0,5,0,72,0,0,0,309,0,1,0,253,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 3",35,"REP","NO",2,"",48,0,5,0,8,0,0,0,26,0,1,0,14,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 4",23,"REP","YES",1,"",639,0,10,0,78,0,0,0,309,0,4,0,252,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 4",23,"REP","NO",2,"",38,0,10,0,2,0,0,0,23,0,4,0,13,0,6,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 5",38,"REP","YES",2,"",561,0,20,0,62,0,1,0,268,0,11,0,231,0,8,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 5",38,"REP","NO",1,"",106,0,20,0,17,0,1,0,57,0,11,0,32,0,8,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 6",7,"REP","YES",1,"",565,0,20,0,64,0,0,0,270,0,13,0,231,0,7,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 6",7,"REP","NO",2,"",102,0,20,0,16,0,0,0,53,0,13,0,33,0,7,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 7",44,"REP","YES",1,"",662,0,7,0,75,0,2,0,326,0,1,0,261,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 7",44,"REP","NO",2,"",18,0,7,0,3,0,2,0,9,0,1,0,6,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 8",65,"REP","YES",1,"",645,0,10,0,78,0,0,0,314,0,5,0,253,0,5,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 8",65,"REP","NO",2,"",32,0,10,0,2,0,0,0,17,0,5,0,13,0,5,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 9",53,"REP","YES",2,"",625,0,11,0,71,0,0,0,300,0,7,0,254,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 9",53,"REP","NO",1,"",51,0,11,0,9,0,0,0,29,0,7,0,13,0,4,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 10",45,"REP","YES",1,"",630,0,22,0,70,0,3,0,305,0,12,0,255,0,7,0
+"203",3,Reporting         ,0,687,84,0,0.00,"Proposition 10",45,"REP","NO",2,"",35,0,22,0,7,0,3,0,19,0,12,0,9,0,7,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",35,0,0,0,9,0,0,0,8,0,0,0,18,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",29,0,1,0,9,0,0,0,8,0,0,0,12,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",3,0,1,0,0,0,0,0,1,0,0,0,2,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",5,0,1,0,0,0,0,0,1,0,0,0,4,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",18,0,1,0,5,0,0,0,4,0,0,0,9,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",14,0,1,0,3,0,0,0,4,0,0,0,7,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",4,0,1,0,1,0,0,0,2,0,0,0,1,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",26,0,1,0,4,0,1,0,6,0,0,0,16,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",10,0,1,0,4,0,1,0,3,0,0,0,3,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",5,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",7,0,0,0,2,0,0,0,2,0,0,0,3,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",12,0,0,0,4,0,0,0,3,0,0,0,5,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",14,0,0,0,3,0,0,0,2,0,0,0,9,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",26,0,1,0,5,0,0,0,9,0,0,0,12,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",11,0,1,0,4,0,0,0,1,0,0,0,6,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",37,0,1,0,9,0,0,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",36,0,2,0,9,0,0,0,10,0,0,0,17,0,2,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",37,0,1,0,9,0,0,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",36,0,2,0,8,0,1,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",37,0,1,0,9,0,0,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",37,0,1,0,9,0,0,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",28,0,1,0,6,0,0,0,9,0,0,0,13,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",9,0,1,0,3,0,0,0,1,0,0,0,5,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",36,0,2,0,8,0,1,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",19,0,1,0,8,0,0,0,3,0,0,0,8,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",7,0,1,0,1,0,0,0,2,0,0,0,4,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",11,0,1,0,0,0,0,0,5,0,0,0,6,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",37,0,1,0,9,0,0,0,10,0,0,0,18,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",270,0,18,0,28,0,6,0,102,0,7,0,140,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Paul Belew",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",218,0,0,0,28,0,0,0,82,0,0,0,108,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Don Huffines",2,"",28,0,0,0,2,0,0,0,12,0,0,0,14,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Allen B. West",1,"",23,0,0,0,3,0,0,0,9,0,0,0,11,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Rick Perry",6,"",3,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Governor",54,"REP","Chad Prather",4,"",15,0,0,0,0,0,0,0,5,0,0,0,10,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",244,0,6,0,30,0,2,0,85,0,3,0,129,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",5,0,6,0,0,0,2,0,2,0,3,0,3,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",10,0,6,0,0,0,2,0,6,0,3,0,4,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",3,0,6,0,1,0,2,0,2,0,3,0,0,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",13,0,6,0,1,0,2,0,8,0,3,0,4,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",7,0,6,0,0,0,2,0,3,0,3,0,4,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",50,0,2,0,5,0,0,0,18,0,1,0,27,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",154,0,2,0,21,0,0,0,61,0,1,0,72,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",29,0,2,0,1,0,0,0,14,0,1,0,14,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",53,0,2,0,7,0,0,0,15,0,1,0,31,0,1,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",46,0,28,0,5,0,4,0,14,0,12,0,27,0,12,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",214,0,28,0,25,0,4,0,83,0,12,0,106,0,12,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",8,0,32,0,1,0,5,0,2,0,9,0,5,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",25,0,32,0,1,0,5,0,7,0,9,0,17,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",2,0,32,0,0,0,5,0,1,0,9,0,1,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",23,0,32,0,3,0,5,0,10,0,9,0,10,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",18,0,32,0,1,0,5,0,7,0,9,0,10,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",167,0,32,0,20,0,5,0,66,0,9,0,81,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",6,0,32,0,2,0,5,0,3,0,9,0,1,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",7,0,32,0,1,0,5,0,4,0,9,0,2,0,18,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",75,0,26,0,7,0,0,0,22,0,12,0,46,0,14,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",164,0,26,0,23,0,0,0,69,0,12,0,72,0,14,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",23,0,26,0,4,0,0,0,6,0,12,0,13,0,14,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",48,0,48,0,7,0,4,0,13,0,20,0,28,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",37,0,48,0,6,0,4,0,13,0,20,0,18,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",30,0,48,0,5,0,4,0,10,0,20,0,15,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",15,0,48,0,0,0,4,0,5,0,20,0,10,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",110,0,48,0,12,0,4,0,48,0,20,0,50,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",248,0,40,0,27,0,7,0,96,0,13,0,125,0,20,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",242,0,46,0,27,0,7,0,94,0,15,0,121,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",143,0,55,0,16,0,5,0,52,0,23,0,75,0,27,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",90,0,55,0,13,0,5,0,34,0,23,0,43,0,27,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",240,0,48,0,27,0,7,0,92,0,17,0,121,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",161,0,53,0,19,0,6,0,66,0,21,0,76,0,26,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",74,0,53,0,9,0,6,0,22,0,21,0,43,0,26,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",236,0,52,0,27,0,7,0,91,0,18,0,118,0,27,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",236,0,52,0,27,0,7,0,91,0,18,0,118,0,27,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",91,0,20,0,5,0,4,0,40,0,5,0,46,0,11,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",120,0,20,0,18,0,4,0,40,0,5,0,62,0,11,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",57,0,20,0,7,0,4,0,24,0,5,0,26,0,11,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",155,0,14,0,17,0,3,0,59,0,6,0,79,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",119,0,14,0,14,0,3,0,44,0,6,0,61,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",234,0,54,0,27,0,7,0,92,0,17,0,115,0,30,0
+"204",6,Reporting         ,0,288,38,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",232,0,56,0,27,0,7,0,90,0,19,0,115,0,30,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",248,0,40,0,30,0,4,0,94,0,15,0,124,0,21,0
+"204",6,Reporting         ,0,288,38,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",241,0,47,0,27,0,7,0,93,0,16,0,121,0,24,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",239,0,49,0,28,0,6,0,91,0,18,0,120,0,25,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",238,0,50,0,27,0,7,0,92,0,17,0,119,0,26,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",235,0,53,0,27,0,7,0,89,0,20,0,119,0,26,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Commissioner, Precinct No. 2",51,"REP","Linda Raschke",1,"",243,0,45,0,29,0,5,0,92,0,17,0,122,0,23,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Justice of the Peace, Precinct No. 2",78,"REP","Maureen Riggs",1,"",239,0,49,0,30,0,4,0,91,0,18,0,118,0,27,0
+"204",6,Reporting         ,0,288,38,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",232,0,56,0,26,0,8,0,91,0,18,0,115,0,30,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 1",14,"REP","YES",2,"",278,0,1,0,30,0,0,0,105,0,1,0,143,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 1",14,"REP","NO",1,"",9,0,1,0,4,0,0,0,3,0,1,0,2,0,0,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 2",66,"REP","YES",2,"",197,0,11,0,24,0,0,0,78,0,6,0,95,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 2",66,"REP","NO",1,"",80,0,11,0,10,0,0,0,25,0,6,0,45,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 3",35,"REP","YES",1,"",259,0,6,0,29,0,0,0,99,0,4,0,131,0,2,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 3",35,"REP","NO",2,"",23,0,6,0,5,0,0,0,6,0,4,0,12,0,2,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 4",23,"REP","YES",1,"",267,0,9,0,29,0,0,0,103,0,4,0,135,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 4",23,"REP","NO",2,"",12,0,9,0,5,0,0,0,2,0,4,0,5,0,5,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 5",38,"REP","YES",2,"",240,0,12,0,27,0,0,0,90,0,5,0,123,0,7,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 5",38,"REP","NO",1,"",36,0,12,0,7,0,0,0,14,0,5,0,15,0,7,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 6",7,"REP","YES",1,"",227,0,18,0,21,0,2,0,91,0,6,0,115,0,10,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 6",7,"REP","NO",2,"",43,0,18,0,11,0,2,0,12,0,6,0,20,0,10,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 7",44,"REP","YES",1,"",279,0,4,0,32,0,0,0,107,0,2,0,140,0,2,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 7",44,"REP","NO",2,"",5,0,4,0,2,0,0,0,0,0,2,0,3,0,2,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 8",65,"REP","YES",1,"",267,0,9,0,32,0,0,0,100,0,3,0,135,0,6,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 8",65,"REP","NO",2,"",12,0,9,0,2,0,0,0,6,0,3,0,4,0,6,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 9",53,"REP","YES",2,"",257,0,7,0,29,0,0,0,96,0,4,0,132,0,3,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 9",53,"REP","NO",1,"",24,0,7,0,5,0,0,0,9,0,4,0,10,0,3,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 10",45,"REP","YES",1,"",265,0,11,0,29,0,0,0,97,0,7,0,139,0,4,0
+"204",6,Reporting         ,0,288,38,0,0.00,"Proposition 10",45,"REP","NO",2,"",12,0,11,0,5,0,0,0,5,0,7,0,2,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",20,0,0,0,9,0,0,0,2,0,0,0,9,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",11,0,1,0,5,0,1,0,1,0,0,0,5,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",6,0,1,0,3,0,1,0,1,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",3,0,1,0,0,0,1,0,0,0,0,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",6,0,0,0,3,0,0,0,0,0,0,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",7,0,0,0,4,0,0,0,0,0,0,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",8,0,0,0,2,0,0,0,2,0,0,0,4,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",12,0,0,0,5,0,0,0,1,0,0,0,6,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",4,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",5,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",7,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",7,0,0,0,3,0,0,0,0,0,0,0,4,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",3,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",4,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",17,0,0,0,7,0,0,0,2,0,0,0,8,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",4,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",21,0,0,0,9,0,0,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",15,0,1,0,7,0,1,0,2,0,0,0,6,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",5,0,1,0,1,0,1,0,0,0,0,0,4,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",20,0,1,0,9,0,0,0,2,0,0,0,9,0,1,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",5,0,1,0,0,0,1,0,0,0,0,0,5,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",6,0,1,0,4,0,1,0,0,0,0,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",9,0,1,0,4,0,1,0,2,0,0,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",20,0,1,0,8,0,1,0,2,0,0,0,10,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",178,0,24,0,27,0,1,0,63,0,8,0,88,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Paul Belew",3,"",4,0,1,0,0,0,0,0,2,0,1,0,2,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",147,0,1,0,26,0,0,0,49,0,1,0,72,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Don Huffines",2,"",11,0,1,0,0,0,0,0,8,0,1,0,3,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Allen B. West",1,"",25,0,1,0,0,0,0,0,6,0,1,0,19,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Rick Perry",6,"",3,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Governor",54,"REP","Chad Prather",4,"",9,0,1,0,2,0,0,0,2,0,1,0,5,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",169,0,7,0,28,0,0,0,57,0,3,0,84,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",4,0,7,0,0,0,0,0,1,0,3,0,3,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",7,0,7,0,0,0,0,0,3,0,3,0,4,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",4,0,7,0,0,0,0,0,2,0,3,0,2,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",6,0,7,0,0,0,0,0,3,0,3,0,3,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",5,0,7,0,0,0,0,0,2,0,3,0,3,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",44,0,0,0,7,0,0,0,15,0,0,0,22,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",101,0,0,0,14,0,0,0,40,0,0,0,47,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",18,0,0,0,1,0,0,0,3,0,0,0,14,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",39,0,0,0,6,0,0,0,13,0,0,0,20,0,0,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",35,0,21,0,2,0,0,0,13,0,10,0,20,0,11,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",146,0,21,0,26,0,0,0,48,0,10,0,72,0,11,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",8,0,22,0,0,0,0,0,3,0,7,0,5,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",13,0,22,0,1,0,0,0,6,0,7,0,6,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",2,0,22,0,0,0,0,0,1,0,7,0,1,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",19,0,22,0,6,0,0,0,6,0,7,0,7,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",18,0,22,0,1,0,0,0,5,0,7,0,12,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",104,0,22,0,20,0,0,0,34,0,7,0,50,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",9,0,22,0,0,0,0,0,6,0,7,0,3,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",7,0,22,0,0,0,0,0,3,0,7,0,4,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",67,0,15,0,5,0,0,0,28,0,7,0,34,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",104,0,15,0,23,0,0,0,29,0,7,0,52,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",16,0,15,0,0,0,0,0,7,0,7,0,9,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",38,0,29,0,6,0,2,0,13,0,11,0,19,0,16,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",15,0,29,0,3,0,2,0,4,0,11,0,8,0,16,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",29,0,29,0,2,0,2,0,13,0,11,0,14,0,16,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",18,0,29,0,1,0,2,0,5,0,11,0,12,0,16,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",73,0,29,0,14,0,2,0,25,0,11,0,34,0,16,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",166,0,36,0,24,0,4,0,60,0,11,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",166,0,36,0,24,0,4,0,60,0,11,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",96,0,30,0,18,0,2,0,35,0,13,0,43,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",76,0,30,0,8,0,2,0,23,0,13,0,45,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",165,0,37,0,24,0,4,0,59,0,12,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",110,0,27,0,16,0,2,0,37,0,12,0,57,0,13,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",65,0,27,0,10,0,2,0,22,0,12,0,33,0,13,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",164,0,38,0,24,0,4,0,59,0,12,0,81,0,22,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",168,0,34,0,24,0,4,0,59,0,12,0,85,0,18,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",75,0,14,0,9,0,0,0,29,0,6,0,37,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",68,0,14,0,9,0,0,0,23,0,6,0,36,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",45,0,14,0,10,0,0,0,13,0,6,0,22,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",108,0,15,0,21,0,1,0,37,0,5,0,50,0,9,0
+"205",5,Reporting         ,0,202,21,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",79,0,15,0,6,0,1,0,29,0,5,0,44,0,9,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",160,0,42,0,25,0,3,0,57,0,14,0,78,0,25,0
+"205",5,Reporting         ,0,202,21,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",169,0,33,0,26,0,2,0,59,0,12,0,84,0,19,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",174,0,28,0,26,0,2,0,60,0,11,0,88,0,15,0
+"205",5,Reporting         ,0,202,21,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",167,0,35,0,26,0,2,0,59,0,12,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",165,0,37,0,25,0,3,0,59,0,12,0,81,0,22,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",167,0,35,0,25,0,3,0,60,0,11,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",163,0,39,0,24,0,4,0,57,0,14,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Commissioner, Precinct No. 2",51,"REP","Linda Raschke",1,"",169,0,33,0,24,0,4,0,60,0,11,0,85,0,18,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Justice of the Peace, Precinct No. 2",78,"REP","Maureen Riggs",1,"",169,0,33,0,24,0,4,0,60,0,11,0,85,0,18,0
+"205",5,Reporting         ,0,202,21,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",163,0,39,0,24,0,4,0,57,0,14,0,82,0,21,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 1",14,"REP","YES",2,"",188,0,6,0,28,0,0,0,65,0,4,0,95,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 1",14,"REP","NO",1,"",8,0,6,0,0,0,0,0,2,0,4,0,6,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 2",66,"REP","YES",2,"",149,0,10,0,20,0,0,0,47,0,7,0,82,0,3,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 2",66,"REP","NO",1,"",43,0,10,0,8,0,0,0,17,0,7,0,18,0,3,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 3",35,"REP","YES",1,"",176,0,5,0,26,0,0,0,61,0,3,0,89,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 3",35,"REP","NO",2,"",21,0,5,0,2,0,0,0,7,0,3,0,12,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 4",23,"REP","YES",1,"",183,0,5,0,26,0,0,0,64,0,3,0,93,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 4",23,"REP","NO",2,"",14,0,5,0,2,0,0,0,4,0,3,0,8,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 5",38,"REP","YES",2,"",164,0,7,0,24,0,0,0,59,0,2,0,81,0,5,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 5",38,"REP","NO",1,"",31,0,7,0,4,0,0,0,10,0,2,0,17,0,5,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 6",7,"REP","YES",1,"",160,0,13,0,26,0,0,0,56,0,5,0,78,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 6",7,"REP","NO",2,"",29,0,13,0,2,0,0,0,10,0,5,0,17,0,8,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 7",44,"REP","YES",1,"",192,0,4,0,28,0,0,0,67,0,2,0,97,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 7",44,"REP","NO",2,"",6,0,4,0,0,0,0,0,2,0,2,0,4,0,2,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 8",65,"REP","YES",1,"",182,0,8,0,28,0,0,0,66,0,2,0,88,0,6,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 8",65,"REP","NO",2,"",12,0,8,0,0,0,0,0,3,0,2,0,9,0,6,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 9",53,"REP","YES",2,"",181,0,5,0,25,0,0,0,65,0,2,0,91,0,3,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 9",53,"REP","NO",1,"",16,0,5,0,3,0,0,0,4,0,2,0,9,0,3,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 10",45,"REP","YES",1,"",185,0,6,0,28,0,0,0,65,0,2,0,92,0,4,0
+"205",5,Reporting         ,0,202,21,0,0.00,"Proposition 10",45,"REP","NO",2,"",11,0,6,0,0,0,0,0,4,0,2,0,7,0,4,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",83,0,1,0,25,0,0,0,29,0,1,0,29,0,0,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",2,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",2,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",2,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",55,0,4,0,14,0,1,0,22,0,1,0,19,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",18,0,4,0,9,0,1,0,4,0,1,0,5,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",13,0,4,0,4,0,1,0,5,0,1,0,4,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",29,0,4,0,13,0,0,0,9,0,1,0,7,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",12,0,4,0,2,0,0,0,3,0,1,0,7,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",30,0,4,0,10,0,0,0,16,0,1,0,4,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",11,0,4,0,2,0,0,0,3,0,1,0,6,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",4,0,4,0,1,0,0,0,0,0,1,0,3,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",53,0,4,0,20,0,1,0,17,0,0,0,16,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",20,0,4,0,5,0,1,0,8,0,0,0,7,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",13,0,4,0,2,0,1,0,7,0,0,0,4,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",20,0,2,0,11,0,0,0,4,0,1,0,5,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",26,0,2,0,6,0,0,0,13,0,1,0,7,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",17,0,2,0,3,0,0,0,5,0,1,0,9,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",25,0,2,0,8,0,0,0,9,0,1,0,8,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",72,0,4,0,22,0,0,0,25,0,2,0,25,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",14,0,4,0,6,0,0,0,5,0,2,0,3,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",81,0,9,0,25,0,3,0,29,0,3,0,27,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",81,0,9,0,25,0,3,0,29,0,3,0,27,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",82,0,8,0,24,0,4,0,30,0,2,0,28,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",83,0,7,0,25,0,3,0,30,0,2,0,28,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",81,0,9,0,24,0,4,0,30,0,2,0,27,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",83,0,7,0,25,0,3,0,29,0,3,0,29,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",67,0,5,0,20,0,1,0,26,0,1,0,21,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",18,0,5,0,7,0,1,0,5,0,1,0,6,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",80,0,10,0,24,0,4,0,28,0,4,0,28,0,2,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",38,0,5,0,10,0,2,0,10,0,2,0,18,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",24,0,5,0,5,0,2,0,13,0,2,0,6,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",23,0,5,0,11,0,2,0,7,0,2,0,5,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",82,0,8,0,26,0,2,0,29,0,3,0,27,0,3,0
+"307",4,Reporting         ,0,633,90,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",568,0,65,0,49,0,8,0,287,0,23,0,232,0,34,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Paul Belew",3,"",3,0,1,0,0,0,0,0,2,0,0,0,1,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",5,0,1,0,0,0,0,0,2,0,0,0,3,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",469,0,1,0,50,0,0,0,230,0,0,0,189,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Don Huffines",2,"",42,0,1,0,4,0,0,0,21,0,0,0,17,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Allen B. West",1,"",72,0,1,0,3,0,0,0,40,0,0,0,29,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Rick Perry",6,"",19,0,1,0,0,0,0,0,10,0,0,0,9,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Governor",54,"REP","Chad Prather",4,"",22,0,1,0,0,0,0,0,5,0,0,0,17,0,1,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",504,0,21,0,46,0,3,0,248,0,4,0,210,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",18,0,21,0,0,0,3,0,8,0,4,0,10,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",34,0,21,0,2,0,3,0,19,0,4,0,13,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",8,0,21,0,1,0,3,0,6,0,4,0,1,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",28,0,21,0,0,0,3,0,18,0,4,0,10,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",20,0,21,0,5,0,3,0,7,0,4,0,8,0,14,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",131,0,13,0,12,0,0,0,73,0,3,0,46,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",311,0,13,0,26,0,0,0,149,0,3,0,136,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",74,0,13,0,9,0,0,0,37,0,3,0,28,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",104,0,13,0,10,0,0,0,48,0,3,0,46,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",105,0,72,0,5,0,8,0,58,0,28,0,42,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",456,0,72,0,44,0,8,0,224,0,28,0,188,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",21,0,66,0,0,0,2,0,14,0,28,0,7,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",61,0,66,0,6,0,2,0,28,0,28,0,27,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",5,0,66,0,0,0,2,0,3,0,28,0,2,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",35,0,66,0,5,0,2,0,16,0,28,0,14,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",50,0,66,0,8,0,2,0,20,0,28,0,22,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",369,0,66,0,31,0,2,0,185,0,28,0,153,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",9,0,66,0,2,0,2,0,6,0,28,0,1,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",17,0,66,0,3,0,2,0,10,0,28,0,4,0,36,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",191,0,73,0,20,0,4,0,94,0,31,0,77,0,38,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",330,0,73,0,29,0,4,0,174,0,31,0,127,0,38,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",39,0,73,0,4,0,4,0,11,0,31,0,24,0,38,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",97,1,106,0,4,1,4,0,49,0,53,0,44,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",94,1,106,0,11,1,4,0,40,0,53,0,43,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",65,1,106,0,3,1,4,0,32,0,53,0,30,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",60,1,106,0,6,1,4,0,24,0,53,0,30,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",210,1,106,0,28,1,4,0,112,0,53,0,70,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",532,0,101,0,47,0,10,0,268,0,42,0,217,0,49,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",523,0,110,0,47,0,10,0,264,0,46,0,212,0,54,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",328,0,112,0,37,0,6,0,162,0,49,0,129,0,57,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",193,0,112,0,14,0,6,0,99,0,49,0,80,0,57,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",521,0,112,0,46,0,11,0,263,0,47,0,212,0,54,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",338,0,112,0,39,0,5,0,168,0,52,0,131,0,55,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",183,0,112,0,13,0,5,0,90,0,52,0,80,0,55,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",518,0,115,0,46,0,11,0,264,0,46,0,208,0,58,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",521,0,112,0,47,0,10,0,265,0,45,0,209,0,57,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",215,0,48,0,17,0,2,0,124,0,22,0,74,0,24,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",255,0,48,0,20,0,2,0,110,0,22,0,125,0,24,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",115,0,48,0,18,0,2,0,54,0,22,0,43,0,24,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",316,0,49,0,22,0,5,0,164,0,16,0,130,0,28,0
+"307",4,Reporting         ,0,633,90,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",268,0,49,0,30,0,5,0,130,0,16,0,108,0,28,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",519,0,114,0,47,0,10,0,262,0,48,0,210,0,56,0
+"307",4,Reporting         ,0,633,90,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",513,0,120,0,46,0,11,0,260,0,50,0,207,0,59,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",538,0,95,0,47,0,10,0,270,0,40,0,221,0,45,0
+"307",4,Reporting         ,0,633,90,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",524,0,109,0,46,0,11,0,266,0,44,0,212,0,54,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",519,0,114,0,46,0,11,0,261,0,49,0,212,0,54,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",517,0,116,0,47,0,10,0,262,0,48,0,208,0,58,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",514,0,119,0,46,0,11,0,263,0,47,0,205,0,61,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Justice of the Peace, Precinct No. 3",80,"REP","Debra (Deb) Edwards",1,"",526,0,107,0,44,0,13,0,267,0,43,0,215,0,51,0
+"307",4,Reporting         ,0,633,90,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",509,0,124,0,42,0,15,0,260,0,50,0,207,0,59,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 1",14,"REP","YES",2,"",588,0,10,0,55,0,1,0,283,0,4,0,250,0,5,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 1",14,"REP","NO",1,"",35,0,10,0,1,0,1,0,23,0,4,0,11,0,5,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 2",66,"REP","YES",2,"",455,1,32,0,44,1,3,0,221,0,17,0,190,0,12,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 2",66,"REP","NO",1,"",145,1,32,0,9,1,3,0,72,0,17,0,64,0,12,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 3",35,"REP","YES",1,"",551,0,14,0,51,0,1,0,267,0,7,0,233,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 3",35,"REP","NO",2,"",68,0,14,0,5,0,1,0,36,0,7,0,27,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 4",23,"REP","YES",1,"",572,0,15,0,52,0,1,0,283,0,9,0,237,0,5,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 4",23,"REP","NO",2,"",46,0,15,0,4,0,1,0,18,0,9,0,24,0,5,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 5",38,"REP","YES",2,"",508,0,24,0,47,0,3,0,246,0,8,0,215,0,13,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 5",38,"REP","NO",1,"",101,0,24,0,7,0,3,0,56,0,8,0,38,0,13,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 6",7,"REP","YES",1,"",497,0,36,0,46,0,3,0,244,0,10,0,207,0,23,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 6",7,"REP","NO",2,"",100,0,36,0,8,0,3,0,56,0,10,0,36,0,23,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 7",44,"REP","YES",1,"",605,0,13,0,56,0,1,0,294,0,6,0,255,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 7",44,"REP","NO",2,"",15,0,13,0,0,0,1,0,10,0,6,0,5,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 8",65,"REP","YES",1,"",585,0,13,0,54,0,1,0,285,0,6,0,246,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 8",65,"REP","NO",2,"",35,0,13,0,2,0,1,0,19,0,6,0,14,0,6,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 9",53,"REP","YES",2,"",566,0,18,0,49,0,2,0,278,0,6,0,239,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 9",53,"REP","NO",1,"",49,0,18,0,6,0,2,0,26,0,6,0,17,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 10",45,"REP","YES",1,"",590,0,14,0,52,0,1,0,292,0,3,0,246,0,10,0
+"307",4,Reporting         ,0,633,90,0,0.00,"Proposition 10",45,"REP","NO",2,"",29,0,14,0,4,0,1,0,15,0,3,0,10,0,10,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",43,"DEM","Beto O'Rourke",1,"",130,0,0,0,54,0,0,0,51,0,0,0,25,0,0,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",43,"DEM","Joy Diaz",3,"",5,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",43,"DEM","Michael Cooper",4,"",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",43,"DEM","Inocencio (Inno) Barrientez",5,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",43,"DEM","Rich Wakeland",2,"",3,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",78,0,8,0,31,0,5,0,32,0,2,0,15,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",25,"DEM","Carla Brailey",1,"",31,0,8,0,18,0,5,0,6,0,2,0,7,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",22,0,8,0,2,0,5,0,17,0,2,0,3,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",42,"DEM","Joe Jaworski",3,"",57,0,8,0,26,0,5,0,24,0,2,0,7,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",42,"DEM","Lee Merritt",1,"",22,0,8,0,10,0,5,0,5,0,2,0,7,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",35,0,8,0,11,0,5,0,17,0,2,0,7,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",42,"DEM","Mike Fields",4,"",9,0,8,0,2,0,5,0,6,0,2,0,1,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",42,"DEM","S. ""TBone"" Raynor",5,"",8,0,8,0,2,0,5,0,3,0,2,0,3,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",77,0,15,0,34,0,5,0,33,0,5,0,10,0,5,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Comptroller of Public Accounts",58,"DEM","Tim Mahoney",2,"",16,0,15,0,6,0,5,0,8,0,5,0,2,0,5,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",31,0,15,0,11,0,5,0,11,0,5,0,9,0,5,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jinny Suh",1,"",33,1,11,0,13,1,5,0,12,0,5,0,8,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",19,1,11,0,11,1,5,0,5,0,5,0,3,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",24,"DEM","Michael Lange",3,"",29,1,11,0,11,1,5,0,14,0,5,0,4,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",46,1,11,0,15,1,5,0,21,0,5,0,10,0,1,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of Agriculture",67,"DEM","Susan Hays",2,"",113,0,12,0,40,0,6,0,49,0,4,0,24,0,2,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of Agriculture",67,"DEM","Ed Ireson",1,"",14,0,12,0,10,0,6,0,4,0,4,0,0,0,2,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",12,"DEM","Luke Warford",1,"",111,0,28,0,42,0,14,0,47,0,10,0,22,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 3",39,"DEM","Erin A Nowell",1,"",114,0,25,0,43,0,13,0,48,0,9,0,23,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 5",33,"DEM","Amanda Reichek",1,"",114,0,25,0,43,0,13,0,48,0,9,0,23,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 9",20,"DEM","Julia Maldonado",1,"",112,0,27,0,43,0,13,0,47,0,10,0,22,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 5",73,"DEM","Dana Huffman",1,"",113,0,26,0,43,0,13,0,47,0,10,0,23,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 6",28,"DEM","Robert Johnson",1,"",111,0,28,0,42,0,14,0,47,0,10,0,22,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Senator, District No. 24",81,"DEM","Kathy Jones-Hospod",2,"",93,0,20,0,30,0,11,0,44,0,6,0,19,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Senator, District No. 24",81,"DEM","Jeremy Kohlwes",1,"",26,0,20,0,15,0,11,0,7,0,6,0,4,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Representative,  District No. 53",82,"DEM","Joe P. Herrera",1,"",113,0,26,0,43,0,13,0,46,0,11,0,24,0,2,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Paula Knippa",2,"",46,0,17,0,19,0,7,0,16,0,6,0,11,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Beth Payán",1,"",49,0,17,0,18,0,7,0,28,0,6,0,3,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",83,"DEM","Rosa Lopez Theofanis",3,"",27,0,17,0,12,0,7,0,7,0,6,0,8,0,4,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Chairman",79,"DEM","Candy Huff",1,"",113,0,26,0,43,0,13,0,47,0,10,0,23,0,3,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"United States Representative, District No. 11",15,"REP","August Pfluger",1,"",1228,0,184,0,96,0,20,0,696,0,99,0,436,0,65,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Paul Belew",3,"",5,0,25,0,0,0,1,0,3,0,17,0,2,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Danny Harrison",7,"",17,0,25,0,0,0,1,0,14,0,17,0,3,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Kandy Kaye Horn",5,"",22,0,25,0,3,0,1,0,15,0,17,0,4,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Greg Abbott",8,"",882,0,25,0,84,0,1,0,512,0,17,0,286,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Don Huffines",2,"",137,0,25,0,9,0,1,0,65,0,17,0,63,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Allen B. West",1,"",197,0,25,0,13,0,1,0,106,0,17,0,78,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Rick Perry",6,"",30,0,25,0,0,0,1,0,15,0,17,0,15,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Governor",54,"REP","Chad Prather",4,"",97,0,25,0,6,0,1,0,48,0,17,0,43,0,7,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Dan Patrick",2,"",992,0,97,0,90,0,5,0,552,0,60,0,350,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Todd M. Bullis",5,"",41,0,97,0,1,0,5,0,20,0,60,0,20,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Daniel Miller",6,"",108,0,97,0,4,0,5,0,65,0,60,0,39,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Zach Vance",3,"",45,0,97,0,9,0,5,0,20,0,60,0,16,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Trayce Bradford",4,"",74,0,97,0,4,0,5,0,43,0,60,0,27,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Lieutenant Governor",19,"REP","Aaron Sorrells",1,"",55,0,97,0,3,0,5,0,35,0,60,0,17,0,32,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",41,"REP","Eva Guzman",2,"",279,0,50,0,23,0,1,0,175,0,32,0,81,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",41,"REP","Ken Paxton",3,"",606,0,50,0,51,0,1,0,337,0,32,0,218,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",41,"REP","Louie Gohmert",1,"",182,0,50,0,10,0,1,0,94,0,32,0,78,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Attorney General",41,"REP","George P. Bush",4,"",295,0,50,0,31,0,1,0,157,0,32,0,107,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Comptroller of Public Accounts",63,"REP","Mark V. Goloby",1,"",220,0,217,0,10,0,11,0,119,0,116,0,91,0,90,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Comptroller of Public Accounts",63,"REP","Glenn Hegar",2,"",975,0,217,0,95,0,11,0,560,0,116,0,320,0,90,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Rufus Lopez",4,"",64,0,232,0,4,0,8,0,33,0,128,0,27,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Don W. Minton",5,"",92,0,232,0,14,0,8,0,44,0,128,0,34,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Ben Armenta",1,"",18,0,232,0,0,0,8,0,10,0,128,0,8,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Jon Spiers",6,"",88,0,232,0,6,0,8,0,53,0,128,0,29,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",79,0,232,0,6,0,8,0,42,0,128,0,31,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",707,0,232,0,63,0,8,0,415,0,128,0,229,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Victor Avila",8,"",45,0,232,0,8,0,8,0,24,0,128,0,13,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of the General Land Office",22,"REP","Weston Martinez",7,"",87,0,232,0,7,0,8,0,46,0,128,0,34,0,96,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of Agriculture",17,"REP","James White",1,"",342,0,172,0,20,0,7,0,205,0,100,0,117,0,65,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of Agriculture",17,"REP","Sid Miller",3,"",803,0,172,0,77,0,7,0,441,0,100,0,285,0,65,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Commissioner of Agriculture",17,"REP","Carey A. Counsil",2,"",95,0,172,0,12,0,7,0,49,0,100,0,34,0,65,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",64,"REP","Tom Slocum Jr",4,"",236,0,312,0,15,0,22,0,141,0,175,0,80,0,115,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",64,"REP","Marvin ""Sarge"" Summers",1,"",121,0,312,0,8,0,22,0,68,0,175,0,45,0,115,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",158,0,312,0,12,0,22,0,86,0,175,0,60,0,115,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",64,"REP","Dawayne Tipton",5,"",123,0,312,0,5,0,22,0,65,0,175,0,53,0,115,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",462,0,312,0,54,0,22,0,260,0,175,0,148,0,115,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 3",21,"REP","Debra Lehrmann",1,"",1109,0,303,0,93,0,23,0,618,0,177,0,398,0,103,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 5",18,"REP","Rebeca Huddle",1,"",1098,0,314,0,93,0,23,0,614,0,181,0,391,0,110,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","Evan Young",2,"",638,0,347,0,51,0,24,0,361,0,202,0,226,0,121,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, Supreme Court, Place 9",11,"REP","David J. Schenck",1,"",427,0,347,0,41,0,24,0,232,0,202,0,154,0,121,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 2",62,"REP","Mary Lou Keel",1,"",1078,0,334,0,93,0,23,0,597,0,198,0,388,0,113,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Scott Walker",2,"",658,0,365,0,61,0,20,0,367,0,215,0,230,0,130,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 5",61,"REP","Clint Morgan",1,"",389,0,365,0,35,0,20,0,213,0,215,0,141,0,130,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Judge, Court of Criminal Appeals, Place 6",3,"REP","Jesse F. McClure, III",1,"",1051,0,361,0,90,0,26,0,582,0,213,0,379,0,122,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Member, State Board of Education, District No. 10",5,"REP","Tom Maynard",1,"",1048,0,364,0,88,0,28,0,581,0,214,0,379,0,122,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Senator, District No. 24",32,"REP","Raul Reyes",3,"",600,0,165,0,46,0,11,0,352,0,92,0,202,0,62,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Senator, District No. 24",32,"REP","Pete Flores",1,"",429,0,165,0,36,0,11,0,218,0,92,0,175,0,62,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Senator, District No. 24",32,"REP","Lamar Lewis",2,"",218,0,165,0,23,0,11,0,133,0,92,0,62,0,62,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Representative,  District No. 53",16,"REP","Andrew S. Murr",1,"",784,0,75,0,73,0,5,0,450,0,46,0,261,0,24,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"State Representative,  District No. 53",16,"REP","Wesley ""Wes"" Virdell",2,"",553,0,75,0,38,0,5,0,299,0,46,0,216,0,24,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice, 3rd Court of Appeals District, Place No. 4",59,"REP","Lesli R. Fitzpatrick",1,"",1060,0,352,0,88,0,28,0,593,0,202,0,379,0,122,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"District Judge, 424th Judicial District",4,"REP","Evan Clay Stubbs",1,"",1082,0,330,0,90,0,26,0,607,0,188,0,385,0,116,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Judge",9,"REP","Ronald  (Ron) Cunningham",1,"",1208,0,204,0,97,0,19,0,677,0,118,0,434,0,67,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"District Clerk",13,"REP","Ashley N. Inge",1,"",1167,0,245,0,93,0,23,0,655,0,140,0,419,0,82,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Clerk",55,"REP","Marci Hadeler",1,"",1103,0,309,0,93,0,23,0,613,0,182,0,397,0,104,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Treasurer",10,"REP","Cheryl Regmund",1,"",1170,0,242,0,96,0,20,0,656,0,139,0,418,0,83,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Surveyor",1,"REP","John A. Ables",1,"",1120,0,292,0,87,0,29,0,633,0,162,0,400,0,101,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Commissioner, Precinct No. 4",76,"REP","Jerry Don Moss",1,"",1207,0,205,0,93,0,23,0,682,0,113,0,432,0,69,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice of the Peace, Precinct No. 4",75,"REP","Bryan Scoggins",1,"",227,0,51,0,17,0,12,0,131,0,19,0,79,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice of the Peace, Precinct No. 4",75,"REP","William Koch",4,"",382,0,51,0,28,0,12,0,209,0,19,0,145,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice of the Peace, Precinct No. 4",75,"REP","J.R. Decker",3,"",281,0,51,0,22,0,12,0,165,0,19,0,94,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Justice of the Peace, Precinct No. 4",75,"REP","Lisa Simpson",2,"",471,0,51,0,37,0,12,0,271,0,19,0,163,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"County Chairman",74,"REP","Becci Mears",1,"",1094,0,318,0,81,0,35,0,613,0,182,0,400,0,101,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 1",14,"REP","YES",2,"",1261,0,43,0,102,0,4,0,703,0,26,0,456,0,13,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 1",14,"REP","NO",1,"",108,0,43,0,10,0,4,0,66,0,26,0,32,0,13,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 2",66,"REP","YES",2,"",967,1,90,0,73,1,9,0,555,0,50,0,339,0,31,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 2",66,"REP","NO",1,"",354,1,90,0,33,1,9,0,190,0,50,0,131,0,31,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 3",35,"REP","YES",1,"",1219,0,49,0,88,0,6,0,687,0,27,0,444,0,16,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 3",35,"REP","NO",2,"",144,0,49,0,22,0,6,0,81,0,27,0,41,0,16,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 4",23,"REP","YES",1,"",1226,0,64,0,103,0,3,0,686,0,39,0,437,0,22,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 4",23,"REP","NO",2,"",122,0,64,0,10,0,3,0,70,0,39,0,42,0,22,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 5",38,"REP","YES",2,"",1077,0,84,0,91,0,5,0,606,0,50,0,380,0,29,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 5",38,"REP","NO",1,"",251,0,84,0,20,0,5,0,139,0,50,0,92,0,29,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 6",7,"REP","YES",1,"",1061,0,102,0,83,0,6,0,594,0,60,0,384,0,36,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 6",7,"REP","NO",2,"",249,0,102,0,27,0,6,0,141,0,60,0,81,0,36,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 7",44,"REP","YES",1,"",1295,0,48,0,102,0,4,0,727,0,27,0,466,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 7",44,"REP","NO",2,"",69,0,48,0,10,0,4,0,41,0,27,0,18,0,17,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 8",65,"REP","YES",1,"",1245,0,64,0,100,0,5,0,695,0,39,0,450,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 8",65,"REP","NO",2,"",103,0,64,0,11,0,5,0,61,0,39,0,31,0,20,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 9",53,"REP","YES",2,"",1182,0,49,0,91,0,5,0,672,0,29,0,419,0,15,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 9",53,"REP","NO",1,"",181,0,49,0,20,0,5,0,94,0,29,0,67,0,15,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 10",45,"REP","YES",1,"",1234,0,84,0,89,0,10,0,694,0,47,0,451,0,27,0
+"410",2,Reporting         ,0,1412,139,0,0.00,"Proposition 10",45,"REP","NO",2,"",94,0,84,0,17,0,10,0,54,0,47,0,23,0,27,0

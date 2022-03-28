@@ -1,0 +1,360 @@
+00030010001000532NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 1                                             00 
+00030010002000961NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 2                                             00 
+00030010003000683NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 3                                             00 
+00030010004000502NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 4                                             00 
+00030010005000348NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 6                                             00 
+00030010006000425NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 7                                             00 
+00030010007000031NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 9                                             00 
+00030010008000299NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 11                                            00 
+00040010001000013DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 1                                             00 
+00040010002000026DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 2                                             00 
+00040010003000018DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 3                                             00 
+00040010004000010DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 4                                             00 
+00040010005000012DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 6                                             00 
+00040010006000009DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 7                                             00 
+00040010007000001DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 9                                             00 
+00040010008000009DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 11                                            00 
+00050010001000119REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 1                                             01 
+00050010002000174REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 2                                             01 
+00050010003000209REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 3                                             01 
+00050010004000050REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 4                                             01 
+00050010005000053REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 6                                             01 
+00050010006000114REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 7                                             01 
+00050010007000014REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 9                                             01 
+00050010008000067REP       REP US Rep, District 19                                 Jodey C. Arrington                    Precinct 11                                            01 
+00060010001000011REP       REP Governor                                            Don Huffines                          Precinct 1                                             01 
+00060010002000025REP       REP Governor                                            Don Huffines                          Precinct 2                                             01 
+00060010003000026REP       REP Governor                                            Don Huffines                          Precinct 3                                             01 
+00060010004000003REP       REP Governor                                            Don Huffines                          Precinct 4                                             01 
+00060010005000007REP       REP Governor                                            Don Huffines                          Precinct 6                                             01 
+00060010006000011REP       REP Governor                                            Don Huffines                          Precinct 7                                             01 
+00060010007000000REP       REP Governor                                            Don Huffines                          Precinct 9                                             01 
+00060010008000004REP       REP Governor                                            Don Huffines                          Precinct 11                                            01 
+00060020001000005REP       REP Governor                                            Chad Prather                          Precinct 1                                             01 
+00060020002000014REP       REP Governor                                            Chad Prather                          Precinct 2                                             01 
+00060020003000021REP       REP Governor                                            Chad Prather                          Precinct 3                                             01 
+00060020004000004REP       REP Governor                                            Chad Prather                          Precinct 4                                             01 
+00060020005000007REP       REP Governor                                            Chad Prather                          Precinct 6                                             01 
+00060020006000019REP       REP Governor                                            Chad Prather                          Precinct 7                                             01 
+00060020007000002REP       REP Governor                                            Chad Prather                          Precinct 9                                             01 
+00060020008000007REP       REP Governor                                            Chad Prather                          Precinct 11                                            01 
+00060030001000003REP       REP Governor                                            Kandy Kaye Horn                       Precinct 1                                             01 
+00060030002000007REP       REP Governor                                            Kandy Kaye Horn                       Precinct 2                                             01 
+00060030003000003REP       REP Governor                                            Kandy Kaye Horn                       Precinct 3                                             01 
+00060030004000002REP       REP Governor                                            Kandy Kaye Horn                       Precinct 4                                             01 
+00060030005000000REP       REP Governor                                            Kandy Kaye Horn                       Precinct 6                                             01 
+00060030006000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 7                                             01 
+00060030007000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 9                                             01 
+00060030008000001REP       REP Governor                                            Kandy Kaye Horn                       Precinct 11                                            01 
+00060040001000016REP       REP Governor                                            Allen B. West                         Precinct 1                                             01 
+00060040002000007REP       REP Governor                                            Allen B. West                         Precinct 2                                             01 
+00060040003000005REP       REP Governor                                            Allen B. West                         Precinct 3                                             01 
+00060040004000003REP       REP Governor                                            Allen B. West                         Precinct 4                                             01 
+00060040005000003REP       REP Governor                                            Allen B. West                         Precinct 6                                             01 
+00060040006000007REP       REP Governor                                            Allen B. West                         Precinct 7                                             01 
+00060040007000003REP       REP Governor                                            Allen B. West                         Precinct 9                                             01 
+00060040008000002REP       REP Governor                                            Allen B. West                         Precinct 11                                            01 
+00060050001000086REP       REP Governor                                            Greg Abbott                           Precinct 1                                             01 
+00060050002000138REP       REP Governor                                            Greg Abbott                           Precinct 2                                             01 
+00060050003000159REP       REP Governor                                            Greg Abbott                           Precinct 3                                             01 
+00060050004000038REP       REP Governor                                            Greg Abbott                           Precinct 4                                             01 
+00060050005000038REP       REP Governor                                            Greg Abbott                           Precinct 6                                             01 
+00060050006000085REP       REP Governor                                            Greg Abbott                           Precinct 7                                             01 
+00060050007000009REP       REP Governor                                            Greg Abbott                           Precinct 9                                             01 
+00060050008000055REP       REP Governor                                            Greg Abbott                           Precinct 11                                            01 
+00060060001000000REP       REP Governor                                            Paul Belew                            Precinct 1                                             01 
+00060060002000000REP       REP Governor                                            Paul Belew                            Precinct 2                                             01 
+00060060003000004REP       REP Governor                                            Paul Belew                            Precinct 3                                             01 
+00060060004000001REP       REP Governor                                            Paul Belew                            Precinct 4                                             01 
+00060060005000000REP       REP Governor                                            Paul Belew                            Precinct 6                                             01 
+00060060006000000REP       REP Governor                                            Paul Belew                            Precinct 7                                             01 
+00060060007000000REP       REP Governor                                            Paul Belew                            Precinct 9                                             01 
+00060060008000000REP       REP Governor                                            Paul Belew                            Precinct 11                                            01 
+00060070001000000REP       REP Governor                                            Danny Harrison                        Precinct 1                                             01 
+00060070002000000REP       REP Governor                                            Danny Harrison                        Precinct 2                                             01 
+00060070003000000REP       REP Governor                                            Danny Harrison                        Precinct 3                                             01 
+00060070004000001REP       REP Governor                                            Danny Harrison                        Precinct 4                                             01 
+00060070005000000REP       REP Governor                                            Danny Harrison                        Precinct 6                                             01 
+00060070006000000REP       REP Governor                                            Danny Harrison                        Precinct 7                                             01 
+00060070007000000REP       REP Governor                                            Danny Harrison                        Precinct 9                                             01 
+00060070008000000REP       REP Governor                                            Danny Harrison                        Precinct 11                                            01 
+00060080001000007REP       REP Governor                                            Rick Perry                            Precinct 1                                             01 
+00060080002000009REP       REP Governor                                            Rick Perry                            Precinct 2                                             01 
+00060080003000010REP       REP Governor                                            Rick Perry                            Precinct 3                                             01 
+00060080004000003REP       REP Governor                                            Rick Perry                            Precinct 4                                             01 
+00060080005000003REP       REP Governor                                            Rick Perry                            Precinct 6                                             01 
+00060080006000007REP       REP Governor                                            Rick Perry                            Precinct 7                                             01 
+00060080007000002REP       REP Governor                                            Rick Perry                            Precinct 9                                             01 
+00060080008000001REP       REP Governor                                            Rick Perry                            Precinct 11                                            01 
+00070010001000014REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 1                                             01 
+00070010002000017REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 2                                             01 
+00070010003000035REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 3                                             01 
+00070010004000009REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 4                                             01 
+00070010005000005REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 6                                             01 
+00070010006000016REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 7                                             01 
+00070010007000000REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 9                                             01 
+00070010008000004REP       REP Lieutenant Governor                                 Daniel Miller                         Precinct 11                                            01 
+00070020001000004REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 1                                             01 
+00070020002000015REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 2                                             01 
+00070020003000007REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 3                                             01 
+00070020004000003REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 4                                             01 
+00070020005000000REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 6                                             01 
+00070020006000009REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 7                                             01 
+00070020007000002REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 9                                             01 
+00070020008000000REP       REP Lieutenant Governor                                 Zach Vance                            Precinct 11                                            01 
+00070030001000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 1                                             01 
+00070030002000007REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 2                                             01 
+00070030003000010REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 3                                             01 
+00070030004000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 4                                             01 
+00070030005000004REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 6                                             01 
+00070030006000005REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 7                                             01 
+00070030007000001REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 9                                             01 
+00070030008000003REP       REP Lieutenant Governor                                 Trayce Bradford                       Precinct 11                                            01 
+00070040001000003REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 1                                             01 
+00070040002000009REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 2                                             01 
+00070040003000002REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 3                                             01 
+00070040004000001REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 4                                             01 
+00070040005000004REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 6                                             01 
+00070040006000005REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 7                                             01 
+00070040007000000REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 9                                             01 
+00070040008000000REP       REP Lieutenant Governor                                 Todd M. Bullis                        Precinct 11                                            01 
+00070050001000012REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 1                                             01 
+00070050002000005REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 2                                             01 
+00070050003000016REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 3                                             01 
+00070050004000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 4                                             01 
+00070050005000003REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 6                                             01 
+00070050006000010REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 7                                             01 
+00070050007000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 9                                             01 
+00070050008000002REP       REP Lieutenant Governor                                 Aaron Sorrells                        Precinct 11                                            01 
+00070060001000083REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 1                                             01 
+00070060002000133REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 2                                             01 
+00070060003000146REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 3                                             01 
+00070060004000035REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 4                                             01 
+00070060005000035REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 6                                             01 
+00070060006000079REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 7                                             01 
+00070060007000010REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 9                                             01 
+00070060008000057REP       REP Lieutenant Governor                                 Dan Patrick                           Precinct 11                                            01 
+00080010001000002DEM       DEM Governor                                            Rich Wakeland                         Precinct 1                                             01 
+00080010002000004DEM       DEM Governor                                            Rich Wakeland                         Precinct 2                                             01 
+00080010003000003DEM       DEM Governor                                            Rich Wakeland                         Precinct 3                                             01 
+00080010004000002DEM       DEM Governor                                            Rich Wakeland                         Precinct 4                                             01 
+00080010005000000DEM       DEM Governor                                            Rich Wakeland                         Precinct 6                                             01 
+00080010006000000DEM       DEM Governor                                            Rich Wakeland                         Precinct 7                                             01 
+00080010007000000DEM       DEM Governor                                            Rich Wakeland                         Precinct 9                                             01 
+00080010008000000DEM       DEM Governor                                            Rich Wakeland                         Precinct 11                                            01 
+00080020001000000DEM       DEM Governor                                            Michael Cooper                        Precinct 1                                             01 
+00080020002000002DEM       DEM Governor                                            Michael Cooper                        Precinct 2                                             01 
+00080020003000004DEM       DEM Governor                                            Michael Cooper                        Precinct 3                                             01 
+00080020004000001DEM       DEM Governor                                            Michael Cooper                        Precinct 4                                             01 
+00080020005000001DEM       DEM Governor                                            Michael Cooper                        Precinct 6                                             01 
+00080020006000001DEM       DEM Governor                                            Michael Cooper                        Precinct 7                                             01 
+00080020007000000DEM       DEM Governor                                            Michael Cooper                        Precinct 9                                             01 
+00080020008000001DEM       DEM Governor                                            Michael Cooper                        Precinct 11                                            01 
+00080030001000011DEM       DEM Governor                                            Beto O'Rourke                         Precinct 1                                             01 
+00080030002000014DEM       DEM Governor                                            Beto O'Rourke                         Precinct 2                                             01 
+00080030003000008DEM       DEM Governor                                            Beto O'Rourke                         Precinct 3                                             01 
+00080030004000006DEM       DEM Governor                                            Beto O'Rourke                         Precinct 4                                             01 
+00080030005000011DEM       DEM Governor                                            Beto O'Rourke                         Precinct 6                                             01 
+00080030006000008DEM       DEM Governor                                            Beto O'Rourke                         Precinct 7                                             01 
+00080030007000000DEM       DEM Governor                                            Beto O'Rourke                         Precinct 9                                             01 
+00080030008000008DEM       DEM Governor                                            Beto O'Rourke                         Precinct 11                                            01 
+00080040001000000DEM       DEM Governor                                            Joy Diaz                              Precinct 1                                             01 
+00080040002000003DEM       DEM Governor                                            Joy Diaz                              Precinct 2                                             01 
+00080040003000002DEM       DEM Governor                                            Joy Diaz                              Precinct 3                                             01 
+00080040004000001DEM       DEM Governor                                            Joy Diaz                              Precinct 4                                             01 
+00080040005000000DEM       DEM Governor                                            Joy Diaz                              Precinct 6                                             01 
+00080040006000000DEM       DEM Governor                                            Joy Diaz                              Precinct 7                                             01 
+00080040007000001DEM       DEM Governor                                            Joy Diaz                              Precinct 9                                             01 
+00080040008000000DEM       DEM Governor                                            Joy Diaz                              Precinct 11                                            01 
+00080050001000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 1                                             01 
+00080050002000002DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 2                                             01 
+00080050003000001DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 3                                             01 
+00080050004000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 4                                             01 
+00080050005000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 6                                             01 
+00080050006000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 7                                             01 
+00080050007000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 9                                             01 
+00080050008000000DEM       DEM Governor                                            Inocencio (Inno) Barrientez           Precinct 11                                            01 
+00090010001000004DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 1                                             01 
+00090010002000012DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 2                                             01 
+00090010003000004DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 3                                             01 
+00090010004000005DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 4                                             01 
+00090010005000003DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 6                                             01 
+00090010006000002DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 7                                             01 
+00090010007000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 9                                             01 
+00090010008000004DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 11                                            01 
+00090020001000006DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 1                                             01 
+00090020002000008DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 2                                             01 
+00090020003000007DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 3                                             01 
+00090020004000003DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 4                                             01 
+00090020005000003DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 6                                             01 
+00090020006000004DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 7                                             01 
+00090020007000000DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 9                                             01 
+00090020008000003DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 11                                            01 
+00090030001000003DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 1                                             01 
+00090030002000004DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 2                                             01 
+00090030003000005DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 3                                             01 
+00090030004000001DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 4                                             01 
+00090030005000004DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 6                                             01 
+00090030006000003DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 7                                             01 
+00090030007000001DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 9                                             01 
+00090030008000002DEM       DEM Lieutenant Governor                                 Carla Brailey                         Precinct 11                                            01 
+00100010001000004DEM       DEM Attorney General                                    Mike Fields                           Precinct 1                                             01 
+00100010002000005DEM       DEM Attorney General                                    Mike Fields                           Precinct 2                                             01 
+00100010003000003DEM       DEM Attorney General                                    Mike Fields                           Precinct 3                                             01 
+00100010004000005DEM       DEM Attorney General                                    Mike Fields                           Precinct 4                                             01 
+00100010005000001DEM       DEM Attorney General                                    Mike Fields                           Precinct 6                                             01 
+00100010006000004DEM       DEM Attorney General                                    Mike Fields                           Precinct 7                                             01 
+00100010007000001DEM       DEM Attorney General                                    Mike Fields                           Precinct 9                                             01 
+00100010008000001DEM       DEM Attorney General                                    Mike Fields                           Precinct 11                                            01 
+00100020001000005DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 1                                             01 
+00100020002000011DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 2                                             01 
+00100020003000007DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 3                                             01 
+00100020004000002DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 4                                             01 
+00100020005000006DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 6                                             01 
+00100020006000003DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 7                                             01 
+00100020007000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 9                                             01 
+00100020008000006DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 11                                            01 
+00100030001000004DEM       DEM Attorney General                                    Lee Merritt                           Precinct 1                                             01 
+00100030002000004DEM       DEM Attorney General                                    Lee Merritt                           Precinct 2                                             01 
+00100030003000003DEM       DEM Attorney General                                    Lee Merritt                           Precinct 3                                             01 
+00100030004000001DEM       DEM Attorney General                                    Lee Merritt                           Precinct 4                                             01 
+00100030005000001DEM       DEM Attorney General                                    Lee Merritt                           Precinct 6                                             01 
+00100030006000001DEM       DEM Attorney General                                    Lee Merritt                           Precinct 7                                             01 
+00100030007000000DEM       DEM Attorney General                                    Lee Merritt                           Precinct 9                                             01 
+00100030008000001DEM       DEM Attorney General                                    Lee Merritt                           Precinct 11                                            01 
+00100040001000000DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 1                                             01 
+00100040002000003DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 2                                             01 
+00100040003000003DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 3                                             01 
+00100040004000002DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 4                                             01 
+00100040005000002DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 6                                             01 
+00100040006000001DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 7                                             01 
+00100040007000000DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 9                                             01 
+00100040008000000DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 11                                            01 
+00100050001000000DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 1                                             01 
+00100050002000001DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 2                                             01 
+00100050003000001DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 3                                             01 
+00100050004000000DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 4                                             01 
+00100050005000001DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 6                                             01 
+00100050006000000DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 7                                             01 
+00100050007000000DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 9                                             01 
+00100050008000001DEM       DEM Attorney General                                    S. "TBONE" Raynor                     Precinct 11                                            01 
+00110010001000003DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 1                                             01 
+00110010002000006DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 2                                             01 
+00110010003000009DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 3                                             01 
+00110010004000007DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 4                                             01 
+00110010005000004DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 6                                             01 
+00110010006000004DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 7                                             01 
+00110010007000001DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 9                                             01 
+00110010008000003DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 11                                            01 
+00110020001000005DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 1                                             01 
+00110020002000007DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 2                                             01 
+00110020003000003DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 3                                             01 
+00110020004000001DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 4                                             01 
+00110020005000001DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 6                                             01 
+00110020006000003DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 7                                             01 
+00110020007000000DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 9                                             01 
+00110020008000002DEM       DEM Comptroller of Public Accounts                      Tim Mahoney                           Precinct 11                                            01 
+00110030001000005DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 1                                             01 
+00110030002000011DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 2                                             01 
+00110030003000003DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 3                                             01 
+00110030004000001DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 4                                             01 
+00110030005000007DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 6                                             01 
+00110030006000001DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 7                                             01 
+00110030007000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 9                                             01 
+00110030008000004DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 11                                            01 
+00120010001000006DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 1                                             01 
+00120010002000012DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 2                                             01 
+00120010003000004DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 3                                             01 
+00120010004000002DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 4                                             01 
+00120010005000006DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 6                                             01 
+00120010006000002DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 7                                             01 
+00120010007000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 9                                             01 
+00120010008000004DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 11                                            01 
+00120020001000000DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 1                                             01 
+00120020002000002DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 2                                             01 
+00120020003000001DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 3                                             01 
+00120020004000003DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 4                                             01 
+00120020005000001DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 6                                             01 
+00120020006000001DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 7                                             01 
+00120020007000000DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 9                                             01 
+00120020008000004DEM       DEM Comm General Land Office                            Jinny Suh                             Precinct 11                                            01 
+00120030001000004DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 1                                             01 
+00120030002000008DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 2                                             01 
+00120030003000004DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 3                                             01 
+00120030004000003DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 4                                             01 
+00120030005000002DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 6                                             01 
+00120030006000005DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 7                                             01 
+00120030007000001DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 9                                             01 
+00120030008000001DEM       DEM Comm General Land Office                            Michael Lange                         Precinct 11                                            01 
+00120040001000001DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 1                                             01 
+00120040002000002DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 2                                             01 
+00120040003000007DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 3                                             01 
+00120040004000002DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 4                                             01 
+00120040005000001DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 6                                             01 
+00120040006000001DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 7                                             01 
+00120040007000000DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 9                                             01 
+00120040008000000DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 11                                            01 
+00130010001000009DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 1                                             01 
+00130010002000019DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 2                                             01 
+00130010003000011DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 3                                             01 
+00130010004000009DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 4                                             01 
+00130010005000009DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 6                                             01 
+00130010006000006DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 7                                             01 
+00130010007000001DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 9                                             01 
+00130010008000007DEM       DEM Commissioner of Agriculture                         Susan Hays                            Precinct 11                                            01 
+00130020001000003DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 1                                             01 
+00130020002000005DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 2                                             01 
+00130020003000005DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 3                                             01 
+00130020004000001DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 4                                             01 
+00130020005000001DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 6                                             01 
+00130020006000002DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 7                                             01 
+00130020007000000DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 9                                             01 
+00130020008000002DEM       DEM Commissioner of Agriculture                         Ed Ireson                             Precinct 11                                            01 
+00140010001000013DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 1                                             01 
+00140010002000025DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 2                                             01 
+00140010003000016DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 3                                             01 
+00140010004000008DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 4                                             01 
+00140010005000008DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 6                                             01 
+00140010006000008DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 7                                             01 
+00140010007000001DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 9                                             01 
+00140010008000009DEM       DEM Railroad Commissioner                               Luke Warford                          Precinct 11                                            01 
+00150010001000013DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 1                                             01 
+00150010002000024DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 2                                             01 
+00150010003000016DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 3                                             01 
+00150010004000008DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 4                                             01 
+00150010005000008DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 6                                             01 
+00150010006000007DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 7                                             01 
+00150010007000001DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 9                                             01 
+00150010008000009DEM       DEM Justice, Supreme Court, Pl 3                        Erin A Nowell                         Precinct 11                                            01 
+00160010001000012DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 1                                             01 
+00160010002000024DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 2                                             01 
+00160010003000018DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 3                                             01 
+00160010004000008DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 4                                             01 
+00160010005000009DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 6                                             01 
+00160010006000009DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 7                                             01 
+00160010007000001DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 9                                             01 
+00160010008000009DEM       DEM Justice, Supreme Court, Pl 5                        Amanda Reichek                        Precinct 11                                            01 
+00170010001000012DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 1                                             01 
+00170010002000024DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 2                                             01 
+00170010003000016DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 3                                             01 
+00170010004000008DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 4                                             01 
+00170010005000010DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 6                                             01 
+00170010006000009DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 7                                             01 
+00170010007000001DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 9                                             01 
+00170010008000009DEM       DEM Justice, Supreme Court, Pl 9                        Julia Maldonado                       Precinct 11                                            01 
+00180010001000012DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 1                                             01 
+00180010002000024DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 2                                             01 
+00180010003000017DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 3                                             01 
+00180010004000008DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 4                                             01 
+00180010005000010DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 6                                             01 
+00180010006000008DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 7                                             01 
+00180010007000001DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 9                                             01 
+00180010008000009DEM       DEM Judge, Ct of Crim App, Pl 5                         Dana Huffman                          Precinct 11                                            01 
+00190010001000012DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 1                                             01 
+00190010002000023DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 2                                             01 
+00190010003000018DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 3                                             01 
+00190010004000008DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 4                                             01 
+00190010005000010DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 6                                             01 
+00190010006000007DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 7                                             01 
+00190010007000001DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 9                                             01 
+00190010008000009DEM       DEM Judge, Ct of Crim App, Pl 6                         Robert Johnson                        Precinct 11                                            01 

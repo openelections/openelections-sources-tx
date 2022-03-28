@@ -1,0 +1,696 @@
+#FormatVersion 1,,,
+#Precinct,Contest Title,Choice Name,Total Votes
+1,Governor,Michael Cooper,1
+1,Governor,Inocencio (Inno) Barrientez,0
+1,Governor,Beto O'Rourke,8
+1,Governor,Rich Wakeland,0
+1,Governor,Joy Diaz,0
+1,Lieutenant Governor,Michelle Beckley,3
+1,Lieutenant Governor,Carla Brailey,5
+1,Lieutenant Governor,Mike Collier,1
+1,Attorney General,Joe Jaworski,1
+1,Attorney General,"S. ""TBone"" Raynor",0
+1,Attorney General,Rochelle Mercedes Garza,4
+1,Attorney General,Mike Fields,2
+1,Attorney General,Lee Merritt,2
+1,Comptroller of Public Accounts,Angel Luis Vega,0
+1,Comptroller of Public Accounts,Janet T. Dudding,7
+1,Comptroller of Public Accounts,Tim Mahoney,0
+1,Commissioner of the General Land Office,Jay Kleberg,4
+1,Commissioner of the General Land Office,Jinny Suh,1
+1,Commissioner of the General Land Office,Michael Lange,2
+1,Commissioner of the General Land Office,Sandragrace Martinez,0
+1,Commissioner of Agriculture,Ed Ireson,1
+1,Commissioner of Agriculture,Susan Hays,6
+1,Railroad Commissioner,Luke Warford,7
+1,"Justice, Supreme Court, Place 3",Erin A Nowell,7
+1,"Justice, Supreme Court, Place 5",Amanda Reichek,7
+1,"Justice, Supreme Court, Place 9",Julia Maldonado,7
+1,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,7
+1,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,7
+1,"Member, State Board of Education, District No. 14",Tracy Fisher,7
+1,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,7
+1,County Chairman,John Barry IV,7
+1,"United States Representative, District No. 25",Roger Williams,386
+1,Governor,Chad Prather,32
+1,Governor,Don Huffines,23
+1,Governor,Rick Perry,10
+1,Governor,Greg Abbott,322
+1,Governor,Allen B. West,43
+1,Governor,Danny Harrison,0
+1,Governor,Kandy Kaye Horn,2
+1,Governor,Paul Belew,2
+1,Lieutenant Governor,Zach Vance,21
+1,Lieutenant Governor,Trayce Bradford,24
+1,Lieutenant Governor,Daniel Miller,21
+1,Lieutenant Governor,Todd M. Bullis,4
+1,Lieutenant Governor,Aaron Sorrells,7
+1,Lieutenant Governor,Dan Patrick,323
+1,Attorney General,Eva Guzman,36
+1,Attorney General,Louie Gohmert,44
+1,Attorney General,Ken Paxton,200
+1,Attorney General,George P. Bush,145
+1,Comptroller of Public Accounts,Glenn Hegar,315
+1,Comptroller of Public Accounts,Mark V. Goloby,47
+1,Commissioner of the General Land Office,Ben Armenta,27
+1,Commissioner of the General Land Office,Weston Martinez,15
+1,Commissioner of the General Land Office,Victor Avila,17
+1,Commissioner of the General Land Office,Don W. Minton,38
+1,Commissioner of the General Land Office,Dawn Buckingham,118
+1,Commissioner of the General Land Office,Jon Spiers,17
+1,Commissioner of the General Land Office,Rufus Lopez,16
+1,Commissioner of the General Land Office,Tim Westley,69
+1,Commissioner of Agriculture,Carey A. Counsil,32
+1,Commissioner of Agriculture,James White,117
+1,Commissioner of Agriculture,Sid Miller,218
+1,Railroad Commissioner,"Marvin ""Sarge"" Summers",57
+1,Railroad Commissioner,Wayne Christian,123
+1,Railroad Commissioner,Dawayne Tipton,49
+1,Railroad Commissioner,Tom Slocum Jr,50
+1,Railroad Commissioner,Sarah Stogner,52
+1,"Justice, Supreme Court, Place 3",Debra Lehrmann,345
+1,"Justice, Supreme Court, Place 5",Rebeca Huddle,342
+1,"Justice, Supreme Court, Place 9",Evan Young,178
+1,"Justice, Supreme Court, Place 9",David J. Schenck,149
+1,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,335
+1,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,121
+1,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,203
+1,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",329
+1,"Member, State Board of Education, District No. 14",Sue Melton-Malone,169
+1,"Member, State Board of Education, District No. 14",Evelyn Brooks,154
+1,"State Senator, District No. 30",Drew Springer,389
+1,"State Representative,  District No. 68",David Spiller,398
+1,"State Representative,  District No. 68",Craig Carter,22
+1,"State Representative,  District No. 68",Gary W. Franklin,5
+1,"State Representative,  District No. 68",Mark Middleton,13
+1,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,341
+1,"District Judge, 271st Judicial District",Brock R. Smith,365
+1,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,355
+1,County Judge,Michael Moore,211
+1,County Judge,Keith Umphress,227
+1,District Clerk,Melanie Berry,214
+1,District Clerk,Tracie Pippin,224
+1,County Clerk,Vanessa James,390
+1,County Treasurer,Brad Campsey,385
+1,Justice of the Peace,Stacy Spurlock,147
+1,Justice of the Peace,Jessica Bailey,282
+1,County Chairman,John Berry,369
+1,Proposition 1,YES,401
+1,Proposition 1,NO,24
+1,Proposition 2,YES,316
+1,Proposition 2,NO,92
+1,Proposition 3,YES,387
+1,Proposition 3,NO,40
+1,Proposition 4,YES,383
+1,Proposition 4,NO,35
+1,Proposition 5,YES,366
+1,Proposition 5,NO,43
+1,Proposition 6,YES,329
+1,Proposition 6,NO,65
+1,Proposition 7,YES,405
+1,Proposition 7,NO,13
+1,Proposition 8,YES,391
+1,Proposition 8,NO,25
+1,Proposition 9,YES,356
+1,Proposition 9,NO,67
+1,Proposition 10,YES,396
+1,Proposition 10,NO,19
+2,Governor,Michael Cooper,1
+2,Governor,Inocencio (Inno) Barrientez,0
+2,Governor,Beto O'Rourke,8
+2,Governor,Rich Wakeland,0
+2,Governor,Joy Diaz,0
+2,Lieutenant Governor,Michelle Beckley,3
+2,Lieutenant Governor,Carla Brailey,1
+2,Lieutenant Governor,Mike Collier,5
+2,Attorney General,Joe Jaworski,4
+2,Attorney General,"S. ""TBone"" Raynor",0
+2,Attorney General,Rochelle Mercedes Garza,4
+2,Attorney General,Mike Fields,0
+2,Attorney General,Lee Merritt,0
+2,Comptroller of Public Accounts,Angel Luis Vega,3
+2,Comptroller of Public Accounts,Janet T. Dudding,2
+2,Comptroller of Public Accounts,Tim Mahoney,4
+2,Commissioner of the General Land Office,Jay Kleberg,5
+2,Commissioner of the General Land Office,Jinny Suh,1
+2,Commissioner of the General Land Office,Michael Lange,1
+2,Commissioner of the General Land Office,Sandragrace Martinez,1
+2,Commissioner of Agriculture,Ed Ireson,3
+2,Commissioner of Agriculture,Susan Hays,6
+2,Railroad Commissioner,Luke Warford,9
+2,"Justice, Supreme Court, Place 3",Erin A Nowell,8
+2,"Justice, Supreme Court, Place 5",Amanda Reichek,7
+2,"Justice, Supreme Court, Place 9",Julia Maldonado,7
+2,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,7
+2,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,8
+2,"Member, State Board of Education, District No. 14",Tracy Fisher,8
+2,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,8
+2,County Chairman,John Barry IV,8
+2,"United States Representative, District No. 25",Roger Williams,327
+2,Governor,Chad Prather,32
+2,Governor,Don Huffines,39
+2,Governor,Rick Perry,11
+2,Governor,Greg Abbott,249
+2,Governor,Allen B. West,37
+2,Governor,Danny Harrison,2
+2,Governor,Kandy Kaye Horn,1
+2,Governor,Paul Belew,2
+2,Lieutenant Governor,Zach Vance,21
+2,Lieutenant Governor,Trayce Bradford,22
+2,Lieutenant Governor,Daniel Miller,26
+2,Lieutenant Governor,Todd M. Bullis,3
+2,Lieutenant Governor,Aaron Sorrells,7
+2,Lieutenant Governor,Dan Patrick,267
+2,Attorney General,Eva Guzman,36
+2,Attorney General,Louie Gohmert,35
+2,Attorney General,Ken Paxton,170
+2,Attorney General,George P. Bush,122
+2,Comptroller of Public Accounts,Glenn Hegar,281
+2,Comptroller of Public Accounts,Mark V. Goloby,42
+2,Commissioner of the General Land Office,Ben Armenta,25
+2,Commissioner of the General Land Office,Weston Martinez,17
+2,Commissioner of the General Land Office,Victor Avila,19
+2,Commissioner of the General Land Office,Don W. Minton,40
+2,Commissioner of the General Land Office,Dawn Buckingham,81
+2,Commissioner of the General Land Office,Jon Spiers,38
+2,Commissioner of the General Land Office,Rufus Lopez,7
+2,Commissioner of the General Land Office,Tim Westley,58
+2,Commissioner of Agriculture,Carey A. Counsil,18
+2,Commissioner of Agriculture,James White,92
+2,Commissioner of Agriculture,Sid Miller,223
+2,Railroad Commissioner,"Marvin ""Sarge"" Summers",66
+2,Railroad Commissioner,Wayne Christian,95
+2,Railroad Commissioner,Dawayne Tipton,45
+2,Railroad Commissioner,Tom Slocum Jr,46
+2,Railroad Commissioner,Sarah Stogner,35
+2,"Justice, Supreme Court, Place 3",Debra Lehrmann,299
+2,"Justice, Supreme Court, Place 5",Rebeca Huddle,293
+2,"Justice, Supreme Court, Place 9",Evan Young,171
+2,"Justice, Supreme Court, Place 9",David J. Schenck,124
+2,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,292
+2,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,122
+2,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,173
+2,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",290
+2,"Member, State Board of Education, District No. 14",Sue Melton-Malone,157
+2,"Member, State Board of Education, District No. 14",Evelyn Brooks,141
+2,"State Senator, District No. 30",Drew Springer,322
+2,"State Representative,  District No. 68",David Spiller,300
+2,"State Representative,  District No. 68",Craig Carter,25
+2,"State Representative,  District No. 68",Gary W. Franklin,8
+2,"State Representative,  District No. 68",Mark Middleton,29
+2,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,295
+2,"District Judge, 271st Judicial District",Brock R. Smith,302
+2,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,296
+2,County Judge,Michael Moore,155
+2,County Judge,Keith Umphress,204
+2,District Clerk,Melanie Berry,190
+2,District Clerk,Tracie Pippin,160
+2,County Clerk,Vanessa James,320
+2,County Treasurer,Brad Campsey,319
+2,"County Commissioner, Precinct No. 2",Kenny Salazar,316
+2,Justice of the Peace,Stacy Spurlock,227
+2,Justice of the Peace,Jessica Bailey,122
+2,County Chairman,John Berry,318
+2,Proposition 1,YES,356
+2,Proposition 1,NO,16
+2,Proposition 2,YES,290
+2,Proposition 2,NO,72
+2,Proposition 3,YES,338
+2,Proposition 3,NO,34
+2,Proposition 4,YES,336
+2,Proposition 4,NO,35
+2,Proposition 5,YES,317
+2,Proposition 5,NO,47
+2,Proposition 6,YES,313
+2,Proposition 6,NO,44
+2,Proposition 7,YES,361
+2,Proposition 7,NO,7
+2,Proposition 8,YES,352
+2,Proposition 8,NO,15
+2,Proposition 9,YES,316
+2,Proposition 9,NO,53
+2,Proposition 10,YES,343
+2,Proposition 10,NO,20
+3,Governor,Michael Cooper,1
+3,Governor,Inocencio (Inno) Barrientez,0
+3,Governor,Beto O'Rourke,2
+3,Governor,Rich Wakeland,0
+3,Governor,Joy Diaz,0
+3,Lieutenant Governor,Michelle Beckley,1
+3,Lieutenant Governor,Carla Brailey,1
+3,Lieutenant Governor,Mike Collier,0
+3,Attorney General,Joe Jaworski,1
+3,Attorney General,"S. ""TBone"" Raynor",0
+3,Attorney General,Rochelle Mercedes Garza,0
+3,Attorney General,Mike Fields,1
+3,Attorney General,Lee Merritt,0
+3,Comptroller of Public Accounts,Angel Luis Vega,1
+3,Comptroller of Public Accounts,Janet T. Dudding,1
+3,Comptroller of Public Accounts,Tim Mahoney,0
+3,Commissioner of the General Land Office,Jay Kleberg,1
+3,Commissioner of the General Land Office,Jinny Suh,0
+3,Commissioner of the General Land Office,Michael Lange,1
+3,Commissioner of the General Land Office,Sandragrace Martinez,0
+3,Commissioner of Agriculture,Ed Ireson,2
+3,Commissioner of Agriculture,Susan Hays,2
+3,Railroad Commissioner,Luke Warford,3
+3,"Justice, Supreme Court, Place 3",Erin A Nowell,3
+3,"Justice, Supreme Court, Place 5",Amanda Reichek,2
+3,"Justice, Supreme Court, Place 9",Julia Maldonado,2
+3,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,3
+3,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,2
+3,"Member, State Board of Education, District No. 14",Tracy Fisher,2
+3,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,2
+3,County Chairman,John Barry IV,1
+3,"United States Representative, District No. 25",Roger Williams,71
+3,Governor,Chad Prather,7
+3,Governor,Don Huffines,2
+3,Governor,Rick Perry,1
+3,Governor,Greg Abbott,65
+3,Governor,Allen B. West,4
+3,Governor,Danny Harrison,0
+3,Governor,Kandy Kaye Horn,0
+3,Governor,Paul Belew,1
+3,Lieutenant Governor,Zach Vance,5
+3,Lieutenant Governor,Trayce Bradford,7
+3,Lieutenant Governor,Daniel Miller,4
+3,Lieutenant Governor,Todd M. Bullis,1
+3,Lieutenant Governor,Aaron Sorrells,3
+3,Lieutenant Governor,Dan Patrick,53
+3,Attorney General,Eva Guzman,7
+3,Attorney General,Louie Gohmert,6
+3,Attorney General,Ken Paxton,40
+3,Attorney General,George P. Bush,22
+3,Comptroller of Public Accounts,Glenn Hegar,60
+3,Comptroller of Public Accounts,Mark V. Goloby,8
+3,Commissioner of the General Land Office,Ben Armenta,7
+3,Commissioner of the General Land Office,Weston Martinez,5
+3,Commissioner of the General Land Office,Victor Avila,3
+3,Commissioner of the General Land Office,Don W. Minton,10
+3,Commissioner of the General Land Office,Dawn Buckingham,16
+3,Commissioner of the General Land Office,Jon Spiers,3
+3,Commissioner of the General Land Office,Rufus Lopez,1
+3,Commissioner of the General Land Office,Tim Westley,12
+3,Commissioner of Agriculture,Carey A. Counsil,2
+3,Commissioner of Agriculture,James White,22
+3,Commissioner of Agriculture,Sid Miller,37
+3,Railroad Commissioner,"Marvin ""Sarge"" Summers",10
+3,Railroad Commissioner,Wayne Christian,22
+3,Railroad Commissioner,Dawayne Tipton,7
+3,Railroad Commissioner,Tom Slocum Jr,14
+3,Railroad Commissioner,Sarah Stogner,7
+3,"Justice, Supreme Court, Place 3",Debra Lehrmann,62
+3,"Justice, Supreme Court, Place 5",Rebeca Huddle,61
+3,"Justice, Supreme Court, Place 9",Evan Young,33
+3,"Justice, Supreme Court, Place 9",David J. Schenck,21
+3,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,59
+3,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,19
+3,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,36
+3,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",56
+3,"Member, State Board of Education, District No. 14",Sue Melton-Malone,26
+3,"Member, State Board of Education, District No. 14",Evelyn Brooks,33
+3,"State Senator, District No. 30",Drew Springer,69
+3,"State Representative,  District No. 68",David Spiller,79
+3,"State Representative,  District No. 68",Craig Carter,2
+3,"State Representative,  District No. 68",Gary W. Franklin,0
+3,"State Representative,  District No. 68",Mark Middleton,0
+3,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,61
+3,"District Judge, 271st Judicial District",Brock R. Smith,66
+3,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,63
+3,County Judge,Michael Moore,39
+3,County Judge,Keith Umphress,41
+3,District Clerk,Melanie Berry,31
+3,District Clerk,Tracie Pippin,48
+3,County Clerk,Vanessa James,70
+3,County Treasurer,Brad Campsey,68
+3,"County Commissioner, Precinct No. 2",Kenny Salazar,67
+3,Justice of the Peace,Stacy Spurlock,27
+3,Justice of the Peace,Jessica Bailey,53
+3,County Chairman,John Berry,65
+3,Proposition 1,YES,76
+3,Proposition 1,NO,2
+3,Proposition 2,YES,66
+3,Proposition 2,NO,10
+3,Proposition 3,YES,74
+3,Proposition 3,NO,4
+3,Proposition 4,YES,72
+3,Proposition 4,NO,4
+3,Proposition 5,YES,68
+3,Proposition 5,NO,8
+3,Proposition 6,YES,64
+3,Proposition 6,NO,9
+3,Proposition 7,YES,75
+3,Proposition 7,NO,2
+3,Proposition 8,YES,75
+3,Proposition 8,NO,2
+3,Proposition 9,YES,71
+3,Proposition 9,NO,6
+3,Proposition 10,YES,72
+3,Proposition 10,NO,5
+4,Governor,Michael Cooper,0
+4,Governor,Inocencio (Inno) Barrientez,0
+4,Governor,Beto O'Rourke,8
+4,Governor,Rich Wakeland,0
+4,Governor,Joy Diaz,0
+4,Lieutenant Governor,Michelle Beckley,0
+4,Lieutenant Governor,Carla Brailey,2
+4,Lieutenant Governor,Mike Collier,4
+4,Attorney General,Joe Jaworski,3
+4,Attorney General,"S. ""TBone"" Raynor",0
+4,Attorney General,Rochelle Mercedes Garza,1
+4,Attorney General,Mike Fields,0
+4,Attorney General,Lee Merritt,2
+4,Comptroller of Public Accounts,Angel Luis Vega,1
+4,Comptroller of Public Accounts,Janet T. Dudding,2
+4,Comptroller of Public Accounts,Tim Mahoney,2
+4,Commissioner of the General Land Office,Jay Kleberg,3
+4,Commissioner of the General Land Office,Jinny Suh,1
+4,Commissioner of the General Land Office,Michael Lange,1
+4,Commissioner of the General Land Office,Sandragrace Martinez,1
+4,Commissioner of Agriculture,Ed Ireson,1
+4,Commissioner of Agriculture,Susan Hays,5
+4,Railroad Commissioner,Luke Warford,3
+4,"Justice, Supreme Court, Place 3",Erin A Nowell,4
+4,"Justice, Supreme Court, Place 5",Amanda Reichek,3
+4,"Justice, Supreme Court, Place 9",Julia Maldonado,4
+4,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,4
+4,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,5
+4,"Member, State Board of Education, District No. 14",Tracy Fisher,5
+4,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,5
+4,County Chairman,John Barry IV,6
+4,"United States Representative, District No. 25",Roger Williams,360
+4,Governor,Chad Prather,28
+4,Governor,Don Huffines,22
+4,Governor,Rick Perry,13
+4,Governor,Greg Abbott,305
+4,Governor,Allen B. West,25
+4,Governor,Danny Harrison,1
+4,Governor,Kandy Kaye Horn,3
+4,Governor,Paul Belew,4
+4,Lieutenant Governor,Zach Vance,22
+4,Lieutenant Governor,Trayce Bradford,16
+4,Lieutenant Governor,Daniel Miller,20
+4,Lieutenant Governor,Todd M. Bullis,9
+4,Lieutenant Governor,Aaron Sorrells,6
+4,Lieutenant Governor,Dan Patrick,286
+4,Attorney General,Eva Guzman,39
+4,Attorney General,Louie Gohmert,33
+4,Attorney General,Ken Paxton,174
+4,Attorney General,George P. Bush,138
+4,Comptroller of Public Accounts,Glenn Hegar,287
+4,Comptroller of Public Accounts,Mark V. Goloby,43
+4,Commissioner of the General Land Office,Ben Armenta,27
+4,Commissioner of the General Land Office,Weston Martinez,9
+4,Commissioner of the General Land Office,Victor Avila,19
+4,Commissioner of the General Land Office,Don W. Minton,37
+4,Commissioner of the General Land Office,Dawn Buckingham,98
+4,Commissioner of the General Land Office,Jon Spiers,24
+4,Commissioner of the General Land Office,Rufus Lopez,7
+4,Commissioner of the General Land Office,Tim Westley,55
+4,Commissioner of Agriculture,Carey A. Counsil,23
+4,Commissioner of Agriculture,James White,112
+4,Commissioner of Agriculture,Sid Miller,195
+4,Railroad Commissioner,"Marvin ""Sarge"" Summers",48
+4,Railroad Commissioner,Wayne Christian,113
+4,Railroad Commissioner,Dawayne Tipton,37
+4,Railroad Commissioner,Tom Slocum Jr,50
+4,Railroad Commissioner,Sarah Stogner,42
+4,"Justice, Supreme Court, Place 3",Debra Lehrmann,328
+4,"Justice, Supreme Court, Place 5",Rebeca Huddle,325
+4,"Justice, Supreme Court, Place 9",Evan Young,173
+4,"Justice, Supreme Court, Place 9",David J. Schenck,120
+4,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,318
+4,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,133
+4,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,153
+4,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",310
+4,"Member, State Board of Education, District No. 14",Sue Melton-Malone,165
+4,"Member, State Board of Education, District No. 14",Evelyn Brooks,133
+4,"State Senator, District No. 30",Drew Springer,362
+4,"State Representative,  District No. 68",David Spiller,379
+4,"State Representative,  District No. 68",Craig Carter,11
+4,"State Representative,  District No. 68",Gary W. Franklin,6
+4,"State Representative,  District No. 68",Mark Middleton,6
+4,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,324
+4,"District Judge, 271st Judicial District",Brock R. Smith,337
+4,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,329
+4,County Judge,Michael Moore,108
+4,County Judge,Keith Umphress,292
+4,District Clerk,Melanie Berry,192
+4,District Clerk,Tracie Pippin,209
+4,County Clerk,Vanessa James,380
+4,County Treasurer,Brad Campsey,378
+4,Justice of the Peace,Stacy Spurlock,123
+4,Justice of the Peace,Jessica Bailey,277
+4,County Chairman,John Berry,345
+4,Proposition 1,YES,375
+4,Proposition 1,NO,21
+4,Proposition 2,YES,288
+4,Proposition 2,NO,92
+4,Proposition 3,YES,354
+4,Proposition 3,NO,41
+4,Proposition 4,YES,351
+4,Proposition 4,NO,33
+4,Proposition 5,YES,341
+4,Proposition 5,NO,40
+4,Proposition 6,YES,306
+4,Proposition 6,NO,59
+4,Proposition 7,YES,378
+4,Proposition 7,NO,8
+4,Proposition 8,YES,361
+4,Proposition 8,NO,24
+4,Proposition 9,YES,312
+4,Proposition 9,NO,77
+4,Proposition 10,YES,369
+4,Proposition 10,NO,20
+5,Governor,Michael Cooper,2
+5,Governor,Inocencio (Inno) Barrientez,0
+5,Governor,Beto O'Rourke,3
+5,Governor,Rich Wakeland,1
+5,Governor,Joy Diaz,0
+5,Lieutenant Governor,Michelle Beckley,2
+5,Lieutenant Governor,Carla Brailey,0
+5,Lieutenant Governor,Mike Collier,4
+5,Attorney General,Joe Jaworski,1
+5,Attorney General,"S. ""TBone"" Raynor",1
+5,Attorney General,Rochelle Mercedes Garza,1
+5,Attorney General,Mike Fields,3
+5,Attorney General,Lee Merritt,0
+5,Comptroller of Public Accounts,Angel Luis Vega,1
+5,Comptroller of Public Accounts,Janet T. Dudding,2
+5,Comptroller of Public Accounts,Tim Mahoney,2
+5,Commissioner of the General Land Office,Jay Kleberg,3
+5,Commissioner of the General Land Office,Jinny Suh,1
+5,Commissioner of the General Land Office,Michael Lange,1
+5,Commissioner of the General Land Office,Sandragrace Martinez,1
+5,Commissioner of Agriculture,Ed Ireson,1
+5,Commissioner of Agriculture,Susan Hays,4
+5,Railroad Commissioner,Luke Warford,5
+5,"Justice, Supreme Court, Place 3",Erin A Nowell,5
+5,"Justice, Supreme Court, Place 5",Amanda Reichek,4
+5,"Justice, Supreme Court, Place 9",Julia Maldonado,4
+5,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,4
+5,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,4
+5,"Member, State Board of Education, District No. 14",Tracy Fisher,4
+5,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,4
+5,County Chairman,John Barry IV,5
+5,"United States Representative, District No. 25",Roger Williams,214
+5,Governor,Chad Prather,17
+5,Governor,Don Huffines,23
+5,Governor,Rick Perry,15
+5,Governor,Greg Abbott,167
+5,Governor,Allen B. West,26
+5,Governor,Danny Harrison,0
+5,Governor,Kandy Kaye Horn,1
+5,Governor,Paul Belew,0
+5,Lieutenant Governor,Zach Vance,8
+5,Lieutenant Governor,Trayce Bradford,12
+5,Lieutenant Governor,Daniel Miller,11
+5,Lieutenant Governor,Todd M. Bullis,1
+5,Lieutenant Governor,Aaron Sorrells,6
+5,Lieutenant Governor,Dan Patrick,184
+5,Attorney General,Eva Guzman,20
+5,Attorney General,Louie Gohmert,17
+5,Attorney General,Ken Paxton,122
+5,Attorney General,George P. Bush,77
+5,Comptroller of Public Accounts,Glenn Hegar,185
+5,Comptroller of Public Accounts,Mark V. Goloby,17
+5,Commissioner of the General Land Office,Ben Armenta,14
+5,Commissioner of the General Land Office,Weston Martinez,7
+5,Commissioner of the General Land Office,Victor Avila,13
+5,Commissioner of the General Land Office,Don W. Minton,29
+5,Commissioner of the General Land Office,Dawn Buckingham,46
+5,Commissioner of the General Land Office,Jon Spiers,17
+5,Commissioner of the General Land Office,Rufus Lopez,3
+5,Commissioner of the General Land Office,Tim Westley,45
+5,Commissioner of Agriculture,Carey A. Counsil,13
+5,Commissioner of Agriculture,James White,49
+5,Commissioner of Agriculture,Sid Miller,141
+5,Railroad Commissioner,"Marvin ""Sarge"" Summers",23
+5,Railroad Commissioner,Wayne Christian,79
+5,Railroad Commissioner,Dawayne Tipton,32
+5,Railroad Commissioner,Tom Slocum Jr,23
+5,Railroad Commissioner,Sarah Stogner,26
+5,"Justice, Supreme Court, Place 3",Debra Lehrmann,183
+5,"Justice, Supreme Court, Place 5",Rebeca Huddle,183
+5,"Justice, Supreme Court, Place 9",Evan Young,104
+5,"Justice, Supreme Court, Place 9",David J. Schenck,76
+5,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,183
+5,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,74
+5,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,105
+5,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",178
+5,"Member, State Board of Education, District No. 14",Sue Melton-Malone,75
+5,"Member, State Board of Education, District No. 14",Evelyn Brooks,112
+5,"State Senator, District No. 30",Drew Springer,214
+5,"State Representative,  District No. 68",David Spiller,202
+5,"State Representative,  District No. 68",Craig Carter,20
+5,"State Representative,  District No. 68",Gary W. Franklin,5
+5,"State Representative,  District No. 68",Mark Middleton,13
+5,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,185
+5,"District Judge, 271st Judicial District",Brock R. Smith,192
+5,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,191
+5,County Judge,Michael Moore,92
+5,County Judge,Keith Umphress,153
+5,District Clerk,Melanie Berry,111
+5,District Clerk,Tracie Pippin,130
+5,County Clerk,Vanessa James,222
+5,County Treasurer,Brad Campsey,215
+5,Justice of the Peace,Stacy Spurlock,129
+5,Justice of the Peace,Jessica Bailey,113
+5,County Chairman,John Berry,211
+5,Proposition 1,YES,237
+5,Proposition 1,NO,4
+5,Proposition 2,YES,188
+5,Proposition 2,NO,43
+5,Proposition 3,YES,231
+5,Proposition 3,NO,10
+5,Proposition 4,YES,222
+5,Proposition 4,NO,17
+5,Proposition 5,YES,220
+5,Proposition 5,NO,16
+5,Proposition 6,YES,210
+5,Proposition 6,NO,25
+5,Proposition 7,YES,239
+5,Proposition 7,NO,2
+5,Proposition 8,YES,223
+5,Proposition 8,NO,11
+5,Proposition 9,YES,206
+5,Proposition 9,NO,36
+5,Proposition 10,YES,233
+5,Proposition 10,NO,5
+6,Governor,Michael Cooper,3
+6,Governor,Inocencio (Inno) Barrientez,0
+6,Governor,Beto O'Rourke,17
+6,Governor,Rich Wakeland,0
+6,Governor,Joy Diaz,2
+6,Lieutenant Governor,Michelle Beckley,5
+6,Lieutenant Governor,Carla Brailey,5
+6,Lieutenant Governor,Mike Collier,8
+6,Attorney General,Joe Jaworski,7
+6,Attorney General,"S. ""TBone"" Raynor",1
+6,Attorney General,Rochelle Mercedes Garza,6
+6,Attorney General,Mike Fields,2
+6,Attorney General,Lee Merritt,1
+6,Comptroller of Public Accounts,Angel Luis Vega,2
+6,Comptroller of Public Accounts,Janet T. Dudding,10
+6,Comptroller of Public Accounts,Tim Mahoney,6
+6,Commissioner of the General Land Office,Jay Kleberg,6
+6,Commissioner of the General Land Office,Jinny Suh,2
+6,Commissioner of the General Land Office,Michael Lange,7
+6,Commissioner of the General Land Office,Sandragrace Martinez,2
+6,Commissioner of Agriculture,Ed Ireson,3
+6,Commissioner of Agriculture,Susan Hays,14
+6,Railroad Commissioner,Luke Warford,15
+6,"Justice, Supreme Court, Place 3",Erin A Nowell,16
+6,"Justice, Supreme Court, Place 5",Amanda Reichek,15
+6,"Justice, Supreme Court, Place 9",Julia Maldonado,15
+6,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,17
+6,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,14
+6,"Member, State Board of Education, District No. 14",Tracy Fisher,14
+6,"Justice, 2nd Court of Appeals District, Place No. 3",Delonia A. Watson,14
+6,County Chairman,John Barry IV,16
+6,"United States Representative, District No. 25",Roger Williams,441
+6,Governor,Chad Prather,32
+6,Governor,Don Huffines,23
+6,Governor,Rick Perry,22
+6,Governor,Greg Abbott,380
+6,Governor,Allen B. West,46
+6,Governor,Danny Harrison,1
+6,Governor,Kandy Kaye Horn,3
+6,Governor,Paul Belew,1
+6,Lieutenant Governor,Zach Vance,25
+6,Lieutenant Governor,Trayce Bradford,24
+6,Lieutenant Governor,Daniel Miller,32
+6,Lieutenant Governor,Todd M. Bullis,7
+6,Lieutenant Governor,Aaron Sorrells,14
+6,Lieutenant Governor,Dan Patrick,355
+6,Attorney General,Eva Guzman,55
+6,Attorney General,Louie Gohmert,43
+6,Attorney General,Ken Paxton,219
+6,Attorney General,George P. Bush,172
+6,Comptroller of Public Accounts,Glenn Hegar,351
+6,Comptroller of Public Accounts,Mark V. Goloby,52
+6,Commissioner of the General Land Office,Ben Armenta,25
+6,Commissioner of the General Land Office,Weston Martinez,17
+6,Commissioner of the General Land Office,Victor Avila,23
+6,Commissioner of the General Land Office,Don W. Minton,41
+6,Commissioner of the General Land Office,Dawn Buckingham,125
+6,Commissioner of the General Land Office,Jon Spiers,25
+6,Commissioner of the General Land Office,Rufus Lopez,8
+6,Commissioner of the General Land Office,Tim Westley,87
+6,Commissioner of Agriculture,Carey A. Counsil,23
+6,Commissioner of Agriculture,James White,134
+6,Commissioner of Agriculture,Sid Miller,263
+6,Railroad Commissioner,"Marvin ""Sarge"" Summers",76
+6,Railroad Commissioner,Wayne Christian,158
+6,Railroad Commissioner,Dawayne Tipton,49
+6,Railroad Commissioner,Tom Slocum Jr,49
+6,Railroad Commissioner,Sarah Stogner,44
+6,"Justice, Supreme Court, Place 3",Debra Lehrmann,388
+6,"Justice, Supreme Court, Place 5",Rebeca Huddle,382
+6,"Justice, Supreme Court, Place 9",Evan Young,211
+6,"Justice, Supreme Court, Place 9",David J. Schenck,161
+6,"Judge, Court of Criminal Appeals, Place 2",Mary Lou Keel,380
+6,"Judge, Court of Criminal Appeals, Place 5",Clint Morgan,163
+6,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,199
+6,"Judge, Court of Criminal Appeals, Place 6","Jesse F. McClure, III",370
+6,"Member, State Board of Education, District No. 14",Sue Melton-Malone,194
+6,"Member, State Board of Education, District No. 14",Evelyn Brooks,169
+6,"State Senator, District No. 30",Drew Springer,446
+6,"State Representative,  District No. 68",David Spiller,456
+6,"State Representative,  District No. 68",Craig Carter,32
+6,"State Representative,  District No. 68",Gary W. Franklin,3
+6,"State Representative,  District No. 68",Mark Middleton,19
+6,"Justice, 2nd Court of Appeals District, Place No. 3",Elizabeth Kerr,383
+6,"District Judge, 271st Judicial District",Brock R. Smith,414
+6,"District Attorney, 271st Judicial District Unexpired Term",James M. Stainton,403
+6,County Judge,Michael Moore,222
+6,County Judge,Keith Umphress,292
+6,District Clerk,Melanie Berry,202
+6,District Clerk,Tracie Pippin,307
+6,County Clerk,Vanessa James,458
+6,County Treasurer,Brad Campsey,459
+6,"County Commissioner, Precinct No. 4",Denese Rogers,187
+6,"County Commissioner, Precinct No. 4",Terry Ward,313
+6,Justice of the Peace,Stacy Spurlock,161
+6,Justice of the Peace,Jessica Bailey,340
+6,County Chairman,John Berry,427
+6,Proposition 1,YES,463
+6,Proposition 1,NO,36
+6,Proposition 2,YES,359
+6,Proposition 2,NO,114
+6,Proposition 3,YES,446
+6,Proposition 3,NO,52
+6,Proposition 4,YES,453
+6,Proposition 4,NO,37
+6,Proposition 5,YES,425
+6,Proposition 5,NO,61
+6,Proposition 6,YES,395
+6,Proposition 6,NO,66
+6,Proposition 7,YES,476
+6,Proposition 7,NO,11
+6,Proposition 8,YES,467
+6,Proposition 8,NO,25
+6,Proposition 9,YES,408
+6,Proposition 9,NO,82
+6,Proposition 10,YES,462
+6,Proposition 10,NO,24
