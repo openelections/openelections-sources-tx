@@ -1,0 +1,90 @@
+#FormatVersion 1
+#Precinct,Precinct ID,Precinct Reporting,"Registered Voters","REP Ballots Cast","DEM Ballots Cast","NON Ballots Cast","Turnout Percentage",Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,"Absentee Voting Votes","Absentee Voting Overvotes","Absentee Voting Undervotes","Absentee Voting Invalid Votes","Early Voting Votes","Early Voting Overvotes","Early Voting Undervotes","Early Voting Invalid Votes","Election Day Voting Votes","Election Day Voting Overvotes","Election Day Voting Undervotes","Election Day Voting Invalid Votes"
+"1",1,Reporting         ,1226,126,4,0,10.60,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Attorney General",42,"DEM","Joe Jaworski",3,"",4,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Attorney General",41,"REP","Ken Paxton",3,"",87,0,0,0,9,0,0,0,33,0,0,0,45,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Attorney General",41,"REP","George P. Bush",4,"",39,0,0,0,5,0,0,0,15,0,0,0,19,0,0,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",91,0,8,0,8,0,3,0,31,0,1,0,52,0,4,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",27,0,8,0,3,0,3,0,16,0,1,0,8,0,4,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",73,0,9,0,6,0,2,0,31,0,4,0,36,0,3,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",44,0,9,0,6,0,2,0,13,0,4,0,25,0,3,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Precinct Chairman, Precinct 1",65,"REP","Carolyn Nichols",2,"",103,0,7,0,12,0,0,0,43,0,2,0,48,0,5,0
+"1",1,Reporting         ,1226,126,4,0,10.60,"Precinct Chairman, Precinct 1",65,"REP","Susan Abshier",1,"",16,0,7,0,2,0,0,0,3,0,2,0,11,0,5,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Attorney General",42,"DEM","Joe Jaworski",3,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Attorney General",41,"REP","Ken Paxton",3,"",75,0,0,0,6,0,0,0,11,0,0,0,58,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Attorney General",41,"REP","George P. Bush",4,"",33,0,0,0,6,0,0,0,4,0,0,0,23,0,0,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",68,0,3,0,6,0,0,0,11,0,0,0,51,0,3,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",37,0,3,0,6,0,0,0,4,0,0,0,27,0,3,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",58,0,2,0,8,0,0,0,8,0,0,0,42,0,2,0
+"2",5,Reporting         ,1228,108,4,0,9.12,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",48,0,2,0,4,0,0,0,7,0,0,0,37,0,2,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Attorney General",42,"DEM","Joe Jaworski",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Attorney General",41,"REP","Ken Paxton",3,"",8,0,0,0,1,0,0,0,3,0,0,0,4,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Attorney General",41,"REP","George P. Bush",4,"",3,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",7,0,0,0,2,0,0,0,1,0,0,0,4,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",4,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",9,0,0,0,3,0,0,0,3,0,0,0,3,0,0,0
+"3",2,Reporting         ,209,11,0,0,5.26,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Attorney General",42,"DEM","Joe Jaworski",3,"",3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",4,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",3,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Attorney General",41,"REP","Ken Paxton",3,"",48,0,0,0,2,0,0,0,23,0,0,0,23,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Attorney General",41,"REP","George P. Bush",4,"",22,0,0,0,2,0,0,0,10,0,0,0,10,0,0,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",40,0,5,0,0,0,2,0,19,0,1,0,21,0,2,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",25,0,5,0,2,0,2,0,13,0,1,0,10,0,2,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",37,0,6,0,2,0,2,0,18,0,2,0,17,0,2,0
+"4",4,Reporting         ,860,70,4,0,8.60,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",27,0,6,0,0,0,2,0,13,0,2,0,14,0,2,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Attorney General",42,"DEM","Joe Jaworski",3,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Attorney General",41,"REP","Ken Paxton",3,"",59,0,0,0,4,0,0,0,12,0,0,0,43,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Attorney General",41,"REP","George P. Bush",4,"",18,0,0,0,3,0,0,0,5,0,0,0,10,0,0,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",46,0,7,0,3,0,2,0,9,0,1,0,34,0,4,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",24,0,7,0,2,0,2,0,7,0,1,0,15,0,4,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",51,0,5,0,5,0,1,0,12,0,1,0,34,0,3,0
+"5",3,Reporting         ,697,77,2,0,11.33,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",21,0,5,0,1,0,1,0,4,0,1,0,16,0,3,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Lieutenant Governor",25,"DEM","Michelle Beckley",3,"",7,0,0,0,3,0,0,0,2,0,0,0,2,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Lieutenant Governor",25,"DEM","Mike Collier",2,"",6,0,0,0,2,0,0,0,2,0,0,0,2,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Attorney General",42,"DEM","Joe Jaworski",3,"",7,0,0,0,4,0,0,0,1,0,0,0,2,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Attorney General",42,"DEM","Rochelle Mercedes Garza",2,"",6,0,0,0,1,0,0,0,3,0,0,0,2,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Comptroller of Public Accounts",58,"DEM","Angel Luis Vega",1,"",4,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Comptroller of Public Accounts",58,"DEM","Janet T. Dudding",3,"",9,0,0,0,3,0,0,0,3,0,0,0,3,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Commissioner of the General Land Office",24,"DEM","Jay Kleberg",4,"",7,0,0,0,3,0,0,0,1,0,0,0,3,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Commissioner of the General Land Office",24,"DEM","Sandragrace Martinez",2,"",6,0,0,0,2,0,0,0,3,0,0,0,1,0,0,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Attorney General",41,"REP","Ken Paxton",3,"",76,0,4,0,9,0,0,0,26,0,2,0,41,0,2,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Attorney General",41,"REP","George P. Bush",4,"",33,0,4,0,5,0,0,0,17,0,2,0,11,0,2,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Commissioner of the General Land Office",22,"REP","Dawn Buckingham",2,"",72,0,7,0,9,0,2,0,31,0,1,0,32,0,4,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Commissioner of the General Land Office",22,"REP","Tim Westley",3,"",34,0,7,0,3,0,2,0,13,0,1,0,18,0,4,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Railroad Commissioner",64,"REP","Wayne Christian",3,"",70,0,3,0,11,0,0,0,27,0,1,0,32,0,2,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Railroad Commissioner",64,"REP","Sarah Stogner",2,"",40,0,3,0,3,0,0,0,17,0,1,0,20,0,2,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Precinct Chairman, Precinct 6",66,"REP","Banning Sweatland",2,"",51,0,17,0,6,0,2,0,17,0,7,0,28,0,8,0
+"6",6,Reporting         ,1321,113,13,0,9.54,"Precinct Chairman, Precinct 6",66,"REP","Evelyn Longest Leach",1,"",45,0,17,0,6,0,2,0,21,0,7,0,18,0,8,0

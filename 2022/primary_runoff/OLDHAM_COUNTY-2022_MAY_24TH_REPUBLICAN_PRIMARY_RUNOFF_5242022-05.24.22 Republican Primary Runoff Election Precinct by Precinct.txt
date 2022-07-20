@@ -1,0 +1,60 @@
+00010010001000204          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 101                                           00 
+00010010002000154          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 202                                           00 
+00010010003000776          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Consolidated 303                                       00 
+00010010004000170          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 404                                           00 
+00020010001000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 101                                           00 
+00020010002000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 202                                           00 
+00020010003000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Consolidated 303                                       00 
+00020010004000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 404                                           00 
+00030010001000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 101                                           00 
+00030010002000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 202                                           00 
+00030010003000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Consolidated 303                                       00 
+00030010004000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 404                                           00 
+00040010001000204NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 101                                           00 
+00040010002000154NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 202                                           00 
+00040010003000776NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Consolidated 303                                       00 
+00040010004000170NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 404                                           00 
+00050010001000017          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 101                                           00 
+00050010002000019          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 202                                           00 
+00050010003000085          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Consolidated 303                                       00 
+00050010004000023          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 404                                           00 
+00060010001000015REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 101                                           00 
+00060010002000019REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 202                                           00 
+00060010003000084REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Consolidated 303                                       00 
+00060010004000023REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 404                                           00 
+00070010001000002DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 101                                           00 
+00070010002000000DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 202                                           00 
+00070010003000001DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Consolidated 303                                       00 
+00070010004000000DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 404                                           00 
+00080010001000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 101                                           00 
+00080010002000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 202                                           00 
+00080010003000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Consolidated 303                                       00 
+00080010004000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 404                                           00 
+00090010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 101                                           00 
+00090010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 202                                           00 
+00090010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Consolidated 303                                       00 
+00090010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 404                                           00 
+00100010001000009REP       REP Attorney General                                    George P. Bush                        Precinct 101                                           01 
+00100010002000009REP       REP Attorney General                                    George P. Bush                        Precinct 202                                           01 
+00100010003000032REP       REP Attorney General                                    George P. Bush                        Consolidated 303                                       01 
+00100010004000003REP       REP Attorney General                                    George P. Bush                        Precinct 404                                           01 
+00100020001000006REP       REP Attorney General                                    Ken Paxton                            Precinct 101                                           01 
+00100020002000010REP       REP Attorney General                                    Ken Paxton                            Precinct 202                                           01 
+00100020003000051REP       REP Attorney General                                    Ken Paxton                            Consolidated 303                                       01 
+00100020004000020REP       REP Attorney General                                    Ken Paxton                            Precinct 404                                           01 
+00110010001000008REP       REP Comm General Land Office                            Tim Westley                           Precinct 101                                           01 
+00110010002000004REP       REP Comm General Land Office                            Tim Westley                           Precinct 202                                           01 
+00110010003000026REP       REP Comm General Land Office                            Tim Westley                           Consolidated 303                                       01 
+00110010004000014REP       REP Comm General Land Office                            Tim Westley                           Precinct 404                                           01 
+00110020001000007REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 101                                           01 
+00110020002000011REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 202                                           01 
+00110020003000053REP       REP Comm General Land Office                            Dawn Buckingham                       Consolidated 303                                       01 
+00110020004000009REP       REP Comm General Land Office                            Dawn Buckingham                       Precinct 404                                           01 
+00120010001000013REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 101                                           01 
+00120010002000014REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 202                                           01 
+00120010003000059REP       REP Railroad Commissioner                               Wayne Christian                       Consolidated 303                                       01 
+00120010004000019REP       REP Railroad Commissioner                               Wayne Christian                       Precinct 404                                           01 
+00120020001000002REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 101                                           01 
+00120020002000004REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 202                                           01 
+00120020003000021REP       REP Railroad Commissioner                               Sarah Stogner                         Consolidated 303                                       01 
+00120020004000004REP       REP Railroad Commissioner                               Sarah Stogner                         Precinct 404                                           01 

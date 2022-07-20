@@ -1,0 +1,8 @@
+COUNTY NUMBER,PRECINCT CODE,PRECINCT NAME,REGISTERED VOTERS TOTAL,REGISTERED VOTERS - Republican Party,REGISTERED VOTERS - Democratic Party,REGISTERED VOTERS - NONPARTISAN,BALLOTS CAST TOTAL,BALLOTS CAST - Republican Party,BALLOTS CAST - Democratic Party,BALLOTS CAST - NONPARTISAN,BALLOTS CAST BLANK,REP Attorney General,REP Attorney General,REP Comm General Land Office,REP Comm General Land Office,REP Railroad Commissioner,REP Railroad Commissioner,DEM Lieutenant Governor,DEM Lieutenant Governor,DEM Attorney General,DEM Attorney General,DEM Comptroller of Public Accounts,DEM Comptroller of Public Accounts,DEM Comm General Land Office,DEM Comm General Land Office,
+,,,,REP,DEM,NON,,REP,DEM,NON,,REP,REP,REP,REP,REP,REP,DEM,DEM,DEM,DEM,DEM,DEM,DEM,DEM,
+,,,VOTERS,VOTERS,VOTERS,VOTERS,BALLOTS CAST,BALLOTS CAST,BALLOTS CAST,BALLOTS CAST,BALLOTS CAST,Ken Paxton,George P. Bush,Dawn Buckingham,Tim Westley,Wayne Christian,Sarah Stogner,Mike Collier,Michelle Beckley,Joe Jaworski,Rochelle Mercedes Garza,Janet T. Dudding,Angel Luis Vega,Jay Kleberg,Sandragrace Martinez,
+CHILD,0001,Precinct 101,0,0,0,0,32,31,1,0,0,26,5,18,12,25,6,0,1,0,1,0,1,0,1,
+CHILD,0002,Precinct 201,0,0,0,0,44,43,1,0,0,36,7,23,17,38,3,0,1,0,1,1,0,0,1,
+CHILD,0003,Precinct 301,0,0,0,0,53,49,4,0,0,41,8,38,8,33,11,2,2,3,1,4,0,3,1,
+CHILD,0004,Precinct 401,0,0,0,0,55,54,1,0,0,47,7,41,11,41,10,1,0,1,0,1,0,1,0,
+CHILD,ZZZ,COUNTY TOTALS,0,0,0,0,184,177,7,0,0,150,27,120,48,137,30,3,4,4,3,6,1,4,3,

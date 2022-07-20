@@ -1,0 +1,68 @@
+00010010001000204          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 101                                           00 
+00010010002000154          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 202                                           00 
+00010010003000776          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Consolidated 303                                       00 
+00010010004000170          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             Precinct 404                                           00 
+00020010001000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 101                                           00 
+00020010002000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 202                                           00 
+00020010003000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Consolidated 303                                       00 
+00020010004000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  Precinct 404                                           00 
+00030010001000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 101                                           00 
+00030010002000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 202                                           00 
+00030010003000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Consolidated 303                                       00 
+00030010004000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  Precinct 404                                           00 
+00040010001000204NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 101                                           00 
+00040010002000154NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 202                                           00 
+00040010003000776NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Consolidated 303                                       00 
+00040010004000170NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       Precinct 404                                           00 
+00050010001000017          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 101                                           00 
+00050010002000019          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 202                                           00 
+00050010003000085          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Consolidated 303                                       00 
+00050010004000023          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  Precinct 404                                           00 
+00060010001000015REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 101                                           00 
+00060010002000019REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 202                                           00 
+00060010003000084REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Consolidated 303                                       00 
+00060010004000023REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       Precinct 404                                           00 
+00070010001000002DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 101                                           00 
+00070010002000000DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 202                                           00 
+00070010003000001DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Consolidated 303                                       00 
+00070010004000000DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       Precinct 404                                           00 
+00080010001000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 101                                           00 
+00080010002000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 202                                           00 
+00080010003000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Consolidated 303                                       00 
+00080010004000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            Precinct 404                                           00 
+00090010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 101                                           00 
+00090010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 202                                           00 
+00090010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Consolidated 303                                       00 
+00090010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  Precinct 404                                           00 
+00100010001000000DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 101                                           01 
+00100010002000000DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 202                                           01 
+00100010003000001DEM       DEM Lieutenant Governor                                 Mike Collier                          Consolidated 303                                       01 
+00100010004000000DEM       DEM Lieutenant Governor                                 Mike Collier                          Precinct 404                                           01 
+00100020001000002DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 101                                           01 
+00100020002000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 202                                           01 
+00100020003000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Consolidated 303                                       01 
+00100020004000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      Precinct 404                                           01 
+00110010001000002DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 101                                           01 
+00110010002000000DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 202                                           01 
+00110010003000001DEM       DEM Attorney General                                    Joe Jaworski                          Consolidated 303                                       01 
+00110010004000000DEM       DEM Attorney General                                    Joe Jaworski                          Precinct 404                                           01 
+00110020001000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 101                                           01 
+00110020002000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 202                                           01 
+00110020003000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Consolidated 303                                       01 
+00110020004000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               Precinct 404                                           01 
+00120010001000000DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 101                                           01 
+00120010002000000DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 202                                           01 
+00120010003000001DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Consolidated 303                                       01 
+00120010004000000DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      Precinct 404                                           01 
+00120020001000002DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 101                                           01 
+00120020002000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 202                                           01 
+00120020003000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Consolidated 303                                       01 
+00120020004000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       Precinct 404                                           01 
+00130010001000000DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 101                                           01 
+00130010002000000DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 202                                           01 
+00130010003000001DEM       DEM Comm General Land Office                            Jay Kleberg                           Consolidated 303                                       01 
+00130010004000000DEM       DEM Comm General Land Office                            Jay Kleberg                           Precinct 404                                           01 
+00130020001000002DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 101                                           01 
+00130020002000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 202                                           01 
+00130020003000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Consolidated 303                                       01 
+00130020004000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  Precinct 404                                           01 

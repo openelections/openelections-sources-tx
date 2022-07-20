@@ -1,0 +1,192 @@
+00010010001000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             14 (15)                                                00 
+00010010002000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             16 (11)                                                00 
+00010010003000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             24                                                     00 
+00010010004000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             32 (21,33,35,36)                                       00 
+00010010005000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             43                                                     00 
+00010010006000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             44                                                     00 
+00010010007000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             45                                                     00 
+00010010008000000          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             46                                                     00 
+00020010001000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  14 (15)                                                00 
+00020010002000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  16 (11)                                                00 
+00020010003000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  24                                                     00 
+00020010004000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  32 (21,33,35,36)                                       00 
+00020010005000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  43                                                     00 
+00020010006000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  44                                                     00 
+00020010007000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  45                                                     00 
+00020010008000000REP       REGISTERED VOTERS - Republican Party                    REGISTERED VOTERS - Republican Party  46                                                     00 
+00030010001000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  14 (15)                                                00 
+00030010002000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  16 (11)                                                00 
+00030010003000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  24                                                     00 
+00030010004000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  32 (21,33,35,36)                                       00 
+00030010005000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  43                                                     00 
+00030010006000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  44                                                     00 
+00030010007000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  45                                                     00 
+00030010008000000DEM       REGISTERED VOTERS - Democratic Party                    REGISTERED VOTERS - Democratic Party  46                                                     00 
+00040010001000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       14 (15)                                                00 
+00040010002000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       16 (11)                                                00 
+00040010003000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       24                                                     00 
+00040010004000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       32 (21,33,35,36)                                       00 
+00040010005000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       43                                                     00 
+00040010006000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       44                                                     00 
+00040010007000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       45                                                     00 
+00040010008000000NON       REGISTERED VOTERS - NONPARTISAN                         REGISTERED VOTERS - NONPARTISAN       46                                                     00 
+00050010001000063          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  14 (15)                                                00 
+00050010002000183          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  16 (11)                                                00 
+00050010003000028          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  24                                                     00 
+00050010004000175          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  32 (21,33,35,36)                                       00 
+00050010005000047          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  43                                                     00 
+00050010006000084          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  44                                                     00 
+00050010007000151          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  45                                                     00 
+00050010008000043          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  46                                                     00 
+00060010001000061REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       14 (15)                                                00 
+00060010002000172REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       16 (11)                                                00 
+00060010003000023REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       24                                                     00 
+00060010004000164REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       32 (21,33,35,36)                                       00 
+00060010005000047REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       43                                                     00 
+00060010006000083REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       44                                                     00 
+00060010007000146REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       45                                                     00 
+00060010008000041REP       BALLOTS CAST - Republican Party                         BALLOTS CAST - Republican Party       46                                                     00 
+00070010001000002DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       14 (15)                                                00 
+00070010002000011DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       16 (11)                                                00 
+00070010003000005DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       24                                                     00 
+00070010004000011DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       32 (21,33,35,36)                                       00 
+00070010005000000DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       43                                                     00 
+00070010006000001DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       44                                                     00 
+00070010007000005DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       45                                                     00 
+00070010008000002DEM       BALLOTS CAST - Democratic Party                         BALLOTS CAST - Democratic Party       46                                                     00 
+00080010001000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            14 (15)                                                00 
+00080010002000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            16 (11)                                                00 
+00080010003000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            24                                                     00 
+00080010004000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            32 (21,33,35,36)                                       00 
+00080010005000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            43                                                     00 
+00080010006000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            44                                                     00 
+00080010007000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            45                                                     00 
+00080010008000000NON       BALLOTS CAST - NONPARTISAN                              BALLOTS CAST - NONPARTISAN            46                                                     00 
+00090010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  14 (15)                                                00 
+00090010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  16 (11)                                                00 
+00090010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  24                                                     00 
+00090010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  32 (21,33,35,36)                                       00 
+00090010005000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  43                                                     00 
+00090010006000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  44                                                     00 
+00090010007000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  45                                                     00 
+00090010008000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  46                                                     00 
+00100010001000017REP       REP Attorney General                                    George P. Bush                        14 (15)                                                01 
+00100010002000041REP       REP Attorney General                                    George P. Bush                        16 (11)                                                01 
+00100010003000006REP       REP Attorney General                                    George P. Bush                        24                                                     01 
+00100010004000030REP       REP Attorney General                                    George P. Bush                        32 (21,33,35,36)                                       01 
+00100010005000010REP       REP Attorney General                                    George P. Bush                        43                                                     01 
+00100010006000007REP       REP Attorney General                                    George P. Bush                        44                                                     01 
+00100010007000050REP       REP Attorney General                                    George P. Bush                        45                                                     01 
+00100010008000008REP       REP Attorney General                                    George P. Bush                        46                                                     01 
+00100020001000044REP       REP Attorney General                                    Ken Paxton                            14 (15)                                                01 
+00100020002000129REP       REP Attorney General                                    Ken Paxton                            16 (11)                                                01 
+00100020003000017REP       REP Attorney General                                    Ken Paxton                            24                                                     01 
+00100020004000133REP       REP Attorney General                                    Ken Paxton                            32 (21,33,35,36)                                       01 
+00100020005000037REP       REP Attorney General                                    Ken Paxton                            43                                                     01 
+00100020006000070REP       REP Attorney General                                    Ken Paxton                            44                                                     01 
+00100020007000091REP       REP Attorney General                                    Ken Paxton                            45                                                     01 
+00100020008000031REP       REP Attorney General                                    Ken Paxton                            46                                                     01 
+00110010001000019REP       REP Comm General Land Office                            Tim Westley                           14 (15)                                                01 
+00110010002000051REP       REP Comm General Land Office                            Tim Westley                           16 (11)                                                01 
+00110010003000006REP       REP Comm General Land Office                            Tim Westley                           24                                                     01 
+00110010004000065REP       REP Comm General Land Office                            Tim Westley                           32 (21,33,35,36)                                       01 
+00110010005000023REP       REP Comm General Land Office                            Tim Westley                           43                                                     01 
+00110010006000037REP       REP Comm General Land Office                            Tim Westley                           44                                                     01 
+00110010007000055REP       REP Comm General Land Office                            Tim Westley                           45                                                     01 
+00110010008000017REP       REP Comm General Land Office                            Tim Westley                           46                                                     01 
+00110020001000036REP       REP Comm General Land Office                            Dawn Buckingham                       14 (15)                                                01 
+00110020002000109REP       REP Comm General Land Office                            Dawn Buckingham                       16 (11)                                                01 
+00110020003000016REP       REP Comm General Land Office                            Dawn Buckingham                       24                                                     01 
+00110020004000089REP       REP Comm General Land Office                            Dawn Buckingham                       32 (21,33,35,36)                                       01 
+00110020005000019REP       REP Comm General Land Office                            Dawn Buckingham                       43                                                     01 
+00110020006000034REP       REP Comm General Land Office                            Dawn Buckingham                       44                                                     01 
+00110020007000071REP       REP Comm General Land Office                            Dawn Buckingham                       45                                                     01 
+00110020008000017REP       REP Comm General Land Office                            Dawn Buckingham                       46                                                     01 
+00120010001000038REP       REP Railroad Commissioner                               Wayne Christian                       14 (15)                                                01 
+00120010002000086REP       REP Railroad Commissioner                               Wayne Christian                       16 (11)                                                01 
+00120010003000011REP       REP Railroad Commissioner                               Wayne Christian                       24                                                     01 
+00120010004000082REP       REP Railroad Commissioner                               Wayne Christian                       32 (21,33,35,36)                                       01 
+00120010005000023REP       REP Railroad Commissioner                               Wayne Christian                       43                                                     01 
+00120010006000034REP       REP Railroad Commissioner                               Wayne Christian                       44                                                     01 
+00120010007000065REP       REP Railroad Commissioner                               Wayne Christian                       45                                                     01 
+00120010008000014REP       REP Railroad Commissioner                               Wayne Christian                       46                                                     01 
+00120020001000020REP       REP Railroad Commissioner                               Sarah Stogner                         14 (15)                                                01 
+00120020002000081REP       REP Railroad Commissioner                               Sarah Stogner                         16 (11)                                                01 
+00120020003000012REP       REP Railroad Commissioner                               Sarah Stogner                         24                                                     01 
+00120020004000075REP       REP Railroad Commissioner                               Sarah Stogner                         32 (21,33,35,36)                                       01 
+00120020005000020REP       REP Railroad Commissioner                               Sarah Stogner                         43                                                     01 
+00120020006000041REP       REP Railroad Commissioner                               Sarah Stogner                         44                                                     01 
+00120020007000063REP       REP Railroad Commissioner                               Sarah Stogner                         45                                                     01 
+00120020008000024REP       REP Railroad Commissioner                               Sarah Stogner                         46                                                     01 
+00130010005000032REPCOM2   REP County Commissioner Pct 4                           Thomas Tommy Clevenger                43                            Precinct No. 4           01 
+00130010006000058REPCOM2   REP County Commissioner Pct 4                           Thomas Tommy Clevenger                44                            Precinct No. 4           01 
+00130010007000051REPCOM2   REP County Commissioner Pct 4                           Thomas Tommy Clevenger                45                            Precinct No. 4           01 
+00130010008000023REPCOM2   REP County Commissioner Pct 4                           Thomas Tommy Clevenger                46                            Precinct No. 4           01 
+00130020005000015REPCOM2   REP County Commissioner Pct 4                           Greg E. Kelley                        43                            Precinct No. 4           01 
+00130020006000023REPCOM2   REP County Commissioner Pct 4                           Greg E. Kelley                        44                            Precinct No. 4           01 
+00130020007000090REPCOM2   REP County Commissioner Pct 4                           Greg E. Kelley                        45                            Precinct No. 4           01 
+00130020008000017REPCOM2   REP County Commissioner Pct 4                           Greg E. Kelley                        46                            Precinct No. 4           01 
+00140010001000001DEM       DEM Lieutenant Governor                                 Michelle Beckley                      14 (15)                                                01 
+00140010002000004DEM       DEM Lieutenant Governor                                 Michelle Beckley                      16 (11)                                                01 
+00140010003000002DEM       DEM Lieutenant Governor                                 Michelle Beckley                      24                                                     01 
+00140010004000006DEM       DEM Lieutenant Governor                                 Michelle Beckley                      32 (21,33,35,36)                                       01 
+00140010005000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      43                                                     01 
+00140010006000001DEM       DEM Lieutenant Governor                                 Michelle Beckley                      44                                                     01 
+00140010007000003DEM       DEM Lieutenant Governor                                 Michelle Beckley                      45                                                     01 
+00140010008000000DEM       DEM Lieutenant Governor                                 Michelle Beckley                      46                                                     01 
+00140020001000001DEM       DEM Lieutenant Governor                                 Mike Collier                          14 (15)                                                01 
+00140020002000007DEM       DEM Lieutenant Governor                                 Mike Collier                          16 (11)                                                01 
+00140020003000003DEM       DEM Lieutenant Governor                                 Mike Collier                          24                                                     01 
+00140020004000005DEM       DEM Lieutenant Governor                                 Mike Collier                          32 (21,33,35,36)                                       01 
+00140020005000000DEM       DEM Lieutenant Governor                                 Mike Collier                          43                                                     01 
+00140020006000000DEM       DEM Lieutenant Governor                                 Mike Collier                          44                                                     01 
+00140020007000002DEM       DEM Lieutenant Governor                                 Mike Collier                          45                                                     01 
+00140020008000002DEM       DEM Lieutenant Governor                                 Mike Collier                          46                                                     01 
+00150010001000001DEM       DEM Attorney General                                    Joe Jaworski                          14 (15)                                                01 
+00150010002000004DEM       DEM Attorney General                                    Joe Jaworski                          16 (11)                                                01 
+00150010003000000DEM       DEM Attorney General                                    Joe Jaworski                          24                                                     01 
+00150010004000002DEM       DEM Attorney General                                    Joe Jaworski                          32 (21,33,35,36)                                       01 
+00150010005000000DEM       DEM Attorney General                                    Joe Jaworski                          43                                                     01 
+00150010006000000DEM       DEM Attorney General                                    Joe Jaworski                          44                                                     01 
+00150010007000000DEM       DEM Attorney General                                    Joe Jaworski                          45                                                     01 
+00150010008000002DEM       DEM Attorney General                                    Joe Jaworski                          46                                                     01 
+00150020001000001DEM       DEM Attorney General                                    Rochelle Mercedes Garza               14 (15)                                                01 
+00150020002000007DEM       DEM Attorney General                                    Rochelle Mercedes Garza               16 (11)                                                01 
+00150020003000005DEM       DEM Attorney General                                    Rochelle Mercedes Garza               24                                                     01 
+00150020004000009DEM       DEM Attorney General                                    Rochelle Mercedes Garza               32 (21,33,35,36)                                       01 
+00150020005000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               43                                                     01 
+00150020006000001DEM       DEM Attorney General                                    Rochelle Mercedes Garza               44                                                     01 
+00150020007000005DEM       DEM Attorney General                                    Rochelle Mercedes Garza               45                                                     01 
+00150020008000000DEM       DEM Attorney General                                    Rochelle Mercedes Garza               46                                                     01 
+00160010001000001DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      14 (15)                                                01 
+00160010002000006DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      16 (11)                                                01 
+00160010003000000DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      24                                                     01 
+00160010004000004DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      32 (21,33,35,36)                                       01 
+00160010005000000DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      43                                                     01 
+00160010006000001DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      44                                                     01 
+00160010007000002DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      45                                                     01 
+00160010008000002DEM       DEM Comptroller of Public Accounts                      Janet T. Dudding                      46                                                     01 
+00160020001000001DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       14 (15)                                                01 
+00160020002000005DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       16 (11)                                                01 
+00160020003000004DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       24                                                     01 
+00160020004000007DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       32 (21,33,35,36)                                       01 
+00160020005000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       43                                                     01 
+00160020006000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       44                                                     01 
+00160020007000003DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       45                                                     01 
+00160020008000000DEM       DEM Comptroller of Public Accounts                      Angel Luis Vega                       46                                                     01 
+00170010001000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  14 (15)                                                01 
+00170010002000005DEM       DEM Comm General Land Office                            Sandragrace Martinez                  16 (11)                                                01 
+00170010003000005DEM       DEM Comm General Land Office                            Sandragrace Martinez                  24                                                     01 
+00170010004000010DEM       DEM Comm General Land Office                            Sandragrace Martinez                  32 (21,33,35,36)                                       01 
+00170010005000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  43                                                     01 
+00170010006000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  44                                                     01 
+00170010007000003DEM       DEM Comm General Land Office                            Sandragrace Martinez                  45                                                     01 
+00170010008000000DEM       DEM Comm General Land Office                            Sandragrace Martinez                  46                                                     01 
+00170020001000002DEM       DEM Comm General Land Office                            Jay Kleberg                           14 (15)                                                01 
+00170020002000006DEM       DEM Comm General Land Office                            Jay Kleberg                           16 (11)                                                01 
+00170020003000000DEM       DEM Comm General Land Office                            Jay Kleberg                           24                                                     01 
+00170020004000001DEM       DEM Comm General Land Office                            Jay Kleberg                           32 (21,33,35,36)                                       01 
+00170020005000000DEM       DEM Comm General Land Office                            Jay Kleberg                           43                                                     01 
+00170020006000001DEM       DEM Comm General Land Office                            Jay Kleberg                           44                                                     01 
+00170020007000002DEM       DEM Comm General Land Office                            Jay Kleberg                           45                                                     01 
+00170020008000002DEM       DEM Comm General Land Office                            Jay Kleberg                           46                                                     01 

@@ -1,0 +1,116 @@
+00010010001000394          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             101                                                    00 
+00010010002000093          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             201                                                    00 
+00010010003000403          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             202                                                    00 
+00010010004000111          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             301                                                    00 
+00010010005000334          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             302                                                    00 
+00010010006000298          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             401                                                    00 
+00010010007000183          REGISTERED VOTERS - TOTAL                               REGISTERED VOTERS - TOTAL             402                                                    00 
+00020010001000084          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  101                                                    00 
+00020010002000011          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  201                                                    00 
+00020010003000092          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  202                                                    00 
+00020010004000008          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  301                                                    00 
+00020010005000089          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  302                                                    00 
+00020010006000049          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  401                                                    00 
+00020010007000040          BALLOTS CAST - TOTAL                                    BALLOTS CAST - TOTAL                  402                                                    00 
+00030010001000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  101                                                    00 
+00030010002000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  201                                                    00 
+00030010003000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  202                                                    00 
+00030010004000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  301                                                    00 
+00030010005000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  302                                                    00 
+00030010006000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  401                                                    00 
+00030010007000000          BALLOTS CAST - BLANK                                    BALLOTS CAST - BLANK                  402                                                    00 
+00040010001000056NON       STATE PROP 1                                            For                                   101                                                    01Y
+00040010002000011NON       STATE PROP 1                                            For                                   201                                                    01Y
+00040010003000068NON       STATE PROP 1                                            For                                   202                                                    01Y
+00040010004000004NON       STATE PROP 1                                            For                                   301                                                    01Y
+00040010005000062NON       STATE PROP 1                                            For                                   302                                                    01Y
+00040010006000042NON       STATE PROP 1                                            For                                   401                                                    01Y
+00040010007000029NON       STATE PROP 1                                            For                                   402                                                    01Y
+00040020001000017NON       STATE PROP 1                                            Against                               101                                                    01Y
+00040020002000000NON       STATE PROP 1                                            Against                               201                                                    01Y
+00040020003000014NON       STATE PROP 1                                            Against                               202                                                    01Y
+00040020004000002NON       STATE PROP 1                                            Against                               301                                                    01Y
+00040020005000017NON       STATE PROP 1                                            Against                               302                                                    01Y
+00040020006000004NON       STATE PROP 1                                            Against                               401                                                    01Y
+00040020007000004NON       STATE PROP 1                                            Against                               402                                                    01Y
+00050010001000052NON       STATE PROP 2                                            For                                   101                                                    01Y
+00050010002000010NON       STATE PROP 2                                            For                                   201                                                    01Y
+00050010003000064NON       STATE PROP 2                                            For                                   202                                                    01Y
+00050010004000005NON       STATE PROP 2                                            For                                   301                                                    01Y
+00050010005000052NON       STATE PROP 2                                            For                                   302                                                    01Y
+00050010006000044NON       STATE PROP 2                                            For                                   401                                                    01Y
+00050010007000027NON       STATE PROP 2                                            For                                   402                                                    01Y
+00050020001000020NON       STATE PROP 2                                            Against                               101                                                    01Y
+00050020002000001NON       STATE PROP 2                                            Against                               201                                                    01Y
+00050020003000019NON       STATE PROP 2                                            Against                               202                                                    01Y
+00050020004000000NON       STATE PROP 2                                            Against                               301                                                    01Y
+00050020005000029NON       STATE PROP 2                                            Against                               302                                                    01Y
+00050020006000004NON       STATE PROP 2                                            Against                               401                                                    01Y
+00050020007000006NON       STATE PROP 2                                            Against                               402                                                    01Y
+00060010001000032NONMYR5   Mayor Memphis                                           Ed Bailey                             101                           Memphis                  01 
+00060010003000045NONMYR5   Mayor Memphis                                           Ed Bailey                             202                           Memphis                  01 
+00060010005000028NONMYR5   Mayor Memphis                                           Ed Bailey                             302                           Memphis                  01 
+00060010007000016NONMYR5   Mayor Memphis                                           Ed Bailey                             402                           Memphis                  01 
+00060020001000046NONMYR5   Mayor Memphis                                           Joe Davis                             101                           Memphis                  01 
+00060020003000043NONMYR5   Mayor Memphis                                           Joe Davis                             202                           Memphis                  01 
+00060020005000061NONMYR5   Mayor Memphis                                           Joe Davis                             302                           Memphis                  01 
+00060020007000020NONMYR5   Mayor Memphis                                           Joe Davis                             402                           Memphis                  01 
+00070010001000008NONWRD1   City Council, Ward 1 1                                  Woody Richardson                      101                           1                        01 
+00070010003000000NONWRD1   City Council, Ward 1 1                                  Woody Richardson                      202                           1                        01 
+00070010005000037NONWRD1   City Council, Ward 1 1                                  Woody Richardson                      302                           1                        01 
+00070010007000003NONWRD1   City Council, Ward 1 1                                  Woody Richardson                      402                           1                        01 
+00070020001000003NONWRD1   City Council, Ward 1 1                                  Kristen Dwight                        101                           1                        01 
+00070020003000002NONWRD1   City Council, Ward 1 1                                  Kristen Dwight                        202                           1                        01 
+00070020005000027NONWRD1   City Council, Ward 1 1                                  Kristen Dwight                        302                           1                        01 
+00070020007000002NONWRD1   City Council, Ward 1 1                                  Kristen Dwight                        402                           1                        01 
+00080010001000013NONWRD2   City Council, Ward 2 2                                  Mollie Moffitt                        101                           2                        01 
+00080010003000014NONWRD2   City Council, Ward 2 2                                  Mollie Moffitt                        202                           2                        01 
+00080010005000018NONWRD2   City Council, Ward 2 2                                  Mollie Moffitt                        302                           2                        01 
+00080010007000030NONWRD2   City Council, Ward 2 2                                  Mollie Moffitt                        402                           2                        01 
+00090010001000021NONWRD3   City Council, Ward 3 3                                  Jill Cromwell                         101                           3                        01 
+00090010003000028NONWRD3   City Council, Ward 3 3                                  Jill Cromwell                         202                           3                        01 
+00090010007000000NONWRD3   City Council, Ward 3 3                                  Jill Cromwell                         402                           3                        01 
+00090020001000011NONWRD3   City Council, Ward 3 3                                  Jim Stewart                           101                           3                        01 
+00090020003000034NONWRD3   City Council, Ward 3 3                                  Jim Stewart                           202                           3                        01 
+00090020007000000NONWRD3   City Council, Ward 3 3                                  Jim Stewart                           402                           3                        01 
+00100010001000014NONWRD4   City Council, Ward 4 4                                  Ray Dickson                           101                           4                        01 
+00100010003000004NONWRD4   City Council, Ward 4 4                                  Ray Dickson                           202                           4                        01 
+00100010005000000NONWRD4   City Council, Ward 4 4                                  Ray Dickson                           302                           4                        01 
+00100020001000007NONWRD4   City Council, Ward 4 4                                  Randy Flores                          101                           4                        01 
+00100020003000003NONWRD4   City Council, Ward 4 4                                  Randy Flores                          202                           4                        01 
+00100020005000003NONWRD4   City Council, Ward 4 4                                  Randy Flores                          302                           4                        01 
+00110010001000019NON       Board of Directors                                      Kayla Guest                           101                                                    03 
+00110010002000004NON       Board of Directors                                      Kayla Guest                           201                                                    03 
+00110010003000025NON       Board of Directors                                      Kayla Guest                           202                                                    03 
+00110010004000004NON       Board of Directors                                      Kayla Guest                           301                                                    03 
+00110010005000024NON       Board of Directors                                      Kayla Guest                           302                                                    03 
+00110010006000049NON       Board of Directors                                      Kayla Guest                           401                                                    03 
+00110010007000012NON       Board of Directors                                      Kayla Guest                           402                                                    03 
+00110020001000033NON       Board of Directors                                      Daena Santos                          101                                                    03 
+00110020002000003NON       Board of Directors                                      Daena Santos                          201                                                    03 
+00110020003000047NON       Board of Directors                                      Daena Santos                          202                                                    03 
+00110020004000005NON       Board of Directors                                      Daena Santos                          301                                                    03 
+00110020005000033NON       Board of Directors                                      Daena Santos                          302                                                    03 
+00110020006000001NON       Board of Directors                                      Daena Santos                          401                                                    03 
+00110020007000019NON       Board of Directors                                      Daena Santos                          402                                                    03 
+00110030001000045NON       Board of Directors                                      Kim Burnett                           101                                                    03 
+00110030002000008NON       Board of Directors                                      Kim Burnett                           201                                                    03 
+00110030003000046NON       Board of Directors                                      Kim Burnett                           202                                                    03 
+00110030004000004NON       Board of Directors                                      Kim Burnett                           301                                                    03 
+00110030005000046NON       Board of Directors                                      Kim Burnett                           302                                                    03 
+00110030006000005NON       Board of Directors                                      Kim Burnett                           401                                                    03 
+00110030007000032NON       Board of Directors                                      Kim Burnett                           402                                                    03 
+00110040001000032NON       Board of Directors                                      Linda Carroll                         101                                                    03 
+00110040002000004NON       Board of Directors                                      Linda Carroll                         201                                                    03 
+00110040003000032NON       Board of Directors                                      Linda Carroll                         202                                                    03 
+00110040004000004NON       Board of Directors                                      Linda Carroll                         301                                                    03 
+00110040005000038NON       Board of Directors                                      Linda Carroll                         302                                                    03 
+00110040006000005NON       Board of Directors                                      Linda Carroll                         401                                                    03 
+00110040007000013NON       Board of Directors                                      Linda Carroll                         402                                                    03 
+00110050001000022NON       Board of Directors                                      Cindy Banner                          101                                                    03 
+00110050002000002NON       Board of Directors                                      Cindy Banner                          201                                                    03 
+00110050003000031NON       Board of Directors                                      Cindy Banner                          202                                                    03 
+00110050004000000NON       Board of Directors                                      Cindy Banner                          301                                                    03 
+00110050005000030NON       Board of Directors                                      Cindy Banner                          302                                                    03 
+00110050006000000NON       Board of Directors                                      Cindy Banner                          401                                                    03 
+00110050007000012NON       Board of Directors                                      Cindy Banner                          402                                                    03 
