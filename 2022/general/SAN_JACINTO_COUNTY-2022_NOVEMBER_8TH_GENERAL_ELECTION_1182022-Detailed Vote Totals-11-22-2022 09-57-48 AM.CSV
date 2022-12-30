@@ -1,0 +1,834 @@
+#FormatVersion 1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#Precinct,Precinct ID,Precinct Reporting,Registered Voters,Ballots Cast,Turnout Percentage,Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,Absentee Voting Votes,Absentee Voting Overvotes,Absentee Voting Undervotes,Absentee Voting Invalid Votes,Early Voting Votes,Early Voting Overvotes,Early Voting Undervotes,Early Voting Invalid Votes,Election Day Voting Votes,Election Day Voting Overvotes,Election Day Voting Undervotes,Election Day Voting Invalid Votes
+1,1,Reporting         ,3488,1634,46.85,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,1317,0,19,0,37,0,8,0,918,0,6,0,362,0,5,0
+1,1,Reporting         ,3488,1634,46.85,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,275,0,19,0,21,0,8,0,181,0,6,0,73,0,5,0
+1,1,Reporting         ,3488,1634,46.85,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,23,0,19,0,1,0,8,0,12,0,6,0,10,0,5,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Greg Abbott,1,REP,1330,0,6,0,40,0,1,0,922,0,4,0,368,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Beto O'Rourke,2,DEM,274,0,6,0,25,0,1,0,178,0,4,0,71,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Mark Tippetts,4,LIB,20,0,6,0,1,0,1,0,11,0,4,0,8,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Delilah Barrios,3,GRN,4,0,6,0,0,0,1,0,2,0,4,0,2,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Jacqueline Abernathy,0,,0,0,6,0,0,0,1,0,0,0,4,0,0,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Mark V Goloby,0,,0,0,6,0,0,0,1,0,0,0,4,0,0,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Rejected write-ins,0,,0,0,6,0,0,0,1,0,0,0,4,0,0,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Governor,14,,Unassigned write-ins,0,,0,0,6,0,0,0,1,0,0,0,4,0,0,0,1,0
+1,1,Reporting         ,3488,1634,46.85,Lieutenant Governor,12,,Dan Patrick,2,REP,1298,0,9,0,40,0,1,0,900,0,6,0,358,0,2,0
+1,1,Reporting         ,3488,1634,46.85,Lieutenant Governor,12,,Mike Collier,1,DEM,289,0,9,0,23,0,1,0,192,0,6,0,74,0,2,0
+1,1,Reporting         ,3488,1634,46.85,Lieutenant Governor,12,,Shanna Steele,3,LIB,38,0,9,0,3,0,1,0,19,0,6,0,16,0,2,0
+1,1,Reporting         ,3488,1634,46.85,Attorney General,10,,Ken Paxton,2,REP,1305,0,10,0,40,0,0,0,905,0,7,0,360,0,3,0
+1,1,Reporting         ,3488,1634,46.85,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,278,0,10,0,26,0,0,0,177,0,7,0,75,0,3,0
+1,1,Reporting         ,3488,1634,46.85,Attorney General,10,,Mark Ash,3,LIB,41,0,10,0,1,0,0,0,28,0,7,0,12,0,3,0
+1,1,Reporting         ,3488,1634,46.85,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,1326,0,18,0,40,0,1,0,925,0,9,0,361,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,267,0,18,0,23,0,1,0,171,0,9,0,73,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,23,0,18,0,3,0,1,0,12,0,9,0,8,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,1321,0,27,0,43,0,2,0,915,0,17,0,363,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,268,0,27,0,21,0,2,0,176,0,17,0,71,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,17,0,27,0,1,0,2,0,9,0,17,0,7,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,1,0,27,0,0,0,2,0,0,0,17,0,1,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,27,0,0,0,2,0,0,0,17,0,0,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,27,0,0,0,2,0,0,0,17,0,0,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of Agriculture,16,,Sid Miller,2,REP,1322,0,22,0,42,0,1,0,916,0,13,0,364,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Commissioner of Agriculture,16,,Susan Hays,1,DEM,290,0,22,0,24,0,1,0,188,0,13,0,78,0,8,0
+1,1,Reporting         ,3488,1634,46.85,Railroad Commissioner,2,,Wayne Christian,1,REP,1305,0,28,0,40,0,2,0,907,0,15,0,358,0,11,0
+1,1,Reporting         ,3488,1634,46.85,Railroad Commissioner,2,,Luke Warford,2,DEM,268,0,28,0,22,0,2,0,176,0,15,0,70,0,11,0
+1,1,Reporting         ,3488,1634,46.85,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,27,0,28,0,3,0,2,0,15,0,15,0,9,0,11,0
+1,1,Reporting         ,3488,1634,46.85,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,6,0,28,0,0,0,2,0,4,0,15,0,2,0,11,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,1317,0,25,0,41,0,3,0,912,0,12,0,364,0,10,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,268,0,25,0,21,0,3,0,178,0,12,0,69,0,10,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,24,0,25,0,2,0,3,0,15,0,12,0,7,0,10,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,1329,0,28,0,42,0,3,0,921,0,14,0,366,0,11,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,277,0,28,0,22,0,3,0,182,0,14,0,73,0,11,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,1327,0,27,0,40,0,3,0,923,0,14,0,364,0,10,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,280,0,27,0,24,0,3,0,180,0,14,0,76,0,10,0
+1,1,Reporting         ,3488,1634,46.85,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,1332,0,25,0,40,0,3,0,925,0,13,0,367,0,9,0
+1,1,Reporting         ,3488,1634,46.85,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,277,0,25,0,24,0,3,0,179,0,13,0,74,0,9,0
+1,1,Reporting         ,3488,1634,46.85,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,1343,0,25,0,43,0,3,0,932,0,11,0,368,0,11,0
+1,1,Reporting         ,3488,1634,46.85,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,266,0,25,0,21,0,3,0,174,0,11,0,71,0,11,0
+1,1,Reporting         ,3488,1634,46.85,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,1362,0,77,0,41,0,12,0,944,0,45,0,377,0,20,0
+1,1,Reporting         ,3488,1634,46.85,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,195,0,77,0,14,0,12,0,128,0,45,0,53,0,20,0
+1,1,Reporting         ,3488,1634,46.85,"State Senator, District 5",25,,Charles Schwertner,1,REP,1337,0,83,0,34,0,18,0,934,0,45,0,369,0,20,0
+1,1,Reporting         ,3488,1634,46.85,"State Senator, District 5",25,,Tommy Estes,2,LIB,214,0,83,0,15,0,18,0,138,0,45,0,61,0,20,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,1325,0,36,0,36,0,9,0,924,0,15,0,365,0,12,0
+1,1,Reporting         ,3488,1634,46.85,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,273,0,36,0,22,0,9,0,178,0,15,0,73,0,12,0
+1,1,Reporting         ,3488,1634,46.85,County Judge,34,,Fritz Faulkner,1,REP,1417,0,169,0,40,0,22,0,971,0,110,0,406,0,37,0
+1,1,Reporting         ,3488,1634,46.85,County Judge,34,,Shirley Brandon,0,,33,0,169,0,5,0,22,0,25,0,110,0,3,0,37,0
+1,1,Reporting         ,3488,1634,46.85,County Judge,34,,Rejected write-ins,0,,15,0,169,0,0,0,22,0,11,0,110,0,4,0,37,0
+1,1,Reporting         ,3488,1634,46.85,County Judge,34,,Unassigned write-ins,0,,0,0,169,0,0,0,22,0,0,0,110,0,0,0,37,0
+2,4,Reporting         ,3000,1084,36.13,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,896,0,13,0,16,0,5,0,415,0,1,0,465,0,7,0
+2,4,Reporting         ,3000,1084,36.13,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,165,0,13,0,17,0,5,0,62,0,1,0,86,0,7,0
+2,4,Reporting         ,3000,1084,36.13,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,10,0,13,0,0,0,5,0,2,0,1,0,8,0,7,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Greg Abbott,1,REP,895,0,3,0,18,0,0,0,410,0,1,0,467,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Beto O'Rourke,2,DEM,169,0,3,0,18,0,0,0,61,0,1,0,90,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Mark Tippetts,4,LIB,9,0,3,0,1,0,0,0,5,0,1,0,3,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Delilah Barrios,3,GRN,6,0,3,0,1,0,0,0,2,0,1,0,3,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Jacqueline Abernathy,0,,0,0,3,0,0,0,0,0,0,0,1,0,0,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Mark V Goloby,0,,1,0,3,0,0,0,0,0,0,0,1,0,1,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Rejected write-ins,0,,1,0,3,0,0,0,0,0,1,0,1,0,0,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Governor,14,,Unassigned write-ins,0,,0,0,3,0,0,0,0,0,0,0,1,0,0,0,2,0
+2,4,Reporting         ,3000,1084,36.13,Lieutenant Governor,12,,Dan Patrick,2,REP,889,0,6,0,17,0,0,0,405,0,2,0,467,0,4,0
+2,4,Reporting         ,3000,1084,36.13,Lieutenant Governor,12,,Mike Collier,1,DEM,169,0,6,0,20,0,0,0,68,0,2,0,81,0,4,0
+2,4,Reporting         ,3000,1084,36.13,Lieutenant Governor,12,,Shanna Steele,3,LIB,20,0,6,0,1,0,0,0,5,0,2,0,14,0,4,0
+2,4,Reporting         ,3000,1084,36.13,Attorney General,10,,Ken Paxton,2,REP,902,0,8,0,18,0,0,0,412,0,2,0,472,0,6,0
+2,4,Reporting         ,3000,1084,36.13,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,160,0,8,0,20,0,0,0,60,0,2,0,80,0,6,0
+2,4,Reporting         ,3000,1084,36.13,Attorney General,10,,Mark Ash,3,LIB,14,0,8,0,0,0,0,0,6,0,2,0,8,0,6,0
+2,4,Reporting         ,3000,1084,36.13,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,904,0,11,0,18,0,1,0,415,0,2,0,471,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,149,0,11,0,18,0,1,0,56,0,2,0,75,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,20,0,11,0,1,0,1,0,7,0,2,0,12,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,901,0,15,0,18,0,1,0,415,0,2,0,468,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,155,0,15,0,18,0,1,0,59,0,2,0,78,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,9,0,15,0,1,0,1,0,0,0,2,0,8,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,1,0,15,0,0,0,1,0,1,0,2,0,0,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,Rejected write-ins,0,,3,0,15,0,0,0,1,0,3,0,2,0,0,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,15,0,0,0,1,0,0,0,2,0,0,0,12,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of Agriculture,16,,Sid Miller,2,REP,903,0,10,0,17,0,1,0,412,0,2,0,474,0,7,0
+2,4,Reporting         ,3000,1084,36.13,Commissioner of Agriculture,16,,Susan Hays,1,DEM,171,0,10,0,20,0,1,0,66,0,2,0,85,0,7,0
+2,4,Reporting         ,3000,1084,36.13,Railroad Commissioner,2,,Wayne Christian,1,REP,897,0,13,0,18,0,1,0,412,0,4,0,467,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Railroad Commissioner,2,,Luke Warford,2,DEM,151,0,13,0,19,0,1,0,57,0,4,0,75,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,15,0,13,0,0,0,1,0,5,0,4,0,10,0,8,0
+2,4,Reporting         ,3000,1084,36.13,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,8,0,13,0,0,0,1,0,2,0,4,0,6,0,8,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,897,0,11,0,18,0,1,0,410,0,4,0,469,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,162,0,11,0,19,0,1,0,61,0,4,0,82,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,14,0,11,0,0,0,1,0,5,0,4,0,9,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,904,0,13,0,18,0,1,0,413,0,4,0,473,0,8,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,167,0,13,0,19,0,1,0,63,0,4,0,85,0,8,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,903,0,14,0,18,0,1,0,410,0,4,0,475,0,9,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,167,0,14,0,19,0,1,0,66,0,4,0,82,0,9,0
+2,4,Reporting         ,3000,1084,36.13,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,909,0,9,0,18,0,2,0,413,0,1,0,478,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,166,0,9,0,18,0,2,0,66,0,1,0,82,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,909,0,9,0,18,0,1,0,414,0,2,0,477,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,166,0,9,0,19,0,1,0,64,0,2,0,83,0,6,0
+2,4,Reporting         ,3000,1084,36.13,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,924,0,36,0,20,0,6,0,414,0,12,0,490,0,18,0
+2,4,Reporting         ,3000,1084,36.13,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,124,0,36,0,12,0,6,0,54,0,12,0,58,0,18,0
+2,4,Reporting         ,3000,1084,36.13,"State Senator, District 5",25,,Charles Schwertner,1,REP,914,0,40,0,16,0,10,0,414,0,9,0,484,0,21,0
+2,4,Reporting         ,3000,1084,36.13,"State Senator, District 5",25,,Tommy Estes,2,LIB,130,0,40,0,12,0,10,0,57,0,9,0,61,0,21,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,908,0,18,0,16,0,4,0,415,0,6,0,477,0,8,0
+2,4,Reporting         ,3000,1084,36.13,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,158,0,18,0,18,0,4,0,59,0,6,0,81,0,8,0
+2,4,Reporting         ,3000,1084,36.13,County Judge,34,,Fritz Faulkner,1,REP,961,0,96,0,19,0,13,0,428,0,44,0,514,0,39,0
+2,4,Reporting         ,3000,1084,36.13,County Judge,34,,Shirley Brandon,0,,16,0,96,0,6,0,13,0,2,0,44,0,8,0,39,0
+2,4,Reporting         ,3000,1084,36.13,County Judge,34,,Rejected write-ins,0,,11,0,96,0,0,0,13,0,6,0,44,0,5,0,39,0
+2,4,Reporting         ,3000,1084,36.13,County Judge,34,,Unassigned write-ins,0,,0,0,96,0,0,0,13,0,0,0,44,0,0,0,39,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,398,0,8,0,8,0,2,0,192,0,4,0,198,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,113,0,8,0,11,0,2,0,43,0,4,0,59,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,6,0,8,0,1,0,2,0,2,0,4,0,3,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Greg Abbott,1,REP,405,0,1,0,10,0,0,0,196,0,1,0,199,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Beto O'Rourke,2,DEM,110,0,1,0,12,0,0,0,41,0,1,0,57,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Mark Tippetts,4,LIB,6,0,1,0,0,0,0,0,2,0,1,0,4,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Delilah Barrios,3,GRN,3,0,1,0,0,0,0,0,1,0,1,0,2,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Jacqueline Abernathy,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Mark V Goloby,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Rejected write-ins,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Governor,14,,Unassigned write-ins,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Lieutenant Governor,12,,Dan Patrick,2,REP,392,0,4,0,7,0,2,0,189,0,2,0,196,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Lieutenant Governor,12,,Mike Collier,1,DEM,118,0,4,0,11,0,2,0,47,0,2,0,60,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Lieutenant Governor,12,,Shanna Steele,3,LIB,11,0,4,0,2,0,2,0,3,0,2,0,6,0,0,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Attorney General,10,,Ken Paxton,2,REP,397,0,7,0,7,0,2,0,191,0,3,0,199,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,110,0,7,0,12,0,2,0,44,0,3,0,54,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Attorney General,10,,Mark Ash,3,LIB,11,0,7,0,1,0,2,0,3,0,3,0,7,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,401,0,8,0,8,0,2,0,193,0,3,0,200,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,109,0,8,0,12,0,2,0,42,0,3,0,55,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,7,0,8,0,0,0,2,0,3,0,3,0,4,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,406,0,7,0,8,0,2,0,193,0,3,0,205,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,108,0,7,0,12,0,2,0,44,0,3,0,52,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,3,0,7,0,0,0,2,0,0,0,3,0,3,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,7,0,0,0,2,0,0,0,3,0,0,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,Rejected write-ins,0,,1,0,7,0,0,0,2,0,1,0,3,0,0,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,7,0,0,0,2,0,0,0,3,0,0,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of Agriculture,16,,Sid Miller,2,REP,405,0,7,0,8,0,2,0,194,0,3,0,203,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Commissioner of Agriculture,16,,Susan Hays,1,DEM,113,0,7,0,12,0,2,0,44,0,3,0,57,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Railroad Commissioner,2,,Wayne Christian,1,REP,400,0,7,0,8,0,2,0,193,0,2,0,199,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Railroad Commissioner,2,,Luke Warford,2,DEM,106,0,7,0,12,0,2,0,39,0,2,0,55,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,7,0,7,0,0,0,2,0,4,0,2,0,3,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,5,0,7,0,0,0,2,0,3,0,2,0,2,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,401,0,11,0,9,0,2,0,196,0,3,0,196,0,6,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,108,0,11,0,11,0,2,0,41,0,3,0,56,0,6,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,5,0,11,0,0,0,2,0,1,0,3,0,4,0,6,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,404,0,12,0,8,0,2,0,195,0,5,0,201,0,5,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,109,0,12,0,12,0,2,0,41,0,5,0,56,0,5,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,405,0,11,0,8,0,2,0,197,0,3,0,200,0,6,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,109,0,11,0,12,0,2,0,41,0,3,0,56,0,6,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,407,0,9,0,9,0,2,0,194,0,5,0,204,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,109,0,9,0,11,0,2,0,42,0,5,0,56,0,2,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,405,0,8,0,9,0,2,0,195,0,3,0,201,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,112,0,8,0,11,0,2,0,43,0,3,0,58,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,418,0,21,0,10,0,3,0,197,0,8,0,211,0,10,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,86,0,21,0,9,0,3,0,36,0,8,0,41,0,10,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"State Senator, District 5",25,,Charles Schwertner,1,REP,411,0,30,0,9,0,6,0,196,0,9,0,206,0,15,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"State Senator, District 5",25,,Tommy Estes,2,LIB,84,0,30,0,7,0,6,0,36,0,9,0,41,0,15,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,402,0,11,0,8,0,3,0,193,0,5,0,201,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,112,0,11,0,11,0,3,0,43,0,5,0,58,0,3,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,County Judge,34,,Fritz Faulkner,1,REP,455,0,61,0,13,0,7,0,211,0,28,0,231,0,26,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,County Judge,34,,Shirley Brandon,0,,2,0,61,0,1,0,7,0,1,0,28,0,0,0,26,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,County Judge,34,,Rejected write-ins,0,,7,0,61,0,1,0,7,0,1,0,28,0,5,0,26,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,County Judge,34,,Unassigned write-ins,0,,0,0,61,0,0,0,7,0,0,0,28,0,0,0,26,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Mayor,39,,Charles D. Minton,2,,272,0,55,0,8,0,4,0,140,0,23,0,124,0,28,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Mayor,39,,"Charles ""Tony"" Riffe",1,,198,0,55,0,10,0,4,0,78,0,23,0,110,0,28,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Alderman,40,,Yvonne Ryba Cones,3,,195,0,492,0,14,0,21,0,100,0,213,0,81,0,258,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Alderman,40,,Hayden Irwin,2,,167,0,492,0,5,0,21,0,74,0,213,0,88,0,258,0
+2 - S CITY,10,Reporting         ,1405,525,37.37,Alderman,40,,Susan Daniels,1,,196,0,492,0,4,0,21,0,95,0,213,0,97,0,258,0
+3,9,Reporting         ,937,519,55.39,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,432,0,3,0,12,0,1,0,246,0,1,0,174,0,1,0
+3,9,Reporting         ,937,519,55.39,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,77,0,3,0,9,0,1,0,42,0,1,0,26,0,1,0
+3,9,Reporting         ,937,519,55.39,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,7,0,3,0,0,0,1,0,5,0,1,0,2,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Greg Abbott,1,REP,433,0,1,0,12,0,0,0,247,0,0,0,174,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Beto O'Rourke,2,DEM,79,0,1,0,10,0,0,0,44,0,0,0,25,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Mark Tippetts,4,LIB,6,0,1,0,0,0,0,0,3,0,0,0,3,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Delilah Barrios,3,GRN,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Jacqueline Abernathy,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Mark V Goloby,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Rejected write-ins,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9,Reporting         ,937,519,55.39,Governor,14,,Unassigned write-ins,0,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,9,Reporting         ,937,519,55.39,Lieutenant Governor,12,,Dan Patrick,2,REP,423,0,0,0,12,0,0,0,240,0,0,0,171,0,0,0
+3,9,Reporting         ,937,519,55.39,Lieutenant Governor,12,,Mike Collier,1,DEM,83,0,0,0,10,0,0,0,45,0,0,0,28,0,0,0
+3,9,Reporting         ,937,519,55.39,Lieutenant Governor,12,,Shanna Steele,3,LIB,13,0,0,0,0,0,0,0,9,0,0,0,4,0,0,0
+3,9,Reporting         ,937,519,55.39,Attorney General,10,,Ken Paxton,2,REP,427,0,3,0,12,0,1,0,245,0,1,0,170,0,1,0
+3,9,Reporting         ,937,519,55.39,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,76,0,3,0,9,0,1,0,40,0,1,0,27,0,1,0
+3,9,Reporting         ,937,519,55.39,Attorney General,10,,Mark Ash,3,LIB,13,0,3,0,0,0,1,0,8,0,1,0,5,0,1,0
+3,9,Reporting         ,937,519,55.39,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,431,0,2,0,11,0,1,0,247,0,1,0,173,0,0,0
+3,9,Reporting         ,937,519,55.39,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,79,0,2,0,10,0,1,0,42,0,1,0,27,0,0,0
+3,9,Reporting         ,937,519,55.39,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,7,0,2,0,0,0,1,0,4,0,1,0,3,0,0,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,428,0,4,0,10,0,1,0,246,0,1,0,172,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,80,0,4,0,11,0,1,0,43,0,1,0,26,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,6,0,4,0,0,0,1,0,3,0,1,0,3,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,1,0,4,0,0,0,1,0,1,0,1,0,0,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,4,0,0,0,1,0,0,0,1,0,0,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,4,0,0,0,1,0,0,0,1,0,0,0,2,0
+3,9,Reporting         ,937,519,55.39,Commissioner of Agriculture,16,,Sid Miller,2,REP,431,0,5,0,11,0,1,0,246,0,4,0,174,0,0,0
+3,9,Reporting         ,937,519,55.39,Commissioner of Agriculture,16,,Susan Hays,1,DEM,83,0,5,0,10,0,1,0,44,0,4,0,29,0,0,0
+3,9,Reporting         ,937,519,55.39,Railroad Commissioner,2,,Wayne Christian,1,REP,425,0,6,0,11,0,1,0,242,0,4,0,172,0,1,0
+3,9,Reporting         ,937,519,55.39,Railroad Commissioner,2,,Luke Warford,2,DEM,74,0,6,0,10,0,1,0,41,0,4,0,23,0,1,0
+3,9,Reporting         ,937,519,55.39,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,10,0,6,0,0,0,1,0,6,0,4,0,4,0,1,0
+3,9,Reporting         ,937,519,55.39,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,4,0,6,0,0,0,1,0,1,0,4,0,3,0,1,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,428,0,4,0,11,0,1,0,243,0,2,0,174,0,1,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,77,0,4,0,10,0,1,0,43,0,2,0,24,0,1,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,10,0,4,0,0,0,1,0,6,0,2,0,4,0,1,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,435,0,4,0,11,0,1,0,248,0,1,0,176,0,2,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,80,0,4,0,10,0,1,0,45,0,1,0,25,0,2,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,435,0,5,0,11,0,1,0,247,0,2,0,177,0,2,0
+3,9,Reporting         ,937,519,55.39,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,79,0,5,0,10,0,1,0,45,0,2,0,24,0,2,0
+3,9,Reporting         ,937,519,55.39,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,434,0,7,0,11,0,1,0,250,0,4,0,173,0,2,0
+3,9,Reporting         ,937,519,55.39,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,78,0,7,0,10,0,1,0,40,0,4,0,28,0,2,0
+3,9,Reporting         ,937,519,55.39,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,436,0,6,0,11,0,1,0,249,0,3,0,176,0,2,0
+3,9,Reporting         ,937,519,55.39,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,77,0,6,0,10,0,1,0,42,0,3,0,25,0,2,0
+3,9,Reporting         ,937,519,55.39,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,437,0,26,0,11,0,7,0,249,0,13,0,177,0,6,0
+3,9,Reporting         ,937,519,55.39,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,56,0,26,0,4,0,7,0,32,0,13,0,20,0,6,0
+3,9,Reporting         ,937,519,55.39,"State Senator, District 5",25,,Charles Schwertner,1,REP,430,0,30,0,8,0,10,0,250,0,13,0,172,0,7,0
+3,9,Reporting         ,937,519,55.39,"State Senator, District 5",25,,Tommy Estes,2,LIB,59,0,30,0,4,0,10,0,31,0,13,0,24,0,7,0
+3,9,Reporting         ,937,519,55.39,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,435,0,8,0,9,0,3,0,250,0,4,0,176,0,1,0
+3,9,Reporting         ,937,519,55.39,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,76,0,8,0,10,0,3,0,40,0,4,0,26,0,1,0
+3,9,Reporting         ,937,519,55.39,County Judge,34,,Fritz Faulkner,1,REP,480,0,35,0,14,0,8,0,273,0,18,0,193,0,9,0
+3,9,Reporting         ,937,519,55.39,County Judge,34,,Shirley Brandon,0,,3,0,35,0,0,0,8,0,3,0,18,0,0,0,9,0
+3,9,Reporting         ,937,519,55.39,County Judge,34,,Rejected write-ins,0,,1,0,35,0,0,0,8,0,0,0,18,0,1,0,9,0
+3,9,Reporting         ,937,519,55.39,County Judge,34,,Unassigned write-ins,0,,0,0,35,0,0,0,8,0,0,0,18,0,0,0,9,0
+4,6,Reporting         ,761,398,52.3,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,361,0,1,0,8,0,0,0,205,0,1,0,148,0,0,0
+4,6,Reporting         ,761,398,52.3,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,27,0,1,0,4,0,0,0,16,0,1,0,7,0,0,0
+4,6,Reporting         ,761,398,52.3,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,9,0,1,0,0,0,0,0,4,0,1,0,5,0,0,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Greg Abbott,1,REP,362,0,2,0,10,0,0,0,206,0,1,0,146,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Beto O'Rourke,2,DEM,27,0,2,0,2,0,0,0,16,0,1,0,9,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Mark Tippetts,4,LIB,5,0,2,0,0,0,0,0,2,0,1,0,3,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Delilah Barrios,3,GRN,1,0,2,0,0,0,0,0,0,0,1,0,1,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Jacqueline Abernathy,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Mark V Goloby,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Rejected write-ins,0,,1,0,2,0,0,0,0,0,1,0,1,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Governor,14,,Unassigned write-ins,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Lieutenant Governor,12,,Dan Patrick,2,REP,352,0,2,0,10,0,0,0,197,0,1,0,145,0,1,0
+4,6,Reporting         ,761,398,52.3,Lieutenant Governor,12,,Mike Collier,1,DEM,28,0,2,0,2,0,0,0,18,0,1,0,8,0,1,0
+4,6,Reporting         ,761,398,52.3,Lieutenant Governor,12,,Shanna Steele,3,LIB,16,0,2,0,0,0,0,0,10,0,1,0,6,0,1,0
+4,6,Reporting         ,761,398,52.3,Attorney General,10,,Ken Paxton,2,REP,362,0,2,0,10,0,0,0,205,0,2,0,147,0,0,0
+4,6,Reporting         ,761,398,52.3,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,22,0,2,0,1,0,0,0,15,0,2,0,6,0,0,0
+4,6,Reporting         ,761,398,52.3,Attorney General,10,,Mark Ash,3,LIB,12,0,2,0,1,0,0,0,4,0,2,0,7,0,0,0
+4,6,Reporting         ,761,398,52.3,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,362,0,4,0,9,0,1,0,204,0,3,0,149,0,0,0
+4,6,Reporting         ,761,398,52.3,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,25,0,4,0,2,0,1,0,16,0,3,0,7,0,0,0
+4,6,Reporting         ,761,398,52.3,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,7,0,4,0,0,0,1,0,3,0,3,0,4,0,0,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,366,0,4,0,9,0,0,0,207,0,3,0,150,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,26,0,4,0,3,0,0,0,14,0,3,0,9,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,2,0,4,0,0,0,0,0,2,0,3,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,4,0,0,0,0,0,0,0,3,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,4,0,0,0,0,0,0,0,3,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,4,0,0,0,0,0,0,0,3,0,0,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of Agriculture,16,,Sid Miller,2,REP,365,0,3,0,9,0,0,0,208,0,2,0,148,0,1,0
+4,6,Reporting         ,761,398,52.3,Commissioner of Agriculture,16,,Susan Hays,1,DEM,30,0,3,0,3,0,0,0,16,0,2,0,11,0,1,0
+4,6,Reporting         ,761,398,52.3,Railroad Commissioner,2,,Wayne Christian,1,REP,361,0,4,0,9,0,0,0,207,0,2,0,145,0,2,0
+4,6,Reporting         ,761,398,52.3,Railroad Commissioner,2,,Luke Warford,2,DEM,23,0,4,0,2,0,0,0,13,0,2,0,8,0,2,0
+4,6,Reporting         ,761,398,52.3,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,6,0,4,0,0,0,0,0,2,0,2,0,4,0,2,0
+4,6,Reporting         ,761,398,52.3,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,4,0,4,0,1,0,0,0,2,0,2,0,1,0,2,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,359,0,4,0,9,0,0,0,204,0,3,0,146,0,1,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,26,0,4,0,3,0,0,0,16,0,3,0,7,0,1,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,9,0,4,0,0,0,0,0,3,0,3,0,6,0,1,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,366,0,4,0,9,0,0,0,206,0,4,0,151,0,0,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,28,0,4,0,3,0,0,0,16,0,4,0,9,0,0,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,363,0,6,0,9,0,0,0,204,0,5,0,150,0,1,0
+4,6,Reporting         ,761,398,52.3,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,29,0,6,0,3,0,0,0,17,0,5,0,9,0,1,0
+4,6,Reporting         ,761,398,52.3,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,366,0,4,0,9,0,1,0,206,0,3,0,151,0,0,0
+4,6,Reporting         ,761,398,52.3,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,28,0,4,0,2,0,1,0,17,0,3,0,9,0,0,0
+4,6,Reporting         ,761,398,52.3,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,364,0,6,0,8,0,1,0,205,0,5,0,151,0,0,0
+4,6,Reporting         ,761,398,52.3,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,28,0,6,0,3,0,1,0,16,0,5,0,9,0,0,0
+4,6,Reporting         ,761,398,52.3,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,361,0,16,0,10,0,2,0,206,0,12,0,145,0,2,0
+4,6,Reporting         ,761,398,52.3,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,21,0,16,0,0,0,2,0,8,0,12,0,13,0,2,0
+4,6,Reporting         ,761,398,52.3,"State Senator, District 5",25,,Charles Schwertner,1,REP,362,0,12,0,10,0,2,0,204,0,10,0,148,0,0,0
+4,6,Reporting         ,761,398,52.3,"State Senator, District 5",25,,Tommy Estes,2,LIB,24,0,12,0,0,0,2,0,12,0,10,0,12,0,0,0
+4,6,Reporting         ,761,398,52.3,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,361,0,9,0,8,0,1,0,203,0,7,0,150,0,1,0
+4,6,Reporting         ,761,398,52.3,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,28,0,9,0,3,0,1,0,16,0,7,0,9,0,1,0
+4,6,Reporting         ,761,398,52.3,County Judge,34,,Fritz Faulkner,1,REP,353,0,30,0,9,0,3,0,201,0,15,0,143,0,12,0
+4,6,Reporting         ,761,398,52.3,County Judge,34,,Shirley Brandon,0,,12,0,30,0,0,0,3,0,8,0,15,0,4,0,12,0
+4,6,Reporting         ,761,398,52.3,County Judge,34,,Rejected write-ins,0,,3,0,30,0,0,0,3,0,2,0,15,0,1,0,12,0
+4,6,Reporting         ,761,398,52.3,County Judge,34,,Unassigned write-ins,0,,0,0,30,0,0,0,3,0,0,0,15,0,0,0,12,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,258,0,3,0,4,0,0,0,159,0,3,0,95,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,24,0,3,0,2,0,0,0,12,0,3,0,10,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,2,0,3,0,0,0,0,0,1,0,3,0,1,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Greg Abbott,1,REP,258,0,2,0,5,0,0,0,160,0,2,0,93,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Beto O'Rourke,2,DEM,24,0,2,0,1,0,0,0,12,0,2,0,11,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Mark Tippetts,4,LIB,3,0,2,0,0,0,0,0,1,0,2,0,2,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Delilah Barrios,3,GRN,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Jacqueline Abernathy,0,,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Mark V Goloby,0,,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Rejected write-ins,0,,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Governor,14,,Unassigned write-ins,0,,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Lieutenant Governor,12,,Dan Patrick,2,REP,250,0,3,0,4,0,0,0,158,0,1,0,88,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Lieutenant Governor,12,,Mike Collier,1,DEM,25,0,3,0,2,0,0,0,12,0,1,0,11,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Lieutenant Governor,12,,Shanna Steele,3,LIB,9,0,3,0,0,0,0,0,4,0,1,0,5,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Attorney General,10,,Ken Paxton,2,REP,245,0,7,0,5,0,0,0,153,0,4,0,87,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,25,0,7,0,1,0,0,0,12,0,4,0,12,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Attorney General,10,,Mark Ash,3,LIB,10,0,7,0,0,0,0,0,6,0,4,0,4,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,253,0,3,0,3,0,0,0,160,0,1,0,90,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,25,0,3,0,3,0,0,0,11,0,1,0,11,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,6,0,3,0,0,0,0,0,3,0,1,0,3,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,252,0,5,0,3,0,0,0,161,0,1,0,88,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,27,0,5,0,3,0,0,0,11,0,1,0,13,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,3,0,5,0,0,0,0,0,2,0,1,0,1,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,5,0,0,0,0,0,0,0,1,0,0,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,5,0,0,0,0,0,0,0,1,0,0,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,5,0,0,0,0,0,0,0,1,0,0,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of Agriculture,16,,Sid Miller,2,REP,256,0,6,0,2,0,1,0,163,0,0,0,91,0,5,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Commissioner of Agriculture,16,,Susan Hays,1,DEM,25,0,6,0,3,0,1,0,12,0,0,0,10,0,5,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Railroad Commissioner,2,,Wayne Christian,1,REP,253,0,3,0,3,0,0,0,162,0,1,0,88,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Railroad Commissioner,2,,Luke Warford,2,DEM,26,0,3,0,3,0,0,0,12,0,1,0,11,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,2,0,3,0,0,0,0,0,0,0,1,0,2,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,3,0,3,0,0,0,0,0,0,0,1,0,3,0,2,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,249,0,3,0,3,0,0,0,162,0,0,0,84,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,24,0,3,0,3,0,0,0,11,0,0,0,10,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,11,0,3,0,0,0,0,0,2,0,0,0,9,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,257,0,4,0,3,0,0,0,163,0,0,0,91,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,26,0,4,0,3,0,0,0,12,0,0,0,11,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,256,0,5,0,3,0,0,0,163,0,0,0,90,0,5,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,26,0,5,0,3,0,0,0,12,0,0,0,11,0,5,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,258,0,3,0,3,0,0,0,164,0,0,0,91,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,26,0,3,0,3,0,0,0,11,0,0,0,12,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,256,0,4,0,3,0,0,0,162,0,1,0,91,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,27,0,4,0,3,0,0,0,12,0,1,0,12,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,252,0,11,0,4,0,1,0,160,0,6,0,88,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,24,0,11,0,1,0,1,0,9,0,6,0,14,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"State Senator, District 5",25,,Charles Schwertner,1,REP,252,0,10,0,5,0,1,0,163,0,5,0,84,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"State Senator, District 5",25,,Tommy Estes,2,LIB,25,0,10,0,0,0,1,0,7,0,5,0,18,0,4,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,258,0,5,0,4,0,0,0,162,0,2,0,92,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,24,0,5,0,2,0,0,0,11,0,2,0,11,0,3,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,County Judge,34,,Fritz Faulkner,1,REP,261,0,20,0,5,0,1,0,160,0,10,0,96,0,9,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,County Judge,34,,Shirley Brandon,0,,4,0,20,0,0,0,1,0,4,0,10,0,0,0,9,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,County Judge,34,,Rejected write-ins,0,,2,0,20,0,0,0,1,0,1,0,10,0,1,0,9,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,County Judge,34,,Unassigned write-ins,0,,0,0,20,0,0,0,1,0,0,0,10,0,0,0,9,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 1",37,,Richelle Theilen,2,,57,0,91,0,2,0,0,0,30,0,54,0,25,0,37,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 1",37,,John Hinna,1,,34,0,91,0,1,0,0,0,20,0,54,0,13,0,37,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 1",37,,Nikita Lagway,4,,58,0,91,0,1,0,0,0,39,0,54,0,18,0,37,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 1",37,,Christen Arnold,3,,47,0,91,0,2,0,0,0,32,0,54,0,13,0,37,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 3",38,,Gentry Scott,2,,70,0,76,0,3,0,0,0,45,0,43,0,22,0,33,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 3",38,,Scott Carson,1,,116,0,76,0,2,0,0,0,69,0,43,0,45,0,33,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 3",38,,John Sellars,3,,25,0,76,0,1,0,0,0,18,0,43,0,6,0,33,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 4",36,,Kyle Hoegemeyer,1,,193,0,94,0,5,0,1,0,121,0,54,0,67,0,39,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 5",41,,Cliff Williams,2,,120,0,85,0,5,0,0,0,73,0,52,0,42,0,33,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, Position 5",41,,Zach Dorris,1,,82,0,85,0,1,0,0,0,50,0,52,0,31,0,33,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, District 7",35,,Rebecca (Becky) Broussard,1,,172,0,93,0,6,0,0,0,103,0,57,0,63,0,36,0
+5 - WISD LS,11,Reporting         ,634,287,45.27,"Trustee, District 7",35,,Rita Yates-Wiltz,2,,22,0,93,0,0,0,0,0,15,0,57,0,7,0,36,0
+5,14,Reporting         ,1716,752,43.82,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,660,0,3,0,24,0,0,0,280,0,3,0,356,0,0,0
+5,14,Reporting         ,1716,752,43.82,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,86,0,3,0,4,0,0,0,42,0,3,0,40,0,0,0
+5,14,Reporting         ,1716,752,43.82,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,3,0,3,0,0,0,0,0,1,0,3,0,2,0,0,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Greg Abbott,1,REP,660,0,3,0,23,0,0,0,283,0,2,0,354,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Beto O'Rourke,2,DEM,86,0,3,0,3,0,0,0,40,0,2,0,43,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Mark Tippetts,4,LIB,1,0,3,0,1,0,0,0,0,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Delilah Barrios,3,GRN,2,0,3,0,1,0,0,0,1,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Jacqueline Abernathy,0,,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Mark V Goloby,0,,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Rejected write-ins,0,,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Governor,14,,Unassigned write-ins,0,,0,0,3,0,0,0,0,0,0,0,2,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Lieutenant Governor,12,,Dan Patrick,2,REP,651,0,1,0,22,0,0,0,283,0,1,0,346,0,0,0
+5,14,Reporting         ,1716,752,43.82,Lieutenant Governor,12,,Mike Collier,1,DEM,88,0,1,0,6,0,0,0,40,0,1,0,42,0,0,0
+5,14,Reporting         ,1716,752,43.82,Lieutenant Governor,12,,Shanna Steele,3,LIB,12,0,1,0,0,0,0,0,2,0,1,0,10,0,0,0
+5,14,Reporting         ,1716,752,43.82,Attorney General,10,,Ken Paxton,2,REP,653,0,3,0,22,0,0,0,283,0,2,0,348,0,1,0
+5,14,Reporting         ,1716,752,43.82,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,88,0,3,0,5,0,0,0,40,0,2,0,43,0,1,0
+5,14,Reporting         ,1716,752,43.82,Attorney General,10,,Mark Ash,3,LIB,8,0,3,0,1,0,0,0,1,0,2,0,6,0,1,0
+5,14,Reporting         ,1716,752,43.82,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,663,0,2,0,23,0,0,0,285,0,1,0,355,0,1,0
+5,14,Reporting         ,1716,752,43.82,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,83,0,2,0,4,0,0,0,40,0,1,0,39,0,1,0
+5,14,Reporting         ,1716,752,43.82,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,4,0,2,0,1,0,0,0,0,0,1,0,3,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,660,0,2,0,23,0,0,0,283,0,1,0,354,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,85,0,2,0,4,0,0,0,40,0,1,0,41,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,5,0,2,0,1,0,0,0,2,0,1,0,2,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of Agriculture,16,,Sid Miller,2,REP,662,0,3,0,24,0,0,0,284,0,1,0,354,0,2,0
+5,14,Reporting         ,1716,752,43.82,Commissioner of Agriculture,16,,Susan Hays,1,DEM,87,0,3,0,4,0,0,0,41,0,1,0,42,0,2,0
+5,14,Reporting         ,1716,752,43.82,Railroad Commissioner,2,,Wayne Christian,1,REP,652,0,5,0,23,0,0,0,280,0,2,0,349,0,3,0
+5,14,Reporting         ,1716,752,43.82,Railroad Commissioner,2,,Luke Warford,2,DEM,81,0,5,0,3,0,0,0,40,0,2,0,38,0,3,0
+5,14,Reporting         ,1716,752,43.82,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,8,0,5,0,1,0,0,0,2,0,2,0,5,0,3,0
+5,14,Reporting         ,1716,752,43.82,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,6,0,5,0,1,0,0,0,2,0,2,0,3,0,3,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,653,0,7,0,21,0,1,0,282,0,3,0,350,0,3,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,85,0,7,0,5,0,1,0,39,0,3,0,41,0,3,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,7,0,7,0,1,0,1,0,2,0,3,0,4,0,3,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,654,0,9,0,21,0,1,0,280,0,4,0,353,0,4,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,89,0,9,0,6,0,1,0,42,0,4,0,41,0,4,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,654,0,7,0,22,0,2,0,282,0,1,0,350,0,4,0
+5,14,Reporting         ,1716,752,43.82,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,91,0,7,0,4,0,2,0,43,0,1,0,44,0,4,0
+5,14,Reporting         ,1716,752,43.82,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,661,0,3,0,23,0,1,0,284,0,1,0,354,0,1,0
+5,14,Reporting         ,1716,752,43.82,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,88,0,3,0,4,0,1,0,41,0,1,0,43,0,1,0
+5,14,Reporting         ,1716,752,43.82,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,663,0,2,0,22,0,0,0,286,0,1,0,355,0,1,0
+5,14,Reporting         ,1716,752,43.82,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,87,0,2,0,6,0,0,0,39,0,1,0,42,0,1,0
+5,14,Reporting         ,1716,752,43.82,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,672,0,14,0,22,0,0,0,284,0,9,0,366,0,5,0
+5,14,Reporting         ,1716,752,43.82,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,66,0,14,0,6,0,0,0,33,0,9,0,27,0,5,0
+5,14,Reporting         ,1716,752,43.82,"State Senator, District 5",25,,Charles Schwertner,1,REP,662,0,18,0,19,0,5,0,282,0,6,0,361,0,7,0
+5,14,Reporting         ,1716,752,43.82,"State Senator, District 5",25,,Tommy Estes,2,LIB,72,0,18,0,4,0,5,0,38,0,6,0,30,0,7,0
+5,14,Reporting         ,1716,752,43.82,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,665,0,4,0,22,0,0,0,286,0,2,0,357,0,2,0
+5,14,Reporting         ,1716,752,43.82,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,83,0,4,0,6,0,0,0,38,0,2,0,39,0,2,0
+5,14,Reporting         ,1716,752,43.82,County Judge,34,,Fritz Faulkner,1,REP,661,0,65,0,16,0,8,0,285,0,31,0,360,0,26,0
+5,14,Reporting         ,1716,752,43.82,County Judge,34,,Shirley Brandon,0,,16,0,65,0,4,0,8,0,5,0,31,0,7,0,26,0
+5,14,Reporting         ,1716,752,43.82,County Judge,34,,Rejected write-ins,0,,10,0,65,0,0,0,8,0,5,0,31,0,5,0,26,0
+5,14,Reporting         ,1716,752,43.82,County Judge,34,,Unassigned write-ins,0,,0,0,65,0,0,0,8,0,0,0,31,0,0,0,26,0
+5,14,Reporting         ,1716,752,43.82,Cleveland Independent School District  Proposition A,43,,For,2,,200,0,34,0,4,0,5,0,84,0,12,0,112,0,17,0
+5,14,Reporting         ,1716,752,43.82,Cleveland Independent School District  Proposition A,43,,Against,1,,518,0,34,0,19,0,5,0,230,0,12,0,269,0,17,0
+5 - CO,7,Reporting         ,1,2,200,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Greg Abbott,1,REP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Beto O'Rourke,2,DEM,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Mark Tippetts,4,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Delilah Barrios,3,GRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Jacqueline Abernathy,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Mark V Goloby,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Governor,14,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Lieutenant Governor,12,,Dan Patrick,2,REP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Lieutenant Governor,12,,Mike Collier,1,DEM,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Lieutenant Governor,12,,Shanna Steele,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Attorney General,10,,Ken Paxton,2,REP,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Attorney General,10,,Mark Ash,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of Agriculture,16,,Sid Miller,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Commissioner of Agriculture,16,,Susan Hays,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Railroad Commissioner,2,,Wayne Christian,1,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Railroad Commissioner,2,,Luke Warford,2,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"State Senator, District 5",25,,Charles Schwertner,1,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"State Senator, District 5",25,,Tommy Estes,2,LIB,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,County Judge,34,,Fritz Faulkner,1,REP,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+5 - CO,7,Reporting         ,1,2,200,County Judge,34,,Shirley Brandon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,County Judge,34,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 - CO,7,Reporting         ,1,2,200,County Judge,34,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,5,Reporting         ,2159,1323,61.28,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,1094,0,11,0,46,0,2,0,820,0,6,0,228,0,3,0
+6,5,Reporting         ,2159,1323,61.28,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,196,0,11,0,13,0,2,0,130,0,6,0,53,0,3,0
+6,5,Reporting         ,2159,1323,61.28,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,22,0,11,0,2,0,2,0,13,0,6,0,7,0,3,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Greg Abbott,1,REP,1105,0,4,0,49,0,0,0,827,0,2,0,229,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Beto O'Rourke,2,DEM,199,0,4,0,13,0,0,0,131,0,2,0,55,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Mark Tippetts,4,LIB,13,0,4,0,1,0,0,0,9,0,2,0,3,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Delilah Barrios,3,GRN,2,0,4,0,0,0,0,0,0,0,2,0,2,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Jacqueline Abernathy,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Mark V Goloby,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Rejected write-ins,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Governor,14,,Unassigned write-ins,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+6,5,Reporting         ,2159,1323,61.28,Lieutenant Governor,12,,Dan Patrick,2,REP,1077,0,11,0,47,0,1,0,810,0,5,0,220,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Lieutenant Governor,12,,Mike Collier,1,DEM,208,0,11,0,12,0,1,0,142,0,5,0,54,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Lieutenant Governor,12,,Shanna Steele,3,LIB,27,0,11,0,3,0,1,0,12,0,5,0,12,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Attorney General,10,,Ken Paxton,2,REP,1083,0,13,0,48,0,1,0,812,0,7,0,223,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,197,0,13,0,14,0,1,0,132,0,7,0,51,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Attorney General,10,,Mark Ash,3,LIB,30,0,13,0,0,0,1,0,18,0,7,0,12,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,1107,0,10,0,49,0,0,0,834,0,4,0,224,0,6,0
+6,5,Reporting         ,2159,1323,61.28,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,187,0,10,0,14,0,0,0,119,0,4,0,54,0,6,0
+6,5,Reporting         ,2159,1323,61.28,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,19,0,10,0,0,0,0,0,12,0,4,0,7,0,6,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,1102,0,15,0,49,0,0,0,823,0,10,0,230,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,197,0,15,0,13,0,0,0,133,0,10,0,51,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,9,0,15,0,1,0,0,0,3,0,10,0,5,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,15,0,0,0,0,0,0,0,10,0,0,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,15,0,0,0,0,0,0,0,10,0,0,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,15,0,0,0,0,0,0,0,10,0,0,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of Agriculture,16,,Sid Miller,2,REP,1107,0,15,0,50,0,0,0,828,0,10,0,229,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Commissioner of Agriculture,16,,Susan Hays,1,DEM,201,0,15,0,13,0,0,0,131,0,10,0,57,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Railroad Commissioner,2,,Wayne Christian,1,REP,1107,0,11,0,50,0,0,0,828,0,6,0,229,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Railroad Commissioner,2,,Luke Warford,2,DEM,179,0,11,0,12,0,0,0,121,0,6,0,46,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,18,0,11,0,1,0,0,0,9,0,6,0,8,0,5,0
+6,5,Reporting         ,2159,1323,61.28,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,8,0,11,0,0,0,0,0,5,0,6,0,3,0,5,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,1105,0,9,0,50,0,0,0,828,0,5,0,227,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,189,0,9,0,13,0,0,0,122,0,5,0,54,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,20,0,9,0,0,0,0,0,14,0,5,0,6,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,1108,0,17,0,51,0,0,0,826,0,13,0,231,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,198,0,17,0,12,0,0,0,130,0,13,0,56,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,1115,0,11,0,50,0,0,0,835,0,7,0,230,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,197,0,11,0,13,0,0,0,127,0,7,0,57,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,1113,0,12,0,50,0,0,0,832,0,8,0,231,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,198,0,12,0,13,0,0,0,129,0,8,0,56,0,4,0
+6,5,Reporting         ,2159,1323,61.28,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,1110,0,16,0,50,0,0,0,831,0,10,0,229,0,6,0
+6,5,Reporting         ,2159,1323,61.28,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,197,0,16,0,13,0,0,0,128,0,10,0,56,0,6,0
+6,5,Reporting         ,2159,1323,61.28,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,1133,0,44,0,51,0,3,0,843,0,32,0,239,0,9,0
+6,5,Reporting         ,2159,1323,61.28,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,146,0,44,0,9,0,3,0,94,0,32,0,43,0,9,0
+6,5,Reporting         ,2159,1323,61.28,"State Senator, District 5",25,,Charles Schwertner,1,REP,1121,0,52,0,46,0,7,0,839,0,33,0,236,0,12,0
+6,5,Reporting         ,2159,1323,61.28,"State Senator, District 5",25,,Tommy Estes,2,LIB,150,0,52,0,10,0,7,0,97,0,33,0,43,0,12,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,1120,0,16,0,49,0,2,0,838,0,9,0,233,0,5,0
+6,5,Reporting         ,2159,1323,61.28,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,187,0,16,0,12,0,2,0,122,0,9,0,53,0,5,0
+6,5,Reporting         ,2159,1323,61.28,County Judge,34,,Fritz Faulkner,1,REP,1175,0,121,0,49,0,10,0,873,0,80,0,253,0,31,0
+6,5,Reporting         ,2159,1323,61.28,County Judge,34,,Shirley Brandon,0,,14,0,121,0,4,0,10,0,9,0,80,0,1,0,31,0
+6,5,Reporting         ,2159,1323,61.28,County Judge,34,,Rejected write-ins,0,,13,0,121,0,0,0,10,0,7,0,80,0,6,0,31,0
+6,5,Reporting         ,2159,1323,61.28,County Judge,34,,Unassigned write-ins,0,,0,0,121,0,0,0,10,0,0,0,80,0,0,0,31,0
+6,5,Reporting         ,2159,1323,61.28,"Justice of the Peace, Precinct No. 4",32,,Kim Webb,1,REP,1102,0,39,0,46,0,7,0,824,0,21,0,232,0,11,0
+6,5,Reporting         ,2159,1323,61.28,"Justice of the Peace, Precinct No. 4",32,,Joy DeRaimo,2,IND,182,0,39,0,10,0,7,0,124,0,21,0,48,0,11,0
+7,12,Reporting         ,2299,1297,56.42,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,1012,0,13,0,53,0,3,0,596,0,4,0,363,0,6,0
+7,12,Reporting         ,2299,1297,56.42,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,263,0,13,0,40,0,3,0,113,0,4,0,110,0,6,0
+7,12,Reporting         ,2299,1297,56.42,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,9,0,13,0,0,0,3,0,4,0,4,0,5,0,6,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Greg Abbott,1,REP,1006,0,4,0,54,0,0,0,592,0,2,0,360,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Beto O'Rourke,2,DEM,275,0,4,0,41,0,0,0,118,0,2,0,116,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Mark Tippetts,4,LIB,6,0,4,0,0,0,0,0,1,0,2,0,5,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Delilah Barrios,3,GRN,5,0,4,0,0,0,0,0,4,0,2,0,1,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Jacqueline Abernathy,0,,1,0,4,0,1,0,0,0,0,0,2,0,0,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Mark V Goloby,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Rejected write-ins,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Governor,14,,Unassigned write-ins,0,,0,0,4,0,0,0,0,0,0,0,2,0,0,0,2,0
+7,12,Reporting         ,2299,1297,56.42,Lieutenant Governor,12,,Dan Patrick,2,REP,996,0,8,0,54,0,0,0,584,0,3,0,358,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Lieutenant Governor,12,,Mike Collier,1,DEM,276,0,8,0,41,0,0,0,121,0,3,0,114,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Lieutenant Governor,12,,Shanna Steele,3,LIB,17,0,8,0,1,0,0,0,9,0,3,0,7,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Attorney General,10,,Ken Paxton,2,REP,1004,0,8,0,56,0,0,0,588,0,4,0,360,0,4,0
+7,12,Reporting         ,2299,1297,56.42,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,270,0,8,0,40,0,0,0,118,0,4,0,112,0,4,0
+7,12,Reporting         ,2299,1297,56.42,Attorney General,10,,Mark Ash,3,LIB,15,0,8,0,0,0,0,0,7,0,4,0,8,0,4,0
+7,12,Reporting         ,2299,1297,56.42,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,1013,0,9,0,54,0,1,0,596,0,2,0,363,0,6,0
+7,12,Reporting         ,2299,1297,56.42,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,263,0,9,0,41,0,1,0,113,0,2,0,109,0,6,0
+7,12,Reporting         ,2299,1297,56.42,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,12,0,9,0,0,0,1,0,6,0,2,0,6,0,6,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,999,0,17,0,54,0,1,0,586,0,7,0,359,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,275,0,17,0,40,0,1,0,120,0,7,0,115,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,6,0,17,0,1,0,1,0,4,0,7,0,1,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,17,0,0,0,1,0,0,0,7,0,0,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,17,0,0,0,1,0,0,0,7,0,0,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,17,0,0,0,1,0,0,0,7,0,0,0,9,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of Agriculture,16,,Sid Miller,2,REP,1006,0,13,0,54,0,1,0,595,0,2,0,357,0,10,0
+7,12,Reporting         ,2299,1297,56.42,Commissioner of Agriculture,16,,Susan Hays,1,DEM,278,0,13,0,41,0,1,0,120,0,2,0,117,0,10,0
+7,12,Reporting         ,2299,1297,56.42,Railroad Commissioner,2,,Wayne Christian,1,REP,1005,0,10,0,54,0,1,0,594,0,4,0,357,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Railroad Commissioner,2,,Luke Warford,2,DEM,264,0,10,0,40,0,1,0,112,0,4,0,112,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,14,0,10,0,1,0,1,0,6,0,4,0,7,0,5,0
+7,12,Reporting         ,2299,1297,56.42,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,4,0,10,0,0,0,1,0,1,0,4,0,3,0,5,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,1003,0,13,0,56,0,1,0,588,0,3,0,359,0,9,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,265,0,13,0,39,0,1,0,118,0,3,0,108,0,9,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,16,0,13,0,0,0,1,0,8,0,3,0,8,0,9,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,1003,0,17,0,55,0,1,0,590,0,7,0,358,0,9,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,277,0,17,0,40,0,1,0,120,0,7,0,117,0,9,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,1002,0,17,0,54,0,2,0,588,0,7,0,360,0,8,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,278,0,17,0,40,0,2,0,122,0,7,0,116,0,8,0
+7,12,Reporting         ,2299,1297,56.42,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,1003,0,20,0,55,0,1,0,594,0,8,0,354,0,11,0
+7,12,Reporting         ,2299,1297,56.42,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,274,0,20,0,40,0,1,0,115,0,8,0,119,0,11,0
+7,12,Reporting         ,2299,1297,56.42,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,1000,0,22,0,54,0,1,0,589,0,8,0,357,0,13,0
+7,12,Reporting         ,2299,1297,56.42,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,275,0,22,0,41,0,1,0,120,0,8,0,114,0,13,0
+7,12,Reporting         ,2299,1297,56.42,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,1038,0,79,0,61,0,14,0,606,0,32,0,371,0,33,0
+7,12,Reporting         ,2299,1297,56.42,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,180,0,79,0,21,0,14,0,79,0,32,0,80,0,33,0
+7,12,Reporting         ,2299,1297,56.42,"State Senator, District 5",25,,Charles Schwertner,1,REP,1032,0,79,0,57,0,17,0,607,0,30,0,368,0,32,0
+7,12,Reporting         ,2299,1297,56.42,"State Senator, District 5",25,,Tommy Estes,2,LIB,186,0,79,0,22,0,17,0,80,0,30,0,84,0,32,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,1001,0,22,0,50,0,5,0,592,0,7,0,359,0,10,0
+7,12,Reporting         ,2299,1297,56.42,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,274,0,22,0,41,0,5,0,118,0,7,0,115,0,10,0
+7,12,Reporting         ,2299,1297,56.42,County Judge,34,,Fritz Faulkner,1,REP,1126,0,138,0,67,0,17,0,636,0,69,0,423,0,52,0
+7,12,Reporting         ,2299,1297,56.42,County Judge,34,,Shirley Brandon,0,,22,0,138,0,11,0,17,0,5,0,69,0,6,0,52,0
+7,12,Reporting         ,2299,1297,56.42,County Judge,34,,Rejected write-ins,0,,11,0,138,0,1,0,17,0,7,0,69,0,3,0,52,0
+7,12,Reporting         ,2299,1297,56.42,County Judge,34,,Unassigned write-ins,0,,0,0,138,0,0,0,17,0,0,0,69,0,0,0,52,0
+7,12,Reporting         ,2299,1297,56.42,"Justice of the Peace, Precinct No. 4",32,,Kim Webb,1,REP,1035,0,62,0,53,0,14,0,604,0,21,0,378,0,27,0
+7,12,Reporting         ,2299,1297,56.42,"Justice of the Peace, Precinct No. 4",32,,Joy DeRaimo,2,IND,200,0,62,0,29,0,14,0,92,0,21,0,79,0,27,0
+8,8,Reporting         ,1262,665,52.69,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,547,0,3,0,35,0,0,0,193,0,1,0,319,0,2,0
+8,8,Reporting         ,1262,665,52.69,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,111,0,3,0,20,0,0,0,37,0,1,0,54,0,2,0
+8,8,Reporting         ,1262,665,52.69,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,4,0,3,0,0,0,0,0,3,0,1,0,1,0,2,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Greg Abbott,1,REP,536,0,0,0,33,0,0,0,191,0,0,0,312,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Beto O'Rourke,2,DEM,115,0,0,0,19,0,0,0,39,0,0,0,57,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Mark Tippetts,4,LIB,9,0,0,0,1,0,0,0,3,0,0,0,5,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Delilah Barrios,3,GRN,5,0,0,0,2,0,0,0,1,0,0,0,2,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Jacqueline Abernathy,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Mark V Goloby,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,8,Reporting         ,1262,665,52.69,Governor,14,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,8,Reporting         ,1262,665,52.69,Lieutenant Governor,12,,Dan Patrick,2,REP,523,0,4,0,35,0,0,0,190,0,0,0,298,0,4,0
+8,8,Reporting         ,1262,665,52.69,Lieutenant Governor,12,,Mike Collier,1,DEM,124,0,4,0,18,0,0,0,39,0,0,0,67,0,4,0
+8,8,Reporting         ,1262,665,52.69,Lieutenant Governor,12,,Shanna Steele,3,LIB,14,0,4,0,2,0,0,0,5,0,0,0,7,0,4,0
+8,8,Reporting         ,1262,665,52.69,Attorney General,10,,Ken Paxton,2,REP,531,0,5,0,35,0,0,0,193,0,0,0,303,0,5,0
+8,8,Reporting         ,1262,665,52.69,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,117,0,5,0,18,0,0,0,38,0,0,0,61,0,5,0
+8,8,Reporting         ,1262,665,52.69,Attorney General,10,,Mark Ash,3,LIB,12,0,5,0,2,0,0,0,3,0,0,0,7,0,5,0
+8,8,Reporting         ,1262,665,52.69,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,541,0,7,0,36,0,0,0,194,0,1,0,311,0,6,0
+8,8,Reporting         ,1262,665,52.69,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,113,0,7,0,19,0,0,0,37,0,1,0,57,0,6,0
+8,8,Reporting         ,1262,665,52.69,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,4,0,7,0,0,0,0,0,2,0,1,0,2,0,6,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,536,0,10,0,34,0,0,0,193,0,1,0,309,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,114,0,10,0,20,0,0,0,37,0,1,0,57,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,5,0,10,0,1,0,0,0,3,0,1,0,1,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,10,0,0,0,0,0,0,0,1,0,0,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,10,0,0,0,0,0,0,0,1,0,0,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,10,0,0,0,0,0,0,0,1,0,0,0,9,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of Agriculture,16,,Sid Miller,2,REP,530,0,9,0,33,0,2,0,191,0,1,0,306,0,6,0
+8,8,Reporting         ,1262,665,52.69,Commissioner of Agriculture,16,,Susan Hays,1,DEM,126,0,9,0,20,0,2,0,42,0,1,0,64,0,6,0
+8,8,Reporting         ,1262,665,52.69,Railroad Commissioner,2,,Wayne Christian,1,REP,533,0,11,0,36,0,0,0,194,0,1,0,303,0,10,0
+8,8,Reporting         ,1262,665,52.69,Railroad Commissioner,2,,Luke Warford,2,DEM,113,0,11,0,19,0,0,0,37,0,1,0,57,0,10,0
+8,8,Reporting         ,1262,665,52.69,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,5,0,11,0,0,0,0,0,2,0,1,0,3,0,10,0
+8,8,Reporting         ,1262,665,52.69,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,3,0,11,0,0,0,0,0,0,0,1,0,3,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,533,0,11,0,34,0,0,0,194,0,1,0,305,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,112,0,11,0,20,0,0,0,35,0,1,0,57,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,9,0,11,0,1,0,0,0,4,0,1,0,4,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,537,0,10,0,34,0,0,0,195,0,1,0,308,0,9,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,118,0,10,0,21,0,0,0,38,0,1,0,59,0,9,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,536,0,13,0,35,0,1,0,194,0,1,0,307,0,11,0
+8,8,Reporting         ,1262,665,52.69,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,116,0,13,0,19,0,1,0,39,0,1,0,58,0,11,0
+8,8,Reporting         ,1262,665,52.69,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,532,0,12,0,35,0,0,0,192,0,2,0,305,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,121,0,12,0,20,0,0,0,40,0,2,0,61,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,532,0,12,0,32,0,0,0,193,0,1,0,307,0,11,0
+8,8,Reporting         ,1262,665,52.69,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,121,0,12,0,23,0,0,0,40,0,1,0,58,0,11,0
+8,8,Reporting         ,1262,665,52.69,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,556,0,37,0,38,0,6,0,198,0,10,0,320,0,21,0
+8,8,Reporting         ,1262,665,52.69,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,72,0,37,0,11,0,6,0,26,0,10,0,35,0,21,0
+8,8,Reporting         ,1262,665,52.69,"State Senator, District 5",25,,Charles Schwertner,1,REP,551,0,39,0,33,0,8,0,197,0,12,0,321,0,19,0
+8,8,Reporting         ,1262,665,52.69,"State Senator, District 5",25,,Tommy Estes,2,LIB,75,0,39,0,14,0,8,0,25,0,12,0,36,0,19,0
+8,8,Reporting         ,1262,665,52.69,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,530,0,16,0,32,0,2,0,192,0,1,0,306,0,13,0
+8,8,Reporting         ,1262,665,52.69,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,119,0,16,0,21,0,2,0,41,0,1,0,57,0,13,0
+8,8,Reporting         ,1262,665,52.69,County Judge,34,,Fritz Faulkner,1,REP,595,0,62,0,40,0,14,0,206,0,23,0,349,0,25,0
+8,8,Reporting         ,1262,665,52.69,County Judge,34,,Shirley Brandon,0,,2,0,62,0,1,0,14,0,0,0,23,0,1,0,25,0
+8,8,Reporting         ,1262,665,52.69,County Judge,34,,Rejected write-ins,0,,6,0,62,0,0,0,14,0,5,0,23,0,1,0,25,0
+8,8,Reporting         ,1262,665,52.69,County Judge,34,,Unassigned write-ins,0,,0,0,62,0,0,0,14,0,0,0,23,0,0,0,25,0
+8,8,Reporting         ,1262,665,52.69,"Justice of the Peace, Precinct No. 4",32,,Kim Webb,1,REP,573,0,25,0,38,0,4,0,198,0,11,0,337,0,10,0
+8,8,Reporting         ,1262,665,52.69,"Justice of the Peace, Precinct No. 4",32,,Joy DeRaimo,2,IND,67,0,25,0,13,0,4,0,25,0,11,0,29,0,10,0
+9,15,Reporting         ,584,342,58.56,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,293,0,6,0,9,0,3,0,154,0,0,0,130,0,3,0
+9,15,Reporting         ,584,342,58.56,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,39,0,6,0,7,0,3,0,18,0,0,0,14,0,3,0
+9,15,Reporting         ,584,342,58.56,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,4,0,6,0,0,0,3,0,1,0,0,0,3,0,3,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Greg Abbott,1,REP,295,0,1,0,14,0,1,0,153,0,0,0,128,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Beto O'Rourke,2,DEM,40,0,1,0,4,0,1,0,20,0,0,0,16,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Mark Tippetts,4,LIB,5,0,1,0,0,0,1,0,0,0,0,0,5,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Delilah Barrios,3,GRN,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Jacqueline Abernathy,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Mark V Goloby,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Rejected write-ins,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,15,Reporting         ,584,342,58.56,Governor,14,,Unassigned write-ins,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,15,Reporting         ,584,342,58.56,Lieutenant Governor,12,,Dan Patrick,2,REP,294,0,1,0,11,0,0,0,153,0,0,0,130,0,1,0
+9,15,Reporting         ,584,342,58.56,Lieutenant Governor,12,,Mike Collier,1,DEM,42,0,1,0,8,0,0,0,20,0,0,0,14,0,1,0
+9,15,Reporting         ,584,342,58.56,Lieutenant Governor,12,,Shanna Steele,3,LIB,5,0,1,0,0,0,0,0,0,0,0,0,5,0,1,0
+9,15,Reporting         ,584,342,58.56,Attorney General,10,,Ken Paxton,2,REP,289,0,5,0,11,0,0,0,151,0,2,0,127,0,3,0
+9,15,Reporting         ,584,342,58.56,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,43,0,5,0,8,0,0,0,20,0,2,0,15,0,3,0
+9,15,Reporting         ,584,342,58.56,Attorney General,10,,Mark Ash,3,LIB,5,0,5,0,0,0,0,0,0,0,2,0,5,0,3,0
+9,15,Reporting         ,584,342,58.56,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,302,0,3,0,14,0,0,0,154,0,1,0,134,0,2,0
+9,15,Reporting         ,584,342,58.56,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,35,0,3,0,5,0,0,0,18,0,1,0,12,0,2,0
+9,15,Reporting         ,584,342,58.56,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,2,0,3,0,0,0,0,0,0,0,1,0,2,0,2,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,295,0,6,0,13,0,0,0,152,0,2,0,130,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,39,0,6,0,6,0,0,0,19,0,2,0,14,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,2,0,6,0,0,0,0,0,0,0,2,0,2,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+9,15,Reporting         ,584,342,58.56,Commissioner of Agriculture,16,,Sid Miller,2,REP,300,0,4,0,14,0,0,0,153,0,1,0,133,0,3,0
+9,15,Reporting         ,584,342,58.56,Commissioner of Agriculture,16,,Susan Hays,1,DEM,38,0,4,0,5,0,0,0,19,0,1,0,14,0,3,0
+9,15,Reporting         ,584,342,58.56,Railroad Commissioner,2,,Wayne Christian,1,REP,295,0,4,0,13,0,0,0,152,0,1,0,130,0,3,0
+9,15,Reporting         ,584,342,58.56,Railroad Commissioner,2,,Luke Warford,2,DEM,40,0,4,0,6,0,0,0,20,0,1,0,14,0,3,0
+9,15,Reporting         ,584,342,58.56,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,1,0,4,0,0,0,0,0,0,0,1,0,1,0,3,0
+9,15,Reporting         ,584,342,58.56,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,2,0,4,0,0,0,0,0,0,0,1,0,2,0,3,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,294,0,8,0,14,0,0,0,151,0,2,0,129,0,6,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,37,0,8,0,5,0,0,0,20,0,2,0,12,0,6,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,3,0,8,0,0,0,0,0,0,0,2,0,3,0,6,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,294,0,6,0,12,0,0,0,151,0,2,0,131,0,4,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,42,0,6,0,7,0,0,0,20,0,2,0,15,0,4,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,296,0,6,0,13,0,0,0,151,0,2,0,132,0,4,0
+9,15,Reporting         ,584,342,58.56,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,40,0,6,0,6,0,0,0,20,0,2,0,14,0,4,0
+9,15,Reporting         ,584,342,58.56,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,295,0,6,0,13,0,0,0,150,0,3,0,132,0,3,0
+9,15,Reporting         ,584,342,58.56,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,41,0,6,0,6,0,0,0,20,0,3,0,15,0,3,0
+9,15,Reporting         ,584,342,58.56,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,292,0,7,0,13,0,0,0,150,0,3,0,129,0,4,0
+9,15,Reporting         ,584,342,58.56,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,43,0,7,0,6,0,0,0,20,0,3,0,17,0,4,0
+9,15,Reporting         ,584,342,58.56,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,301,0,8,0,14,0,1,0,156,0,3,0,131,0,4,0
+9,15,Reporting         ,584,342,58.56,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,33,0,8,0,4,0,1,0,14,0,3,0,15,0,4,0
+9,15,Reporting         ,584,342,58.56,"State Senator, District 5",25,,Charles Schwertner,1,REP,299,0,8,0,15,0,1,0,154,0,3,0,130,0,4,0
+9,15,Reporting         ,584,342,58.56,"State Senator, District 5",25,,Tommy Estes,2,LIB,35,0,8,0,3,0,1,0,16,0,3,0,16,0,4,0
+9,15,Reporting         ,584,342,58.56,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,295,0,6,0,12,0,2,0,153,0,1,0,130,0,3,0
+9,15,Reporting         ,584,342,58.56,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,41,0,6,0,5,0,2,0,19,0,1,0,17,0,3,0
+9,15,Reporting         ,584,342,58.56,County Judge,34,,Fritz Faulkner,1,REP,317,0,14,0,13,0,4,0,164,0,5,0,140,0,5,0
+9,15,Reporting         ,584,342,58.56,County Judge,34,,Shirley Brandon,0,,5,0,14,0,1,0,4,0,2,0,5,0,2,0,5,0
+9,15,Reporting         ,584,342,58.56,County Judge,34,,Rejected write-ins,0,,6,0,14,0,1,0,4,0,2,0,5,0,3,0,5,0
+9,15,Reporting         ,584,342,58.56,County Judge,34,,Unassigned write-ins,0,,0,0,14,0,0,0,4,0,0,0,5,0,0,0,5,0
+10,3,Reporting         ,768,363,47.27,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,305,0,6,0,18,0,1,0,137,0,2,0,150,0,3,0
+10,3,Reporting         ,768,363,47.27,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,48,0,6,0,2,0,1,0,25,0,2,0,21,0,3,0
+10,3,Reporting         ,768,363,47.27,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,4,0,6,0,1,0,1,0,1,0,2,0,2,0,3,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Greg Abbott,1,REP,309,0,1,0,19,0,0,0,137,0,1,0,153,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Beto O'Rourke,2,DEM,48,0,1,0,2,0,0,0,25,0,1,0,21,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Mark Tippetts,4,LIB,4,0,1,0,1,0,0,0,1,0,1,0,2,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Delilah Barrios,3,GRN,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Jacqueline Abernathy,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Mark V Goloby,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Rejected write-ins,0,,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+10,3,Reporting         ,768,363,47.27,Governor,14,,Unassigned write-ins,0,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,3,Reporting         ,768,363,47.27,Lieutenant Governor,12,,Dan Patrick,2,REP,306,0,3,0,19,0,0,0,133,0,2,0,154,0,1,0
+10,3,Reporting         ,768,363,47.27,Lieutenant Governor,12,,Mike Collier,1,DEM,47,0,3,0,2,0,0,0,27,0,2,0,18,0,1,0
+10,3,Reporting         ,768,363,47.27,Lieutenant Governor,12,,Shanna Steele,3,LIB,7,0,3,0,1,0,0,0,3,0,2,0,3,0,1,0
+10,3,Reporting         ,768,363,47.27,Attorney General,10,,Ken Paxton,2,REP,298,0,4,0,19,0,0,0,131,0,2,0,148,0,2,0
+10,3,Reporting         ,768,363,47.27,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,50,0,4,0,2,0,0,0,26,0,2,0,22,0,2,0
+10,3,Reporting         ,768,363,47.27,Attorney General,10,,Mark Ash,3,LIB,11,0,4,0,1,0,0,0,6,0,2,0,4,0,2,0
+10,3,Reporting         ,768,363,47.27,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,305,0,3,0,19,0,0,0,136,0,2,0,150,0,1,0
+10,3,Reporting         ,768,363,47.27,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,44,0,3,0,2,0,0,0,23,0,2,0,19,0,1,0
+10,3,Reporting         ,768,363,47.27,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,11,0,3,0,1,0,0,0,4,0,2,0,6,0,1,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,304,0,6,0,19,0,0,0,133,0,2,0,152,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,49,0,6,0,3,0,0,0,26,0,2,0,20,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,4,0,6,0,0,0,0,0,4,0,2,0,0,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,6,0,0,0,0,0,0,0,2,0,0,0,4,0
+10,3,Reporting         ,768,363,47.27,Commissioner of Agriculture,16,,Sid Miller,2,REP,303,0,8,0,18,0,1,0,134,0,2,0,151,0,5,0
+10,3,Reporting         ,768,363,47.27,Commissioner of Agriculture,16,,Susan Hays,1,DEM,52,0,8,0,3,0,1,0,29,0,2,0,20,0,5,0
+10,3,Reporting         ,768,363,47.27,Railroad Commissioner,2,,Wayne Christian,1,REP,302,0,2,0,19,0,0,0,132,0,1,0,151,0,1,0
+10,3,Reporting         ,768,363,47.27,Railroad Commissioner,2,,Luke Warford,2,DEM,45,0,2,0,2,0,0,0,25,0,1,0,18,0,1,0
+10,3,Reporting         ,768,363,47.27,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,11,0,2,0,1,0,0,0,4,0,1,0,6,0,1,0
+10,3,Reporting         ,768,363,47.27,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,3,0,2,0,0,0,0,0,3,0,1,0,0,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,302,0,2,0,19,0,0,0,133,0,1,0,150,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,49,0,2,0,2,0,0,0,26,0,1,0,21,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,10,0,2,0,1,0,0,0,5,0,1,0,4,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,310,0,3,0,19,0,0,0,137,0,2,0,154,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,50,0,3,0,3,0,0,0,26,0,2,0,21,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,305,0,4,0,19,0,0,0,134,0,3,0,152,0,1,0
+10,3,Reporting         ,768,363,47.27,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,54,0,4,0,3,0,0,0,28,0,3,0,23,0,1,0
+10,3,Reporting         ,768,363,47.27,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,309,0,3,0,19,0,0,0,137,0,2,0,153,0,1,0
+10,3,Reporting         ,768,363,47.27,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,51,0,3,0,3,0,0,0,26,0,2,0,22,0,1,0
+10,3,Reporting         ,768,363,47.27,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,308,0,6,0,19,0,0,0,137,0,2,0,152,0,4,0
+10,3,Reporting         ,768,363,47.27,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,49,0,6,0,3,0,0,0,26,0,2,0,20,0,4,0
+10,3,Reporting         ,768,363,47.27,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,310,0,13,0,19,0,1,0,137,0,6,0,154,0,6,0
+10,3,Reporting         ,768,363,47.27,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,40,0,13,0,2,0,1,0,22,0,6,0,16,0,6,0
+10,3,Reporting         ,768,363,47.27,"State Senator, District 5",25,,Charles Schwertner,1,REP,298,0,20,0,16,0,4,0,135,0,8,0,147,0,8,0
+10,3,Reporting         ,768,363,47.27,"State Senator, District 5",25,,Tommy Estes,2,LIB,45,0,20,0,2,0,4,0,22,0,8,0,21,0,8,0
+10,3,Reporting         ,768,363,47.27,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,307,0,7,0,19,0,0,0,135,0,3,0,153,0,4,0
+10,3,Reporting         ,768,363,47.27,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,49,0,7,0,3,0,0,0,27,0,3,0,19,0,4,0
+10,3,Reporting         ,768,363,47.27,County Judge,34,,Fritz Faulkner,1,REP,319,0,38,0,16,0,4,0,139,0,24,0,164,0,10,0
+10,3,Reporting         ,768,363,47.27,County Judge,34,,Shirley Brandon,0,,2,0,38,0,0,0,4,0,2,0,24,0,0,0,10,0
+10,3,Reporting         ,768,363,47.27,County Judge,34,,Rejected write-ins,0,,4,0,38,0,2,0,4,0,0,0,24,0,2,0,10,0
+10,3,Reporting         ,768,363,47.27,County Judge,34,,Unassigned write-ins,0,,0,0,38,0,0,0,4,0,0,0,24,0,0,0,10,0
+11,13,Reporting         ,795,388,48.81,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,286,0,3,0,17,0,0,0,169,0,1,0,100,0,2,0
+11,13,Reporting         ,795,388,48.81,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,94,0,3,0,3,0,0,0,33,0,1,0,58,0,2,0
+11,13,Reporting         ,795,388,48.81,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,5,0,3,0,0,0,0,0,4,0,1,0,1,0,2,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Greg Abbott,1,REP,286,0,0,0,16,0,0,0,170,0,0,0,100,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Beto O'Rourke,2,DEM,93,0,0,0,3,0,0,0,31,0,0,0,59,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Mark Tippetts,4,LIB,8,0,0,0,1,0,0,0,5,0,0,0,2,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Delilah Barrios,3,GRN,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Jacqueline Abernathy,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Mark V Goloby,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,13,Reporting         ,795,388,48.81,Governor,14,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,13,Reporting         ,795,388,48.81,Lieutenant Governor,12,,Dan Patrick,2,REP,283,0,3,0,15,0,0,0,169,0,1,0,99,0,2,0
+11,13,Reporting         ,795,388,48.81,Lieutenant Governor,12,,Mike Collier,1,DEM,93,0,3,0,3,0,0,0,31,0,1,0,59,0,2,0
+11,13,Reporting         ,795,388,48.81,Lieutenant Governor,12,,Shanna Steele,3,LIB,9,0,3,0,2,0,0,0,6,0,1,0,1,0,2,0
+11,13,Reporting         ,795,388,48.81,Attorney General,10,,Ken Paxton,2,REP,280,0,2,0,15,0,0,0,166,0,0,0,99,0,2,0
+11,13,Reporting         ,795,388,48.81,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,95,0,2,0,3,0,0,0,33,0,0,0,59,0,2,0
+11,13,Reporting         ,795,388,48.81,Attorney General,10,,Mark Ash,3,LIB,11,0,2,0,2,0,0,0,8,0,0,0,1,0,2,0
+11,13,Reporting         ,795,388,48.81,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,282,0,6,0,15,0,1,0,169,0,1,0,98,0,4,0
+11,13,Reporting         ,795,388,48.81,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,91,0,6,0,3,0,1,0,33,0,1,0,55,0,4,0
+11,13,Reporting         ,795,388,48.81,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,9,0,6,0,1,0,1,0,4,0,1,0,4,0,4,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,283,0,5,0,16,0,1,0,170,0,1,0,97,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,92,0,5,0,3,0,1,0,32,0,1,0,57,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,7,0,5,0,0,0,1,0,3,0,1,0,4,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,5,0,0,0,1,0,0,0,1,0,0,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,Rejected write-ins,0,,1,0,5,0,0,0,1,0,1,0,1,0,0,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,5,0,0,0,1,0,0,0,1,0,0,0,3,0
+11,13,Reporting         ,795,388,48.81,Commissioner of Agriculture,16,,Sid Miller,2,REP,289,0,4,0,16,0,1,0,171,0,1,0,102,0,2,0
+11,13,Reporting         ,795,388,48.81,Commissioner of Agriculture,16,,Susan Hays,1,DEM,95,0,4,0,3,0,1,0,35,0,1,0,57,0,2,0
+11,13,Reporting         ,795,388,48.81,Railroad Commissioner,2,,Wayne Christian,1,REP,286,0,8,0,15,0,1,0,170,0,0,0,101,0,7,0
+11,13,Reporting         ,795,388,48.81,Railroad Commissioner,2,,Luke Warford,2,DEM,83,0,8,0,3,0,1,0,31,0,0,0,49,0,7,0
+11,13,Reporting         ,795,388,48.81,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,8,0,8,0,1,0,1,0,3,0,0,0,4,0,7,0
+11,13,Reporting         ,795,388,48.81,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,3,0,8,0,0,0,1,0,3,0,0,0,0,0,7,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,281,0,6,0,15,0,0,0,167,0,1,0,99,0,5,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,91,0,6,0,4,0,0,0,31,0,1,0,56,0,5,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,10,0,6,0,1,0,0,0,8,0,1,0,1,0,5,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,290,0,7,0,17,0,0,0,173,0,1,0,100,0,6,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,91,0,7,0,3,0,0,0,33,0,1,0,55,0,6,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,292,0,6,0,16,0,1,0,176,0,0,0,100,0,5,0
+11,13,Reporting         ,795,388,48.81,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,90,0,6,0,3,0,1,0,31,0,0,0,56,0,5,0
+11,13,Reporting         ,795,388,48.81,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,287,0,8,0,16,0,1,0,171,0,2,0,100,0,5,0
+11,13,Reporting         ,795,388,48.81,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,93,0,8,0,3,0,1,0,34,0,2,0,56,0,5,0
+11,13,Reporting         ,795,388,48.81,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,289,0,9,0,16,0,1,0,173,0,2,0,100,0,6,0
+11,13,Reporting         ,795,388,48.81,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,90,0,9,0,3,0,1,0,32,0,2,0,55,0,6,0
+11,13,Reporting         ,795,388,48.81,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,300,0,23,0,15,0,2,0,175,0,3,0,110,0,18,0
+11,13,Reporting         ,795,388,48.81,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,65,0,23,0,3,0,2,0,29,0,3,0,33,0,18,0
+11,13,Reporting         ,795,388,48.81,"State Senator, District 5",25,,Charles Schwertner,1,REP,291,0,25,0,13,0,4,0,171,0,3,0,107,0,18,0
+11,13,Reporting         ,795,388,48.81,"State Senator, District 5",25,,Tommy Estes,2,LIB,72,0,25,0,3,0,4,0,33,0,3,0,36,0,18,0
+11,13,Reporting         ,795,388,48.81,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,288,0,12,0,16,0,1,0,171,0,1,0,101,0,10,0
+11,13,Reporting         ,795,388,48.81,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,88,0,12,0,3,0,1,0,35,0,1,0,50,0,10,0
+11,13,Reporting         ,795,388,48.81,County Judge,34,,Fritz Faulkner,1,REP,330,0,42,0,13,0,6,0,180,0,17,0,137,0,19,0
+11,13,Reporting         ,795,388,48.81,County Judge,34,,Shirley Brandon,0,,10,0,42,0,1,0,6,0,5,0,17,0,4,0,19,0
+11,13,Reporting         ,795,388,48.81,County Judge,34,,Rejected write-ins,0,,6,0,42,0,0,0,6,0,5,0,17,0,1,0,19,0
+11,13,Reporting         ,795,388,48.81,County Judge,34,,Unassigned write-ins,0,,0,0,42,0,0,0,6,0,0,0,17,0,0,0,19,0
+11 - WISD LS,2,Reporting         ,0,1,0,"United States Representative, District No. 8",3,,Morgan Luttrell,3,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"United States Representative, District No. 8",3,,Laura Jones,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"United States Representative, District No. 8",3,,Roy Eriksen,2,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Greg Abbott,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Beto O'Rourke,2,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Mark Tippetts,4,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Delilah Barrios,3,GRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Jacqueline Abernathy,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Mark V Goloby,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Governor,14,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Lieutenant Governor,12,,Dan Patrick,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Lieutenant Governor,12,,Mike Collier,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Lieutenant Governor,12,,Shanna Steele,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Attorney General,10,,Ken Paxton,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Attorney General,10,,Rochelle Mercedes Garza,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Attorney General,10,,Mark Ash,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Comptroller of Public Accounts,6,,Glenn Hegar,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Comptroller of Public Accounts,6,,Janet T. Dudding,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Comptroller of Public Accounts,6,,V. Alonzo Echevarria-Garza,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,Dawn Buckingham,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,Jay Kleberg,2,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,"Alfred Molison, Jr.",3,GRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,Carrie Evelyn Menger,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of the General Land Office,8,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of Agriculture,16,,Sid Miller,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Commissioner of Agriculture,16,,Susan Hays,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Railroad Commissioner,2,,Wayne Christian,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Railroad Commissioner,2,,Luke Warford,2,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Railroad Commissioner,2,,Jaime Andres Diez,4,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,Railroad Commissioner,2,,Hunter Wayne Crow,3,GRN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 3",9,,Debra Lehrmann,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 3",9,,Erin A. Nowell,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 3",9,,Thomas Edward Oxford,3,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 5",17,,Rebeca Huddle,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 5",17,,Amanda Reichek,2,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 9",23,,Evan Young,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, Supreme Court, Place 9",23,,Julia Maldonado,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Judge, Court of Criminal Appeals, Place 5",24,,Scott Walker,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Judge, Court of Criminal Appeals, Place 5",24,,Dana Huffman,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Judge, Court of Criminal Appeals, Place 6",5,,Jesse F. McClure III,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Judge, Court of Criminal Appeals, Place 6",5,,Robert Johnson,1,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Member, State Board of Education, District 8",42,,Audrey Young,2,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Member, State Board of Education, District 8",42,,Rhett Rosenquest Smith,1,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"State Senator, District 5",25,,Charles Schwertner,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"State Senator, District 5",25,,Tommy Estes,2,LIB,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, 9th Court of Appeals District, Place 2",22,,Jay Wright,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Justice, 9th Court of Appeals District, Place 2",22,,Bob Mabry,2,DEM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,County Judge,34,,Fritz Faulkner,1,REP,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,County Judge,34,,Shirley Brandon,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,County Judge,34,,Rejected write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,County Judge,34,,Unassigned write-ins,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 1",37,,Richelle Theilen,2,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 1",37,,John Hinna,1,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 1",37,,Nikita Lagway,4,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 1",37,,Christen Arnold,3,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 3",38,,Gentry Scott,2,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 3",38,,Scott Carson,1,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 3",38,,John Sellars,3,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 4",36,,Kyle Hoegemeyer,1,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 5",41,,Cliff Williams,2,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, Position 5",41,,Zach Dorris,1,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, District 7",35,,Rebecca (Becky) Broussard,1,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+11 - WISD LS,2,Reporting         ,0,1,0,"Trustee, District 7",35,,Rita Yates-Wiltz,2,,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0

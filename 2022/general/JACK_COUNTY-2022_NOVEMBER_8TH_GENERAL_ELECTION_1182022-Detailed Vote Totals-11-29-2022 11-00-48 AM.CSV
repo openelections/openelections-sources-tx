@@ -1,0 +1,272 @@
+#FormatVersion 1
+#Precinct,Precinct ID,Precinct Reporting,"Registered Voters","Ballots Cast","Turnout Percentage",Contest Title,Contest ID,Contest Party,Choice Name,Choice ID,Choice Party,Total Votes,Total Overvotes,Total Undervotes,Total Invalid Votes,"Absentee Voting Votes","Absentee Voting Overvotes","Absentee Voting Undervotes","Absentee Voting Invalid Votes","Early Voting Votes","Early Voting Overvotes","Early Voting Undervotes","Early Voting Invalid Votes","Election Day Voting Votes","Election Day Voting Overvotes","Election Day Voting Undervotes","Election Day Voting Invalid Votes"
+"1",1,Reporting         ,1241,616,49.64,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",568,0,48,0,21,0,13,0,324,0,26,0,223,0,9,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Greg Abbott",1,"REP",558,0,2,0,26,0,0,0,321,0,1,0,211,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Beto O'Rourke",2,"DEM",54,0,2,0,8,0,0,0,27,0,1,0,19,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Mark Tippetts",4,"LIB",2,0,2,0,0,0,0,0,1,0,1,0,1,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Delilah Barrios",3,"GRN",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Mark V Goloby",0,"",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Rejected write-ins",0,"",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Governor",14,"","Unassigned write-ins",0,"",0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+"1",1,Reporting         ,1241,616,49.64,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",547,0,3,0,25,0,0,0,316,0,3,0,206,0,0,0
+"1",1,Reporting         ,1241,616,49.64,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",61,0,3,0,9,0,0,0,28,0,3,0,24,0,0,0
+"1",1,Reporting         ,1241,616,49.64,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",5,0,3,0,0,0,0,0,3,0,3,0,2,0,0,0
+"1",1,Reporting         ,1241,616,49.64,"Attorney General",10,"","Ken Paxton",2,"REP",543,0,8,0,25,0,1,0,311,0,4,0,207,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",54,0,8,0,7,0,1,0,28,0,4,0,19,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Attorney General",10,"","Mark Ash",3,"LIB",11,0,8,0,1,0,1,0,7,0,4,0,3,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",553,0,10,0,23,0,2,0,321,0,5,0,209,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",49,0,10,0,9,0,2,0,23,0,5,0,17,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",4,0,10,0,0,0,2,0,1,0,5,0,3,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",554,0,11,0,23,0,3,0,320,0,4,0,211,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",49,0,11,0,8,0,3,0,25,0,4,0,16,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",2,0,11,0,0,0,3,0,1,0,4,0,1,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,11,0,0,0,3,0,0,0,4,0,0,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",0,0,11,0,0,0,3,0,0,0,4,0,0,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,11,0,0,0,3,0,0,0,4,0,0,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",557,0,10,0,23,0,2,0,325,0,3,0,209,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",49,0,10,0,9,0,2,0,22,0,3,0,18,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",547,0,14,0,24,0,3,0,313,0,6,0,210,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",46,0,14,0,7,0,3,0,24,0,6,0,15,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",4,0,14,0,0,0,3,0,3,0,6,0,1,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",5,0,14,0,0,0,3,0,4,0,6,0,1,0,5,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",552,0,10,0,24,0,2,0,320,0,5,0,208,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",51,0,10,0,8,0,2,0,24,0,5,0,19,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",3,0,10,0,0,0,2,0,1,0,5,0,2,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",557,0,9,0,26,0,3,0,322,0,3,0,209,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",50,0,9,0,5,0,3,0,25,0,3,0,20,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",555,0,11,0,24,0,3,0,320,0,5,0,211,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",50,0,11,0,7,0,3,0,25,0,5,0,18,0,3,0
+"1",1,Reporting         ,1241,616,49.64,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",555,0,12,0,25,0,3,0,321,0,5,0,209,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",49,0,12,0,6,0,3,0,24,0,5,0,19,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",556,0,11,0,26,0,3,0,322,0,4,0,208,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",49,0,11,0,5,0,3,0,24,0,4,0,20,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",550,0,13,0,20,0,5,0,321,0,4,0,209,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",53,0,13,0,9,0,5,0,25,0,4,0,19,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",554,0,15,0,24,0,4,0,320,0,7,0,210,0,4,0
+"1",1,Reporting         ,1241,616,49.64,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",47,0,15,0,6,0,4,0,23,0,7,0,18,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",631,0,47,0,26,0,11,0,230,0,25,0,375,0,11,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Greg Abbott",1,"REP",622,0,2,0,27,0,0,0,226,0,0,0,369,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Beto O'Rourke",2,"DEM",49,0,2,0,9,0,0,0,29,0,0,0,11,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Mark Tippetts",4,"LIB",5,0,2,0,1,0,0,0,0,0,0,0,4,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Delilah Barrios",3,"GRN",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Mark V Goloby",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Rejected write-ins",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Governor",14,"","Unassigned write-ins",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",610,0,2,0,27,0,0,0,224,0,0,0,359,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",55,0,2,0,10,0,0,0,28,0,0,0,17,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",11,0,2,0,0,0,0,0,3,0,0,0,8,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Attorney General",10,"","Ken Paxton",2,"REP",609,0,2,0,25,0,0,0,220,0,1,0,364,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",53,0,2,0,10,0,0,0,29,0,1,0,14,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Attorney General",10,"","Mark Ash",3,"LIB",14,0,2,0,2,0,0,0,5,0,1,0,7,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",623,0,5,0,29,0,0,0,226,0,1,0,368,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",43,0,5,0,8,0,0,0,26,0,1,0,9,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",7,0,5,0,0,0,0,0,2,0,1,0,5,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",624,0,7,0,27,0,0,0,225,0,3,0,372,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",45,0,7,0,10,0,0,0,26,0,3,0,9,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",2,0,7,0,0,0,0,0,1,0,3,0,1,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,7,0,0,0,0,0,0,0,3,0,0,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",0,0,7,0,0,0,0,0,0,0,3,0,0,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,7,0,0,0,0,0,0,0,3,0,0,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",628,0,4,0,28,0,0,0,228,0,1,0,372,0,3,0
+"2",6,Reporting         ,1265,678,53.60,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",46,0,4,0,9,0,0,0,26,0,1,0,11,0,3,0
+"2",6,Reporting         ,1265,678,53.60,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",620,0,2,0,28,0,0,0,223,0,1,0,369,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",45,0,2,0,9,0,0,0,27,0,1,0,9,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",10,0,2,0,0,0,0,0,3,0,1,0,7,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",1,0,2,0,0,0,0,0,1,0,1,0,0,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",619,0,6,0,29,0,0,0,223,0,4,0,367,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",44,0,6,0,8,0,0,0,27,0,4,0,9,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",9,0,6,0,0,0,0,0,1,0,4,0,8,0,2,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",627,0,5,0,28,0,0,0,224,0,4,0,375,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",46,0,5,0,9,0,0,0,27,0,4,0,10,0,1,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",624,0,11,0,29,0,0,0,225,0,5,0,370,0,6,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",43,0,11,0,8,0,0,0,25,0,5,0,10,0,6,0
+"2",6,Reporting         ,1265,678,53.60,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",625,0,8,0,29,0,0,0,224,0,5,0,372,0,3,0
+"2",6,Reporting         ,1265,678,53.60,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",45,0,8,0,8,0,0,0,26,0,5,0,11,0,3,0
+"2",6,Reporting         ,1265,678,53.60,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",623,0,8,0,29,0,0,0,222,0,4,0,372,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",47,0,8,0,8,0,0,0,29,0,4,0,10,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",615,0,12,0,23,0,4,0,223,0,4,0,369,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",51,0,12,0,10,0,4,0,28,0,4,0,13,0,4,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",619,0,13,0,25,0,3,0,224,0,4,0,370,0,6,0
+"2",6,Reporting         ,1265,678,53.60,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",46,0,13,0,9,0,3,0,27,0,4,0,10,0,6,0
+"3",5,Reporting         ,217,108,49.77,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",97,0,11,0,3,0,5,0,49,0,3,0,45,0,3,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Greg Abbott",1,"REP",99,0,1,0,6,0,1,0,49,0,0,0,44,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Beto O'Rourke",2,"DEM",7,0,1,0,0,0,1,0,3,0,0,0,4,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Mark Tippetts",4,"LIB",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Delilah Barrios",3,"GRN",1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Mark V Goloby",0,"",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Rejected write-ins",0,"",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Governor",14,"","Unassigned write-ins",0,"",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",95,0,2,0,4,0,2,0,48,0,0,0,43,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",7,0,2,0,2,0,2,0,2,0,0,0,3,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",4,0,2,0,0,0,2,0,2,0,0,0,2,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Attorney General",10,"","Ken Paxton",2,"REP",94,0,3,0,4,0,2,0,47,0,1,0,43,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",9,0,3,0,2,0,2,0,3,0,1,0,4,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Attorney General",10,"","Mark Ash",3,"LIB",2,0,3,0,0,0,2,0,1,0,1,0,1,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",98,0,1,0,6,0,0,0,49,0,0,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",7,0,1,0,2,0,0,0,2,0,0,0,3,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",2,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",95,0,2,0,4,0,0,0,48,0,0,0,43,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",10,0,2,0,4,0,0,0,3,0,0,0,3,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",1,0,2,0,0,0,0,0,1,0,0,0,0,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",97,0,1,0,4,0,0,0,48,0,1,0,45,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",10,0,1,0,4,0,0,0,3,0,1,0,3,0,0,0
+"3",5,Reporting         ,217,108,49.77,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",95,0,1,0,4,0,0,0,48,0,0,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",9,0,1,0,4,0,0,0,2,0,0,0,3,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",2,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",94,0,3,0,4,0,0,0,47,0,2,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",10,0,3,0,4,0,0,0,2,0,2,0,4,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",1,0,3,0,0,0,0,0,1,0,2,0,0,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",93,0,4,0,4,0,0,0,46,0,3,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",11,0,4,0,4,0,0,0,3,0,3,0,4,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",94,0,3,0,4,0,0,0,47,0,2,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",11,0,3,0,4,0,0,0,3,0,2,0,4,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",93,0,4,0,4,0,0,0,47,0,2,0,42,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",11,0,4,0,4,0,0,0,3,0,2,0,4,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",93,0,4,0,4,0,0,0,47,0,2,0,42,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",11,0,4,0,4,0,0,0,3,0,2,0,4,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",92,0,5,0,3,0,1,0,46,0,3,0,43,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",11,0,5,0,4,0,1,0,3,0,3,0,4,0,1,0
+"3",5,Reporting         ,217,108,49.77,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",92,0,5,0,4,0,0,0,46,0,3,0,42,0,2,0
+"3",5,Reporting         ,217,108,49.77,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",11,0,5,0,4,0,0,0,3,0,3,0,4,0,2,0
+"4",4,Reporting         ,851,524,61.57,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",485,0,39,0,11,0,8,0,295,0,21,0,179,0,10,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Greg Abbott",1,"REP",472,0,1,0,12,0,0,0,289,0,1,0,171,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Beto O'Rourke",2,"DEM",43,0,1,0,6,0,0,0,25,0,1,0,12,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Mark Tippetts",4,"LIB",6,0,1,0,1,0,0,0,1,0,1,0,4,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Delilah Barrios",3,"GRN",2,0,1,0,0,0,0,0,0,0,1,0,2,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Mark V Goloby",0,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Rejected write-ins",0,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Governor",14,"","Unassigned write-ins",0,"",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"4",4,Reporting         ,851,524,61.57,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",458,0,9,0,12,0,0,0,278,0,6,0,168,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",50,0,9,0,7,0,0,0,28,0,6,0,15,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",7,0,9,0,0,0,0,0,4,0,6,0,3,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Attorney General",10,"","Ken Paxton",2,"REP",461,0,5,0,12,0,0,0,281,0,3,0,168,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",47,0,5,0,7,0,0,0,25,0,3,0,15,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Attorney General",10,"","Mark Ash",3,"LIB",11,0,5,0,0,0,0,0,7,0,3,0,4,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",470,0,9,0,12,0,0,0,286,0,5,0,172,0,4,0
+"4",4,Reporting         ,851,524,61.57,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",41,0,9,0,7,0,0,0,24,0,5,0,10,0,4,0
+"4",4,Reporting         ,851,524,61.57,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",4,0,9,0,0,0,0,0,1,0,5,0,3,0,4,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",471,0,8,0,12,0,0,0,286,0,5,0,173,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",43,0,8,0,7,0,0,0,25,0,5,0,11,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",2,0,8,0,0,0,0,0,0,0,5,0,2,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,8,0,0,0,0,0,0,0,5,0,0,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",0,0,8,0,0,0,0,0,0,0,5,0,0,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,8,0,0,0,0,0,0,0,5,0,0,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",480,0,2,0,12,0,0,0,291,0,1,0,177,0,1,0
+"4",4,Reporting         ,851,524,61.57,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",42,0,2,0,7,0,0,0,24,0,1,0,11,0,1,0
+"4",4,Reporting         ,851,524,61.57,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",472,0,8,0,12,0,0,0,285,0,6,0,175,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",41,0,8,0,7,0,0,0,24,0,6,0,10,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",3,0,8,0,0,0,0,0,1,0,6,0,2,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",0,0,8,0,0,0,0,0,0,0,6,0,0,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",466,0,10,0,12,0,0,0,282,0,7,0,172,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",43,0,10,0,7,0,0,0,25,0,7,0,11,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",5,0,10,0,0,0,0,0,2,0,7,0,3,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",471,0,9,0,11,0,0,0,285,0,6,0,175,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",44,0,9,0,8,0,0,0,25,0,6,0,11,0,3,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",473,0,7,0,12,0,0,0,286,0,5,0,175,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",44,0,7,0,7,0,0,0,25,0,5,0,12,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",474,0,6,0,12,0,0,0,286,0,4,0,176,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",44,0,6,0,7,0,0,0,26,0,4,0,11,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",472,0,7,0,12,0,0,0,285,0,5,0,175,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",45,0,7,0,7,0,0,0,26,0,5,0,12,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",474,0,6,0,12,0,0,0,287,0,4,0,175,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",44,0,6,0,7,0,0,0,25,0,4,0,12,0,2,0
+"4",4,Reporting         ,851,524,61.57,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",469,0,12,0,12,0,0,0,284,0,7,0,173,0,5,0
+"4",4,Reporting         ,851,524,61.57,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",43,0,12,0,7,0,0,0,25,0,7,0,11,0,5,0
+"5",3,Reporting         ,703,389,55.33,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",355,0,34,0,13,0,3,0,130,0,7,0,212,0,24,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Greg Abbott",1,"REP",365,0,1,0,15,0,0,0,130,0,0,0,220,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Beto O'Rourke",2,"DEM",19,0,1,0,1,0,0,0,7,0,0,0,11,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Mark Tippetts",4,"LIB",4,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Delilah Barrios",3,"GRN",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Mark V Goloby",0,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Rejected write-ins",0,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Governor",14,"","Unassigned write-ins",0,"",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"5",3,Reporting         ,703,389,55.33,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",348,0,5,0,14,0,1,0,126,0,0,0,208,0,4,0
+"5",3,Reporting         ,703,389,55.33,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",28,0,5,0,0,0,1,0,11,0,0,0,17,0,4,0
+"5",3,Reporting         ,703,389,55.33,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",8,0,5,0,1,0,1,0,0,0,0,0,7,0,4,0
+"5",3,Reporting         ,703,389,55.33,"Attorney General",10,"","Ken Paxton",2,"REP",350,0,6,0,14,0,1,0,125,0,0,0,211,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",19,0,6,0,1,0,1,0,8,0,0,0,10,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Attorney General",10,"","Mark Ash",3,"LIB",14,0,6,0,0,0,1,0,4,0,0,0,10,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",357,0,3,0,16,0,0,0,127,0,0,0,214,0,3,0
+"5",3,Reporting         ,703,389,55.33,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",23,0,3,0,0,0,0,0,9,0,0,0,14,0,3,0
+"5",3,Reporting         ,703,389,55.33,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",6,0,3,0,0,0,0,0,1,0,0,0,5,0,3,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",361,0,7,0,15,0,0,0,129,0,0,0,217,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",18,0,7,0,1,0,0,0,7,0,0,0,10,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",2,0,7,0,0,0,0,0,1,0,0,0,1,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,7,0,0,0,0,0,0,0,0,0,0,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",1,0,7,0,0,0,0,0,0,0,0,0,1,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,7,0,0,0,0,0,0,0,0,0,0,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",364,0,5,0,16,0,0,0,129,0,0,0,219,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",20,0,5,0,0,0,0,0,8,0,0,0,12,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",354,0,7,0,15,0,0,0,129,0,0,0,210,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",19,0,7,0,0,0,0,0,7,0,0,0,12,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",9,0,7,0,1,0,0,0,1,0,0,0,7,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",0,0,7,0,0,0,0,0,0,0,0,0,0,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",354,0,5,0,16,0,0,0,125,0,0,0,213,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",21,0,5,0,0,0,0,0,9,0,0,0,12,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",9,0,5,0,0,0,0,0,3,0,0,0,6,0,5,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",362,0,7,0,16,0,0,0,130,0,0,0,216,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",20,0,7,0,0,0,0,0,7,0,0,0,13,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",363,0,8,0,16,0,0,0,128,0,1,0,219,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",18,0,8,0,0,0,0,0,8,0,1,0,10,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",361,0,8,0,15,0,0,0,129,0,1,0,217,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",20,0,8,0,1,0,0,0,7,0,1,0,12,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",359,0,9,0,16,0,0,0,129,0,0,0,214,0,9,0
+"5",3,Reporting         ,703,389,55.33,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",21,0,9,0,0,0,0,0,8,0,0,0,13,0,9,0
+"5",3,Reporting         ,703,389,55.33,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",365,0,7,0,16,0,0,0,130,0,0,0,219,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",17,0,7,0,0,0,0,0,7,0,0,0,10,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",362,0,7,0,16,0,0,0,129,0,0,0,217,0,7,0
+"5",3,Reporting         ,703,389,55.33,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",20,0,7,0,0,0,0,0,8,0,0,0,12,0,7,0
+"6",2,Reporting         ,1338,688,51.42,"United States Representative, District No. 25",25,"","Roger Williams",1,"REP",636,0,52,0,26,0,9,0,377,0,31,0,233,0,12,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Greg Abbott",1,"REP",628,0,2,0,27,0,0,0,369,0,2,0,232,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Beto O'Rourke",2,"DEM",55,0,2,0,7,0,0,0,35,0,2,0,13,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Mark Tippetts",4,"LIB",2,0,2,0,1,0,0,0,1,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Delilah Barrios",3,"GRN",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Jacqueline Abernathy",0,"",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Mark V Goloby",0,"",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Rejected write-ins",0,"",1,0,2,0,0,0,0,0,1,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Governor",14,"","Unassigned write-ins",0,"",0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Lieutenant Governor",12,"","Dan Patrick",2,"REP",608,0,4,0,26,0,1,0,361,0,3,0,221,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Lieutenant Governor",12,"","Mike Collier",1,"DEM",72,0,4,0,8,0,1,0,43,0,3,0,21,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Lieutenant Governor",12,"","Shanna Steele",3,"LIB",4,0,4,0,0,0,1,0,1,0,3,0,3,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Attorney General",10,"","Ken Paxton",2,"REP",614,0,5,0,26,0,1,0,362,0,4,0,226,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Attorney General",10,"","Rochelle Mercedes Garza",1,"DEM",59,0,5,0,8,0,1,0,35,0,4,0,16,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Attorney General",10,"","Mark Ash",3,"LIB",10,0,5,0,0,0,1,0,7,0,4,0,3,0,0,0
+"6",2,Reporting         ,1338,688,51.42,"Comptroller of Public Accounts",6,"","Glenn Hegar",2,"REP",624,0,8,0,25,0,1,0,373,0,3,0,226,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Comptroller of Public Accounts",6,"","Janet T. Dudding",1,"DEM",53,0,8,0,9,0,1,0,29,0,3,0,15,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Comptroller of Public Accounts",6,"","V. Alonzo Echevarria-Garza",3,"LIB",3,0,8,0,0,0,1,0,3,0,3,0,0,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Dawn Buckingham",1,"REP",618,0,10,0,25,0,2,0,369,0,4,0,224,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Jay Kleberg",2,"DEM",56,0,10,0,7,0,2,0,33,0,4,0,16,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Alfred Molison, Jr.",3,"GRN",4,0,10,0,1,0,2,0,2,0,4,0,1,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Carrie Evelyn Menger",0,"",0,0,10,0,0,0,2,0,0,0,4,0,0,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Rejected write-ins",0,"",0,0,10,0,0,0,2,0,0,0,4,0,0,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of the General Land Office",8,"","Unassigned write-ins",0,"",0,0,10,0,0,0,2,0,0,0,4,0,0,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of Agriculture",16,"","Sid Miller",2,"REP",618,0,11,0,26,0,1,0,368,0,5,0,224,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Commissioner of Agriculture",16,"","Susan Hays",1,"DEM",59,0,11,0,8,0,1,0,35,0,5,0,16,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Railroad Commissioner",2,"","Wayne Christian",1,"REP",612,0,10,0,24,0,2,0,365,0,4,0,223,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Railroad Commissioner",2,"","Luke Warford",2,"DEM",53,0,10,0,9,0,2,0,28,0,4,0,16,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Railroad Commissioner",2,"","Jaime Andres Diez",4,"LIB",7,0,10,0,0,0,2,0,5,0,4,0,2,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Railroad Commissioner",2,"","Hunter Wayne Crow",3,"GRN",6,0,10,0,0,0,2,0,6,0,4,0,0,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 3",9,"","Debra Lehrmann",2,"REP",616,0,11,0,24,0,2,0,370,0,4,0,222,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 3",9,"","Erin A. Nowell",1,"DEM",53,0,11,0,9,0,2,0,30,0,4,0,14,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 3",9,"","Thomas Edward Oxford",3,"LIB",8,0,11,0,0,0,2,0,4,0,4,0,4,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 5",17,"","Rebeca Huddle",1,"REP",622,0,11,0,25,0,2,0,372,0,4,0,225,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 5",17,"","Amanda Reichek",2,"DEM",55,0,11,0,8,0,2,0,32,0,4,0,15,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 9",23,"","Evan Young",2,"REP",618,0,14,0,24,0,3,0,370,0,5,0,224,0,6,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, Supreme Court, Place 9",23,"","Julia Maldonado",1,"DEM",56,0,14,0,8,0,3,0,33,0,5,0,15,0,6,0
+"6",2,Reporting         ,1338,688,51.42,"Judge, Court of Criminal Appeals, Place 5",24,"","Scott Walker",2,"REP",619,0,12,0,23,0,3,0,370,0,5,0,226,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Judge, Court of Criminal Appeals, Place 5",24,"","Dana Huffman",1,"DEM",57,0,12,0,9,0,3,0,33,0,5,0,15,0,4,0
+"6",2,Reporting         ,1338,688,51.42,"Judge, Court of Criminal Appeals, Place 6",5,"","Jesse F. McClure III",2,"REP",615,0,13,0,23,0,3,0,369,0,5,0,223,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Judge, Court of Criminal Appeals, Place 6",5,"","Robert Johnson",1,"DEM",60,0,13,0,9,0,3,0,34,0,5,0,17,0,5,0
+"6",2,Reporting         ,1338,688,51.42,"Member, State Board of Education, District No. 14",18,"","Evelyn Brooks",1,"REP",613,0,13,0,23,0,3,0,369,0,4,0,221,0,6,0
+"6",2,Reporting         ,1338,688,51.42,"Member, State Board of Education, District No. 14",18,"","Tracy Fisher",2,"DEM",62,0,13,0,9,0,3,0,35,0,4,0,18,0,6,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Elizabeth Kerr",2,"REP",616,0,17,0,23,0,4,0,369,0,7,0,224,0,6,0
+"6",2,Reporting         ,1338,688,51.42,"Justice, 2nd Court of Appeals District, Place No. 3",22,"","Delonia A. Watson",1,"DEM",55,0,17,0,8,0,4,0,32,0,7,0,15,0,6,0

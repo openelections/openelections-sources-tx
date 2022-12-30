@@ -1,0 +1,929 @@
+political_subdivision,election_date,election_name,total_provisional_ballots,total_provisional_ballots_counted,precinct_number,reg_voters,race_name,candidate_name,party_code,early_votes,election_votes
+,11/8/2022,General Election,116,29,1,1132,"United States Representative, District No. 23",Tony Gonzales,REP,189,69
+,11/8/2022,General Election,116,29,1,1132,"United States Representative, District No. 23",John Lira,DEM,110,38
+,11/8/2022,General Election,116,29,1,1132,"United States Representative, District No. 23",Frank Lopez Jr.,IND,27,8
+,11/8/2022,General Election,116,29,1,1132,Governor,Greg Abbott,REP,182,69
+,11/8/2022,General Election,116,29,1,1132,Governor,Beto O'Rourke,DEM,140,46
+,11/8/2022,General Election,116,29,1,1132,Governor,Mark Tippetts,LIB,3,0
+,11/8/2022,General Election,116,29,1,1132,Governor,Delilah Barrios,GRN,2,0
+,11/8/2022,General Election,116,29,1,1132,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,1,1132,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,1,1132,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,1,1132,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,1,1132,Lieutenant Governor,Dan Patrick,REP,189,67
+,11/8/2022,General Election,116,29,1,1132,Lieutenant Governor,Mike Collier,DEM,134,45
+,11/8/2022,General Election,116,29,1,1132,Lieutenant Governor,Shanna Steele,LIB,4,3
+,11/8/2022,General Election,116,29,1,1132,Attorney General,Ken Paxton,REP,192,67
+,11/8/2022,General Election,116,29,1,1132,Attorney General,Rochelle Mercedes Garza,DEM,125,42
+,11/8/2022,General Election,116,29,1,1132,Attorney General,Mark Ash,LIB,7,4
+,11/8/2022,General Election,116,29,1,1132,Comptroller of Public Accounts,Glenn Hegar,REP,188,66
+,11/8/2022,General Election,116,29,1,1132,Comptroller of Public Accounts,Janet T. Dudding,DEM,124,39
+,11/8/2022,General Election,116,29,1,1132,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,8,8
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,Dawn Buckingham,REP,182,65
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,Jay Kleberg,DEM,131,45
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,5,1
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,1,1132,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,1,1132,Commissioner of Agriculture,Sid Miller,REP,190,69
+,11/8/2022,General Election,116,29,1,1132,Commissioner of Agriculture,Susan Hays,DEM,133,45
+,11/8/2022,General Election,116,29,1,1132,Railroad Commissioner,Wayne Christian,REP,188,62
+,11/8/2022,General Election,116,29,1,1132,Railroad Commissioner,Luke Warford,DEM,120,39
+,11/8/2022,General Election,116,29,1,1132,Railroad Commissioner,Jaime Andres Diez,LIB,10,8
+,11/8/2022,General Election,116,29,1,1132,Railroad Commissioner,Hunter Wayne Crow,GRN,2,1
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,189,63
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,127,43
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,4,4
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,185,70
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,132,41
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 9",Evan Young,REP,185,67
+,11/8/2022,General Election,116,29,1,1132,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,134,44
+,11/8/2022,General Election,116,29,1,1132,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,189,67
+,11/8/2022,General Election,116,29,1,1132,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,129,44
+,11/8/2022,General Election,116,29,1,1132,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,185,66
+,11/8/2022,General Election,116,29,1,1132,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,132,45
+,11/8/2022,General Election,116,29,1,1132,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,186,67
+,11/8/2022,General Election,116,29,1,1132,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,135,45
+,11/8/2022,General Election,116,29,1,1132,"State Senator, District No. 19",Robert Garza,REP,176,66
+,11/8/2022,General Election,116,29,1,1132,"State Senator, District No. 19",Roland Gutierrez,DEM,149,51
+,11/8/2022,General Election,116,29,1,1132,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,186,67
+,11/8/2022,General Election,116,29,1,1132,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,131,42
+,11/8/2022,General Election,116,29,1,1132,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,180,68
+,11/8/2022,General Election,116,29,1,1132,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,133,44
+,11/8/2022,General Election,116,29,1,1132,County Judge,Patrick McGrew,REP,123,50
+,11/8/2022,General Election,116,29,1,1132,County Judge,Bill Mitchell,DEM,200,65
+,11/8/2022,General Election,116,29,1,1132,County Clerk,Donna M. Williams,REP,163,65
+,11/8/2022,General Election,116,29,1,1132,County Clerk,Valerie Del Toro Romero,DEM,160,51
+,11/8/2022,General Election,116,29,1,1132,"Justice of the Peace,  Precinct No. 1",Steven T. Kennedy,REP,235,87
+,11/8/2022,General Election,116,29,1,1132,"Justice of the Peace,  Precinct No. 1",Tina Ann Quintanilla Taylor,,30,5
+,11/8/2022,General Election,116,29,1,1132,"Justice of the Peace,  Precinct No. 1",Rejected write-ins,,9,6
+,11/8/2022,General Election,116,29,1,1132,"Justice of the Peace,  Precinct No. 1",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,2,1467,"United States Representative, District No. 23",Tony Gonzales,REP,127,290
+,11/8/2022,General Election,116,29,2,1467,"United States Representative, District No. 23",John Lira,DEM,53,106
+,11/8/2022,General Election,116,29,2,1467,"United States Representative, District No. 23",Frank Lopez Jr.,IND,15,40
+,11/8/2022,General Election,116,29,2,1467,Governor,Greg Abbott,REP,138,293
+,11/8/2022,General Election,116,29,2,1467,Governor,Beto O'Rourke,DEM,56,142
+,11/8/2022,General Election,116,29,2,1467,Governor,Mark Tippetts,LIB,0,5
+,11/8/2022,General Election,116,29,2,1467,Governor,Delilah Barrios,GRN,2,1
+,11/8/2022,General Election,116,29,2,1467,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,2,1467,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,2,1467,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,2,1467,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,2,1467,Lieutenant Governor,Dan Patrick,REP,134,294
+,11/8/2022,General Election,116,29,2,1467,Lieutenant Governor,Mike Collier,DEM,58,138
+,11/8/2022,General Election,116,29,2,1467,Lieutenant Governor,Shanna Steele,LIB,5,7
+,11/8/2022,General Election,116,29,2,1467,Attorney General,Ken Paxton,REP,135,291
+,11/8/2022,General Election,116,29,2,1467,Attorney General,Rochelle Mercedes Garza,DEM,59,136
+,11/8/2022,General Election,116,29,2,1467,Attorney General,Mark Ash,LIB,2,12
+,11/8/2022,General Election,116,29,2,1467,Comptroller of Public Accounts,Glenn Hegar,REP,137,294
+,11/8/2022,General Election,116,29,2,1467,Comptroller of Public Accounts,Janet T. Dudding,DEM,54,125
+,11/8/2022,General Election,116,29,2,1467,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,6,18
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,Dawn Buckingham,REP,128,290
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,Jay Kleberg,DEM,63,140
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,3,6
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,Carrie Evelyn Menger,,2,0
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,2,1467,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,2,1467,Commissioner of Agriculture,Sid Miller,REP,134,294
+,11/8/2022,General Election,116,29,2,1467,Commissioner of Agriculture,Susan Hays,DEM,62,142
+,11/8/2022,General Election,116,29,2,1467,Railroad Commissioner,Wayne Christian,REP,133,293
+,11/8/2022,General Election,116,29,2,1467,Railroad Commissioner,Luke Warford,DEM,57,124
+,11/8/2022,General Election,116,29,2,1467,Railroad Commissioner,Jaime Andres Diez,LIB,5,14
+,11/8/2022,General Election,116,29,2,1467,Railroad Commissioner,Hunter Wayne Crow,GRN,2,2
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,139,298
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,55,129
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,3,8
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,140,299
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,57,132
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 9",Evan Young,REP,137,291
+,11/8/2022,General Election,116,29,2,1467,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,59,141
+,11/8/2022,General Election,116,29,2,1467,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,138,294
+,11/8/2022,General Election,116,29,2,1467,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,59,138
+,11/8/2022,General Election,116,29,2,1467,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,139,297
+,11/8/2022,General Election,116,29,2,1467,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,57,137
+,11/8/2022,General Election,116,29,2,1467,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,139,285
+,11/8/2022,General Election,116,29,2,1467,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,57,150
+,11/8/2022,General Election,116,29,2,1467,"State Senator, District No. 19",Robert Garza,REP,137,288
+,11/8/2022,General Election,116,29,2,1467,"State Senator, District No. 19",Roland Gutierrez,DEM,58,148
+,11/8/2022,General Election,116,29,2,1467,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,138,289
+,11/8/2022,General Election,116,29,2,1467,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,58,143
+,11/8/2022,General Election,116,29,2,1467,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,141,293
+,11/8/2022,General Election,116,29,2,1467,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,54,140
+,11/8/2022,General Election,116,29,2,1467,County Judge,Patrick McGrew,REP,81,209
+,11/8/2022,General Election,116,29,2,1467,County Judge,Bill Mitchell,DEM,111,229
+,11/8/2022,General Election,116,29,2,1467,County Clerk,Donna M. Williams,REP,113,264
+,11/8/2022,General Election,116,29,2,1467,County Clerk,Valerie Del Toro Romero,DEM,81,177
+,11/8/2022,General Election,116,29,3,591,"United States Representative, District No. 23",Tony Gonzales,REP,75,267
+,11/8/2022,General Election,116,29,3,591,"United States Representative, District No. 23",John Lira,DEM,6,14
+,11/8/2022,General Election,116,29,3,591,"United States Representative, District No. 23",Frank Lopez Jr.,IND,10,34
+,11/8/2022,General Election,116,29,3,591,Governor,Greg Abbott,REP,82,297
+,11/8/2022,General Election,116,29,3,591,Governor,Beto O'Rourke,DEM,7,19
+,11/8/2022,General Election,116,29,3,591,Governor,Mark Tippetts,LIB,0,6
+,11/8/2022,General Election,116,29,3,591,Governor,Delilah Barrios,GRN,1,0
+,11/8/2022,General Election,116,29,3,591,Governor,Jacqueline Abernathy,,1,0
+,11/8/2022,General Election,116,29,3,591,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,3,591,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,3,591,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,3,591,Lieutenant Governor,Dan Patrick,REP,82,293
+,11/8/2022,General Election,116,29,3,591,Lieutenant Governor,Mike Collier,DEM,7,17
+,11/8/2022,General Election,116,29,3,591,Lieutenant Governor,Shanna Steele,LIB,2,11
+,11/8/2022,General Election,116,29,3,591,Attorney General,Ken Paxton,REP,83,287
+,11/8/2022,General Election,116,29,3,591,Attorney General,Rochelle Mercedes Garza,DEM,7,21
+,11/8/2022,General Election,116,29,3,591,Attorney General,Mark Ash,LIB,1,12
+,11/8/2022,General Election,116,29,3,591,Comptroller of Public Accounts,Glenn Hegar,REP,85,295
+,11/8/2022,General Election,116,29,3,591,Comptroller of Public Accounts,Janet T. Dudding,DEM,4,15
+,11/8/2022,General Election,116,29,3,591,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,2,7
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,Dawn Buckingham,REP,82,294
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,Jay Kleberg,DEM,8,18
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,1,1
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,1
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,3,591,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,3,591,Commissioner of Agriculture,Sid Miller,REP,83,300
+,11/8/2022,General Election,116,29,3,591,Commissioner of Agriculture,Susan Hays,DEM,7,17
+,11/8/2022,General Election,116,29,3,591,Railroad Commissioner,Wayne Christian,REP,81,294
+,11/8/2022,General Election,116,29,3,591,Railroad Commissioner,Luke Warford,DEM,6,13
+,11/8/2022,General Election,116,29,3,591,Railroad Commissioner,Jaime Andres Diez,LIB,3,7
+,11/8/2022,General Election,116,29,3,591,Railroad Commissioner,Hunter Wayne Crow,GRN,1,3
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,83,287
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,7,15
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,1,10
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,85,295
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,6,17
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 9",Evan Young,REP,84,294
+,11/8/2022,General Election,116,29,3,591,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,7,18
+,11/8/2022,General Election,116,29,3,591,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,85,294
+,11/8/2022,General Election,116,29,3,591,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,6,17
+,11/8/2022,General Election,116,29,3,591,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,85,294
+,11/8/2022,General Election,116,29,3,591,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,6,17
+,11/8/2022,General Election,116,29,3,591,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,85,300
+,11/8/2022,General Election,116,29,3,591,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,6,18
+,11/8/2022,General Election,116,29,3,591,"State Senator, District No. 19",Robert Garza,REP,84,296
+,11/8/2022,General Election,116,29,3,591,"State Senator, District No. 19",Roland Gutierrez,DEM,6,19
+,11/8/2022,General Election,116,29,3,591,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,85,297
+,11/8/2022,General Election,116,29,3,591,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,6,16
+,11/8/2022,General Election,116,29,3,591,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,85,294
+,11/8/2022,General Election,116,29,3,591,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,6,16
+,11/8/2022,General Election,116,29,3,591,County Judge,Patrick McGrew,REP,73,203
+,11/8/2022,General Election,116,29,3,591,County Judge,Bill Mitchell,DEM,17,115
+,11/8/2022,General Election,116,29,3,591,County Clerk,Donna M. Williams,REP,76,258
+,11/8/2022,General Election,116,29,3,591,County Clerk,Valerie Del Toro Romero,DEM,11,58
+,11/8/2022,General Election,116,29,4,529,"United States Representative, District No. 23",Tony Gonzales,REP,150,146
+,11/8/2022,General Election,116,29,4,529,"United States Representative, District No. 23",John Lira,DEM,30,9
+,11/8/2022,General Election,116,29,4,529,"United States Representative, District No. 23",Frank Lopez Jr.,IND,11,20
+,11/8/2022,General Election,116,29,4,529,Governor,Greg Abbott,REP,154,167
+,11/8/2022,General Election,116,29,4,529,Governor,Beto O'Rourke,DEM,35,11
+,11/8/2022,General Election,116,29,4,529,Governor,Mark Tippetts,LIB,0,0
+,11/8/2022,General Election,116,29,4,529,Governor,Delilah Barrios,GRN,0,1
+,11/8/2022,General Election,116,29,4,529,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,4,529,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,4,529,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,4,529,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,4,529,Lieutenant Governor,Dan Patrick,REP,154,163
+,11/8/2022,General Election,116,29,4,529,Lieutenant Governor,Mike Collier,DEM,35,10
+,11/8/2022,General Election,116,29,4,529,Lieutenant Governor,Shanna Steele,LIB,1,6
+,11/8/2022,General Election,116,29,4,529,Attorney General,Ken Paxton,REP,152,163
+,11/8/2022,General Election,116,29,4,529,Attorney General,Rochelle Mercedes Garza,DEM,35,10
+,11/8/2022,General Election,116,29,4,529,Attorney General,Mark Ash,LIB,2,4
+,11/8/2022,General Election,116,29,4,529,Comptroller of Public Accounts,Glenn Hegar,REP,155,165
+,11/8/2022,General Election,116,29,4,529,Comptroller of Public Accounts,Janet T. Dudding,DEM,34,8
+,11/8/2022,General Election,116,29,4,529,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,2,6
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,Dawn Buckingham,REP,153,166
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,Jay Kleberg,DEM,35,11
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,2,2
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,4,529,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,4,529,Commissioner of Agriculture,Sid Miller,REP,157,168
+,11/8/2022,General Election,116,29,4,529,Commissioner of Agriculture,Susan Hays,DEM,33,11
+,11/8/2022,General Election,116,29,4,529,Railroad Commissioner,Wayne Christian,REP,156,163
+,11/8/2022,General Election,116,29,4,529,Railroad Commissioner,Luke Warford,DEM,30,9
+,11/8/2022,General Election,116,29,4,529,Railroad Commissioner,Jaime Andres Diez,LIB,3,5
+,11/8/2022,General Election,116,29,4,529,Railroad Commissioner,Hunter Wayne Crow,GRN,2,2
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,153,165
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,37,11
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,1,2
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,158,167
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,33,12
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 9",Evan Young,REP,157,167
+,11/8/2022,General Election,116,29,4,529,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,34,12
+,11/8/2022,General Election,116,29,4,529,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,156,167
+,11/8/2022,General Election,116,29,4,529,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,35,12
+,11/8/2022,General Election,116,29,4,529,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,154,167
+,11/8/2022,General Election,116,29,4,529,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,37,10
+,11/8/2022,General Election,116,29,4,529,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,153,166
+,11/8/2022,General Election,116,29,4,529,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,37,11
+,11/8/2022,General Election,116,29,4,529,"State Senator, District No. 19",Robert Garza,REP,156,167
+,11/8/2022,General Election,116,29,4,529,"State Senator, District No. 19",Roland Gutierrez,DEM,34,11
+,11/8/2022,General Election,116,29,4,529,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,153,168
+,11/8/2022,General Election,116,29,4,529,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,37,10
+,11/8/2022,General Election,116,29,4,529,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,155,165
+,11/8/2022,General Election,116,29,4,529,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,36,14
+,11/8/2022,General Election,116,29,4,529,County Judge,Patrick McGrew,REP,99,117
+,11/8/2022,General Election,116,29,4,529,County Judge,Bill Mitchell,DEM,89,59
+,11/8/2022,General Election,116,29,4,529,County Clerk,Donna M. Williams,REP,134,157
+,11/8/2022,General Election,116,29,4,529,County Clerk,Valerie Del Toro Romero,DEM,54,21
+,11/8/2022,General Election,116,29,4,529,Uvalde County Emergency Services District No. 2 Proposition A,For,,137,112
+,11/8/2022,General Election,116,29,4,529,Uvalde County Emergency Services District No. 2 Proposition A,Against,,48,66
+,11/8/2022,General Election,116,29,5,1812,"United States Representative, District No. 23",Tony Gonzales,REP,508,156
+,11/8/2022,General Election,116,29,5,1812,"United States Representative, District No. 23",John Lira,DEM,155,36
+,11/8/2022,General Election,116,29,5,1812,"United States Representative, District No. 23",Frank Lopez Jr.,IND,51,24
+,11/8/2022,General Election,116,29,5,1812,Governor,Greg Abbott,REP,516,165
+,11/8/2022,General Election,116,29,5,1812,Governor,Beto O'Rourke,DEM,197,51
+,11/8/2022,General Election,116,29,5,1812,Governor,Mark Tippetts,LIB,7,2
+,11/8/2022,General Election,116,29,5,1812,Governor,Delilah Barrios,GRN,2,1
+,11/8/2022,General Election,116,29,5,1812,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,5,1812,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,5,1812,Governor,Rejected write-ins,,1,0
+,11/8/2022,General Election,116,29,5,1812,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,5,1812,Lieutenant Governor,Dan Patrick,REP,501,164
+,11/8/2022,General Election,116,29,5,1812,Lieutenant Governor,Mike Collier,DEM,194,44
+,11/8/2022,General Election,116,29,5,1812,Lieutenant Governor,Shanna Steele,LIB,19,9
+,11/8/2022,General Election,116,29,5,1812,Attorney General,Ken Paxton,REP,501,162
+,11/8/2022,General Election,116,29,5,1812,Attorney General,Rochelle Mercedes Garza,DEM,194,45
+,11/8/2022,General Election,116,29,5,1812,Attorney General,Mark Ash,LIB,17,11
+,11/8/2022,General Election,116,29,5,1812,Comptroller of Public Accounts,Glenn Hegar,REP,509,172
+,11/8/2022,General Election,116,29,5,1812,Comptroller of Public Accounts,Janet T. Dudding,DEM,174,38
+,11/8/2022,General Election,116,29,5,1812,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,26,7
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,Dawn Buckingham,REP,485,165
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,Jay Kleberg,DEM,208,44
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,9,6
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,Carrie Evelyn Menger,,1,0
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,Rejected write-ins,,3,0
+,11/8/2022,General Election,116,29,5,1812,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,5,1812,Commissioner of Agriculture,Sid Miller,REP,501,168
+,11/8/2022,General Election,116,29,5,1812,Commissioner of Agriculture,Susan Hays,DEM,204,47
+,11/8/2022,General Election,116,29,5,1812,Railroad Commissioner,Wayne Christian,REP,510,165
+,11/8/2022,General Election,116,29,5,1812,Railroad Commissioner,Luke Warford,DEM,177,38
+,11/8/2022,General Election,116,29,5,1812,Railroad Commissioner,Jaime Andres Diez,LIB,11,9
+,11/8/2022,General Election,116,29,5,1812,Railroad Commissioner,Hunter Wayne Crow,GRN,8,3
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,506,167
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,186,40
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,10,8
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,512,171
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,189,44
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 9",Evan Young,REP,507,166
+,11/8/2022,General Election,116,29,5,1812,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,192,47
+,11/8/2022,General Election,116,29,5,1812,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,513,170
+,11/8/2022,General Election,116,29,5,1812,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,192,45
+,11/8/2022,General Election,116,29,5,1812,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,520,170
+,11/8/2022,General Election,116,29,5,1812,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,180,43
+,11/8/2022,General Election,116,29,5,1812,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,498,164
+,11/8/2022,General Election,116,29,5,1812,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,201,49
+,11/8/2022,General Election,116,29,5,1812,"State Senator, District No. 19",Robert Garza,REP,500,171
+,11/8/2022,General Election,116,29,5,1812,"State Senator, District No. 19",Roland Gutierrez,DEM,210,47
+,11/8/2022,General Election,116,29,5,1812,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,514,170
+,11/8/2022,General Election,116,29,5,1812,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,186,45
+,11/8/2022,General Election,116,29,5,1812,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,511,167
+,11/8/2022,General Election,116,29,5,1812,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,187,45
+,11/8/2022,General Election,116,29,5,1812,County Judge,Patrick McGrew,REP,270,110
+,11/8/2022,General Election,116,29,5,1812,County Judge,Bill Mitchell,DEM,446,106
+,11/8/2022,General Election,116,29,5,1812,County Clerk,Donna M. Williams,REP,435,149
+,11/8/2022,General Election,116,29,5,1812,County Clerk,Valerie Del Toro Romero,DEM,282,68
+,11/8/2022,General Election,116,29,5,1812,"Justice of the Peace,  Precinct No. 1",Steven T. Kennedy,REP,585,193
+,11/8/2022,General Election,116,29,5,1812,"Justice of the Peace,  Precinct No. 1",Tina Ann Quintanilla Taylor,,40,5
+,11/8/2022,General Election,116,29,5,1812,"Justice of the Peace,  Precinct No. 1",Rejected write-ins,,9,4
+,11/8/2022,General Election,116,29,5,1812,"Justice of the Peace,  Precinct No. 1",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"United States Representative, District No. 23",Tony Gonzales,REP,2,1
+,11/8/2022,General Election,116,29,5 - ISD,5,"United States Representative, District No. 23",John Lira,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"United States Representative, District No. 23",Frank Lopez Jr.,IND,1,1
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Greg Abbott,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Beto O'Rourke,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Mark Tippetts,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Delilah Barrios,GRN,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Lieutenant Governor,Dan Patrick,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Lieutenant Governor,Mike Collier,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Lieutenant Governor,Shanna Steele,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Attorney General,Ken Paxton,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Attorney General,Rochelle Mercedes Garza,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Attorney General,Mark Ash,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Comptroller of Public Accounts,Glenn Hegar,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Comptroller of Public Accounts,Janet T. Dudding,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,Dawn Buckingham,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,Jay Kleberg,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of Agriculture,Sid Miller,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Commissioner of Agriculture,Susan Hays,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Railroad Commissioner,Wayne Christian,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,Railroad Commissioner,Luke Warford,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Railroad Commissioner,Jaime Andres Diez,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,Railroad Commissioner,Hunter Wayne Crow,GRN,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 9",Evan Young,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"State Senator, District No. 19",Robert Garza,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"State Senator, District No. 19",Roland Gutierrez,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,County Judge,Patrick McGrew,REP,1,1
+,11/8/2022,General Election,116,29,5 - ISD,5,County Judge,Bill Mitchell,DEM,2,1
+,11/8/2022,General Election,116,29,5 - ISD,5,County Clerk,Donna M. Williams,REP,3,1
+,11/8/2022,General Election,116,29,5 - ISD,5,County Clerk,Valerie Del Toro Romero,DEM,0,1
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice of the Peace,  Precinct No. 1",Steven T. Kennedy,REP,3,2
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice of the Peace,  Precinct No. 1",Tina Ann Quintanilla Taylor,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice of the Peace,  Precinct No. 1",Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,5 - ISD,5,"Justice of the Peace,  Precinct No. 1",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,6,293,"United States Representative, District No. 23",Tony Gonzales,REP,46,91
+,11/8/2022,General Election,116,29,6,293,"United States Representative, District No. 23",John Lira,DEM,11,11
+,11/8/2022,General Election,116,29,6,293,"United States Representative, District No. 23",Frank Lopez Jr.,IND,10,11
+,11/8/2022,General Election,116,29,6,293,Governor,Greg Abbott,REP,53,97
+,11/8/2022,General Election,116,29,6,293,Governor,Beto O'Rourke,DEM,14,15
+,11/8/2022,General Election,116,29,6,293,Governor,Mark Tippetts,LIB,0,1
+,11/8/2022,General Election,116,29,6,293,Governor,Delilah Barrios,GRN,0,0
+,11/8/2022,General Election,116,29,6,293,Governor,Jacqueline Abernathy,,1,0
+,11/8/2022,General Election,116,29,6,293,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,6,293,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,6,293,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,6,293,Lieutenant Governor,Dan Patrick,REP,53,97
+,11/8/2022,General Election,116,29,6,293,Lieutenant Governor,Mike Collier,DEM,14,14
+,11/8/2022,General Election,116,29,6,293,Lieutenant Governor,Shanna Steele,LIB,0,1
+,11/8/2022,General Election,116,29,6,293,Attorney General,Ken Paxton,REP,51,96
+,11/8/2022,General Election,116,29,6,293,Attorney General,Rochelle Mercedes Garza,DEM,13,13
+,11/8/2022,General Election,116,29,6,293,Attorney General,Mark Ash,LIB,2,3
+,11/8/2022,General Election,116,29,6,293,Comptroller of Public Accounts,Glenn Hegar,REP,52,96
+,11/8/2022,General Election,116,29,6,293,Comptroller of Public Accounts,Janet T. Dudding,DEM,14,14
+,11/8/2022,General Election,116,29,6,293,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,1,1
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,Dawn Buckingham,REP,49,93
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,Jay Kleberg,DEM,15,18
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,1,0
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,Carrie Evelyn Menger,,1,0
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,6,293,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,6,293,Commissioner of Agriculture,Sid Miller,REP,52,98
+,11/8/2022,General Election,116,29,6,293,Commissioner of Agriculture,Susan Hays,DEM,15,13
+,11/8/2022,General Election,116,29,6,293,Railroad Commissioner,Wayne Christian,REP,55,95
+,11/8/2022,General Election,116,29,6,293,Railroad Commissioner,Luke Warford,DEM,12,14
+,11/8/2022,General Election,116,29,6,293,Railroad Commissioner,Jaime Andres Diez,LIB,0,1
+,11/8/2022,General Election,116,29,6,293,Railroad Commissioner,Hunter Wayne Crow,GRN,0,1
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,51,96
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,15,13
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,1,2
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,54,98
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,13,13
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 9",Evan Young,REP,52,96
+,11/8/2022,General Election,116,29,6,293,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,15,14
+,11/8/2022,General Election,116,29,6,293,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,53,98
+,11/8/2022,General Election,116,29,6,293,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,14,11
+,11/8/2022,General Election,116,29,6,293,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,54,98
+,11/8/2022,General Election,116,29,6,293,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,13,11
+,11/8/2022,General Election,116,29,6,293,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,52,98
+,11/8/2022,General Election,116,29,6,293,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,14,13
+,11/8/2022,General Election,116,29,6,293,"State Senator, District No. 19",Robert Garza,REP,54,98
+,11/8/2022,General Election,116,29,6,293,"State Senator, District No. 19",Roland Gutierrez,DEM,13,12
+,11/8/2022,General Election,116,29,6,293,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,52,96
+,11/8/2022,General Election,116,29,6,293,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,15,13
+,11/8/2022,General Election,116,29,6,293,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,54,97
+,11/8/2022,General Election,116,29,6,293,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,13,11
+,11/8/2022,General Election,116,29,6,293,County Judge,Patrick McGrew,REP,42,71
+,11/8/2022,General Election,116,29,6,293,County Judge,Bill Mitchell,DEM,24,39
+,11/8/2022,General Election,116,29,6,293,County Clerk,Donna M. Williams,REP,49,96
+,11/8/2022,General Election,116,29,6,293,County Clerk,Valerie Del Toro Romero,DEM,18,15
+,11/8/2022,General Election,116,29,6,293,"County Commissioner,  Precinct No. 4",Jose F. Suarez,REP,54,94
+,11/8/2022,General Election,116,29,6,293,"County Commissioner,  Precinct No. 4","Ronald ""Ronnie"" Garza",DEM,14,17
+,11/8/2022,General Election,116,29,7,700,"United States Representative, District No. 23",Tony Gonzales,REP,216,82
+,11/8/2022,General Election,116,29,7,700,"United States Representative, District No. 23",John Lira,DEM,39,9
+,11/8/2022,General Election,116,29,7,700,"United States Representative, District No. 23",Frank Lopez Jr.,IND,26,8
+,11/8/2022,General Election,116,29,7,700,Governor,Greg Abbott,REP,234,85
+,11/8/2022,General Election,116,29,7,700,Governor,Beto O'Rourke,DEM,48,12
+,11/8/2022,General Election,116,29,7,700,Governor,Mark Tippetts,LIB,1,2
+,11/8/2022,General Election,116,29,7,700,Governor,Delilah Barrios,GRN,1,0
+,11/8/2022,General Election,116,29,7,700,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,7,700,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,7,700,Governor,Rejected write-ins,,1,0
+,11/8/2022,General Election,116,29,7,700,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,7,700,Lieutenant Governor,Dan Patrick,REP,231,86
+,11/8/2022,General Election,116,29,7,700,Lieutenant Governor,Mike Collier,DEM,49,11
+,11/8/2022,General Election,116,29,7,700,Lieutenant Governor,Shanna Steele,LIB,5,2
+,11/8/2022,General Election,116,29,7,700,Attorney General,Ken Paxton,REP,233,86
+,11/8/2022,General Election,116,29,7,700,Attorney General,Rochelle Mercedes Garza,DEM,46,13
+,11/8/2022,General Election,116,29,7,700,Attorney General,Mark Ash,LIB,6,0
+,11/8/2022,General Election,116,29,7,700,Comptroller of Public Accounts,Glenn Hegar,REP,234,84
+,11/8/2022,General Election,116,29,7,700,Comptroller of Public Accounts,Janet T. Dudding,DEM,44,11
+,11/8/2022,General Election,116,29,7,700,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,4,3
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,Dawn Buckingham,REP,226,84
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,Jay Kleberg,DEM,54,12
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,0,2
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,Carrie Evelyn Menger,,1,0
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,7,700,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,7,700,Commissioner of Agriculture,Sid Miller,REP,232,83
+,11/8/2022,General Election,116,29,7,700,Commissioner of Agriculture,Susan Hays,DEM,51,15
+,11/8/2022,General Election,116,29,7,700,Railroad Commissioner,Wayne Christian,REP,230,84
+,11/8/2022,General Election,116,29,7,700,Railroad Commissioner,Luke Warford,DEM,43,9
+,11/8/2022,General Election,116,29,7,700,Railroad Commissioner,Jaime Andres Diez,LIB,5,3
+,11/8/2022,General Election,116,29,7,700,Railroad Commissioner,Hunter Wayne Crow,GRN,2,1
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,230,86
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,45,12
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,3,0
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,233,86
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,47,13
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 9",Evan Young,REP,232,80
+,11/8/2022,General Election,116,29,7,700,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,46,17
+,11/8/2022,General Election,116,29,7,700,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,237,87
+,11/8/2022,General Election,116,29,7,700,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,43,13
+,11/8/2022,General Election,116,29,7,700,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,234,87
+,11/8/2022,General Election,116,29,7,700,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,44,13
+,11/8/2022,General Election,116,29,7,700,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,236,86
+,11/8/2022,General Election,116,29,7,700,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,46,14
+,11/8/2022,General Election,116,29,7,700,"State Senator, District No. 19",Robert Garza,REP,230,83
+,11/8/2022,General Election,116,29,7,700,"State Senator, District No. 19",Roland Gutierrez,DEM,53,17
+,11/8/2022,General Election,116,29,7,700,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,234,86
+,11/8/2022,General Election,116,29,7,700,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,47,14
+,11/8/2022,General Election,116,29,7,700,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,231,86
+,11/8/2022,General Election,116,29,7,700,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,46,13
+,11/8/2022,General Election,116,29,7,700,County Judge,Patrick McGrew,REP,148,55
+,11/8/2022,General Election,116,29,7,700,County Judge,Bill Mitchell,DEM,139,45
+,11/8/2022,General Election,116,29,7,700,County Clerk,Donna M. Williams,REP,219,76
+,11/8/2022,General Election,116,29,7,700,County Clerk,Valerie Del Toro Romero,DEM,67,24
+,11/8/2022,General Election,116,29,7,700,"County Commissioner,  Precinct No. 4",Jose F. Suarez,REP,210,74
+,11/8/2022,General Election,116,29,7,700,"County Commissioner,  Precinct No. 4","Ronald ""Ronnie"" Garza",DEM,71,25
+,11/8/2022,General Election,116,29,8,1764,"United States Representative, District No. 23",Tony Gonzales,REP,275,110
+,11/8/2022,General Election,116,29,8,1764,"United States Representative, District No. 23",John Lira,DEM,250,81
+,11/8/2022,General Election,116,29,8,1764,"United States Representative, District No. 23",Frank Lopez Jr.,IND,32,22
+,11/8/2022,General Election,116,29,8,1764,Governor,Greg Abbott,REP,248,111
+,11/8/2022,General Election,116,29,8,1764,Governor,Beto O'Rourke,DEM,312,104
+,11/8/2022,General Election,116,29,8,1764,Governor,Mark Tippetts,LIB,4,2
+,11/8/2022,General Election,116,29,8,1764,Governor,Delilah Barrios,GRN,0,3
+,11/8/2022,General Election,116,29,8,1764,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,8,1764,Governor,Mark V. Goloby,,1,0
+,11/8/2022,General Election,116,29,8,1764,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,8,1764,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,8,1764,Lieutenant Governor,Dan Patrick,REP,235,103
+,11/8/2022,General Election,116,29,8,1764,Lieutenant Governor,Mike Collier,DEM,300,99
+,11/8/2022,General Election,116,29,8,1764,Lieutenant Governor,Shanna Steele,LIB,19,9
+,11/8/2022,General Election,116,29,8,1764,Attorney General,Ken Paxton,REP,236,107
+,11/8/2022,General Election,116,29,8,1764,Attorney General,Rochelle Mercedes Garza,DEM,301,96
+,11/8/2022,General Election,116,29,8,1764,Attorney General,Mark Ash,LIB,18,5
+,11/8/2022,General Election,116,29,8,1764,Comptroller of Public Accounts,Glenn Hegar,REP,243,99
+,11/8/2022,General Election,116,29,8,1764,Comptroller of Public Accounts,Janet T. Dudding,DEM,276,87
+,11/8/2022,General Election,116,29,8,1764,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,22,20
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,Dawn Buckingham,REP,225,104
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,Jay Kleberg,DEM,307,91
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,6,8
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,Carrie Evelyn Menger,,2,1
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,8,1764,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,8,1764,Commissioner of Agriculture,Sid Miller,REP,233,107
+,11/8/2022,General Election,116,29,8,1764,Commissioner of Agriculture,Susan Hays,DEM,311,100
+,11/8/2022,General Election,116,29,8,1764,Railroad Commissioner,Wayne Christian,REP,233,97
+,11/8/2022,General Election,116,29,8,1764,Railroad Commissioner,Luke Warford,DEM,276,84
+,11/8/2022,General Election,116,29,8,1764,Railroad Commissioner,Jaime Andres Diez,LIB,31,16
+,11/8/2022,General Election,116,29,8,1764,Railroad Commissioner,Hunter Wayne Crow,GRN,5,8
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,249,99
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,289,94
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,5,10
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,247,103
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,296,101
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 9",Evan Young,REP,238,98
+,11/8/2022,General Election,116,29,8,1764,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,306,108
+,11/8/2022,General Election,116,29,8,1764,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,246,100
+,11/8/2022,General Election,116,29,8,1764,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,300,102
+,11/8/2022,General Election,116,29,8,1764,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,247,98
+,11/8/2022,General Election,116,29,8,1764,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,297,104
+,11/8/2022,General Election,116,29,8,1764,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,236,99
+,11/8/2022,General Election,116,29,8,1764,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,315,105
+,11/8/2022,General Election,116,29,8,1764,"State Senator, District No. 19",Robert Garza,REP,238,103
+,11/8/2022,General Election,116,29,8,1764,"State Senator, District No. 19",Roland Gutierrez,DEM,316,107
+,11/8/2022,General Election,116,29,8,1764,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,237,104
+,11/8/2022,General Election,116,29,8,1764,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,312,99
+,11/8/2022,General Election,116,29,8,1764,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,247,101
+,11/8/2022,General Election,116,29,8,1764,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,300,100
+,11/8/2022,General Election,116,29,8,1764,County Judge,Patrick McGrew,REP,165,82
+,11/8/2022,General Election,116,29,8,1764,County Judge,Bill Mitchell,DEM,397,135
+,11/8/2022,General Election,116,29,8,1764,County Clerk,Donna M. Williams,REP,226,120
+,11/8/2022,General Election,116,29,8,1764,County Clerk,Valerie Del Toro Romero,DEM,344,94
+,11/8/2022,General Election,116,29,8,1764,"County Commissioner,  Precinct No. 4",Jose F. Suarez,REP,202,91
+,11/8/2022,General Election,116,29,8,1764,"County Commissioner,  Precinct No. 4","Ronald ""Ronnie"" Garza",DEM,360,123
+,11/8/2022,General Election,116,29,9,1527,"United States Representative, District No. 23",Tony Gonzales,REP,133,53
+,11/8/2022,General Election,116,29,9,1527,"United States Representative, District No. 23",John Lira,DEM,257,80
+,11/8/2022,General Election,116,29,9,1527,"United States Representative, District No. 23",Frank Lopez Jr.,IND,12,8
+,11/8/2022,General Election,116,29,9,1527,Governor,Greg Abbott,REP,109,46
+,11/8/2022,General Election,116,29,9,1527,Governor,Beto O'Rourke,DEM,292,91
+,11/8/2022,General Election,116,29,9,1527,Governor,Mark Tippetts,LIB,2,1
+,11/8/2022,General Election,116,29,9,1527,Governor,Delilah Barrios,GRN,2,3
+,11/8/2022,General Election,116,29,9,1527,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,9,1527,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,9,1527,Governor,Rejected write-ins,,1,1
+,11/8/2022,General Election,116,29,9,1527,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,9,1527,Lieutenant Governor,Dan Patrick,REP,89,41
+,11/8/2022,General Election,116,29,9,1527,Lieutenant Governor,Mike Collier,DEM,292,90
+,11/8/2022,General Election,116,29,9,1527,Lieutenant Governor,Shanna Steele,LIB,15,6
+,11/8/2022,General Election,116,29,9,1527,Attorney General,Ken Paxton,REP,93,41
+,11/8/2022,General Election,116,29,9,1527,Attorney General,Rochelle Mercedes Garza,DEM,296,92
+,11/8/2022,General Election,116,29,9,1527,Attorney General,Mark Ash,LIB,11,6
+,11/8/2022,General Election,116,29,9,1527,Comptroller of Public Accounts,Glenn Hegar,REP,86,40
+,11/8/2022,General Election,116,29,9,1527,Comptroller of Public Accounts,Janet T. Dudding,DEM,279,86
+,11/8/2022,General Election,116,29,9,1527,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,27,11
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,Dawn Buckingham,REP,84,43
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,Jay Kleberg,DEM,293,91
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,8,5
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,Rejected write-ins,,4,0
+,11/8/2022,General Election,116,29,9,1527,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,9,1527,Commissioner of Agriculture,Sid Miller,REP,92,43
+,11/8/2022,General Election,116,29,9,1527,Commissioner of Agriculture,Susan Hays,DEM,298,96
+,11/8/2022,General Election,116,29,9,1527,Railroad Commissioner,Wayne Christian,REP,83,41
+,11/8/2022,General Election,116,29,9,1527,Railroad Commissioner,Luke Warford,DEM,271,81
+,11/8/2022,General Election,116,29,9,1527,Railroad Commissioner,Jaime Andres Diez,LIB,27,13
+,11/8/2022,General Election,116,29,9,1527,Railroad Commissioner,Hunter Wayne Crow,GRN,4,3
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,93,45
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,290,85
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,9,7
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,95,40
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,291,98
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 9",Evan Young,REP,87,40
+,11/8/2022,General Election,116,29,9,1527,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,304,96
+,11/8/2022,General Election,116,29,9,1527,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,93,44
+,11/8/2022,General Election,116,29,9,1527,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,298,94
+,11/8/2022,General Election,116,29,9,1527,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,97,44
+,11/8/2022,General Election,116,29,9,1527,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,294,92
+,11/8/2022,General Election,116,29,9,1527,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,84,39
+,11/8/2022,General Election,116,29,9,1527,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,308,98
+,11/8/2022,General Election,116,29,9,1527,"State Senator, District No. 19",Robert Garza,REP,92,41
+,11/8/2022,General Election,116,29,9,1527,"State Senator, District No. 19",Roland Gutierrez,DEM,306,101
+,11/8/2022,General Election,116,29,9,1527,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,89,40
+,11/8/2022,General Election,116,29,9,1527,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,300,98
+,11/8/2022,General Election,116,29,9,1527,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,96,43
+,11/8/2022,General Election,116,29,9,1527,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,294,94
+,11/8/2022,General Election,116,29,9,1527,County Judge,Patrick McGrew,REP,89,44
+,11/8/2022,General Election,116,29,9,1527,County Judge,Bill Mitchell,DEM,318,97
+,11/8/2022,General Election,116,29,9,1527,County Clerk,Donna M. Williams,REP,94,44
+,11/8/2022,General Election,116,29,9,1527,County Clerk,Valerie Del Toro Romero,DEM,310,99
+,11/8/2022,General Election,116,29,9,1527,"County Commissioner,  Precinct No. 4",Jose F. Suarez,REP,66,37
+,11/8/2022,General Election,116,29,9,1527,"County Commissioner,  Precinct No. 4","Ronald ""Ronnie"" Garza",DEM,347,106
+,11/8/2022,General Election,116,29,10,1055,"United States Representative, District No. 23",Tony Gonzales,REP,128,45
+,11/8/2022,General Election,116,29,10,1055,"United States Representative, District No. 23",John Lira,DEM,118,60
+,11/8/2022,General Election,116,29,10,1055,"United States Representative, District No. 23",Frank Lopez Jr.,IND,23,6
+,11/8/2022,General Election,116,29,10,1055,Governor,Greg Abbott,REP,117,41
+,11/8/2022,General Election,116,29,10,1055,Governor,Beto O'Rourke,DEM,150,66
+,11/8/2022,General Election,116,29,10,1055,Governor,Mark Tippetts,LIB,1,3
+,11/8/2022,General Election,116,29,10,1055,Governor,Delilah Barrios,GRN,6,2
+,11/8/2022,General Election,116,29,10,1055,Governor,Jacqueline Abernathy,,1,0
+,11/8/2022,General Election,116,29,10,1055,Governor,Mark V. Goloby,,0,1
+,11/8/2022,General Election,116,29,10,1055,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,10,1055,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,10,1055,Lieutenant Governor,Dan Patrick,REP,109,35
+,11/8/2022,General Election,116,29,10,1055,Lieutenant Governor,Mike Collier,DEM,145,73
+,11/8/2022,General Election,116,29,10,1055,Lieutenant Governor,Shanna Steele,LIB,13,5
+,11/8/2022,General Election,116,29,10,1055,Attorney General,Ken Paxton,REP,109,36
+,11/8/2022,General Election,116,29,10,1055,Attorney General,Rochelle Mercedes Garza,DEM,149,74
+,11/8/2022,General Election,116,29,10,1055,Attorney General,Mark Ash,LIB,10,3
+,11/8/2022,General Election,116,29,10,1055,Comptroller of Public Accounts,Glenn Hegar,REP,116,35
+,11/8/2022,General Election,116,29,10,1055,Comptroller of Public Accounts,Janet T. Dudding,DEM,131,68
+,11/8/2022,General Election,116,29,10,1055,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,16,10
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,Dawn Buckingham,REP,104,32
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,Jay Kleberg,DEM,145,72
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,7,5
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,Carrie Evelyn Menger,,2,2
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,Rejected write-ins,,2,0
+,11/8/2022,General Election,116,29,10,1055,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,10,1055,Commissioner of Agriculture,Sid Miller,REP,109,37
+,11/8/2022,General Election,116,29,10,1055,Commissioner of Agriculture,Susan Hays,DEM,152,75
+,11/8/2022,General Election,116,29,10,1055,Railroad Commissioner,Wayne Christian,REP,105,32
+,11/8/2022,General Election,116,29,10,1055,Railroad Commissioner,Luke Warford,DEM,137,68
+,11/8/2022,General Election,116,29,10,1055,Railroad Commissioner,Jaime Andres Diez,LIB,14,11
+,11/8/2022,General Election,116,29,10,1055,Railroad Commissioner,Hunter Wayne Crow,GRN,1,0
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,112,33
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,146,75
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,4,4
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,114,36
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,145,77
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 9",Evan Young,REP,108,30
+,11/8/2022,General Election,116,29,10,1055,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,153,81
+,11/8/2022,General Election,116,29,10,1055,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,111,35
+,11/8/2022,General Election,116,29,10,1055,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,152,78
+,11/8/2022,General Election,116,29,10,1055,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,112,38
+,11/8/2022,General Election,116,29,10,1055,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,150,75
+,11/8/2022,General Election,116,29,10,1055,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,99,34
+,11/8/2022,General Election,116,29,10,1055,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,163,78
+,11/8/2022,General Election,116,29,10,1055,"State Senator, District No. 19",Robert Garza,REP,110,40
+,11/8/2022,General Election,116,29,10,1055,"State Senator, District No. 19",Roland Gutierrez,DEM,161,75
+,11/8/2022,General Election,116,29,10,1055,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,111,40
+,11/8/2022,General Election,116,29,10,1055,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,150,73
+,11/8/2022,General Election,116,29,10,1055,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,107,40
+,11/8/2022,General Election,116,29,10,1055,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,152,73
+,11/8/2022,General Election,116,29,10,1055,County Judge,Patrick McGrew,REP,78,28
+,11/8/2022,General Election,116,29,10,1055,County Judge,Bill Mitchell,DEM,194,86
+,11/8/2022,General Election,116,29,10,1055,County Clerk,Donna M. Williams,REP,102,35
+,11/8/2022,General Election,116,29,10,1055,County Clerk,Valerie Del Toro Romero,DEM,176,78
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Mariano Pargas Jr.,DEM,119,41
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Diana Olvedo-Karau,,10,4
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Javier J. Cazares,,35,37
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Julio Valdez,,64,18
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Rejected write-ins,,12,0
+,11/8/2022,General Election,116,29,10,1055,"County Commissioner,  Precinct No. 2",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,10,1055,"Justice of the Peace, Precinct No. 6",Robert A. Moss,REP,121,40
+,11/8/2022,General Election,116,29,10,1055,"Justice of the Peace, Precinct No. 6",Neto Luna,DEM,150,73
+,11/8/2022,General Election,116,29,11,601,"United States Representative, District No. 23",Tony Gonzales,REP,99,116
+,11/8/2022,General Election,116,29,11,601,"United States Representative, District No. 23",John Lira,DEM,35,13
+,11/8/2022,General Election,116,29,11,601,"United States Representative, District No. 23",Frank Lopez Jr.,IND,10,17
+,11/8/2022,General Election,116,29,11,601,Governor,Greg Abbott,REP,100,126
+,11/8/2022,General Election,116,29,11,601,Governor,Beto O'Rourke,DEM,45,19
+,11/8/2022,General Election,116,29,11,601,Governor,Mark Tippetts,LIB,1,2
+,11/8/2022,General Election,116,29,11,601,Governor,Delilah Barrios,GRN,0,2
+,11/8/2022,General Election,116,29,11,601,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,11,601,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,11,601,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,11,601,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,11,601,Lieutenant Governor,Dan Patrick,REP,98,127
+,11/8/2022,General Election,116,29,11,601,Lieutenant Governor,Mike Collier,DEM,43,17
+,11/8/2022,General Election,116,29,11,601,Lieutenant Governor,Shanna Steele,LIB,4,3
+,11/8/2022,General Election,116,29,11,601,Attorney General,Ken Paxton,REP,99,121
+,11/8/2022,General Election,116,29,11,601,Attorney General,Rochelle Mercedes Garza,DEM,44,20
+,11/8/2022,General Election,116,29,11,601,Attorney General,Mark Ash,LIB,3,4
+,11/8/2022,General Election,116,29,11,601,Comptroller of Public Accounts,Glenn Hegar,REP,102,119
+,11/8/2022,General Election,116,29,11,601,Comptroller of Public Accounts,Janet T. Dudding,DEM,41,20
+,11/8/2022,General Election,116,29,11,601,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,3,1
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,Dawn Buckingham,REP,97,114
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,Jay Kleberg,DEM,47,25
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,1,2
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,Rejected write-ins,,1,0
+,11/8/2022,General Election,116,29,11,601,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,11,601,Commissioner of Agriculture,Sid Miller,REP,98,122
+,11/8/2022,General Election,116,29,11,601,Commissioner of Agriculture,Susan Hays,DEM,47,21
+,11/8/2022,General Election,116,29,11,601,Railroad Commissioner,Wayne Christian,REP,101,119
+,11/8/2022,General Election,116,29,11,601,Railroad Commissioner,Luke Warford,DEM,42,17
+,11/8/2022,General Election,116,29,11,601,Railroad Commissioner,Jaime Andres Diez,LIB,3,4
+,11/8/2022,General Election,116,29,11,601,Railroad Commissioner,Hunter Wayne Crow,GRN,0,1
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,102,118
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,40,22
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,5,1
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,103,120
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,43,20
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 9",Evan Young,REP,102,121
+,11/8/2022,General Election,116,29,11,601,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,43,20
+,11/8/2022,General Election,116,29,11,601,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,102,119
+,11/8/2022,General Election,116,29,11,601,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,44,23
+,11/8/2022,General Election,116,29,11,601,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,103,123
+,11/8/2022,General Election,116,29,11,601,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,43,19
+,11/8/2022,General Election,116,29,11,601,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,102,117
+,11/8/2022,General Election,116,29,11,601,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,44,24
+,11/8/2022,General Election,116,29,11,601,"State Senator, District No. 19",Robert Garza,REP,96,115
+,11/8/2022,General Election,116,29,11,601,"State Senator, District No. 19",Roland Gutierrez,DEM,50,27
+,11/8/2022,General Election,116,29,11,601,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,99,122
+,11/8/2022,General Election,116,29,11,601,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,45,18
+,11/8/2022,General Election,116,29,11,601,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,102,118
+,11/8/2022,General Election,116,29,11,601,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,43,21
+,11/8/2022,General Election,116,29,11,601,County Judge,Patrick McGrew,REP,51,73
+,11/8/2022,General Election,116,29,11,601,County Judge,Bill Mitchell,DEM,95,72
+,11/8/2022,General Election,116,29,11,601,County Clerk,Donna M. Williams,REP,82,99
+,11/8/2022,General Election,116,29,11,601,County Clerk,Valerie Del Toro Romero,DEM,66,48
+,11/8/2022,General Election,116,29,12,2650,"United States Representative, District No. 23",Tony Gonzales,REP,569,216
+,11/8/2022,General Election,116,29,12,2650,"United States Representative, District No. 23",John Lira,DEM,309,96
+,11/8/2022,General Election,116,29,12,2650,"United States Representative, District No. 23",Frank Lopez Jr.,IND,90,33
+,11/8/2022,General Election,116,29,12,2650,Governor,Greg Abbott,REP,571,220
+,11/8/2022,General Election,116,29,12,2650,Governor,Beto O'Rourke,DEM,392,116
+,11/8/2022,General Election,116,29,12,2650,Governor,Mark Tippetts,LIB,5,8
+,11/8/2022,General Election,116,29,12,2650,Governor,Delilah Barrios,GRN,7,3
+,11/8/2022,General Election,116,29,12,2650,Governor,Jacqueline Abernathy,,1,2
+,11/8/2022,General Election,116,29,12,2650,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,12,2650,Governor,Rejected write-ins,,0,1
+,11/8/2022,General Election,116,29,12,2650,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,12,2650,Lieutenant Governor,Dan Patrick,REP,556,222
+,11/8/2022,General Election,116,29,12,2650,Lieutenant Governor,Mike Collier,DEM,382,113
+,11/8/2022,General Election,116,29,12,2650,Lieutenant Governor,Shanna Steele,LIB,26,12
+,11/8/2022,General Election,116,29,12,2650,Attorney General,Ken Paxton,REP,559,213
+,11/8/2022,General Election,116,29,12,2650,Attorney General,Rochelle Mercedes Garza,DEM,382,120
+,11/8/2022,General Election,116,29,12,2650,Attorney General,Mark Ash,LIB,25,13
+,11/8/2022,General Election,116,29,12,2650,Comptroller of Public Accounts,Glenn Hegar,REP,574,215
+,11/8/2022,General Election,116,29,12,2650,Comptroller of Public Accounts,Janet T. Dudding,DEM,338,104
+,11/8/2022,General Election,116,29,12,2650,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,49,22
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,Dawn Buckingham,REP,557,203
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,Jay Kleberg,DEM,381,127
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,21,9
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,Carrie Evelyn Menger,,2,0
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,12,2650,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,12,2650,Commissioner of Agriculture,Sid Miller,REP,567,210
+,11/8/2022,General Election,116,29,12,2650,Commissioner of Agriculture,Susan Hays,DEM,396,133
+,11/8/2022,General Election,116,29,12,2650,Railroad Commissioner,Wayne Christian,REP,564,209
+,11/8/2022,General Election,116,29,12,2650,Railroad Commissioner,Luke Warford,DEM,346,107
+,11/8/2022,General Election,116,29,12,2650,Railroad Commissioner,Jaime Andres Diez,LIB,42,18
+,11/8/2022,General Election,116,29,12,2650,Railroad Commissioner,Hunter Wayne Crow,GRN,9,6
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,572,211
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,374,121
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,18,12
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,579,217
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,386,123
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 9",Evan Young,REP,556,207
+,11/8/2022,General Election,116,29,12,2650,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,408,135
+,11/8/2022,General Election,116,29,12,2650,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,577,219
+,11/8/2022,General Election,116,29,12,2650,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,388,120
+,11/8/2022,General Election,116,29,12,2650,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,584,217
+,11/8/2022,General Election,116,29,12,2650,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,381,122
+,11/8/2022,General Election,116,29,12,2650,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,553,206
+,11/8/2022,General Election,116,29,12,2650,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,411,138
+,11/8/2022,General Election,116,29,12,2650,"State Senator, District No. 19",Robert Garza,REP,547,211
+,11/8/2022,General Election,116,29,12,2650,"State Senator, District No. 19",Roland Gutierrez,DEM,416,134
+,11/8/2022,General Election,116,29,12,2650,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,566,215
+,11/8/2022,General Election,116,29,12,2650,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,392,125
+,11/8/2022,General Election,116,29,12,2650,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,570,223
+,11/8/2022,General Election,116,29,12,2650,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,389,118
+,11/8/2022,General Election,116,29,12,2650,County Judge,Patrick McGrew,REP,356,176
+,11/8/2022,General Election,116,29,12,2650,County Judge,Bill Mitchell,DEM,607,173
+,11/8/2022,General Election,116,29,12,2650,County Clerk,Donna M. Williams,REP,485,193
+,11/8/2022,General Election,116,29,12,2650,County Clerk,Valerie Del Toro Romero,DEM,481,155
+,11/8/2022,General Election,116,29,12,2650,"Justice of the Peace,  Precinct No. 1",Steven T. Kennedy,REP,750,281
+,11/8/2022,General Election,116,29,12,2650,"Justice of the Peace,  Precinct No. 1",Tina Ann Quintanilla Taylor,,71,20
+,11/8/2022,General Election,116,29,12,2650,"Justice of the Peace,  Precinct No. 1",Rejected write-ins,,22,7
+,11/8/2022,General Election,116,29,12,2650,"Justice of the Peace,  Precinct No. 1",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"United States Representative, District No. 23",Tony Gonzales,REP,3,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"United States Representative, District No. 23",John Lira,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"United States Representative, District No. 23",Frank Lopez Jr.,IND,3,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Greg Abbott,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Beto O'Rourke,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Mark Tippetts,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Delilah Barrios,GRN,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Lieutenant Governor,Dan Patrick,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Lieutenant Governor,Mike Collier,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Lieutenant Governor,Shanna Steele,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Attorney General,Ken Paxton,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Attorney General,Rochelle Mercedes Garza,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Attorney General,Mark Ash,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Comptroller of Public Accounts,Glenn Hegar,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Comptroller of Public Accounts,Janet T. Dudding,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,Dawn Buckingham,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,Jay Kleberg,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of Agriculture,Sid Miller,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Commissioner of Agriculture,Susan Hays,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Railroad Commissioner,Wayne Christian,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,Railroad Commissioner,Luke Warford,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Railroad Commissioner,Jaime Andres Diez,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,Railroad Commissioner,Hunter Wayne Crow,GRN,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 9",Evan Young,REP,5,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"State Senator, District No. 19",Robert Garza,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"State Senator, District No. 19",Roland Gutierrez,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,5,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,5,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,2,0
+,11/8/2022,General Election,116,29,12 - ISD,15,County Judge,Patrick McGrew,REP,2,1
+,11/8/2022,General Election,116,29,12 - ISD,15,County Judge,Bill Mitchell,DEM,6,1
+,11/8/2022,General Election,116,29,12 - ISD,15,County Clerk,Donna M. Williams,REP,4,0
+,11/8/2022,General Election,116,29,12 - ISD,15,County Clerk,Valerie Del Toro Romero,DEM,4,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice of the Peace,  Precinct No. 1",Steven T. Kennedy,REP,6,2
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice of the Peace,  Precinct No. 1",Tina Ann Quintanilla Taylor,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice of the Peace,  Precinct No. 1",Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,12 - ISD,15,"Justice of the Peace,  Precinct No. 1",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,13,3206,"United States Representative, District No. 23",Tony Gonzales,REP,372,122
+,11/8/2022,General Election,116,29,13,3206,"United States Representative, District No. 23",John Lira,DEM,409,128
+,11/8/2022,General Election,116,29,13,3206,"United States Representative, District No. 23",Frank Lopez Jr.,IND,57,24
+,11/8/2022,General Election,116,29,13,3206,Governor,Greg Abbott,REP,359,118
+,11/8/2022,General Election,116,29,13,3206,Governor,Beto O'Rourke,DEM,497,160
+,11/8/2022,General Election,116,29,13,3206,Governor,Mark Tippetts,LIB,6,2
+,11/8/2022,General Election,116,29,13,3206,Governor,Delilah Barrios,GRN,2,1
+,11/8/2022,General Election,116,29,13,3206,Governor,Jacqueline Abernathy,,3,0
+,11/8/2022,General Election,116,29,13,3206,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,13,3206,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,13,3206,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,13,3206,Lieutenant Governor,Dan Patrick,REP,333,116
+,11/8/2022,General Election,116,29,13,3206,Lieutenant Governor,Mike Collier,DEM,484,140
+,11/8/2022,General Election,116,29,13,3206,Lieutenant Governor,Shanna Steele,LIB,20,14
+,11/8/2022,General Election,116,29,13,3206,Attorney General,Ken Paxton,REP,329,112
+,11/8/2022,General Election,116,29,13,3206,Attorney General,Rochelle Mercedes Garza,DEM,498,152
+,11/8/2022,General Election,116,29,13,3206,Attorney General,Mark Ash,LIB,12,7
+,11/8/2022,General Election,116,29,13,3206,Comptroller of Public Accounts,Glenn Hegar,REP,319,106
+,11/8/2022,General Election,116,29,13,3206,Comptroller of Public Accounts,Janet T. Dudding,DEM,454,130
+,11/8/2022,General Election,116,29,13,3206,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,54,29
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,Dawn Buckingham,REP,315,109
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,Jay Kleberg,DEM,481,136
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,17,16
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,Carrie Evelyn Menger,,6,1
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,Rejected write-ins,,2,0
+,11/8/2022,General Election,116,29,13,3206,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,13,3206,Commissioner of Agriculture,Sid Miller,REP,330,111
+,11/8/2022,General Election,116,29,13,3206,Commissioner of Agriculture,Susan Hays,DEM,490,157
+,11/8/2022,General Election,116,29,13,3206,Railroad Commissioner,Wayne Christian,REP,318,101
+,11/8/2022,General Election,116,29,13,3206,Railroad Commissioner,Luke Warford,DEM,435,132
+,11/8/2022,General Election,116,29,13,3206,Railroad Commissioner,Jaime Andres Diez,LIB,65,26
+,11/8/2022,General Election,116,29,13,3206,Railroad Commissioner,Hunter Wayne Crow,GRN,4,8
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,331,106
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,473,147
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,17,12
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,335,118
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,485,142
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 9",Evan Young,REP,312,104
+,11/8/2022,General Election,116,29,13,3206,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,515,161
+,11/8/2022,General Election,116,29,13,3206,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,329,112
+,11/8/2022,General Election,116,29,13,3206,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,493,155
+,11/8/2022,General Election,116,29,13,3206,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,328,113
+,11/8/2022,General Election,116,29,13,3206,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,490,149
+,11/8/2022,General Election,116,29,13,3206,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,308,102
+,11/8/2022,General Election,116,29,13,3206,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,521,164
+,11/8/2022,General Election,116,29,13,3206,"State Senator, District No. 19",Robert Garza,REP,318,108
+,11/8/2022,General Election,116,29,13,3206,"State Senator, District No. 19",Roland Gutierrez,DEM,520,166
+,11/8/2022,General Election,116,29,13,3206,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,318,114
+,11/8/2022,General Election,116,29,13,3206,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,500,151
+,11/8/2022,General Election,116,29,13,3206,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,324,111
+,11/8/2022,General Election,116,29,13,3206,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,495,151
+,11/8/2022,General Election,116,29,13,3206,County Judge,Patrick McGrew,REP,262,105
+,11/8/2022,General Election,116,29,13,3206,County Judge,Bill Mitchell,DEM,593,176
+,11/8/2022,General Election,116,29,13,3206,County Clerk,Donna M. Williams,REP,320,120
+,11/8/2022,General Election,116,29,13,3206,County Clerk,Valerie Del Toro Romero,DEM,540,154
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Mariano Pargas Jr.,DEM,328,99
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Diana Olvedo-Karau,,34,9
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Javier J. Cazares,,108,27
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Julio Valdez,,256,104
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Rejected write-ins,,21,3
+,11/8/2022,General Election,116,29,13,3206,"County Commissioner,  Precinct No. 2",Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,13,3206,"Justice of the Peace, Precinct No. 6",Robert A. Moss,REP,338,105
+,11/8/2022,General Election,116,29,13,3206,"Justice of the Peace, Precinct No. 6",Neto Luna,DEM,530,169
+,11/8/2022,General Election,116,29,14,116,"United States Representative, District No. 23",Tony Gonzales,REP,24,38
+,11/8/2022,General Election,116,29,14,116,"United States Representative, District No. 23",John Lira,DEM,5,5
+,11/8/2022,General Election,116,29,14,116,"United States Representative, District No. 23",Frank Lopez Jr.,IND,3,4
+,11/8/2022,General Election,116,29,14,116,Governor,Greg Abbott,REP,27,41
+,11/8/2022,General Election,116,29,14,116,Governor,Beto O'Rourke,DEM,4,5
+,11/8/2022,General Election,116,29,14,116,Governor,Mark Tippetts,LIB,0,1
+,11/8/2022,General Election,116,29,14,116,Governor,Delilah Barrios,GRN,1,0
+,11/8/2022,General Election,116,29,14,116,Governor,Jacqueline Abernathy,,0,0
+,11/8/2022,General Election,116,29,14,116,Governor,Mark V. Goloby,,0,0
+,11/8/2022,General Election,116,29,14,116,Governor,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,14,116,Governor,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,14,116,Lieutenant Governor,Dan Patrick,REP,27,41
+,11/8/2022,General Election,116,29,14,116,Lieutenant Governor,Mike Collier,DEM,5,5
+,11/8/2022,General Election,116,29,14,116,Lieutenant Governor,Shanna Steele,LIB,0,1
+,11/8/2022,General Election,116,29,14,116,Attorney General,Ken Paxton,REP,27,40
+,11/8/2022,General Election,116,29,14,116,Attorney General,Rochelle Mercedes Garza,DEM,5,6
+,11/8/2022,General Election,116,29,14,116,Attorney General,Mark Ash,LIB,0,1
+,11/8/2022,General Election,116,29,14,116,Comptroller of Public Accounts,Glenn Hegar,REP,25,40
+,11/8/2022,General Election,116,29,14,116,Comptroller of Public Accounts,Janet T. Dudding,DEM,5,6
+,11/8/2022,General Election,116,29,14,116,Comptroller of Public Accounts,V. Alonzo Echevarria-Garza,LIB,1,1
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,Dawn Buckingham,REP,26,37
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,Jay Kleberg,DEM,3,9
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,"Alfred Molison, Jr.",GRN,2,1
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,Carrie Evelyn Menger,,0,0
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,Rejected write-ins,,0,0
+,11/8/2022,General Election,116,29,14,116,Commissioner of the General Land Office,Unassigned write-ins,,0,0
+,11/8/2022,General Election,116,29,14,116,Commissioner of Agriculture,Sid Miller,REP,26,40
+,11/8/2022,General Election,116,29,14,116,Commissioner of Agriculture,Susan Hays,DEM,5,6
+,11/8/2022,General Election,116,29,14,116,Railroad Commissioner,Wayne Christian,REP,26,40
+,11/8/2022,General Election,116,29,14,116,Railroad Commissioner,Luke Warford,DEM,3,5
+,11/8/2022,General Election,116,29,14,116,Railroad Commissioner,Jaime Andres Diez,LIB,0,0
+,11/8/2022,General Election,116,29,14,116,Railroad Commissioner,Hunter Wayne Crow,GRN,2,2
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 3",Debra Lehrmann,REP,26,41
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 3",Erin A. Nowell,DEM,5,5
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 3",Thomas Edward Oxford,LIB,0,1
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 5",Rebeca Huddle,REP,26,40
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 5",Amanda Reichek,DEM,5,7
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 9",Evan Young,REP,26,40
+,11/8/2022,General Election,116,29,14,116,"Justice, Supreme Court, Place 9",Julia Maldonado,DEM,5,7
+,11/8/2022,General Election,116,29,14,116,"Judge, Court of Criminal Appeals, Place 5",Scott Walker,REP,25,39
+,11/8/2022,General Election,116,29,14,116,"Judge, Court of Criminal Appeals, Place 5",Dana Huffman,DEM,6,8
+,11/8/2022,General Election,116,29,14,116,"Judge, Court of Criminal Appeals, Place 6",Jesse F. McClure III,REP,26,41
+,11/8/2022,General Election,116,29,14,116,"Judge, Court of Criminal Appeals, Place 6",Robert Johnson,DEM,5,6
+,11/8/2022,General Election,116,29,14,116,"Member, State Board of Education, District No. 1","Michael ""Travis"" Stevens",REP,25,41
+,11/8/2022,General Election,116,29,14,116,"Member, State Board of Education, District No. 1",Melissa N. Ortega,DEM,6,6
+,11/8/2022,General Election,116,29,14,116,"State Senator, District No. 19",Robert Garza,REP,25,41
+,11/8/2022,General Election,116,29,14,116,"State Senator, District No. 19",Roland Gutierrez,DEM,7,6
+,11/8/2022,General Election,116,29,14,116,"Justice, 4th Court of Appeals District, Place No. 6",Todd McCray,REP,26,42
+,11/8/2022,General Election,116,29,14,116,"Justice, 4th Court of Appeals District, Place No. 6",Irene Rios,DEM,5,4
+,11/8/2022,General Election,116,29,14,116,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term",Lori I. Valenzuela,REP,26,40
+,11/8/2022,General Election,116,29,14,116,"Justice, 4th Court of Appeals District, Place No. 7 Unexpired Term","Rebecca ""Beckie"" Palomo",DEM,5,7
+,11/8/2022,General Election,116,29,14,116,County Judge,Patrick McGrew,REP,11,23
+,11/8/2022,General Election,116,29,14,116,County Judge,Bill Mitchell,DEM,21,24
+,11/8/2022,General Election,116,29,14,116,County Clerk,Donna M. Williams,REP,22,35
+,11/8/2022,General Election,116,29,14,116,County Clerk,Valerie Del Toro Romero,DEM,10,12
+,11/8/2022,General Election,116,29,14,116,"County Commissioner,  Precinct No. 4",Jose F. Suarez,REP,24,43
+,11/8/2022,General Election,116,29,14,116,"County Commissioner,  Precinct No. 4","Ronald ""Ronnie"" Garza",DEM,8,4

@@ -1,0 +1,29 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Excel MIME Type Example</title>
+</head>
+<body>
+<!-- Sample Table with Data -->
+<table border="0" cellspacing="1" cellpadding="2" summary="">
+<tr bgcolor="#999999"> 
+<td><b>political_subdivision</b></td>
+<td><b>election_date</b></td>
+<td><b>election_name</b></td>
+<td><b>total_provisional_ballots</b></td>
+<td><b>total_provisional_ballots_counted</b></td>
+<td><b>precinct_number</b></td>
+<td><b>reg_voters</b></td>
+<td><b>race_name</b></td>
+<td><b>candidate_name</b></td>
+<td><b>party_code</b></td>
+<td><b>early_votes</b></td>
+<td><b>election_votes</b></td>
+</tr>
+
+</table>
+</body>
+</html>
+
