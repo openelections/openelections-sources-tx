@@ -1,0 +1,1898 @@
+﻿<?xml version='1.0'?>
+<?mso-application progid='Excel.Sheet'?>
+<s:Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:s="urn:schemas-microsoft-com:office:spreadsheet">
+  <o:DocumentProperties>
+    <o:Title>Election Results</o:Title>
+    <o:Author>SOE Software Inc.</o:Author>
+    <o:Created>2024-06-05T15:36:53</o:Created>
+  </o:DocumentProperties>
+  <x:ExcelWorkbook>
+    <x:WindowHeight>7000</x:WindowHeight>
+    <x:WindowTopX>100</x:WindowTopX>
+    <x:WindowTopY>200</x:WindowTopY>
+    <x:WindowWidth>8000</x:WindowWidth>
+    <x:ActiveSheet>0</x:ActiveSheet>
+    <x:ProtectStructure>False</x:ProtectStructure>
+    <x:ProtectWindows>False</x:ProtectWindows>
+  </x:ExcelWorkbook>
+  <s:Styles>
+    <s:Style s:ID="VoteCount">
+      <s:Alignment s:Horizontal="Right" />
+    </s:Style>
+    <s:Style s:ID="Page">
+      <s:Alignment s:Horizontal="Left" />
+    </s:Style>
+    <s:Style s:ID="headerLbl">
+      <s:Alignment s:Horizontal="Center" />
+      <s:Font s:Color="White" />
+      <s:Interior s:Color="Blue" s:Pattern="Solid" />
+    </s:Style>
+  </s:Styles>
+  <s:Worksheet s:Name="Table of Contents">
+    <s:Table>
+      <s:Row>
+        <s:Cell s:MergeAcross="1">
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row />
+      <s:Row>
+        <s:Cell s:MergeAcross="1">
+          <s:Data s:Type="String">Table of Contents</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Page</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Contest</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:StyleID="Page">
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Registered Voters</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell s:StyleID="Page">
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">State Representative, District 21 (Vote For 1)</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+  <s:Worksheet s:Name="Registered Voters">
+    <s:Table>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Precinct</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Registered Voters</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Election Day</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Absentee</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Early Voting</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Ballots Cast</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Voter Turnout</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1453</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">124</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">11</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">327</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">462</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">31.80%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">505</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">61</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">22</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">85</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16.83%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2628</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">225</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">18</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">235</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">478</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">18.19%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2699</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">113</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">327</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">464</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">17.19%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">29</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1988</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">205</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">97</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">308</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">15.49%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1190</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">144</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">63</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">212</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">17.82%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1385</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">149</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">144</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">296</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">21.37%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">32</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">267</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">12</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">36</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">13.48%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2416</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">76</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">184</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">267</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">11.05%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1056</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">52</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">112</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">169</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16.00%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">36</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1590</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">63</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">175</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">244</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">15.35%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">56</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3214</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">167</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">28</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">582</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">777</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">24.18%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">62</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2556</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">163</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">26</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">580</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">769</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">30.09%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">65</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1787</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">129</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">32</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">532</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">693</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">38.78%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">66</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1500</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">124</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">9</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">134</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">267</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">17.80%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">68</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2303</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">96</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">19</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">330</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">445</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">19.32%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">69</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3284</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">142</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">19</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">368</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">529</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16.11%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">73</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2223</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">113</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">18</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">504</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">635</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">28.57%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2848</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">148</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">17</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">417</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">582</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">20.44%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">80</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">280</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">25</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">33</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">59</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">21.07%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">83</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1248</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">55</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">15</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">189</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">259</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">20.75%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">86</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1329</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">27</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">28</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">160</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">215</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16.18%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">91</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">746</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">82</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">157</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">21.05%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">94</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2037</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">117</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">20</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">553</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">690</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">33.87%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">98</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">807</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">48</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">63</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7.81%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">100</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3087</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">129</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">622</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">775</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">25.11%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">101</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">12.50%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">104</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">82</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">13</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">25</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">30.49%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">105</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0.00%</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Total:</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">46532</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2770</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">357</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">6837</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">9964</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">21.41%</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+  <s:Worksheet s:Name="2">
+    <s:Table>
+      <s:Row>
+        <s:Cell s:MergeAcross="4" s:StyleID="headerLbl">
+          <s:Data s:Type="String">State Representative, District 21 (Vote For 1)</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+        <s:Cell s:MergeAcross="3">
+          <s:Data s:Type="String">Dade Phelan</s:Data>
+        </s:Cell>
+        <s:Cell s:MergeAcross="3">
+          <s:Data s:Type="String">David Covey</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String" />
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Precinct</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Registered Voters</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Election Day</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Absentee</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Early Voting</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Total Votes</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Election Day</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Absentee</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Early Voting</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Total Votes</s:Data>
+        </s:Cell>
+        <s:Cell>
+          <s:Data s:Type="String">Total</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1453</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">102</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">10</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">273</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">385</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">22</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">54</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">77</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">462</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">505</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">23</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">10</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">35</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">38</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">12</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">50</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">85</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2628</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">107</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">150</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">264</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">117</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">85</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">213</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">477</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">26</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2699</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">221</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">314</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">39</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">106</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">149</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">463</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">29</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1988</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">77</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">38</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">117</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">128</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">59</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">191</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">308</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1190</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">63</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">28</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">96</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">81</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">116</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">212</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1385</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">66</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">79</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">148</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">83</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">65</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">148</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">296</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">32</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">267</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">4</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">12</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">36</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2416</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">40</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">76</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">117</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">108</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">149</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">266</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">35</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1056</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">22</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">61</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">88</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">51</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">81</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">169</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">36</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1590</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">31</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">96</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">130</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">32</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">78</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">113</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">243</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">56</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3214</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">85</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">376</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">476</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">82</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">13</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">205</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">300</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">776</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">62</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2556</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">140</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">19</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">461</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">620</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">23</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">119</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">149</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">769</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">65</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1787</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">89</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">30</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">431</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">550</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">40</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">101</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">143</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">693</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">66</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1500</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">62</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">86</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">154</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">62</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">48</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">113</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">267</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">68</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2303</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">69</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">240</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">320</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">27</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">90</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">125</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">445</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">69</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3284</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">12</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">225</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">311</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">68</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">143</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">218</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">529</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">73</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2223</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">12</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">372</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">458</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">39</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">131</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">176</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">634</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">74</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2848</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">83</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">231</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">323</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">65</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">186</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">258</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">581</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">80</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">280</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">33</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">17</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">26</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">59</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">83</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1248</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">33</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">9</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">100</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">142</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">22</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">89</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">117</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">259</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">86</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1329</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">22</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">133</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">171</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">11</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">27</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">44</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">215</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">91</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">746</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">42</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">38</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">81</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">40</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">36</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">76</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">157</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">94</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2037</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">94</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">15</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">468</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">577</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">23</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">85</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">113</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">690</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">98</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">807</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">5</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">28</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">38</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">20</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">25</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">63</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">100</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">3087</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">95</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">16</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">468</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">579</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">34</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">8</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">154</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">196</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">775</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">101</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">24</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">2</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">104</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">82</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">10</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">7</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">15</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">25</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">105</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="Number">0</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">0</s:Data>
+        </s:Cell>
+      </s:Row>
+      <s:Row>
+        <s:Cell>
+          <s:Data s:Type="String">Total:</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">46532</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1599</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">245</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">4719</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">6563</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">1169</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">110</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">2115</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">3394</s:Data>
+        </s:Cell>
+        <s:Cell s:StyleID="VoteCount">
+          <s:Data s:Type="String">9957</s:Data>
+        </s:Cell>
+      </s:Row>
+    </s:Table>
+  </s:Worksheet>
+</s:Workbook>
