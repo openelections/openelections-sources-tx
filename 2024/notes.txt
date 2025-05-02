@@ -1,0 +1,1177 @@
+Notes about election data sources
+
+For most counties, links are more easily accessed in links.xlsx,
+but sometimes there are multiple links for a single election.
+For example, Bailey county provides its precinct-level results in a separate file per precinct.
+
+Anderson
+  election results: https://www.co.anderson.tx.us/page/anderson.elections
+  2024 general: https://www.co.anderson.tx.us/upload/page/12060/docs/2024%20OFF.%20PctxPct.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Andrews
+  election results: https://www.co.andrews.tx.us/193/Election-Results
+  no precinct-level official results found on the website or via google search
+Angelina
+  election results: https://www.angelinacounty.net/previous-elections/
+  2024 general: https://www.angelinacounty.net/files/pdf/elections/pdf/2024/Offical%20Precinct%20Summary%2011052024.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Aransas
+  election results: https://www.aransascountytx.gov/main/elecres.php
+  2024 general: https://actx.app.box.com/v/ArchivedResults/file/1703256789559 [official]
+  2024 primary combined: https://actx.app.box.com/v/ArchivedResults/file/1472401151552 [official]
+  2024 primary DEM: https://actx.app.box.com/v/ArchivedResults/file/1472417183412 [official]
+  2024 primary REP: https://actx.app.box.com/v/ArchivedResults/file/1472412508463 [official]
+Archer
+  election results: https://www.co.archer.tx.us/page/archer.Elections
+  2024 general: https://www.co.archer.tx.us/upload/page/1336/2024/Nov_5/Results/Precinct%20Results-11-14-2024%2004-31-30%20PM.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Armstrong
+  election results: https://www.co.armstrong.tx.us/page/armstrong.Elections
+  2024 general: https://www.co.armstrong.tx.us/upload/page/5375/docs/General%20Election%202024/Armstrong%20Coutny%20Precinct%20by%20Precinct%20General%2005%202024.pdf [official]
+  2024 primary combined: https://www.co.armstrong.tx.us/upload/page/5375/docs/March%205th%202024/Armstrong%20Primary%20Precinct%20Report%20Results%20Official.pdf [official]
+Atascosa
+  election results: https://www.atascosacounty.texas.gov/page/atascosa.elections
+  2024 general: https://www.atascosacounty.texas.gov/upload/page/5328/docs/Elections/2024-11/20241112144100040.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Austin
+  election results: https://www.austincounty.com/page/austin.elections
+  2024 general: https://newtools.cira.state.tx.us/upload/page/12034/Past%20Elections/2024/1152024%20Official%20Pct%20by%20Pct%20Results.pdf [official]
+  2024 primary DEM: https://newtools.cira.state.tx.us/upload/page/12034/Past%20Elections/2024/352024%20Official%20by%20Pct%20Dem.pdf [official]
+  2024 primary REP: https://newtools.cira.state.tx.us/upload/page/12034/Past%20Elections/2024/352024%20Official%20by%20Pct%20Rep.pdf [official]
+Bailey
+  election results: https://www.co.bailey.tx.us/page/bailey.Elections
+  2024 general: no precinct-level official results found on the website or via google search
+  2024 primary DEM:
+    precinct 1: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Democratic%20Precinct%201%20Official%20Results%20352024.pdf [official]
+    precinct 2: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Democratic%20Precinct%202%20Official%20Results%20352024.pdf [official]
+    precinct 3: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Democratic%20Precinct%203%20Official%20Results%20352024.pdf [official]
+    precinct 4: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Democratic%20Precinct%204%20Official%20Results%20352024.pdf [official]
+  2024 primary REP:
+    precinct 1: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Republican%20Precinct%201%20Official%20Results%20352024.pdf [official]
+    precinct 2: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Republican%20Precinct%202%20Official%20Results%20352024.pdf [official]
+    precinct 3: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Republican%20Precinct%203%20Official%20Results%20352024.pdf [official]
+    precinct 4: https://newtools.cira.state.tx.us/upload/page/8143/docs/Election%20Information/March%205%202024/Republican%20Precinct%204%20Official%20Results%20352024.pdf [official]
+Bandera
+  election results: https://www.banderacounty.org/page/elections.past.results
+  2024 general: https://www.banderacounty.org/page/open/1754/0/November%205,%202024%20General%20Election%20Precinct%20Results [official]
+  2024 primary combined: https://www.banderacounty.org/page/open/1754/0/March%205,%202024%20Primary%20Election%20Precinct%20Results [official]
+  2024 primary runoff combined: https://www.banderacounty.org/page/open/1754/0/May%2028,%202024%20Run-off%20Election%20Precinct%20Results [official]
+Baylor
+  election results: https://www.co.baylor.tx.us/page/baylor.Elections
+  no precinct-level official results found on the website or via google search
+Bee
+  election results: https://www.co.bee.tx.us/page/bee.ElectionAdministrator
+  no precinct-level official results found on the website or via google search
+Bell
+  election results: https://results.enr.clarityelections.com/TX/Bell/
+  2024 general: https://results.enr.clarityelections.com//TX/Bell/122428/355990/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Bell/120188/332269/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Bell/121706/340637/reports/detailxls.zip [official]
+Bexar
+  election results: https://www.bexar.org/2186/Historical-Election-Results
+  2024 general: https://www.bexar.org/DocumentCenter/View/44007/November-5-2024-Official-Precinct-Report [official]
+  2024 primary combined: https://www.bexar.org/DocumentCenter/View/40802/March-5-2024-Official-Precinct-By-Precinct-Results-Report-PDF [official]
+  2024 primary runoff DEM: https://www.bexar.org/DocumentCenter/View/42617/May-28-2024-Official-Democrat-Precinct-Report-Results-PDF [official]
+  2024 primary runoff REP: https://www.bexar.org/DocumentCenter/View/42620/May-28-2024-Official-Republican-Precinct-Report-Results-PDF [official]
+Blanco
+  election results: https://www.co.blanco.tx.us/page/blanco.Elections
+  no precinct-level official results found on the website or via google search
+Borden
+  election results: https://www.co.borden.tx.us/page/borden.Elections
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+  2024 primary runoff REP: https://www.co.borden.tx.us/upload/page/9207/Doc0283.pdf [official]
+Bosque
+  election results: https://www.bosquecounty.gov/198/Recent-Elections
+  2024 general:
+    precinct 1 (Iredell): https://www.bosquecounty.gov/DocumentCenter/View/573/Pct-1-Iredell-Official-Results-110524-PDF [official]
+    precinct 2 (Walnut Springs): https://www.bosquecounty.gov/DocumentCenter/View/575/Pct-2-Walnut-Springs-Official-Results-110524-PDF [official]
+    precinct 3 (Meridian): https://www.bosquecounty.gov/DocumentCenter/View/572/Pct-3-Meridian-Official-Results-110524-PDF [official]
+    precinct 4 (Meridian): https://www.bosquecounty.gov/DocumentCenter/View/571/Pct-4-Meridian-Official-Results-110524-PDF [official]
+    precinct 5 (Lakeside): https://www.bosquecounty.gov/DocumentCenter/View/570/Pct5-Lakeside-Official-Results-110524-PDF [official]
+    precinct 6 (Laguna Park): https://www.bosquecounty.gov/DocumentCenter/View/569/Pct6-Laguna-Park-Official-Results-110524-PDF [official]
+    precinct 7 (Cranfills Gap): https://www.bosquecounty.gov/DocumentCenter/View/568/Pct7-Cranfills-Gap-Official-Results-110524-PDF [official]
+    precinct 8 (Clifton): https://www.bosquecounty.gov/DocumentCenter/View/567/Pct8-Clifton-Official-Results-110524-PDF [official]
+    precinct 9 (Clifton): https://www.bosquecounty.gov/DocumentCenter/View/566/Pct9-Clifton-Official-Results-110524-PDF [official]
+    precinct 10 (Valley Mills): https://www.bosquecounty.gov/DocumentCenter/View/565/Pct10-Valley-Mills-Official-Results-110524-PDF [official]
+    precinct 11 (Cayote): https://www.bosquecounty.gov/DocumentCenter/View/564/Pct11-Cayote-Official-Results-110524-PDF [official]
+  2024 primary:
+    precinct 1 (Iredell): https://www.bosquecounty.gov/DocumentCenter/View/745/Official-Results-Pct-1-Iredell-PDF [official]
+    precinct 2 (Walnut Springs): https://www.bosquecounty.gov/DocumentCenter/View/744/Official-Results-Pct-2-Walnut-Springs-PDF [official]
+    precinct 3 (Meridian): https://www.bosquecounty.gov/DocumentCenter/View/742/Official-Results-Pct-3-Meridian-PDF [official]
+    precinct 4 (Meridian): https://www.bosquecounty.gov/DocumentCenter/View/741/Official-Results-Pct-4-Meridian-PDF [official]
+    precinct 5 (Lakeside): https://www.bosquecounty.gov/DocumentCenter/View/740/Official-Results-Pct-5-Lakeside-PDF [official]
+    precinct 6 (Laguna Park): https://www.bosquecounty.gov/DocumentCenter/View/739/Official-Results-Pct-6-Laguna-Park-PDF [official]
+    precinct 7 (Cranfills Gap): https://www.bosquecounty.gov/DocumentCenter/View/738/Official-Results-Pct-7-Cranfills-Gap-PDF [official]
+    precinct 8 (Clifton): https://www.bosquecounty.gov/DocumentCenter/View/737/Official-Results-Pct-8-Clifton-PDF [official]
+    precinct 9 (Clifton): https://www.bosquecounty.gov/DocumentCenter/View/736/Official-Results-Pct-9-Clifton-PDF [official]
+    precinct 10 (Valley Mills): https://www.bosquecounty.gov/DocumentCenter/View/735/Official-Results-Pct-10-Valley-Mills-PDF [official]
+    precinct 11 (Cayote): https://www.bosquecounty.gov/DocumentCenter/View/734/Official-Results-Pct-11-Cayote-PDF [official]
+  2024 primary runoff DEM: https://www.bosquecounty.gov/DocumentCenter/View/627/Official-Pct-Totals-052824-PDF
+Bowie
+  election results: https://www.co.bowie.tx.us/page/bowie.PastElections
+  2024 general: https://www.co.bowie.tx.us/upload/page/11424/2024%20Election/OFFICIAL%20RESULTS%20PCT%20X%20PCT%20110524%20GENERAL.pdf [official]
+  2024 primary combined: https://www.co.bowie.tx.us/upload/page/11424/2024/Official%20Results%20Pct%20X%20Pct.pdf [official]
+  2024 primary runoff REP: https://www.co.bowie.tx.us/upload/page/11424/2024%20Election/5%20Rep%20Pri%20Runoff%2052824%20Final%20Official%20Pct%20x%20Pct%20.pdf
+Brazoria
+  election results: https://www.brazoriacountyclerktx.gov/departments/elections/election-results
+  2024 general:
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/23598/638736792615800000 [official]
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/23594/638736792417130000 [official]
+  2024 primary DEM:
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/19925/638736791617470000 [official]
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/19923/638736791361830000 [official]
+  2024 primary REP:
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/24097/638736788496200000 [official]
+    https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/24099/638736794569770000 [official]
+  2024 primary runoff DEM: https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/21701/638536294547070000[unofficial]
+  2024 primary runoff REP: https://www.brazoriacountyclerktx.gov/home/showpublisheddocument/21705/638736790001100000 [unofficial]
+Brazos
+  election results: https://www.brazosvotes.org/node/179
+  2024 general: no precinct-level official results found on the website or via google search
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Brewster
+  election results: https://www.brewstercounty.gov/page/elections.information
+  2024 general: https://www.brewstercounty.gov/upload/page/0088/Canvassed%2011-5-2024%20General%20Election.pdf [official]
+  2024 primary DEM: https://www.brewstercounty.gov/upload/page/0088/March%205%202024%20Democratic%20Primary%20Precinct%20by%20Precinct%20Report.pdf [official]
+  2024 primary REP: https://www.brewstercounty.gov/upload/page/0088/March%205%202024%20Republican%20Primary%20Precinct%20by%20Precinct%20Report.pdf [official]
+  2024 primary runoff REP: https://www.brewstercounty.gov/upload/page/0088/Official%205-28-2024%20Republican%20Runoff%20Precinct%20Report.pdf [official]
+Briscoe
+  election results: https://www.co.briscoe.tx.us/page/briscoe.Elections
+  2024 primary combined: https://www.co.briscoe.tx.us/upload/page/5196/03.05.2024%20official%20results%20by%20precinct.pdf [official]
+Brooks
+  election results: https://www.co.brooks.tx.us/page/brooks.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.brooks.tx.us/upload/page/5156/November%20General%20Precinct%20by%20Precinct%20Results11052024.pdf [unofficial]
+  2024 primary combined: https://www.co.brooks.tx.us/upload/page/5156/Pct%20By%20Pct%20Report%20March%20Joint%20Primary%2003052024.pdf [unofficial]
+  2024 primary runoff combined: https://www.co.brooks.tx.us/upload/page/5156/Demo%20Primary%20Pct%20by%20Pct%20Results%2005282024.pdf [unofficial]
+Brown
+  election results: https://www.browncountytx.gov/page/brown.elections
+  2024 general: https://www.browncountytx.gov/upload/page/0815/PRECINCT%20BY%20PRECINCT%2011052024%20FINAL.pdf [unofficial]
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.browncountytx.gov/upload/page/0815/All%20Precinct%20by%20Precinct%2003052024.pdf [official]
+Burleson
+  election results: https://www.co.burleson.tx.us/page/gov.election.results
+  2024 general: https://www.co.burleson.tx.us/page/open/2584/0/Official%20Precinct%20Results-11-18-2024%2009-10-56%20AM.pdf [official]
+Burnet
+  election results: https://burnetcountyelections.com/election-results-2/
+  2024 general: https://burnetcountyelections.com/wp-content/uploads/2024/11/burnet-county-official-precinct.pdf [official]
+  2024 primary DEM: https://burnetcountyelections.com/wp-content/uploads/2024/03/DEM-Official-precinct.pdf [official]
+  2024 primary REP: https://burnetcountyelections.com/wp-content/uploads/2024/03/REP-Official-precinct.pdf [official]
+  2024 primary runoff DEM: https://burnetcountyelections.com/wp-content/uploads/2024/06/May-28-2024-Official-DEM-Precinct.pdf [official]
+  2024 primary runoff REP: https://burnetcountyelections.com/wp-content/uploads/2024/06/May-28-2024-Official-REP-Precinct.pdf [official]
+Caldwell
+  election results: https://www.co.caldwell.tx.us/page/Elections.Results%20Page
+  2024 general: https://www.co.caldwell.tx.us/upload/page/0213/docs/2024/FINAL_PCTbyPCT11052024.pdf [official]
+  2024 primary DEM: https://www.co.caldwell.tx.us/upload/page/0213/docs/Primary%2024/Democratic%20PCTPCT%20Report.pdf [official]
+  2024 primary REP: https://www.co.caldwell.tx.us/upload/page/0213/docs/Primary%2024/Republcan%20PCTPCT%20Report.pdf [official]
+Calhoun
+  election results: https://www.calhouncotx.org/calhoun-county-elections/
+  2024 general: https://www.calhouncotx.org/elections/Official%20Results%20Pct%20by%20Pct%20Report%20.pdf [official]
+  2024 primary DEM: https://www.calhouncotx.org/elections/Democratic%20Precinct%20by%20Precinct%20.pdf [official]
+  2024 primary REP: https://www.calhouncotx.org/elections/Republican%20Precinct%20by%20Precinct%20Report.pdf [official]
+  2024 primary runoff REP: https://www.calhouncotx.org/elections/05-28-24%20Runoff%20Precinct%20by%20Precinct%20Report.PDF [official]
+Callahan
+  election results: https://www.callahancounty.org/page/callahan.Election
+  no precinct-level official results found on the website or via google search
+Cameron
+  election results: https://cameroncountytx.gov/elections/results/
+  2024 general: https://www.cameroncountytx.gov/elections/wp-content/uploads/2024/11/GENERAL-ELECTION-PCT-BY-PCT-NOV-5TH-2024.pdf [official]
+  2024 primary DEM: https://www.cameroncountytx.gov/elections/wp-content/uploads/2024/03/Democratic-Precinct-by-Precinct-Primary-Report-2024-1.pdf [official]
+  2024 primary REP: https://www.cameroncountytx.gov/elections/wp-content/uploads/2024/03/Republican-Precinct-by-Precinct-Primary-Report-2024.pdf [official]
+  2024 primary runoff DEM: https://www.cameroncountytx.gov/elections/wp-content/uploads/2024/06/PRIMARY-RUNOFF-DEMOCRAT-PCT-BY-PCT-MAY-28TH-2024.pdf [official]
+  2024 primary runoff REP: https://www.cameroncountytx.gov/elections/wp-content/uploads/2024/06/PRIMARY-RUNOFF-REPUBLICAN-PCT-BY-PCT-MAY-28TH-2024.pdf [official]
+Camp
+  election results: https://www.co.camp.tx.us/page/camp.Elections
+  no precinct-level official results found on the website or via google search
+Carson
+  election results: https://www.co.carson.tx.us/page/carson.Elections
+  2024 general:
+    precinct 101: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/101grandtotals110524.pdf [official]
+    precinct 102: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/102grandtotals110524.pdf [official]
+    precinct 103: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/103grandtotals110524.pdf [official]
+    precinct 201: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/201grandtotals110524.pdf [official]
+    precinct 301: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/301grandtotals110524.pdf [official]
+    precinct 302: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/302grandtotals110524.pdf [official]
+    precinct 401: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/401grandtotals110524.pdf [official]
+    precinct 402: https://www.co.carson.tx.us/upload/page/1423/2024/november%205,%202024/402grandtotals110524.pdf [official]
+  primary 2024:
+    no precinct-level official results found on the website or via google search
+Cass
+  election results: https://www.co.cass.tx.us/page/cass.Elections
+  2024 general: https://www.co.cass.tx.us/upload/page/1176/2024/november_2025_general_election_precinct_by_precinct_results.pdf [official]
+  2024 primary combined: https://newtools.cira.state.tx.us/upload/page/1176/2024/precinct_results3112024_033811_pm_miltaty_added.pdf [official]
+  2024 primary runoff REP: https://www.co.cass.tx.us/upload/page/1176/2024/precinct_results632024_012443_pm.pdf [official]
+Castro
+  election results: https://www.co.castro.tx.us/page/castro.ElectionsAdministrator
+  no precinct-level official results found on the website or via google search
+Chambers
+  election results: https://www.chamberscountytx.gov/DocumentCenter/Index/507
+  2024 general: https://www.chamberscountytx.gov/DocumentCenter/View/4994/2024-11-05-Official-Precinct-Results-PDF [official]
+  2024 primary DEM: https://www.chamberscountytx.gov/DocumentCenter/View/4169/2024-03-05-Precinct-Results-Democratic---Official-PDF [official]
+  2024 primary REP: https://www.chamberscountytx.gov/DocumentCenter/View/4166/2024-03-05-Precinct-Results-Republican---Official-PDF [official]
+Cherokee
+  election results: https://www.co.cherokee.tx.us/ips/cms/othercountyoffices/previousElectionResults.html
+  2024 general: https://www.co.cherokee.tx.us/ips/cms/othercountyoffices/2024-11/11-05-24%20official%20pct%20x%20pct.pdf [official]
+  2024 primary combined: https://www.co.cherokee.tx.us/ips/cms/othercountyoffices/2024-03/Official%20Precinct%20Results%2003-05-24.pdf [official]
+Childress
+  election results: https://www.childresstx.us/pages/election-results
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.cherokee.tx.us/ips/cms/othercountyoffices/2024-11/11-05-24%20official%20pct%20x%20pct.pdf [unofficial]
+Clay
+  election results: https://www.claycountytx.net/electionsadmin
+  no precinct-level official results found on the website or via google search
+Cochran
+  election results: https://www.co.cochran.tx.us/page/cochran.Elections
+  no precinct-level official results found on the website or via google search
+Coke
+  election results: https://www.co.coke.tx.us/page/coke.Elections
+  no precinct-level official results found on the website or via google search
+Coleman
+  election results: https://www.co.coleman.tx.us/page/coleman.Elections
+  2024 general: https://www.co.coleman.tx.us/upload/page/6075/docs/ELECTIONS/2024%20GENERAL%20ELECTION/OFFICIAL%20RESULTS%20BY%20PRECINCT%20GEN%20ELEC%2011.05.24.pdf [official]
+  2024 primary DEM: https://www.co.coleman.tx.us/upload/page/6075/docs/ELECTIONS/2024%20PRIMARY%20NOTICES/DEMOCRAT%20PRECINCT%20RESULTS%20030524.pdf [official]
+Collin
+  election results: https://www.collincountytx.gov/Elections/election-results-archive
+  2024 general: https://www.collincountytx.gov/Elections/ResultsArchive/November%205,%202024%20-%20Combined%20Accumulated%20Totals%20-%20Official%20Final.CSV [official]
+  2024 primary combined: https://www.collincountytx.gov/Elections/ResultsArchive/March%205,%202024%20Primary%20Election%20Statement%20of%20Votes%20Cast--Official%20Final.pdf [official]
+  2024 primary runoff REP: https://www.collincountytx.gov/Elections/ResultsArchive/May%2028,%202024%20Republican%20Primary%20Runoff%20Election%20-%20Combined%20Accumulated%20Totals%20-%20Official%20Final.csv [official]
+Collingsworth
+  election results: https://www.co.collingsworth.tx.us/page/collingsworth.Elections
+  no precinct-level official results found on the website or via google search
+Colorado
+  election results: https://www.co.colorado.tx.us/page/colorado.Elections
+  2024 general: https://www.co.colorado.tx.us/upload/page/6210/11-05-24/Official%20Results.pdf [official]
+  2024 primary combined: https://www.co.colorado.tx.us/upload/page/6210/11-05-24/Official%20Results.pdf [official]
+  2024 primary runoff combined: https://www.co.colorado.tx.us/upload/page/6210/05-28-24/Official%20Results.pdf [official]
+Comal
+  election results: https://www.co.comal.tx.us/elections.htm
+  2024 general: https://results.enr.clarityelections.com//TX/Comal/122856/355369/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Comal/120379/333419/reports/detailxls.zip [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Comal/121794/341671/reports/detailxls.zip [official]
+Comanche
+  election results: https://newtools.cira.state.tx.us/page/comanche.Archived.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://newtools.cira.state.tx.us/upload/page/9544/11-5-24/Precinct%20Results-11-6-2024%2004-01-08%20PM.pdf [unofficial]
+  2024 primary combined: https://newtools.cira.state.tx.us/upload/page/9544/3-5-24/Precinct%20Results-3-7-2024%2012-37-49%20PM.pdf [unofficial]
+  2024 primary runoff combined: https://newtools.cira.state.tx.us/upload/page/9544/5-28-24/Precinct%20Results-5-29-2024%2002-42-14%20PM.pdf [unofficial]
+Concho
+  election results: https://www.co.concho.tx.us/page/concho.Elections
+  no precinct-level official results found on the website or via google search
+Cooke
+  election results: https://www.co.cooke.tx.us/page/cooke.elections
+  2024 general: https://newtools.cira.state.tx.us/upload/page/3107/docs/2024/November5/CookeCountyFinalOfficialPctbyPctResultsGeneral_November_5_2024.pdf [official]
+  2024 primary combined: https://www.co.cooke.tx.us/upload/page/3107/docs/2024/March5/March52024JointPrimaryPctbyPctResultsOfficial.pdf [official]
+  2024 primary runoff combined: https://www.co.cooke.tx.us/upload/page/3107/docs/2024/May28/2024PrimaryRunoffPct.byPct.Results.pdf [official]
+Coryell
+  election results: https://coryellcountytax.com/elections/results-previous-elections/
+  2024 general: https://coryellcountytax.com/wp-content/uploads/2024/11/official-pct-results-11-05-2024.pdf [official]
+  2024 primary DEM: https://coryellcountytax.com/wp-content/uploads/2024/03/Democratic-Party-precinct-report-official-03-05-2024.pdf [official]
+  2024 primary REP: https://coryellcountytax.com/wp-content/uploads/2024/03/Republican-Party-precinct-report-official-03-05-2024.pdf [official]
+  2024 primary runoff DEM: https://coryellcountytax.com/wp-content/uploads/2024/06/final-Precinct-Results-6-3-2024-12-59-37-PM.pdf [official]
+Cottle
+  election results: https://www.co.cottle.tx.us/page/cottle.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.cottle.tx.us/upload/page/0611/2024/Precinct%20results.pdf [unofficial]
+Crane
+  election results: https://www.co.crane.tx.us/page/crane.Election.Results
+  no precinct-level official results found on the website or via google search
+Crockett
+  election results: https://www.co.crockett.tx.us/page/crockett.Elections
+  no precinct-level official results found on the website or via google search
+Crosby
+  election results: https://www.co.crosby.tx.us/page/crosby.Elections
+  no precinct-level official results found on the website or via google search
+Culberson
+  election results: https://www.co.culberson.tx.us/page/culberson.Elections
+  no precinct-level official results found on the website or via google search
+Dallam
+  election results: https://www.dallam.org/vote/
+  no precinct-level official results found on the website or via google search
+Dallas
+  election results: https://www.dallascountyvotes.org/election-results/historical/
+  no precinct-level official results found on the website or via google search
+  2024 general: https://results.enr.clarityelections.com//TX/Dallas/122494/355193/reports/detailxls.zip [unofficial]
+  2024 primary DEM: https://results.enr.clarityelections.com//TX/Dallas/120550/332339/reports/detailxls.zip [unofficial]
+  2024 primary REP: https://results.enr.clarityelections.com//TX/Dallas/120549/332338/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Dallas/121712/340672/reports/detailxls.zip [unofficial]
+Dawson
+  election results: https://www.co.dawson.tx.us/page/dawson.Election.Information
+  no precinct-level official results found on the website or via google search
+Deaf Smith
+  election results: https://www.co.deaf-smith.tx.us/page/deafsmith.County.Clerk
+  no precinct-level official results found on the website or via google search
+Delta
+  election results: https://www.deltacountytx.com/elections/page/election-results
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+  2024 primary runoff REP: https://www.deltacountytx.com/media/3051 [official]
+Denton
+  election results: https://www.votedenton.gov/election-results-and-maps/election-results/#PastElections
+  2024 general: https://results.enr.clarityelections.com//TX/Denton/122426/355989/reports/detailxls.zip [official]
+  2024 primary DEM: https://results.enr.clarityelections.com//TX/Denton/120183/334619/reports/detailxls.zip [official]
+  2024 primary REP: https://results.enr.clarityelections.com//TX/Denton/120184/334618/reports/detailxls.zip [official]
+  2024 primary runoff DEM: https://results.enr.clarityelections.com//TX/Denton/121671/340633/reports/detailxls.zip [unofficial]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Denton/121672/340634/reports/detailxls.zip [unofficial]
+DeWitt
+  election results: https://www.co.dewitt.tx.us/page/dewitt.Elections
+  2024 general: https://www.co.dewitt.tx.us/upload/page/1634/November%205,%202024%20General%20Election/November%205%202024%20General%20Election%20Precinct%20Report.pdf [official]
+  2024 primary DEM: https://www.co.dewitt.tx.us/upload/page/1634/March%205%202024%20Primary/Precinct%20Result%20Report%20Democratic%203.5.24.pdf [official]
+  2024 primary REP: https://www.co.dewitt.tx.us/upload/page/1634/March%205%202024%20Primary/Precinct%20Result%20Report%20Republican%203.5.24.pdf [official]
+  2024 primary runoff REP: https://www.co.dewitt.tx.us/upload/page/1634/May%2028%202024%20Primary%20Run%20off/May%2028%202024%20Republican%20Primary%20Runoff%20Precinct%20Report.pdf [official]
+Dickens
+  election results: https://www.co.dickens.tx.us/page/dickens.Elections
+  no precinct-level official results found on the website or via google search
+Dimmit
+  election results: https://www.dimmitcounty.org/government/departments/elections/index.php
+  no precinct-level official results found on the website or via google search
+Donley
+  election results: https://www.co.donley.tx.us/page/donley.Elections
+  no precinct-level official results found on the website or via google search
+Duval
+  election results: https://www.co.duval.tx.us/page/duval.ElectionArchives
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.duval.tx.us/upload/page/11353/Precinct%20Results-11-6-2024%2008-30-08%20AM.pdf [unofficial]
+  2024 primary combined: https://www.co.duval.tx.us/upload/page/11353/20240305_Precinct%20Results.pdf [unofficial]
+  2024 primary runoff combined: https://www.co.duval.tx.us/upload/page/11353/20240528_ElectionResults.pdf [unofficial]
+Eastland
+  election results: https://www.eastlandcountytexas.com/page/eastland.Joint.Elections.Administrator
+  no precinct-level official results found on the website or via google search
+Ector
+  election results: https://www.co.ector.tx.us/page/ector.elections
+  2024 general: https://www.co.ector.tx.us/upload/page/7873/docs/Elections/November%205,%202024%20Election/Precinct%20Results-11-13-2024%2001-08-05%20PM.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Edwards
+  election results: https://www.co.edwards.tx.us/page/edwards.electionsnew
+  no precinct-level official results found on the website or via google search
+Ellis
+  election results: https://www.co.ellis.tx.us/403/Prior-Election-Results
+  2024 general: https://www.co.ellis.tx.us/DocumentCenter/View/19538/241105-General-Precinct-by-Race-Report-Whole-Precincts [official]
+  2024 primary DEM: https://www.co.ellis.tx.us/DocumentCenter/View/18461/DEM-Pct-by-Race-Results-Election-Night[official]
+  2024 primary REP: https://www.co.ellis.tx.us/DocumentCenter/View/18460/REP-Pct-by-Race-Results-Election-Night [official]
+  2024 primary runoff REP: https://www.co.ellis.tx.us/DocumentCenter/View/18989/240528-Pct-by-Race-Totals [official]
+El Paso
+  election results: https://epcountyvotes.com/election-archives
+  2024 general: https://results.enr.clarityelections.com//TX/Denton/120184/334618/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/El_Paso/120338/334441/reports/detailxls.zip [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/El_Paso/121722/344586/reports/detailxls.zip [official]
+Erath
+  election results: https://www.co.erath.tx.us/184/Elections-Administration
+  no precinct-level official results found on the website or via google search
+Falls
+  election results: https://www.co.falls.tx.us/page/falls.Elections
+  no precinct-level official results found on the website or via google search
+Fannin
+  election results: https://www.co.fannin.tx.us/page/fannin.Elections
+  no precinct-level official results found on the website or via google search
+Fayette
+  election results: https://newtools.cira.state.tx.us/page/fayette.Elections.PastResults
+  2024 general: https://newtools.cira.state.tx.us/upload/page/1737/2024%20Elections/pctxpct_report_11052024.pdf [official]
+  2024 primary combined: https://newtools.cira.state.tx.us/upload/page/1737/2024/official_precinct_report_march_5_2024_election_results.pdf [official]
+Fisher
+  election results: https://www.fishercounty.org/page/fisher.ElectionPage
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary
+    Box 1 results: https://www.fishercounty.org/upload/page/7798/docs/CountyClerk/Elections/2024/BOX%201%20Official%20Results.pdf [official]
+    Box 4 results: https://www.fishercounty.org/upload/page/7798/docs/CountyClerk/Elections/2024/BOX%204%20Official%20Results.pdf [official]
+    Box 10 results: https://www.fishercounty.org/upload/page/7798/docs/CountyClerk/Elections/2024/BOX%2010%20Official%20Results.pdf [official]
+    Box 12 results: https://www.fishercounty.org/upload/page/7798/docs/CountyClerk/Elections/2024/BOX%2012%20Official%20Results.pdf [official]
+Floyd
+  election results: https://www.co.floyd.tx.us/page/floyd.Elections
+  no precinct-level official results found on the website or via google search
+Foard
+  election results: https://www.foardcounty.texas.gov/page/foard.County.Clerk
+  no precinct-level official results found on the website or via google search
+Fort Bend
+  election results: https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/2024-election-results
+  2024 general: https://www.fortbendcountytx.gov/sites/default/files/document-central/document-central/elections-documents/elections-results/2024/FBC-Precinct-Reports3.pdf [official]
+  2024 primary combined: https://www.fortbendcountytx.gov/sites/default/files/document-central/document-central/elections-documents/elections-results/2024/March-5%2C-2024-Precinct-results.pdf [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Fort_Bend/121705/340722/reports/detailxls.zip [official]
+Franklin
+  election results: https://www.co.franklin.tx.us/page/franklin.elections
+  2024 general: https://www.co.franklin.tx.us/upload/page/1844/2024%20Elections/nov_2024__official_results.pdf [official]
+  2024 primary DEM: https://www.co.franklin.tx.us/upload/page/1844/2024/03052024__democrat_official__precinct_by_precinct.pdf [official]
+  2024 primary REP: https://www.co.franklin.tx.us/upload/page/1844/2024/03052024__republican_official__precinct_by_precinct.pdf [official]
+Freestone
+  election results: https://www.co.freestone.tx.us/page/freestone.Elections
+  2024 general:
+    Part 1: https://www.co.freestone.tx.us/upload/page/1902/2024/official_pct_by_pct_part_1_.pdf [official]
+    Part 2: https://www.co.freestone.tx.us/upload/page/1902/2024/official_pct_by_pct_results.pdf [official]
+    already combined in the repo
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Frio
+  election results: https://www.co.frio.tx.us/page/elect.home
+  no precinct-level official results found on the website or via google search
+Gaines
+  election results: https://www.co.gaines.tx.us/page/gaines.Elections.Archive
+Galveston
+  election results: https://galvestonvotes.org/election-information/historical-elections/
+  no precinct-level official results found on the website or via google search
+  2024 general: https://results.enr.clarityelections.com//TX/Galveston/122842/356002/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Galveston/120369/334584/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Galveston/121793/341338/reports/detailxls.zip [unofficial]
+Garza
+  election results: https://www.garzacounty.net/page/elections
+  no precinct-level official results found on the website or via google search
+Gillespie
+  election results: https://www.gillespiecounty.org/page/election_results
+  2024 general: https://www.gillespiecounty.org/upload/page/0170/docs/elections/2024-11-15%20%20OFFICIAL%20Precinct%20Results%20Report.pdf [official]
+  2024 primary DEM: https://www.gillespiecounty.org/upload/page/0170/docs/elections/GILLESPIE%20COUNTY%20March%205%202024%20DEMOCRAT%20PRIMARY.pdf [official]
+  2024 primary REP: https://www.gillespiecounty.org/upload/page/0170/docs/elections/TOTAL-Canvass%20of%20March%205%202024%20Gillespie%20County%20Republican%20Primary.pdf [official]
+  2024 primary runoff REP: https://www.gillespiecounty.org/upload/page/0170/docs/elections/Canvass_Official%20Results%20of%20May%2028%202024%20Gillespie%20County%20Republican%20Primary%20Runoff.pdf [official]
+Glasscock
+  election results: https://www.co.glasscock.tx.us/page/glasscock.Elections
+  2024 general: https://newtools.cira.state.tx.us/upload/page/0767/2024/TALLY%20TOTALS%20for%2011-5-24%20General%20Election%201124%2024.xlsx [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Goliad
+  election results: https://www.co.goliad.tx.us/page/goliad.Elections
+  no precinct-level official results found on the website or via google search
+Gonzales
+  election results: https://www.co.gonzales.tx.us/page/gonzales.Elections.Admin
+  2024 general: https://www.co.gonzales.tx.us/upload/page/10685/110524%20General%20Election/Pct%20by%20Pct%20Official%20Results%20110524.pdf [official]
+  2024 primary DEM: https://www.co.gonzales.tx.us/upload/page/10685/030524%20Primary/Democratic%20Official%20Pct%20by%20Pct%20030524.pdf [official]
+  2024 primary REP: https://www.co.gonzales.tx.us/upload/page/10685/030524%20Primary/Republican%20Official%20Pct%20by%20Pct%20030524.pdf [official]
+  2024 primary runoff REP: https://www.co.gonzales.tx.us/upload/page/10685/052824%20Primary%20Runoff/Pct%20by%20Pct%20Results%20052824.pdf [official]
+Gray
+  election results: https://www.co.gray.tx.us/page/gray.Elections
+  2024 general:
+    Precinct 1: https://www.co.gray.tx.us/upload/page/2023/Precinct%201.pdf [official]
+    Precinct 2: https://www.co.gray.tx.us/upload/page/2023/Precinct%202.pdf [official]
+    Precinct 3: https://www.co.gray.tx.us/upload/page/2023/Precinct%203.pdf [official]
+    Precinct 4: https://www.co.gray.tx.us/upload/page/2023/Precinct%204.pdf [official]
+    Precinct 5: https://www.co.gray.tx.us/upload/page/2023/Precinct%205.pdf [official]
+    Precinct 6: https://www.co.gray.tx.us/upload/page/2023/Precinct%206.pdf [official]
+    Precinct 7: https://www.co.gray.tx.us/upload/page/2023/Precinct%207.pdf [official]
+  2024 primary:
+    Precinct 1: https://newtools.cira.state.tx.us/upload/page/2023/PCT%201%20RESULTS.pdf [unofficial]
+    Precinct 2: https://newtools.cira.state.tx.us/upload/page/2023/PCT%202.pdf [unofficial]
+    Precinct 3: https://newtools.cira.state.tx.us/upload/page/2023/PCT%203.pdf [unofficial]
+    Precinct 4: https://newtools.cira.state.tx.us/upload/page/2023/PCT%204.pdf [unofficial]
+    Precinct 5: https://newtools.cira.state.tx.us/upload/page/2023/PCT%205.pdf [unofficial]
+    Precinct 6: https://newtools.cira.state.tx.us/upload/page/2023/PCT%206.pdf [unofficial]
+    Precinct 7: https://newtools.cira.state.tx.us/upload/page/2023/PCT%207.pdf [unofficial]
+Grayson
+  election results: https://www.co.grayson.tx.us/page/elec.history
+  2024 general: https://www.co.grayson.tx.us/page/open/3389/0/Official%20Pct.%20by%20Pct.%20Summary%20Results%20General%2011.5.24%20Election [official]
+  2024 primary combined: https://www.co.grayson.tx.us/page/open/3389/0/March%205%202024%20Precinct%20Results%20Report [unofficial]
+  2024 primary runoff combined: https://www.co.grayson.tx.us/page/open/3389/0/May%2028th%20RunOff%20Official%20Precinct%20By%20Precinct%20Report [official]
+Gregg
+  election results: https://www.greggcountyvotes.com/
+  2024 general: https://results.enr.clarityelections.com//TX/Gregg/122313/355603/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Gregg/120010/333176/reports/detailxls.zip [official]
+Grimes
+  election results: https://grimescountytexas.gov/index.asp?SEC={916A9ACA-66FE-481D-BE2B-84C6C590431D}
+  2024 general: https://grimescountytexas.gov/vertical/sites/%7B958238D0-27E6-4F6C-919E-F1D98542C5FD%7D/uploads/11.05.2024_OFFICIAL_Canvass_Results(1).pdf [official]
+  2024 primary combined: https://grimescountytexas.gov/vertical/sites/%7B958238D0-27E6-4F6C-919E-F1D98542C5FD%7D/uploads/OFFICIAL_CANVASS_RESULTS(1).pdf [official]
+  2024 primary runoff combined: https://grimescountytexas.gov/vertical/sites/%7B958238D0-27E6-4F6C-919E-F1D98542C5FD%7D/uploads/5.28.2024_PRIMARY_RUNOFF_OFFICIAL_CANVASS_RESULTS(1).pdf [official]
+Guadalupe
+  election results: https://www.guadalupetx.gov/page/elections.history
+  2024 general: https://www.guadalupetx.gov/upload/page/0210/docs/2024/11-5-24-GC_General-PrctbyPrct.pdf [official]
+  2024 primary DEM: https://www.guadalupetx.gov/upload/page/0210/Dem_Primary_Official_Results_PrctbyPrct.pdf [official]
+  2024 primary REP: https://www.guadalupetx.gov/upload/page/0210/Rep_Primary_Official_Results_PrctbyPrct.pdf [official]
+Hale
+  election results: https://www.halecounty.org/county_offices/election_information.php
+  2024 general: https://cms2.revize.com/revize/halecountynew/Precinct%20Results-11-13-2024%2001-27-08%20PM.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Hall
+  election results: https://www.co.hall.tx.us/page/hall.County.Elections
+  no precinct-level official results found on the website or via google search
+Hamilton
+  election results: https://www.co.hamilton.tx.us/page/hamilton.elections
+  2024 general: https://www.hamiltoncountytx.gov/upload/page/8825/Official%20Results%20Nov%205%20General%20Pct%20x%20Pct.pdf [official]
+  2024 primary combined: https://www.hamiltoncountytx.gov/upload/page/8825/2024%20Primary%20Elections/Unofficial%20Results%20for%20PCT.%20by%20PCT.pdf [unofficial]
+  2024 primary runoff DEM: https://www.hamiltoncountytx.gov/upload/page/8825/Democratic%20Primary%20Runoff%20Pct.%20x%20Pct.%20Official%20Results.pdf [official]
+Hansford
+  election results: https://www.co.hansford.tx.us/page/hansford.Elections
+  no precinct-level official results found on the website or via google search
+Hardeman
+  election results: https://www.co.hardeman.tx.us/page/hardeman.Elections
+  no precinct-level official results found on the website or via google search
+Hardin
+  election results: https://www.co.hardin.tx.us/page/ElectionsDepartment
+  no precinct-level official results found on the website or via google search
+Harris
+  election results: https://www.harrisvotes.com/Election-Results/Archives
+  2024 general: https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/docs/Reports/FINAL%20Official%20Canvass%20Results-11-14-2024%2003-12-57%20PM.pdf [official]
+  2024 primary DEM: https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/docs/Official%20Dem%20Canvass%20Results-3-13-2024%2011-57-16%20AM.pdf [official]
+  2024 primary REP: https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/docs/Official%20Rep%20Canvass%20Results-3-13-2024%2011-50-05%20AM.pdf [official]
+  2024 primary runoff DEM: https://files.harrisvotes.com/harrisvotes/prd/docs/Reports/Official%20DEM%20Canvass%20Results-6-5-2024%2011-13-02%20AM.pdf [official]
+  2024 primary runoff REP: https://files.harrisvotes.com/harrisvotes/prd/docs/Reports/Official%20REP%20Canvass%20Results-6-5-2024%2011-12-28%20AM.pdf [official]
+Harrison
+  election results: https://www.harrisoncountytexas.gov/page/harrison.Elections
+  2024 general: https://www.harrisoncountytexas.gov/upload/page/12077/NOV%205,%202024/Precinct%20Results-11-18-2024%2001-03-20%20PM.pdf [official]
+  2024 primary combined: https://www.harrisoncountytexas.gov/upload/page/12077/MARCH%20PRIMARY%202024/PrecinctResultsReport.pdf [official]
+Hartley
+  election results: https://www.co.hartley.tx.us/page/hartley.Voter.Information
+  no precinct-level official results found on the website or via google search
+Haskell
+  election results: https://www.haskellcountytx.gov/page/haskell.County.Clerk
+  no precinct-level official results found on the website or via google search
+Hays
+  election results: https://www.hayscountytx.gov/election-results
+  2024 general: Download relies on JavaScript rather than direct link [official]
+  2024 primary combined: Download relies on JavaScript rather than direct link [official]
+  2024 primary runoff combined: Download relies on JavaScript rather than direct link [official]
+Hemphill
+  election results: https://www.co.hemphill.tx.us/page/hemphill.ElectionInformation
+  2024 general: https://www.co.hemphill.tx.us/upload/page/7666/nov%202024%20general%20election%20by%20precinct%20report.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Henderson
+  election results: https://www.henderson-county.com/departments/elections-voter-registration/election-results
+  2024 general: https://www.henderson-county.com/home/showpublisheddocument/23397/638676954817730000 [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Hidalgo
+  election results: https://www.hidalgocounty.us/539/Archived-Election-Results
+  2024 general: https://results.enr.clarityelections.com//TX/Hidalgo/122498/355530/reports/detailxls.zip [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Hidalgo/121012/341500/reports/detailxls.zip [official]
+Hill
+  election results: https://www.co.hill.tx.us/page/hill.Elections
+  no precinct-level official results found on the website or via google search
+Hockley
+  election results: https://www.co.hockley.tx.us/page/hockley.electionshome
+  no precinct-level official results found on the website or via google search
+Hood
+  election results: https://hoodcounty.texas.gov/departments/elections_administration/index.php
+  no precinct-level official results found on the website or via google search
+  2024 general: https://results.enr.clarityelections.com//TX/Hood/122858/355543/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Hood/120386/332333/reports/detailxls.zip [unofficial]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Hood/121707/340726/reports/detailxls.zip [unofficial]
+Hopkins
+  election results: https://www.hopkinscountytx.org/page/hopkins.Elections
+  no precinct-level official results found on the website or via google search
+Houston
+  election results: https://www.co.houston.tx.us/page/houston.Elections
+  2024 general: https://www.co.houston.tx.us/upload/page/2956/2024%20Nov/Pct%20X%20Pct%20Official%20Results%20-%2011-5-24.pdf [official]
+  2024 primary combined: https://www.co.houston.tx.us/upload/page/2956/2024%20Primary/Official%20PCT%20x%20PCT.pdf [official]
+Howard
+  election results: https://www.co.howard.tx.us/page/howard.Election.Information
+  no precinct-level official results found on the website or via google search
+Hudspeth
+  election results: https://www.co.hudspeth.tx.us/page/hudspeth.Elections
+  no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.co.hudspeth.tx.us/upload/page/10211/2024/precinct_results362024_121555_pm.pdf [unofficial]
+Hunt
+  election results: https://www.huntcounty.net/page/hunt.election
+  2024 general: https://results.enr.clarityelections.com/TX/Hunt/122429/web.345435/#/summary [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Hunt/120185/331652/reports/detailxls.zip [official]
+Hutchinson
+  election results: https://www.co.hutchinson.tx.us/page/hutchinson.ElectionInformation
+  2024 general: https://newtools.cira.state.tx.us/upload/page/10714/docs/2024/2024%20General%20Precinct%20by%20Precinct%20Official%20Results.pdf [official]
+  2024 primary DEM: https://newtools.cira.state.tx.us/upload/page/10714/docs/2024/Democratic%20Official%20Results.pdf [official]
+  2024 primary REP: https://newtools.cira.state.tx.us/upload/page/10714/docs/2024/Republican%20Official%20Results.pdf [official]
+Irion
+  election results: https://www.co.irion.tx.us/page/irion.cityschoolelection#
+  no precinct-level official results found on the website or via google search
+Jack
+  election results: https://www.jackcounty.org/pages/elections.html
+  no precinct-level official results found on the website or via google search
+Jackson
+  election results: https://www.co.jackson.tx.us/page/jackson.VotingElectionInformation
+  no precinct-level official results found on the website or via google search
+Jasper
+  election results: https://www.co.jasper.tx.us/page/jasper.Elections
+  2024 general: https://www.co.jasper.tx.us/upload/page/1130/11-5-24%20Official%20Pct%20by%20Pct%20Results.pdf [official]
+  2024 primary combined: https://www.co.jasper.tx.us/upload/page/1130/2024%20Elections/Official%20Result%20Summary%20030524.pdf [official]
+  2024 primary runoff combined: https://www.co.jasper.tx.us/upload/page/1130/2024%20Elections/Official%20Pct%20by%20Pct%2052824%20Results.pdf [official]
+Jeff Davis
+  election results: https://www.jeffdaviscounty.texas.gov/page/jeffdavis.Elections
+  2024 general: https://www.jeffdaviscounty.texas.gov/upload/page/6574/2024/general_election__by_precinct__official.pdf [official]
+  2024 primary combined: https://www.jeffdaviscounty.texas.gov/upload/page/6574/2024/summarybyprecinct_ev_abs_ed_1.pdf [unofficial]
+  2024 primary runoff REP: https://www.jeffdaviscounty.texas.gov/upload/page/6574/2024/unofficial_results_by_precinct__early_absentee__election_day.pdf [unofficial]
+Jefferson
+  election results: https://www.jeffersonelections.com/voter-information/previous-election-results/#PastElections
+  2024 general: https://results.enr.clarityelections.com//TX/Jefferson/122828/355360/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Jefferson/120285/333410/reports/detailxls.zip [official]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Jefferson/121079/341343/reports/detailxls.zip [official]
+Jim Hogg
+  election results: https://www.co.jim-hogg.tx.us/page/jim-hogg.Elections
+  2024 general: https://www.co.jim-hogg.tx.us/upload/page/9530/2024/11-5-24%20Official%20Precinct%20Results.pdf [official]
+  2024 primary combined: https://www.co.jim-hogg.tx.us/upload/page/9530/2024/Official%20Precinct%20Results-3-5-2024.pdf [official]
+Jim Wells
+  election results: https://jimwellscountyelections.gov/all-official-notices/
+  2024 general: https://jimwellscountyelections.gov/wp-content/uploads/2024/11/FINAL-OFFICIAL-RESULTS-2024-GENERAL-ELECTION-CUMULATIVE-AND-PCT-BY-PCT.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Johnson
+  election results: https://www.johnsoncountytx.org/departments/elections-office/election-results/elections-archive
+  2024 general: https://www.johnsoncountytx.org/home/showpublisheddocument/17697/638717692756030000 [official]
+  2024 primary DEM: https://www.johnsoncountytx.org/home/showpublisheddocument/16543/638461081406670000 [official]
+  2024 primary REP: https://www.johnsoncountytx.org/home/showpublisheddocument/16545/638461081415400000 [official]
+  2024 primary runoff REP: https://www.johnsoncountytx.org/home/showpublisheddocument/16839/638536157872270000 [official]
+Jones
+  election results: https://www.co.jones.tx.us/page/jones.Elections
+  2024 general: https://www.co.jones.tx.us/upload/page/1293/2024/Results%20-%20Precinct%20by%20Precinct%20-%20November%205_%202024%20General%20Election.pdf [official]
+  2024 primary combined: https://www.co.jones.tx.us/upload/page/1293/2024/Results%20-%20Precinct%20by%20Precinct%20-%20March%205_%202024%20Primary%20Election.pdf [official]
+  2024 primary runoff combined: https://www.co.jones.tx.us/upload/page/1293/2024/Results%20-%20Precint%20by%20Precint%20-%20March%2028_%202024.pdf [official]
+Karnes
+  election results: https://www.co.karnes.tx.us/page/karnes.Elections
+  no precinct-level official results found on the website or via google search
+Kaufman
+  election results: https://www.kaufmancounty.net/436/ELECTION-RESULTS
+  2024 general: https://results.enr.clarityelections.com//TX/Kaufman/122824/355375/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Kaufman/120253/332318/reports/detailxls.zip [official]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Kaufman/121710/340489/reports/detailxls.zip [official]
+Kendall
+  election results: https://www.kendallcountytx.gov/220/Election-Results-Past-Present
+  2024 general: https://results.enr.clarityelections.com//TX/Kendall/122829/351989/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Kendall/120248/334534/reports/detailxls.zip [official]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Kendall/121795/342412/reports/detailxls.zip [official]
+Kenedy
+  election results: https://kenedycountyelections.com/results/
+  2024 general: https://kenedycountyelections.com/wp-content/uploads/simple-file-list/Pct_-by-Pct_-Report-11-5-24.pdf [official]
+  2024 primary:
+    Part 1: https://kenedycountyelections.com/wp-content/uploads/simple-file-list/3_5_24-Results-Report-by-Pct_-Part-1-of-2.pdf [official]
+    Part 2: https://kenedycountyelections.com/wp-content/uploads/simple-file-list/3_5_24-Results-Report-by-Pct_-Part-2-of-2.pdf [official]
+Kent
+  election results: https://www.co.kent.tx.us/page/kent.Elections
+  no precinct-level official results found on the website or via google search
+Kerr
+  election results: https://www.kerrcountytx.gov/voting-in-kerr-county/kerr-county-elections#gsc.tab=0
+  2024 general: https://legacy.co.kerr.tx.us/elections/docs/2024-11-05/Official_General_Election_November_5_2024_%20Precinct_Results.pdf [official]
+  2024 primary DEM: https://legacy.co.kerr.tx.us/elections/results/2024-03-05/Democratic_March_5_2024-Official_Precinct_Results.pdf [official]
+  2024 primary REP: https://legacy.co.kerr.tx.us/elections/results/2024-03-05/Republican_March_5_2024-Official_Precinct_Results.pdf [official]
+  2024 primary runoff REP: https://legacy.co.kerr.tx.us/elections/results/2024-05-28/Official%20Republican%20Primary%20Runoff%20May%2028,2024%20Precinct%20by%20Precinct%20%20Results-6-4-2024%2011-08-13%20AM.pdf [official]
+Kimble
+  election results: https://www.co.kimble.tx.us/page/kimble.Elections
+  no precinct-level official results found on the website or via google search
+King
+  election results: https://www.co.king.tx.us/page/king.County.Clerk#
+  no precinct-level official results found on the website or via google search
+Kinney
+  election results: https://www.co.kinney.tx.us/page/kinney.Elections
+  no precinct-level official results found on the website or via google search
+Kleberg
+  election results: https://www.co.kleberg.tx.us/page/kleberg.elections
+  no precinct-level official results found on the website or via google search
+Knox
+  election results: https://www.knoxcountytexas.org/page/knox.elections
+  no precinct-level official results found on the website or via google search
+Lamar
+  election results: https://www.co.lamar.tx.us/page/lamar.elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://results.enr.clarityelections.com//TX/Lamar/122497/351606/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Lamar/119865/334231/reports/detailxls.zip [unofficial]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Lamar/121669/340131/reports/detailxls.zip [unofficial]
+Lamb
+  election results: https://www.co.lamb.tx.us/page/lamb.ElectionsHome
+  no precinct-level official results found on the website or via google search
+Lampasas
+  election results: https://www.co.lampasas.tx.us/page/lampasas.testpage2
+  no precinct-level official results found on the website or via google search
+La Salle
+  election results: https://www.co.la-salle.tx.us/index.php/offices/election-board
+  2024 general: https://www.co.la-salle.tx.us/images/pdfs/2024_Elections/Nov2024/OFFICIAL_CANVASS_GENERAL_ELECTION.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Lavaca
+  election results: https://www.co.lavaca.tx.us/page/Elections
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.co.lavaca.tx.us/upload/page/0122/2024%20update%20PRECINCT%20REPORT%20UNOFFICAL.pdf [unofficial]
+  2024 primary runoff REP: https://www.co.lavaca.tx.us/upload/page/0122/052824PRECINCT%20SUMMARY%20REPORT.pdf [unofficial]
+Lee
+  election results: https://www.co.lee.tx.us/page/lee.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.lee.tx.us/upload/page/11450/updated%20pct%20by%20pct%20110524.pdf [unofficial]
+  2024 primary runoff combined: https://www.co.lee.tx.us/upload/page/11450/pct%20by%20pct%205-28-24.pdf [unofficial]
+Leon
+  election results: https://www.co.leon.tx.us/page/leon.elections
+  2024 general: https://www.co.leon.tx.us/upload/page/4964/docs/110524%20GENERAL/110524%20GENERAL%20OFFICIAL%20PCT%20BY%20PCT.pdf [official]
+  2024 primary combined: https://www.co.leon.tx.us/upload/page/4964/030524%20OFFICIAL%20PCT%20BY%20PCT%20TO%20WEB.pdf [official]
+  2024 primary runoff REP: https://www.co.leon.tx.us/upload/page/4964/052824%20OFFICIAL%20PCT%20BY%20PCT.pdf [official]
+Liberty
+  election results: https://www.co.liberty.tx.us/page/liberty.elections.past.historical
+  2024 general: https://www.co.liberty.tx.us/upload/page/11966/Precinct%20Results-11-14-2024%2008-18-41%20AM.pdf [official]
+  2024 primary combined: https://www.co.liberty.tx.us/upload/page/11197/Final%20Precinct%20Results-3-8-2024%2002-28-35%20PM.pdf [official]
+Limestone
+  election results: https://www.co.limestone.tx.us/page/limestone.elections
+  2024 general: https://newtools.cira.state.tx.us/upload/page/5631/241105%20Precinct.pdf [official]
+  2024 primary combined: https://newtools.cira.state.tx.us/upload/page/5631/240305%20Final%20Unofficial%20box%20x%20box.pdf [official]
+  2024 primary runoff combined: https://newtools.cira.state.tx.us/upload/page/5631/240528%20Precinct%20Results.pdf [official]
+Lipscomb
+  election results: https://www.co.lipscomb.tx.us/page/lipscomb.ElectionInformation
+  no precinct-level official results found on the website or via google search
+Live Oak
+  election results: https://www.co.live-oak.tx.us/page/liveoak.Elections
+  2024 general:
+    Precinct 1 (Argenta): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/Unofficail%20EV%20ARGENTA%20Results.pdf [unofficial]
+    Precinct 2 (Lagarto): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/LAGARTO.pdf [unofficial]
+    Precinct 3 (E George West): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/E%20George%20West.pdf [unofficial]
+    Precinct 4 (W George West): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/W%20GEORGE%20WEST.pdf [unofficial]
+    Precinct 5 (Oakville): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/OAKVILLE.pdf [unofficial]
+    Precinct 6 (Ray Point): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/RAY%20POINT.pdf [unofficial]
+    Precinct 7 (Nell): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/NELL.pdf [unofficial]
+    Precinct 8 (Whitsett): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/WHITSETT.pdf [unofficial]
+    Precinct 9 (E Three Rivers): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/E%20THREE%20RIVERS.pdf [unofficial]
+    Precinct 10 (W Three Rivers): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/W%20THREE%20RIVERS.pdf [unofficial]
+    Precinct 11 (Simmons): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/SIMMONS.pdf [unofficial]
+    Precinct 12 (Anna Rose): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/Unofficial%20pct%2012%20Anna%20Rose%20Results.pdf [unofficial]
+    Precinct 13 (Swinney Switch): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/SWINNEY%20SWITCH.pdf [unofficial]
+    Precinct 14 (SW George West): https://www.co.live-oak.tx.us/upload/page/1218/2024/Entered%20By%20Bec/Unofficial%20EV%20SW%20GEO%20WEST%20Results.pdf [unofficial]
+  2024 primary combined: https://www.co.live-oak.tx.us/upload/page/11665/Becca%20add/Official%20Precinct%20Resultsv%20D%20%20%20R%203%2015%202024.pdf [official]
+Llano
+  election results: https://www.co.llano.tx.us/page/llano.Archived.Elections
+  2024 general: https://newtools.cira.state.tx.us/upload/page/0979/2024/November%202024/Official%20Election%20Results%20Precinct-11-15-2024%2008-15-19%20AM.pdf [official]
+  2024 primary DEM: https://newtools.cira.state.tx.us/upload/page/0979/2024/Primary/Democratic%20Precinct%20Results-3-12-2024%2009-48-54%20AM.pdf [official]
+  2024 primary REP: https://newtools.cira.state.tx.us/upload/page/0979/2024/Primary/Republican%20Precinct%20Results-3-12-2024%2009-51-18%20AM.pdf [official]
+Loving
+  election results: https://lovingcountyanddistrictclerk.com/elections
+  no precinct-level official results found on the website or via google search
+Lubbock
+  election results: https://www.votelubbock.org/election-information/historical-election-results/
+  2024 general: https://www.votelubbock.org/wp-content/uploads/Verity-Count-Precinct-Results-All-Entities-1.pdf [official]
+  2024 primary DEM: https://results.enr.clarityelections.com//TX/Lubbock/120383/333400/reports/detailxls.zip [official]
+  2024 primary REP: https://results.enr.clarityelections.com//TX/Lubbock/120382/333397/reports/detailxls.zip [official]
+Lynn
+  election results: https://www.co.lynn.tx.us/page/lynn.Elections
+  no precinct-level official results found on the website or via google search
+McCulloch
+  election results: https://www.co.mcculloch.tx.us/page/mcculloch.ElectionInfo
+  no precinct-level official results found on the website or via google search
+McLennan
+  election results: https://www.mclennan.gov/406/Past-Elections-Results
+  2024 general: https://tx-mclennancounty.civicplus.com/DocumentCenter/View/16714/Precinct-Results-11-13-2024-04-07-51-PM [official]
+  2024 primary DEM: https://tx-mclennancounty.civicplus.com/DocumentCenter/View/15811/Democratic-Primary-Election-Canvass [unofficial]
+  2024 primary REP: https://tx-mclennancounty.civicplus.com/DocumentCenter/View/15814/Republican-Primary-Election-Canvass [unofficial]
+McMullen
+  election results: https://mcmullencounty.org/elections/
+  no precinct-level official results found on the website or via google search
+Madison
+  election results: https://www.co.madison.tx.us/page/madison.elections
+  2024 general: https://www.co.madison.tx.us/upload/page/0407/nov%205%202024%20precinct%20by%20precinct.pdf [official]
+  2024 primary combined: https://www.co.madison.tx.us/upload/page/0407/March%205%202024%20Pct%20by%20Pct%20report.pdf [official]
+Marion
+  election results: https://marioncountytaxoffice.com/elections/
+  no precinct-level official results found on the website or via google search
+Martin
+  election results: http://www.co.martin.tx.us/158/Elections-Administration-Office/
+  2024 general: http://www.co.martin.tx.us/DocumentCenter/View/1450/Precinct-to-Precinct-Report [unofficial]
+  2024 primary combined: http://www.co.martin.tx.us/DocumentCenter/View/1324/OFFICIAL-ALL-Precinct-Results-3-14-2024-10-43-34-PM [official]
+Mason
+  election results: https://www.co.mason.tx.us/page/mason.Elections
+  no precinct-level official results found on the website or via google search
+Matagorda
+  election results: https://www.co.matagorda.tx.us/page/matagorda.elections
+  2024 general: https://www.co.matagorda.tx.us/upload/page/5686/Precinct%20Results-11-15-2024%2004-33-31%20PM.pdf [official]
+  2024 primary combined: https://www.co.matagorda.tx.us/upload/page/5686/Precinct%20Results-3-5-2024%2009-12-25%20PM.pdf [unofficial]
+Maverick
+  election results: https://co.maverick.tx.us/
+  no precinct-level official results found on the website or via google search
+Medina
+  election results: https://www.medinacountytexas.org/page/medina.elections
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.medinacountytexas.org/upload/page/6805/2024%20March%20Primary%20Election/Results/Official%20Precinct%20Results-3-12-2024%2001-22-17%20PM.pdf [official]
+Menard
+  election results: https://www.co.menard.tx.us/page/menard.Elections
+  no precinct-level official results found on the website or via google search
+Midland
+  election results: https://www.co.midland.tx.us/328/Elections-Office
+  2024 general: https://www.co.midland.tx.us/DocumentCenter/View/8563/Official-Final-Pct-x-Pct-Report [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Midland/120180/345906/reports/detailxls.zip [official]
+Milam
+  election results: https://www.milamcounty.net/page/milam.elections
+  2024 general: https://www.milamcounty.net/upload/page/8929/11.05.2024%20GENERAL.pdf [official]
+  2024 primary combined: https://www.milamcounty.net/upload/page/8929/2024%20PRIMARY.pdf [official]
+Mills
+  election results: https://www.millscountytx.gov/page/mills.Elections
+  2024 general: https://www.millscountytx.gov/upload/page/5755/Nov%20Canvas%20Report.pdf [official]
+  2024 primary DEM: https://newtools.cira.state.tx.us/upload/page/5755/24%20Democratic%20Offical%20Canvass%20Results.pdf [official]
+  2024 primary REP: https://newtools.cira.state.tx.us/upload/page/5755/24%20Republican%20Offical%20Canvass%20Results.pdf [official]
+Mitchell
+  election results: https://www.co.mitchell.tx.us/page/mitchell.Elections
+  2024 general: https://www.co.mitchell.tx.us/upload/page/9645/docs/20241105/11.5.2024%20precinct%20official%20results.pdf [official]
+  2024 primary combined: https://www.co.mitchell.tx.us/upload/page/9645/docs/20240305/03.05.2024%20Joint%20Primary%20Pct%20by%20Pct.pdf [official]
+Montague
+  election results: https://www.co.montague.tx.us/page/montague.electionresults
+  2024 general: https://results.enr.clarityelections.com//TX/Montague/122664/351720/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Montague/119864/331281/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Montague/121714/340012/reports/detailxls.zip [unofficial]
+Montgomery
+  election results: https://elections.mctx.org/ElectionResults.asp
+  2024 general: https://elections.mctx.org/results/2024_November_Precinct_Report.pdf [official]
+  2024 primary DEM: https://elections.mctx.org/results/2024_March_Democratic_Precinct_Report.pdf [official]
+  2024 primary REP: https://elections.mctx.org/results/2024_March_Republican_Precinct_Report.pdf [official]
+Moore
+  election results: https://www.co.moore.tx.us/page/moore.Elections
+  2024 general: https://www.co.moore.tx.us/upload/page/4507/2024%20Cont/official_results_by_precinct_november_5_2024.pdf [official]
+  2024 primary combined: https://www.co.moore.tx.us/upload/page/4507/2024/official_totals_precinct_joint_primary_3524.pdf [official]
+Morris
+  election results: https://www.co.morris.tx.us/page/morris.COUNTY%20Election%20Information
+  no precinct-level official results found on the website or via google search
+Motley
+  election results: https://www.co.motley.tx.us/page/motley.Elections
+  2024 general: https://www.co.motley.tx.us/upload/page/9607/Precinct%20Results-11-14-2024.pdf [official]
+  2024 primary REP: https://www.co.motley.tx.us/upload/page/9607/Republican%20Official%20Canvass.pdf [official]
+Nacogdoches
+  election results: https://www.co.nacogdoches.tx.us/ElectionInformation/ElectionResultsArchive.asp
+  2024 general: https://www.co.nacogdoches.tx.us/ElectionInformation/ElectionsResultsArchive/2024-11-05%20-%20Nacogdoches%20County%20-%20General%20Election%20-%20Precinct%20Results.pdf?v20241115132128 [official]
+  2024 primary DEM: https://www.co.nacogdoches.tx.us/ElectionInformation/ElectionsResultsArchive/2024-03-05%20-%20Nacogdoches%20County%20Democratic%20Party%20-%20Primary%20Election%20-%20Precinct%20Results.pdf?v20240504192612 [official]
+  2024 primary REP: https://www.co.nacogdoches.tx.us/ElectionInformation/ElectionsResultsArchive/2024-03-05%20-%20Nacogdoches%20County%20Republican%20Party%20-%20Primary%20Election%20-%20Precinct%20Results.pdf?v20240504192630 [official]
+  2024 primary runoff REP: https://www.co.nacogdoches.tx.us/ElectionInformation/ElectionsResultsArchive/2024-05-28%20-%20Nacogdoches%20County%20Republican%20Party%20-%20Primary%20Runoff%20-%20Precinct%20Results.pdf?v20240603154649 [official]
+Navarro
+  election results: https://www.co.navarro.tx.us/page/navarro.elections
+  no precinct-level official results found on the website or via google search
+Newton
+  election results: https://www.co.newton.tx.us/page/newton.Elections
+  no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.co.newton.tx.us/upload/page/3518/docs/2024%20Primary/2024%20Primaries%20Combined%20Canvass.pdf [unofficial]
+Nolan
+  election results: https://www.co.nolan.tx.us/page/nolan.Elections
+  2024 general: https://www.co.nolan.tx.us/upload/page/0503/NC%20Official%20Precinct%20Summary%20Results%2011052024.pdf [official]
+  2024 primary combined: https://www.co.nolan.tx.us/upload/page/0503/03052024%20PRECINCT%20SUMMARY%20RESULTS.pdf [official]
+Nueces
+  election results: https://www.nuecesco.com/county-services/county-clerk/elections-department/election-history/-folder-126#docfold_535_1126_960_126
+  2024 general: https://www.nuecesco.com/home/showpublisheddocument/32074/638676080353730000 [official]
+  2024 primary DEM: https://www.nuecesco.com/home/showpublisheddocument/31213/638470726364130000 [official]
+  2024 primary REP: https://www.nuecesco.com/home/showpublisheddocument/31215/638470727049170000 [official]
+  2024 primary runoff DEM: https://www.nuecesco.com/home/showpublisheddocument/31413/638531032029200000 [official]
+  2024 primary runoff REP: https://www.nuecesco.com/home/showpublisheddocument/31415/638531032438530000 [official]
+Ochiltree
+  election results: https://www.co.ochiltree.tx.us/page/ochiltree.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.ochiltree.tx.us/upload/page/7514/11.5.24%20Updated%20Unofficial%20Results%20plus%20Provisional%20count.pdf [unofficial]
+Oldham
+  election results: https://www.co.oldham.tx.us/page/oldham.ElectionsResults
+  2024 general: https://www.co.oldham.tx.us/upload/page/12142/2025/11.05.2024%20Oldham%20County%20-%20General%20Election%20Totals%20by%20Precinct.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Orange
+  election results: https://www.co.orange.tx.us/departments/ElectionsAdministration/ElectionResults
+  no precinct-level official results found on the website or via google search
+Palo Pinto
+  election results: https://www.co.palo-pinto.tx.us/page/Elections
+  no precinct-level official results found on the website or via google search
+Panola
+  election results: https://www.co.panola.tx.us/page/panola.Elections
+  no precinct-level official results found on the website or via google search
+Parker
+  election results: https://www.parkercountytx.gov/441/Past-Election-Results
+  2024 general: https://www.parkercountytx.gov/DocumentCenter/View/11593/Precinct-Results-11-13-2024-02-52-09-PM [official]
+  2024 primary combined: https://www.parkercountytx.gov/DocumentCenter/View/10806/Precicnt-by-Precicnt-Results-March-2024 [official]
+  2024 primary runoff combined: https://www.parkercountytx.gov/DocumentCenter/View/11053/Precinct-Results-6-4-2024-10-19-59-AM-pdf [official]
+Parmer
+  election results: https://parmercounty.texas.gov/?page_id=334
+  2024 general: https://parmercounty.texas.gov/wp-content/uploads/2025/01/11524-General-Election-Official-Results.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Pecos
+  election results: https://www.co.pecos.tx.us/election-information/
+  no precinct-level official results found on the website or via google search
+Polk
+  election results: https://www.co.polk.tx.us/page/polk.co.clerk.election
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://newtools.cira.state.tx.us/upload/page/9241/MAY%202024/MARCH%205TH%20OFFICIAL%20RESULTS.pdf [official]
+Potter
+  election results: https://www.pottercountytexasvotes.gov/copy-of-website-connections
+  2024 general: https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_3e5bc692f87a4a6ba3fc2b8ea841f47e.pdf [official]
+  2024 primary DEM: https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_f73000d8079d4cc9b7df4347be5922f9.pdf [official]
+  2024 primary REP: https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_e6281b94f18b439093c69f09f35d6f92.pdf [official]
+  2024 primary runoff REP: https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_9a21a61b97154b208e9914ebf660511f.pdf [official]
+Presidio
+  election results: https://www.co.presidio.tx.us/page/presidio.Voting.Elections
+  no precinct-level official results found on the website or via google search
+Rains
+  election results: https://www.co.rains.tx.us/page/rains.elections
+  no precinct-level official results found on the website or via google search
+Randall
+  election results: https://www.randallcounty.gov/183/Election-Results
+  2024 general: https://www.randallcounty.gov/DocumentCenter/View/3711/Official-Canvass-Results [official]
+  2024 primary DEM: https://www.randallcounty.gov/DocumentCenter/View/3408/Official-Democratic-Canvass-Results [official]
+  2024 primary REP: https://www.randallcounty.gov/DocumentCenter/View/3412/Official-Republican-Cumulative-Results [official] (R cumulative and canvass are swapped)
+Reagan
+  election results: https://www.co.reagan.tx.us/page/reagan.Elections
+  2024 general: https://www.co.reagan.tx.us/upload/page/9496/2024/precinct_results11182024_075528_am.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Real
+  election results: https://www.co.real.tx.us/page/real.Elections
+  no precinct-level official results found on the website or via google search
+Red River
+  election results: https://www.co.red-river.tx.us/page/redriver.ElectionsCountyClerk
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary DEM: https://www.co.red-river.tx.us/upload/page/10703/Democratic%20Official%20Precinct%20Results%20Primary%20Election%20March%205%202024.pdf [official]
+  2024 primary REP: https://www.co.red-river.tx.us/upload/page/10703/Republican%20Official%20Precinct%20Results%20Primary%20Election%20March%205%202024.pdf [official]
+  2024 primary runoff REP: https://www.co.red-river.tx.us/upload/page/10703/Official%20Precinct%20Results%20for%20Primary%20Runoff.pdf [official]
+Reeves
+  election results: https://www.reevescounty.org/departments/elections/election-results-archive
+  2024 general: https://www.reevescounty.org/home/showpublisheddocument/3613/638672595751530000 [official]
+  2024 primary combined: https://www.reevescounty.org/home/showpublisheddocument/2888/638471384895900000 [official]
+  2024 primary runoff combined: https://www.reevescounty.org/home/showpublisheddocument/3119/638531916491970000 [official]
+Refugio
+  election results: https://www.co.refugio.tx.us/page/refugio.elections
+  2024 general: https://www.co.refugio.tx.us/upload/page/11597/docs/2024%20-%20NOVEMBER%205/NOTICES/2024%20-%20NOVEMBER%205%20-%20OFFICIAL%20-%20PRECINCT%20RESULTS%20-%20TOTAL.pdf [official]
+  2024 primary DEM: https://www.co.refugio.tx.us/upload/page/11577/docs/2023%20-%20MARCH%205%20-%20PRIMARY/2024%20-%20MARCH%205%20-%20PRECINCT%20RESULTS%20-%20ALL%20-%20DEM.pdf [official]
+  2024 primary REP: https://www.co.refugio.tx.us/upload/page/11577/docs/2023%20-%20MARCH%205%20-%20PRIMARY/2024%20-%20MARCH%205%20-%20PRECINCT%20RESULTS%20-%20ALL%20-%20REP.pdf [official]
+Roberts
+  election results: https://www.co.roberts.tx.us/page/roberts.elections
+  no precinct-level official results found on the website or via google search
+Robertson
+  election results: https://www.co.robertson.tx.us/page/robertson.Elections
+  no precinct-level official results found on the website or via google search
+Rockwall
+  election results: https://www.rockwallvotes.com/election-information/election-results-in-progress/
+  2024 general: https://results.enr.clarityelections.com//TX/Rockwall/122491/355310/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Rockwall/120244/333319/reports/detailxls.zip [official]
+  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Rockwall/121703/341759/reports/detailxls.zip [official]
+Runnels
+  election results: https://www.runnelscounty.org/page/runnels.Elections
+  no precinct-level official results found on the website or via google search
+Rusk
+  election results: https://www.ruskcountytx.gov/page/rusk.Elections
+  2024 general: https://results.enr.clarityelections.com//TX/Rusk/122760/355999/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Rusk/120252/331977/reports/detailxls.zip [unofficial]
+Sabine
+  election results: https://www.co.sabine.tx.us/page/sabine.Election%20Results
+  no precinct-level official results found on the website or via google search
+San Augustine
+  election results: https://www.co.san-augustine.tx.us/page/sanaugustine.Elections
+  no precinct-level official results found on the website or via google search
+San Jacinto
+  election results: https://www.co.san-jacinto.tx.us/page/sanjacinto.Elections
+  no precinct-level official results found on the website or via google search
+San Patricio
+  election results: https://www.sanpatriciocountytx.gov/page/elections.results.archive.16
+  2024 general: https://www.sanpatriciocountytx.gov/upload/page/0124/docs/2024%20Elections%20Official%20Results/2024%20November%20Precinct%20Results.pdf [official]
+  2024 primary DEM: https://www.sanpatriciocountytx.gov/upload/page/0124/docs/2024%20Elections%20Official%20Results/2024%20March%20Official%20Precinct%20Results-%20Dem.pdf [official]
+  2024 primary REP: https://www.sanpatriciocountytx.gov/upload/page/0124/docs/2024%20Elections%20Official%20Results/2024%20March%20Official%20Precinct%20Results-%20Rep.pdf [official]
+  2024 primary runoff REP: https://www.sanpatriciocountytx.gov/upload/page/0124/docs/2024%20Elections%20Official%20Results/2024%20May%20Runoff%20Precinct%20Results.pdf [official]
+San Saba
+  election results: https://www.co.san-saba.tx.us/page/sansaba.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.san-saba.tx.us/upload/page/6028/docs/ElectionResultsbyPrecintUnofficial2024.pdf [unofficial]
+Schleicher
+  election results: https://www.schleichercounty.gov/page/schleicher.Elections
+  no precinct-level official results found on the website or via google search
+Scurry
+  election results: https://www.co.scurry.tx.us/page/elections.previous.elections
+  no precinct-level official results found on the website or via google search
+Shackelford
+  election results: https://www.shackelfordcounty.org/page/shackelford.Elections
+  no precinct-level official results found on the website or via google search
+Shelby
+  election results: https://www.co.shelby.tx.us/page/shelby.Elections
+  no precinct-level official results found on the website or via google search
+Sherman
+  election results: https://www.co.sherman.tx.us/page/sherman.Elections
+  no precinct-level official results found on the website or via google search
+Smith
+  election results: https://www.smith-county.com/government/departments/elections/election-archive/election-archive-results
+  2024 general: https://www.smith-county.com/home/showpublisheddocument/20228/638676299142530000 [official]
+  2024 primary combined: https://www.smith-county.com/home/showpublisheddocument/19558/638464315859400000 [official]
+  2024 primary runoff combined: https://www.smith-county.com/home/showpublisheddocument/19826/638537177437970000 [official]
+Somervell
+  election results: https://www.somervell.co/160/Elections
+  no precinct-level official results found on the website or via google search
+Starr
+  election results: https://www.co.starr.tx.us/page/starr.Elections
+  2024 general: https://www.co.starr.tx.us/upload/page/6487/docs/Starr%202024/Starr-OfficialResultsbyPct%20Nov52024.pdf [official]
+  2024 primary DEM: https://newtools.cira.state.tx.us/upload/page/6487/docs/March2024/DEM%20official%20results%20by%20PCT.pdf [official]
+  2024 primary REP: https://newtools.cira.state.tx.us/upload/page/6487/docs/March2024/REP%20offial%20results%20by%20PCT.pdf [official]
+  2024 primary runoff REP: https://newtools.cira.state.tx.us/upload/page/6487/docs/May2024/Official%20runoff%20%20Pct%20report.pdf [official]
+Stephens
+  election results: https://www.co.stephens.tx.us/page/stephens.Elections
+  2024 general: https://www.co.stephens.tx.us/upload/page/2592/2024/Precinct%20Report%2011-5-2024%20General.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Sterling
+  election results: https://www.co.sterling.tx.us/page/sterling.Elections
+  no precinct-level official results found on the website or via google search
+Stonewall
+  election results: https://www.stonewallcounty.org/page/stonewall.Elections
+  no precinct-level official results found on the website or via google search
+Sutton
+  election results: https://www.co.sutton.tx.us/page/sutton.Elections
+  no precinct-level official results found on the website or via google search
+Swisher
+  election results: https://www.co.swisher.tx.us/page/swisher.Elections
+  2024 general: https://www.co.swisher.tx.us/upload/page/7290/2024%20November%205%20General%20Election%20Official%20Summary%20and%20Precinct%20Combined.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+  2024 primary runoff REP: https://newtools.cira.state.tx.us/upload/page/7290/Official%20Results%2006.03.2024.pdf [official]
+Tarrant
+  election results: https://www.tarrantcountytx.gov/en/elections/past-election-information.html
+  2024 general: https://www.tarrantcountytx.gov/content/dam/main/elections/2024/1124/reports/precinct.pdf [official]
+  2024 primary DEM: https://www.tarrantcountytx.gov/content/dam/main/elections/2024/pm24/reports/precinct_dem.pdf [official]
+  2024 primary REP: https://www.tarrantcountytx.gov/content/dam/main/elections/2024/pm24/reports/precinct_rep.pdf [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Tarrant/119492/333413/reports/detailxls.zip [official]
+  2024 primary runoff DEM: https://www.tarrantcountytx.gov/content/dam/main/elections/2024/pr24/reports/precinct_dem.pdf [official]
+  2024 primary runoff REP: https://www.tarrantcountytx.gov/content/dam/main/elections/2024/pr24/reports/precinct_rep.pdf [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Tarrant/121069/341703/reports/detailxls.zip [official]
+Taylor
+  election results: https://www.taylorcounty.texas.gov/212/Elections
+  no precinct-level official results found on the website or via google search
+Terrell
+  election results: https://www.co.terrell.tx.us/page/terrell.Elections
+  no precinct-level official results found on the website or via google search
+Terry
+  election results: https://www.co.terry.tx.us/page/terry.Elections
+  2024 general: https://www.co.terry.tx.us/upload/page/12074/docs/Official%20Totals%2011-5-24.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Throckmorton
+  election results: https://www.throckmortoncounty.org/page/throckmorton.electionsposting
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.throckmortoncounty.org/upload/page/11531/Official%20Results-2024I.pdf [official]
+Titus
+  election results: https://www.co.titus.tx.us/page/elections.home
+  2024 general: https://www.co.titus.tx.us/upload/page/0098/Whole%20Canvass%20Report.pdf [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Tom Green
+  election results: https://www.tomgreencountytx.gov/page/ele.ElectionsResults
+  2024 general: https://www.tomgreencountytx.gov/upload/page/0091/docs/2024/20241105/110524FinalOfficPrecResu.pdf [official]
+  2024 primary combined: https://www.tomgreencountytx.gov/upload/page/0091/docs/2024/20240305OPResults.pdf [official]
+Travis
+  election results: https://results.enr.clarityelections.com/TX/Travis/
+  2024 general: https://results.enr.clarityelections.com//TX/Travis/122432/355984/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Travis/119440/333462/reports/detailxls.zip [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Travis/121702/340735/reports/detailxls.zip [official]
+Trinity
+  election results: https://www.co.trinity.tx.us/page/trinity.Elections2
+  no precinct-level official results found on the website or via google search
+Tyler
+  election results: https://www.co.tyler.tx.us/page/tyler.ElectionInformation
+  2024 general: https://www.co.tyler.tx.us/page/tyler.ElectionInformation [official]
+  2024 primary combined: https://www.co.tyler.tx.us/upload/page/3316/March%205%202024%20Official%20Election%20Results0001.pdf [official]
+Upshur
+  election results: https://www.countyofupshur.com/page/elections
+  2024 general: https://www.countyofupshur.com/page/open/1355/0/November%205%202024%20Precinct%20Report.pdf [official]
+  2024 primary DEM: https://www.countyofupshur.com/page/open/1355/0/March%205%202024%20Democratic%20Primary%20Precinct%20by%20Precinct%20Report.pdf [official]
+  2024 primary REP: https://www.countyofupshur.com/page/open/1355/0/March%205%202024%20Republican%20Primary%20Precinct%20by%20Precinct%20Report.pdf [official]
+Upton
+  election results: https://www.co.upton.tx.us/page/upton.elections
+  no precinct-level official results found on the website or via google search
+Uvalde
+  election results: https://www.uvaldecountyelections.com/
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://drive.google.com/file/d/1OJajAPDZaEkQnpM3rLY00vniOR6Ssmgc/view [official]
+Val Verde
+  election results: https://valverdecounty.texas.gov/270/Elections
+  2024 general: https://valverdecounty.texas.gov/DocumentCenter/View/8425/General-Election-2024-Official-Precinct-by-Precinct- [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Van Zandt
+  election results: https://www.vanzandtcounty.org/page/vanzandt.Elections
+  2024 general:
+    no precinct-level official results found on the website or via google search
+  2024 primary combined: https://www.vanzandtcounty.org/upload/page/2707/2024/finalcanvass_results3142024_014516_pm.pdf [official]
+  2024 primary runoff combined: https://www.vanzandtcounty.org/upload/page/2707/2024/canvass_results642024_025517_pm.pdf [unofficial]
+Victoria
+  election results: https://www.vctx.org/page/elections.results
+  2024 general: https://results.enr.clarityelections.com//TX/Victoria/122848/355288/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Victoria/120384/333962/reports/detailxls.zip [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Victoria/121796/341555/reports/detailxls.zip [official]
+Walker
+  election results: https://www.co.walker.tx.us/department/division.php?structureid=141
+  2024 general:
+    precinct 1: https://www.co.walker.tx.us/egov/documents/1732568862_0693.pdf [official]
+    precinct 2: https://www.co.walker.tx.us/egov/documents/1732568913_91841.pdf [official]
+    precinct 3: https://www.co.walker.tx.us/egov/documents/1732568957_61042.pdf [official]
+    precinct 4: https://www.co.walker.tx.us/egov/documents/1732569000_25536.pdf [official]
+  2024 DEM primary:
+    precinct 1: https://www.co.walker.tx.us/egov/documents/1711390321_17245.pdf [official]
+    precinct 2: https://www.co.walker.tx.us/egov/documents/1711390351_61333.pdf [official]
+    precinct 3: https://www.co.walker.tx.us/egov/documents/1711390372_36563.pdf [official]
+    precinct 4: https://www.co.walker.tx.us/egov/documents/1711390396_38392.pdf [official]
+  2024 REP primary:
+    precinct 1: https://www.co.walker.tx.us/egov/documents/1711390478_08039.pdf [official]
+    precinct 2: https://www.co.walker.tx.us/egov/documents/1711390519_67875.pdf [official]
+    precinct 3: https://www.co.walker.tx.us/egov/documents/1711390570_27819.pdf [official]
+    precinct 4: https://www.co.walker.tx.us/egov/documents/1711390608_71996.pdf [official]
+  2024 REP primary runoff:
+    precinct 1: https://www.co.walker.tx.us/egov/documents/1717792489_66024.pdf [official]
+    precinct 2: https://www.co.walker.tx.us/egov/documents/1717792548_22917.pdf [official]
+    precinct 3: https://www.co.walker.tx.us/egov/documents/1717792616_68978.pdf [official]
+    precinct 4: https://www.co.walker.tx.us/egov/documents/1717792668_97666.pdf [official]
+Waller
+  election results: https://www.co.waller.tx.us/page/Elections.current
+  no precinct-level official results found on the website or via google search
+Ward
+  election results: https://www.co.ward.tx.us/page/ward.Elections
+  no precinct-level official results found on the website or via google search
+Washington
+  election results: https://www.co.washington.tx.us/page/washington.elections.information
+  2024 general: https://www.co.washington.tx.us/upload/page/10698/010101a23456%20Official%20Results.pdf [official]
+  2024 primary combined: https://www.co.washington.tx.us/upload/page/10698/1a%20joint%20prec%20by%20prec%20report.pdf [official]
+  2024 primary runoff DEM: https://www.co.washington.tx.us/upload/page/10698/DEM%20PBP.pdf [official]
+  2024 primary runoff REP: https://www.co.washington.tx.us/upload/page/10698/REP%20PBP.pdf [official]
+Webb
+  election results: https://www.webbcountytx.gov/ElectionsAdministration/ArchivedResults/
+  google search: https://www.google.com/search?q=site%3A+www.webbcountytx.gov+type%3A+pdf+%22results%22+%22pct%22+%222024%22
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.webbcountytx.gov/electionsadministration/PctByPctResults/Combined%20Pct%20by%20Pct%20Report.pdf [unofficial]
+Wharton
+  election results: https://www.co.wharton.tx.us/page/wharton.Elections
+  no precinct-level official results found on the website or via google search
+  2024 general: https://www.co.wharton.tx.us/upload/page/7010/docs/Reports/2024%20November/11.12.24%20PCT-PCT.pdf [unofficial]
+Wheeler
+  election results: https://www.wheelercounty.texas.gov/page/wheeler.Elections
+  no precinct-level official results found on the website or via google search
+Wichita
+  election results: https://wichitacountytx.com/election_info/election-results-archive/
+  2024 general: https://wichitacountytx.com/wp-content/uploads/2023/10/11.5.2024-Precinct-Results.pdf [official]
+  2024 primary DEM: https://wichitacountytx.com/wp-content/uploads/2023/10/3.5.2024-Democratic-Precinct-Results.pdf [official]
+  2024 primary REP: https://wichitacountytx.com/wp-content/uploads/2023/10/3.5.2024-Republican-Precinct-Results.pdf [official]
+  2024 primary runoff DEM: https://wichitacountytx.com/wp-content/uploads/2018/10/Democratic-Primary-Runoff-Precinct-Results.pdf [official]
+  2024 primary runoff REP: https://wichitacountytx.com/wp-content/uploads/2023/10/3.5.2024-Republican-Precinct-Results.pdf [official]
+Wilbarger
+  election results: https://www.co.wilbarger.tx.us/page/wilbarger.elections
+  no precinct-level official results found on the website or via google search
+Willacy
+  election results: https://www.co.willacy.tx.us/page/willacy.Elections
+  no precinct-level official results found on the website or via google search
+Williamson
+  election results: https://www.wilcotx.gov/292/Results-Archive
+  2024 general: https://www.wilcotx.gov/DocumentCenter/View/13240/202411NOVEMBER---Final-Unofficial---Precinct-Results-Report [unofficial]
+  2024 primary runoff combined: https://www.wilcotx.gov/DocumentCenter/View/10657/May-28-2024-Democratic-and-Republican-Precinct-Results [unofficial]
+Wilson
+  election results: https://www.co.wilson.tx.us/page/wilson.Elections
+  no precinct-level official results found on the website or via google search
+Winkler
+  election results: https://www.co.winkler.tx.us/213/Elections
+  no precinct-level official results found on the website or via google search
+Wise
+  election results: https://www.co.wise.tx.us/315/Elections
+  2024 general: https://www.co.wise.tx.us/DocumentCenter/View/6011/November-5-2024-General-and-Special-Election---Official-Precinct-Results-Report [official]
+  2024 primary:
+    no precinct-level official results found on the website or via google search
+Wood
+  election results: https://elections.mywoodcounty.com/election-information/election-results/
+  2024 general: https://results.enr.clarityelections.com//TX/Wood/122311/353543/reports/detailxls.zip [unofficial]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Wood/120255/332259/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Wood/121704/340133/reports/detailxls.zip [unofficial]
+Yoakum
+  election results: https://www.co.yoakum.tx.us/page/yoakum.Elections
+  no precinct-level official results found on the website or via google search
+Young
+  election results: https://www.co.young.tx.us/page/young.Elections
+  no precinct-level official results found on the website or via google search
+Zapata
+  election results: https://www.co.zapata.tx.us/page/zapata.Elections
+  no precinct-level official results found on the website or via google search
+Zavala
+  election results: https://www.co.zavala.tx.us/page/Elections
+  no precinct-level official results found on the website or via google search
