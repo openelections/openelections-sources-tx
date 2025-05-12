@@ -317,11 +317,25 @@ Delta
   2024 primary runoff REP: https://www.deltacountytx.com/media/3051 [official]
 Denton
   election results: https://www.votedenton.gov/election-results-and-maps/election-results/#PastElections
-  2024 general: https://results.enr.clarityelections.com//TX/Denton/122426/355989/reports/detailxls.zip [official]
-  2024 primary DEM: https://results.enr.clarityelections.com//TX/Denton/120183/334619/reports/detailxls.zip [official]
-  2024 primary REP: https://results.enr.clarityelections.com//TX/Denton/120184/334618/reports/detailxls.zip [official]
-  2024 primary runoff DEM: https://results.enr.clarityelections.com//TX/Denton/121671/340633/reports/detailxls.zip [unofficial]
-  2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Denton/121672/340634/reports/detailxls.zip [unofficial]
+  2024 general:
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/1124/2024_General_Election_Results_Reports.zip [official]
+    https://results.enr.clarityelections.com//TX/Denton/122426/355989/reports/detailxls.zip [official]
+  2024 primary DEM:
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PM24/Democratic_Precinct_Report_Results_Official.pdf [official]
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PM24/Democratic_Canvass_Report_Results_Official.pdf [official]
+    https://results.enr.clarityelections.com//TX/Denton/120183/334619/reports/detailxls.zip [official]
+  2024 primary REP:
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PM24/Republican_Precinct_Report_Results_Official.pdf [official]
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PM24/Republican_Canvass_Report_Results_Official.pdf [official]
+    https://results.enr.clarityelections.com//TX/Denton/120184/334618/reports/detailxls.zip [official]
+  2024 primary runoff DEM:
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PR24/Dem/2024_Democratic_Primary_Runoff_Election_Precinct.pdf [official]
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PR24/Dem/2024_Democratic_Primary_Runoff_Election_Canvass.pdf [official]
+    https://results.enr.clarityelections.com//TX/Denton/121671/340633/reports/detailxls.zip [unofficial]
+  2024 primary runoff REP:
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PR24/Rep/2024_Republican_Primary_Runoff_Election_Precinct.pdf [official]
+    https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/denton-tx.connect.clarityelections.com/ElectionResults/2024/PR24/Rep/2024_Republican_Primary_Runoff_Election_Canvass.pdf [official]
+    https://results.enr.clarityelections.com//TX/Denton/121672/340634/reports/detailxls.zip [unofficial]
 DeWitt
   election results: https://www.co.dewitt.tx.us/page/dewitt.Elections
   2024 general: https://www.co.dewitt.tx.us/upload/page/1634/November%205,%202024%20General%20Election/November%205%202024%20General%20Election%20Precinct%20Report.pdf [official]
@@ -419,9 +433,15 @@ Gaines
 Galveston
   election results: https://galvestonvotes.org/election-information/historical-elections/
   no precinct-level official results found on the website or via google search
-  2024 general: https://results.enr.clarityelections.com//TX/Galveston/122842/356002/reports/detailxls.zip [unofficial]
-  2024 primary combined: https://results.enr.clarityelections.com//TX/Galveston/120369/334584/reports/detailxls.zip [unofficial]
-  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Galveston/121793/341338/reports/detailxls.zip [unofficial]
+  2024 general:
+    https://galvestonvotes.org/wp-content/uploads/2025/02/2024-November-5th-Election-Canvass-Report-5NOV24.pdf [official]
+    https://results.enr.clarityelections.com//TX/Galveston/122842/356002/reports/detailxls.zip [unofficial]
+  2024 primary combined:
+    https://galvestonvotes.org/wp-content/uploads/2025/02/2024-Primary-Canvass-Report-5MAR24.pdf [official]
+    https://results.enr.clarityelections.com//TX/Galveston/120369/334584/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined:
+    https://galvestonvotes.org/wp-content/uploads/2025/02/2024-Primary-Runoff-Canvass-Report-28May24.pdf [official]
+    https://results.enr.clarityelections.com//TX/Galveston/121793/341338/reports/detailxls.zip [unofficial]
 Garza
   election results: https://www.garzacounty.net/page/elections
   no precinct-level official results found on the website or via google search
@@ -504,6 +524,8 @@ Hardeman
 Hardin
   election results: https://www.co.hardin.tx.us/page/ElectionsDepartment
   no precinct-level official results found on the website or via google search
+  I received the official 2024 general and primary reports via a public information request,
+  and confirmation that there was no primary runoff.
 Harris
   election results: https://www.harrisvotes.com/Election-Results/Archives
   2024 general: https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/docs/Reports/FINAL%20Official%20Canvass%20Results-11-14-2024%2003-12-57%20PM.pdf [official]
@@ -539,8 +561,9 @@ Henderson
 Hidalgo
   election results: https://www.hidalgocounty.us/539/Archived-Election-Results
   2024 general: https://results.enr.clarityelections.com//TX/Hidalgo/122498/355530/reports/detailxls.zip [official]
-  2024 primary:
-    no precinct-level official results found on the website or via google search
+  2024 primary DEM: https://www.hidalgocounty.us/DocumentCenter/View/66704/Precinct-Results-3-13-2024-09-06-07-AM-DEMS [official]
+  2024 primary REP: https://www.hidalgocounty.us/DocumentCenter/View/66703/Precinct-Results-3-13-2024-09-04-41-AM-REPS [official]
+  2024 primary runoff DEM: https://www.hidalgocounty.us/DocumentCenter/View/67593/Precinct-Results-May-28-2024 [official]
   2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Hidalgo/121012/341500/reports/detailxls.zip [official]
 Hill
   election results: https://www.co.hill.tx.us/page/hill.Elections
@@ -570,8 +593,11 @@ Hudspeth
   2024 primary combined: https://www.co.hudspeth.tx.us/upload/page/10211/2024/precinct_results362024_121555_pm.pdf [unofficial]
 Hunt
   election results: https://www.huntcounty.net/page/hunt.election
+  In addition to the unofficial files linked here, I received official files via public information request
+  and am submitting. Note that the report headers still say unofficial.
   2024 general: https://results.enr.clarityelections.com/TX/Hunt/122429/web.345435/#/summary [unofficial]
-  2024 primary combined: https://results.enr.clarityelections.com//TX/Hunt/120185/331652/reports/detailxls.zip [official]
+  2024 primary combined: https://results.enr.clarityelections.com//TX/Hunt/120185/331652/reports/detailxls.zip [unofficial]
+  2024 primary runoff combined https://results.enr.clarityelections.com//TX/Hunt/121667/340538/reports/detailxls.zip [unofficial]
 Hutchinson
   election results: https://www.co.hutchinson.tx.us/page/hutchinson.ElectionInformation
   2024 general: https://newtools.cira.state.tx.us/upload/page/10714/docs/2024/2024%20General%20Precinct%20by%20Precinct%20Official%20Results.pdf [official]
@@ -631,7 +657,7 @@ Kaufman
   2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Kaufman/121710/340489/reports/detailxls.zip [official]
 Kendall
   election results: https://www.kendallcountytx.gov/220/Election-Results-Past-Present
-  2024 general: https://results.enr.clarityelections.com//TX/Kendall/122829/351989/reports/detailxls.zip [unofficial]
+  2024 general: https://results.enr.clarityelections.com//TX/Kendall/122829/358274/reports/detailxls.zip [official]
   2024 primary combined: https://results.enr.clarityelections.com//TX/Kendall/120248/334534/reports/detailxls.zip [official]
   2024 primary runoff REP: https://results.enr.clarityelections.com//TX/Kendall/121795/342412/reports/detailxls.zip [official]
 Kenedy
@@ -777,9 +803,9 @@ Maverick
   no precinct-level official results found on the website or via google search
 Medina
   election results: https://www.medinacountytexas.org/page/medina.elections
-  2024 general:
-    no precinct-level official results found on the website or via google search
+  2024 general: https://www.medinacountytexas.org/upload/page/6805/2024%20November%20General/Results/Official%20Pct%20Results%2011.5.24.pdf [official]
   2024 primary combined: https://www.medinacountytexas.org/upload/page/6805/2024%20March%20Primary%20Election/Results/Official%20Precinct%20Results-3-12-2024%2001-22-17%20PM.pdf [official]
+  2024 primary runoff combined: https://www.medinacountytexas.org/upload/page/6805/2024%20May%20Primary%20Runoff%20Election/Results/5.28.24%20Official%20Pct%20Results.pdf [official]
 Menard
   election results: https://www.co.menard.tx.us/page/menard.Elections
   no precinct-level official results found on the website or via google search
@@ -857,6 +883,7 @@ Oldham
 Orange
   election results: https://www.co.orange.tx.us/departments/ElectionsAdministration/ElectionResults
   no precinct-level official results found on the website or via google search
+  I received official files via public information request and am submitting.
 Palo Pinto
   election results: https://www.co.palo-pinto.tx.us/page/Elections
   no precinct-level official results found on the website or via google search
@@ -1021,6 +1048,7 @@ Tarrant
 Taylor
   election results: https://www.taylorcounty.texas.gov/212/Elections
   no precinct-level official results found on the website or via google search
+  I received official files via public information request and am submitting.
 Terrell
   election results: https://www.co.terrell.tx.us/page/terrell.Elections
   no precinct-level official results found on the website or via google search
@@ -1122,6 +1150,8 @@ Webb
   election results: https://www.webbcountytx.gov/ElectionsAdministration/ArchivedResults/
   google search: https://www.google.com/search?q=site%3A+www.webbcountytx.gov+type%3A+pdf+%22results%22+%22pct%22+%222024%22
   no precinct-level official results found on the website or via google search
+  In addition to the unofficial files linked here, I received official files via public information request
+  and am submitting. Note that the report headers still say unofficial.
   2024 general: https://www.webbcountytx.gov/electionsadministration/PctByPctResults/Combined%20Pct%20by%20Pct%20Report.pdf [unofficial]
 Wharton
   election results: https://www.co.wharton.tx.us/page/wharton.Elections
@@ -1145,8 +1175,10 @@ Willacy
   no precinct-level official results found on the website or via google search
 Williamson
   election results: https://www.wilcotx.gov/292/Results-Archive
-  2024 general: https://www.wilcotx.gov/DocumentCenter/View/13240/202411NOVEMBER---Final-Unofficial---Precinct-Results-Report [unofficial]
-  2024 primary runoff combined: https://www.wilcotx.gov/DocumentCenter/View/10657/May-28-2024-Democratic-and-Republican-Precinct-Results [unofficial]
+I received confirmation via public information request that the linked files are official despite being marked as unofficial.
+  2024 general: https://www.wilcotx.gov/DocumentCenter/View/13240/202411NOVEMBER---Final-Unofficial---Precinct-Results-Report [official]
+  2024 primary: https://apps.wilco.org/elections/results/default.aspx?e=362415 [official] (processed via ad-hoc script)
+  2024 primary runoff combined: https://www.wilcotx.gov/DocumentCenter/View/10657/May-28-2024-Democratic-and-Republican-Precinct-Results [official]
 Wilson
   election results: https://www.co.wilson.tx.us/page/wilson.Elections
   no precinct-level official results found on the website or via google search
