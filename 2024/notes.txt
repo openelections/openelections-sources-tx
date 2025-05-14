@@ -297,11 +297,11 @@ Dallam
   no precinct-level official results found on the website or via google search
 Dallas
   election results: https://www.dallascountyvotes.org/election-results/historical/
-  no precinct-level official results found on the website or via google search
-  2024 general: https://results.enr.clarityelections.com//TX/Dallas/122494/355193/reports/detailxls.zip [unofficial]
-  2024 primary DEM: https://results.enr.clarityelections.com//TX/Dallas/120550/332339/reports/detailxls.zip [unofficial]
-  2024 primary REP: https://results.enr.clarityelections.com//TX/Dallas/120549/332338/reports/detailxls.zip [unofficial]
-  2024 primary runoff combined: https://results.enr.clarityelections.com//TX/Dallas/121712/340672/reports/detailxls.zip [unofficial]
+  I received confirmation via public information request that the linked files are official despite being marked as unofficial.  
+  2024 general: https://results.enr.clarityelections.com/TX/Dallas/122494/355193/reports/detailxls.zip [official]
+  2024 primary DEM: https://results.enr.clarityelections.com/TX/Dallas/120550/332339/reports/detailxls.zip [official]
+  2024 primary REP: https://results.enr.clarityelections.com/TX/Dallas/120549/332338/reports/detailxls.zip [official]
+  2024 primary runoff combined: https://results.enr.clarityelections.com/TX/Dallas/121712/340672/reports/detailxls.zip [official]
 Dawson
   election results: https://www.co.dawson.tx.us/page/dawson.Election.Information
   no precinct-level official results found on the website or via google search
@@ -1137,6 +1137,7 @@ Walker
 Waller
   election results: https://www.co.waller.tx.us/page/Elections.current
   no precinct-level official results found on the website or via google search
+  I received official files via public information request and am submitting.
 Ward
   election results: https://www.co.ward.tx.us/page/ward.Elections
   no precinct-level official results found on the website or via google search
@@ -1175,7 +1176,7 @@ Willacy
   no precinct-level official results found on the website or via google search
 Williamson
   election results: https://www.wilcotx.gov/292/Results-Archive
-I received confirmation via public information request that the linked files are official despite being marked as unofficial.
+  I received confirmation via public information request that the linked files are official despite being marked as unofficial.
   2024 general: https://www.wilcotx.gov/DocumentCenter/View/13240/202411NOVEMBER---Final-Unofficial---Precinct-Results-Report [official]
   2024 primary: https://apps.wilco.org/elections/results/default.aspx?e=362415 [official] (processed via ad-hoc script)
   2024 primary runoff combined: https://www.wilcotx.gov/DocumentCenter/View/10657/May-28-2024-Democratic-and-Republican-Precinct-Results [official]
