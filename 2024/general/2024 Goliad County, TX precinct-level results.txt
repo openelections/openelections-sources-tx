@@ -1,0 +1,1145 @@
+id	precinct	office	district	party	candidate	votes	absentee	early_voting	election_day
+2	Precinct 11	Registered Voters				"1,022"			
+3	Precinct 11	Ballots Cast				610	19	467	124
+4	Precinct 11	Ballots Cast - Blank				0	0	0	0
+5	Precinct 11	President							
+6	Precinct 11				REP Donald J. Trump	412	8	332	72
+7	Precinct 11				DEM Kamala D. Harris	193	11	133	49
+8	Precinct 11				LIB Chase Oliver	1	0	0	1
+9	Precinct 11				GRN Jill Stein	0	0	0	0
+10	Precinct 11				Write-ins	3	0	1	2
+11	Precinct 11				Over Votes	0	0	0	0
+12	Precinct 11				Under Votes	1	0	1	0
+13	Precinct 11	U.S. Senate							
+14	Precinct 11				REP Ted Cruz	374	8	308	58
+15	Precinct 11				DEM Colin Allred	213	11	143	59
+16	Precinct 11				LIB Ted Brown	9	0	8	1
+17	Precinct 11				Write-ins	2	0	0	2
+18	Precinct 11				Over Votes	2	0	2	0
+19	Precinct 11				Under Votes	10	0	6	4
+20	Precinct 11								
+21	Precinct 11	"US Representative, Dist 27"							
+22	Precinct 11				REP Michael Cloud	396	8	322	66
+23	Precinct 11				DEM Tanya Lloyd	190	11	128	51
+24	Precinct 11				Over Votes	0	0	0	0
+25	Precinct 11				Under Votes	24	0	17	7
+26	Precinct 11	Railroad Commissioner							
+27	Precinct 11				REP Christi Craddick	370	8	306	56
+28	Precinct 11				DEM Katherine Culbert	172	11	116	45
+29	Precinct 11				LIB Hawk Dunlap	9	0	3	6
+30	Precinct 11				GRN Eddie Espinoza	18	0	13	5
+31	Precinct 11				Write-ins	3	0	1	2
+32	Precinct 11				Over Votes	0	0	0	0
+33	Precinct 11				Under Votes	38	0	28	10
+34	Precinct 11	"Justice, Supreme Court, Pl 2"							
+35	Precinct 11				REP Jimmy Blacklock	388	8	318	62
+36	Precinct 11				DEM DaSean Jones	177	11	117	49
+37	Precinct 11				Over Votes	0	0	0	0
+38	Precinct 11				Under Votes	45	0	32	13
+39	Precinct 11	"Justice, Supreme Court, Pl 4"							
+40	Precinct 11				REP John Devine	377	8	307	62
+41	Precinct 11				DEM Christine Vinh Weems	189	11	127	51
+42	Precinct 11				Over Votes	0	0	0	0
+43	Precinct 11				Under Votes	44	0	33	11
+44	Precinct 11								
+45	Precinct 11	"Justice, Supreme Court, Pl 6"							
+46	Precinct 11				REP Jane Bland	372	8	303	61
+47	Precinct 11				DEM Bonnie Lee Goldstein	180	11	121	48
+48	Precinct 11				LIB J. David Roberson	14	0	8	6
+49	Precinct 11				Over Votes	0	0	0	0
+50	Precinct 11				Under Votes	44	0	35	9
+51	Precinct 11	"Presiding Judge, Ct of Crim App"							
+52	Precinct 11				REP David J. Schenck	378	8	311	59
+53	Precinct 11				DEM Holly Taylor	184	11	120	53
+54	Precinct 11				Over Votes	0	0	0	0
+55	Precinct 11				Under Votes	48	0	36	12
+56	Precinct 11	"Judge, Ct of Crim App, Pl 7"							
+57	Precinct 11				REP Gina Parker	377	8	308	61
+58	Precinct 11				DEM Nancy Mulder	178	11	115	52
+59	Precinct 11				Over Votes	0	0	0	0
+60	Precinct 11				Under Votes	55	0	44	11
+61	Precinct 11	"Judge, Ct of Crim App, Pl 8"							
+62	Precinct 11				REP Lee Finley	392	9	315	68
+63	Precinct 11				DEM Chika Anyiam	164	10	110	44
+64	Precinct 11				Over Votes	0	0	0	0
+65	Precinct 11				Under Votes	54	0	42	12
+66	Precinct 11								
+67	Precinct 11	"Member, State BoE, Dist 3"							
+68	Precinct 11				DEM Marisa Perez-Diaz	282	12	193	77
+69	Precinct 11				Over Votes	0	0	0	0
+70	Precinct 11				Under Votes	328	7	274	47
+71	Precinct 11	"State Representative, Dist 30"							
+72	Precinct 11				REP AJ Louderback	372	8	305	59
+73	Precinct 11				DEM Stephanie R. Bassham	192	11	125	56
+74	Precinct 11				Over Votes	0	0	0	0
+75	Precinct 11				Under Votes	46	0	37	9
+76	Precinct 11	"Chief Justice, 13th Ct of App Dist"							
+77	Precinct 11				REP Jaime Tijerina	369	8	302	59
+78	Precinct 11				DEM Gina Benavides	189	11	124	54
+79	Precinct 11				Over Votes	0	0	0	0
+80	Precinct 11				Under Votes	52	0	41	11
+81	Precinct 11	"Justice, 13th Ct of App Dist, Pl 2"							
+82	Precinct 11				REP Jenny Cron	355	8	294	53
+83	Precinct 11				DEM Nora Longoria	207	11	135	61
+84	Precinct 11				Over Votes	0	0	0	0
+85	Precinct 11				Under Votes	48	0	38	10
+86	Precinct 11								
+87	Precinct 11	"Justice, 13th Ct of App Dist, Pl 4"							
+88	Precinct 11				REP Ysmael D. Fonseca	357	8	291	58
+89	Precinct 11				DEM Joe Martinez	195	10	131	54
+90	Precinct 11				Over Votes	0	0	0	0
+91	Precinct 11				Under Votes	58	1	45	12
+92	Precinct 11	"Justice, 13th Ct of App Dist, Pl 5"							
+93	Precinct 11				REP Jon West	382	8	312	62
+94	Precinct 11				DEM Regi Compian Richardson	171	11	113	47
+95	Precinct 11				Over Votes	0	0	0	0
+96	Precinct 11				Under Votes	57	0	42	15
+97	Precinct 11	"Dist Judge, 24th Judicial Dist"							
+98	Precinct 11				REP Lisa Harvey Moore	436	10	341	85
+99	Precinct 11				Over Votes	0	0	0	0
+100	Precinct 11				Under Votes	174	9	126	39
+101	Precinct 11	"Dist Judge, 135th Judicial Dist"							
+102	Precinct 11				REP Kemper Stephen Williams	429	7	338	84
+103	Precinct 11				Over Votes	0	0	0	0
+104	Precinct 11				Under Votes	181	12	129	40
+105	Precinct 11	"Dist Attorney, 24th Judicial Dist"							
+106	Precinct 11				REP Brian Michael Cromeens	430	9	338	83
+107	Precinct 11				Over Votes	0	0	0	0
+108	Precinct 11				Under Votes	180	10	129	41
+109	Precinct 11								
+110	Precinct 11	County Attorney							
+111	Precinct 11				Write-ins	142	4	90	48
+112	Precinct 11				Over Votes	0	0	0	0
+113	Precinct 11				Under Votes	468	15	377	76
+114	Precinct 11	Sheriff							
+115	Precinct 11				REP Roy Boyd Jr	455	9	355	91
+116	Precinct 11				Over Votes	0	0	0	0
+117	Precinct 11				Under Votes	155	10	112	33
+118	Precinct 11	County Tax Assessor-Collector							
+119	Precinct 11				REP Michelle Garcia	464	11	357	96
+120	Precinct 11				Over Votes	0	0	0	0
+121	Precinct 11				Under Votes	146	8	110	28
+122	Precinct 11	"County Commissioner, Precinct No. 1"							
+123	Precinct 11				REP Kenneth Edwards	473	12	367	94
+124	Precinct 11				Over Votes	0	0	0	0
+125	Precinct 11				Under Votes	137	7	100	30
+126	Precinct 11								
+127	Precinct 11	"Constable, Precinct No. 1"							
+128	Precinct 11				REP Kevin Story	435	9	336	90
+129	Precinct 11				Over Votes	0	0	0	0
+130	Precinct 11				Under Votes	175	10	131	34
+131	Precinct 12								
+132	Precinct 12	Registered Voters				509			
+133	Precinct 12	Ballots Cast				365	12	242	111
+134	Precinct 12	Ballots Cast - Blank				0	0	0	0
+135	Precinct 12	President							
+136	Precinct 12				REP Donald J. Trump	327	7	222	98
+137	Precinct 12				DEM Kamala D. Harris	35	5	18	12
+138	Precinct 12				LIB Chase Oliver	2	0	2	0
+139	Precinct 12				GRN Jill Stein	1	0	0	1
+140	Precinct 12				Write-ins	0	0	0	0
+141	Precinct 12				Over Votes	0	0	0	0
+142	Precinct 12				Under Votes	0	0	0	0
+143	Precinct 12	U.S. Senate							
+144	Precinct 12				REP Ted Cruz	316	7	215	94
+145	Precinct 12				DEM Colin Allred	41	3	24	14
+146	Precinct 12				LIB Ted Brown	4	1	1	2
+147	Precinct 12				Write-ins	0	0	0	0
+148	Precinct 12				Over Votes	0	0	0	0
+149	Precinct 12				Under Votes	4	1	2	1
+150	Precinct 12								
+151	Precinct 12	"US Representative, Dist 27"							
+152	Precinct 12				REP Michael Cloud	327	7	221	99
+153	Precinct 12				DEM Tanya Lloyd	28	4	13	11
+154	Precinct 12				Over Votes	0	0	0	0
+155	Precinct 12				Under Votes	10	1	8	1
+156	Precinct 12	Railroad Commissioner							
+157	Precinct 12				REP Christi Craddick	306	7	211	88
+158	Precinct 12				DEM Katherine Culbert	31	3	16	12
+159	Precinct 12				LIB Hawk Dunlap	10	1	5	4
+160	Precinct 12				GRN Eddie Espinoza	4	0	1	3
+161	Precinct 12				Write-ins	0	0	0	0
+162	Precinct 12				Over Votes	0	0	0	0
+163	Precinct 12				Under Votes	14	1	9	4
+164	Precinct 12	"Justice, Supreme Court, Pl 2"							
+165	Precinct 12				REP Jimmy Blacklock	313	7	214	92
+166	Precinct 12				DEM DaSean Jones	36	5	17	14
+167	Precinct 12				Over Votes	0	0	0	0
+168	Precinct 12				Under Votes	16	0	11	5
+169	Precinct 12	"Justice, Supreme Court, Pl 4"							
+170	Precinct 12				REP John Devine	316	7	214	95
+171	Precinct 12				DEM Christine Vinh Weems	35	4	19	12
+172	Precinct 12				Over Votes	0	0	0	0
+173	Precinct 12				Under Votes	14	1	9	4
+174	Precinct 12								
+175	Precinct 12	"Justice, Supreme Court, Pl 6"							
+176	Precinct 12				REP Jane Bland	308	7	209	92
+177	Precinct 12				DEM Bonnie Lee Goldstein	32	2	17	13
+178	Precinct 12				LIB J. David Roberson	9	2	5	2
+179	Precinct 12				Over Votes	0	0	0	0
+180	Precinct 12				Under Votes	16	1	11	4
+181	Precinct 12	"Presiding Judge, Ct of Crim App"							
+182	Precinct 12				REP David J. Schenck	314	8	215	91
+183	Precinct 12				DEM Holly Taylor	36	4	17	15
+184	Precinct 12				Over Votes	0	0	0	0
+185	Precinct 12				Under Votes	15	0	10	5
+186	Precinct 12	"Judge, Ct of Crim App, Pl 7"							
+187	Precinct 12				REP Gina Parker	311	8	211	92
+188	Precinct 12				DEM Nancy Mulder	33	3	18	12
+189	Precinct 12				Over Votes	0	0	0	0
+190	Precinct 12				Under Votes	21	1	13	7
+191	Precinct 12	"Judge, Ct of Crim App, Pl 8"							
+192	Precinct 12				REP Lee Finley	314	7	214	93
+193	Precinct 12				DEM Chika Anyiam	33	4	17	12
+194	Precinct 12				Over Votes	0	0	0	0
+195	Precinct 12				Under Votes	18	1	11	6
+196	Precinct 12								
+197	Precinct 12	"Member, State BoE, Dist 3"							
+198	Precinct 12				DEM Marisa Perez-Diaz	118	6	70	42
+199	Precinct 12				Over Votes	0	0	0	0
+200	Precinct 12				Under Votes	247	6	172	69
+201	Precinct 12	"State Representative, Dist 30"							
+202	Precinct 12				REP AJ Louderback	313	7	213	93
+203	Precinct 12				DEM Stephanie R. Bassham	36	4	19	13
+204	Precinct 12				Over Votes	0	0	0	0
+205	Precinct 12				Under Votes	16	1	10	5
+206	Precinct 12	"Chief Justice, 13th Ct of App Dist"							
+207	Precinct 12				REP Jaime Tijerina	311	8	212	91
+208	Precinct 12				DEM Gina Benavides	37	4	17	16
+209	Precinct 12				Over Votes	0	0	0	0
+210	Precinct 12				Under Votes	17	0	13	4
+211	Precinct 12	"Justice, 13th Ct of App Dist, Pl 2"							
+212	Precinct 12				REP Jenny Cron	306	7	212	87
+213	Precinct 12				DEM Nora Longoria	40	4	17	19
+214	Precinct 12				Over Votes	0	0	0	0
+215	Precinct 12				Under Votes	19	1	13	5
+216	Precinct 12								
+217	Precinct 12	"Justice, 13th Ct of App Dist, Pl 4"							
+218	Precinct 12				REP Ysmael D. Fonseca	313	9	212	92
+219	Precinct 12				DEM Joe Martinez	33	2	17	14
+220	Precinct 12				Over Votes	0	0	0	0
+221	Precinct 12				Under Votes	19	1	13	5
+222	Precinct 12	"Justice, 13th Ct of App Dist, Pl 5"							
+223	Precinct 12				REP Jon West	314	9	213	92
+224	Precinct 12				DEM Regi Compian Richardson	32	2	16	14
+225	Precinct 12				Over Votes	0	0	0	0
+226	Precinct 12				Under Votes	19	1	13	5
+227	Precinct 12	"Dist Judge, 24th Judicial Dist"							
+228	Precinct 12				REP Lisa Harvey Moore	325	11	216	98
+229	Precinct 12				Over Votes	0	0	0	0
+230	Precinct 12				Under Votes	40	1	26	13
+231	Precinct 12	"Dist Judge, 135th Judicial Dist"							
+232	Precinct 12				REP Kemper Stephen Williams	320	10	213	97
+233	Precinct 12				Over Votes	0	0	0	0
+234	Precinct 12				Under Votes	45	2	29	14
+235	Precinct 12	"Dist Attorney, 24th Judicial Dist"							
+236	Precinct 12				REP Brian Michael Cromeens	323	10	216	97
+237	Precinct 12				Over Votes	0	0	0	0
+238	Precinct 12				Under Votes	42	2	26	14
+239	Precinct 12								
+240	Precinct 12	County Attorney							
+241	Precinct 12				Write-ins	73	6	47	20
+242	Precinct 12				Over Votes	0	0	0	0
+243	Precinct 12				Under Votes	292	6	195	91
+244	Precinct 12	Sheriff							
+245	Precinct 12				REP Roy Boyd Jr	327	11	215	101
+246	Precinct 12				Over Votes	0	0	0	0
+247	Precinct 12				Under Votes	38	1	27	10
+248	Precinct 12	County Tax Assessor-Collector							
+249	Precinct 12				REP Michelle Garcia	321	10	214	97
+250	Precinct 12				Over Votes	0	0	0	0
+251	Precinct 12				Under Votes	44	2	28	14
+252	Precinct 12	"County Commissioner, Precinct No. 1"							
+253	Precinct 12				REP Kenneth Edwards	308	8	202	98
+254	Precinct 12				Over Votes	0	0	0	0
+255	Precinct 12				Under Votes	57	4	40	13
+256	Precinct 12								
+257	Precinct 12	"Constable, Precinct No. 1"							
+258	Precinct 12				REP Kevin Story	316	10	211	95
+259	Precinct 12				Over Votes	0	0	0	0
+260	Precinct 12				Under Votes	49	2	31	16
+261	Precinct 21								
+262	Precinct 21	Registered Voters				"1,184"			
+263	Precinct 21	Ballots Cast				696	28	537	131
+264	Precinct 21	Ballots Cast - Blank				0	0	0	0
+265	Precinct 21	President							
+266	Precinct 21				REP Donald J. Trump	448	11	349	88
+267	Precinct 21				DEM Kamala D. Harris	236	16	179	41
+268	Precinct 21				LIB Chase Oliver	4	0	2	2
+269	Precinct 21				GRN Jill Stein	3	0	3	0
+270	Precinct 21				Write-ins	1	0	1	0
+271	Precinct 21				Over Votes	0	0	0	0
+272	Precinct 21				Under Votes	4	1	3	0
+273	Precinct 21	U.S. Senate							
+274	Precinct 21				REP Ted Cruz	416	11	330	75
+275	Precinct 21				DEM Colin Allred	250	17	183	50
+276	Precinct 21				LIB Ted Brown	14	0	12	2
+277	Precinct 21				Write-ins	1	0	1	0
+278	Precinct 21				Over Votes	0	0	0	0
+279	Precinct 21				Under Votes	15	0	11	4
+280	Precinct 21								
+281	Precinct 21	"US Representative, Dist 27"							
+282	Precinct 21				REP Michael Cloud	441	11	358	72
+283	Precinct 21				DEM Tanya Lloyd	219	17	158	44
+284	Precinct 21				Over Votes	0	0	0	0
+285	Precinct 21				Under Votes	36	0	21	15
+286	Precinct 21	Railroad Commissioner							
+287	Precinct 21				REP Christi Craddick	411	12	334	65
+288	Precinct 21				DEM Katherine Culbert	208	15	153	40
+289	Precinct 21				LIB Hawk Dunlap	12	0	8	4
+290	Precinct 21				GRN Eddie Espinoza	12	0	8	4
+291	Precinct 21				Write-ins	0	0	0	0
+292	Precinct 21				Over Votes	0	0	0	0
+293	Precinct 21				Under Votes	53	1	34	18
+294	Precinct 21	"Justice, Supreme Court, Pl 2"							
+295	Precinct 21				REP Jimmy Blacklock	427	12	344	71
+296	Precinct 21				DEM DaSean Jones	218	15	162	41
+297	Precinct 21				Over Votes	0	0	0	0
+298	Precinct 21				Under Votes	51	1	31	19
+299	Precinct 21	"Justice, Supreme Court, Pl 4"							
+300	Precinct 21				REP John Devine	421	12	341	68
+301	Precinct 21				DEM Christine Vinh Weems	221	15	164	42
+302	Precinct 21				Over Votes	0	0	0	0
+303	Precinct 21				Under Votes	54	1	32	21
+304	Precinct 21								
+305	Precinct 21	"Justice, Supreme Court, Pl 6"							
+306	Precinct 21				REP Jane Bland	411	11	330	70
+307	Precinct 21				DEM Bonnie Lee Goldstein	213	16	162	35
+308	Precinct 21				LIB J. David Roberson	12	0	7	5
+309	Precinct 21				Over Votes	0	0	0	0
+310	Precinct 21				Under Votes	60	1	38	21
+311	Precinct 21	"Presiding Judge, Ct of Crim App"							
+312	Precinct 21				REP David J. Schenck	411	11	328	72
+313	Precinct 21				DEM Holly Taylor	223	16	169	38
+314	Precinct 21				Over Votes	0	0	0	0
+315	Precinct 21				Under Votes	62	1	40	21
+316	Precinct 21	"Judge, Ct of Crim App, Pl 7"							
+317	Precinct 21				REP Gina Parker	418	11	333	74
+318	Precinct 21				DEM Nancy Mulder	210	16	159	35
+319	Precinct 21				Over Votes	0	0	0	0
+320	Precinct 21				Under Votes	68	1	45	22
+321	Precinct 21	"Judge, Ct of Crim App, Pl 8"							
+322	Precinct 21				REP Lee Finley	425	11	342	72
+323	Precinct 21				DEM Chika Anyiam	207	16	152	39
+324	Precinct 21				Over Votes	0	0	0	0
+325	Precinct 21				Under Votes	64	1	43	20
+326	Precinct 21								
+327	Precinct 21	"Member, State BoE, Dist 3"							
+328	Precinct 21				DEM Marisa Perez-Diaz	326	17	246	63
+329	Precinct 21				Over Votes	0	0	0	0
+330	Precinct 21				Under Votes	370	11	291	68
+331	Precinct 21	"State Representative, Dist 30"							
+332	Precinct 21				REP AJ Louderback	422	11	339	72
+333	Precinct 21				DEM Stephanie R. Bassham	222	16	166	40
+334	Precinct 21				Over Votes	0	0	0	0
+335	Precinct 21				Under Votes	52	1	32	19
+336	Precinct 21	"Chief Justice, 13th Ct of App Dist"							
+337	Precinct 21				REP Jaime Tijerina	403	11	324	68
+338	Precinct 21				DEM Gina Benavides	223	16	162	45
+339	Precinct 21				Over Votes	0	0	0	0
+340	Precinct 21				Under Votes	70	1	51	18
+341	Precinct 21	"Justice, 13th Ct of App Dist, Pl 2"							
+342	Precinct 21				REP Jenny Cron	399	11	321	67
+343	Precinct 21				DEM Nora Longoria	224	15	165	44
+344	Precinct 21				Over Votes	0	0	0	0
+345	Precinct 21				Under Votes	73	2	51	20
+346	Precinct 21								
+347	Precinct 21	"Justice, 13th Ct of App Dist, Pl 4"							
+348	Precinct 21				REP Ysmael D. Fonseca	397	11	319	67
+349	Precinct 21				DEM Joe Martinez	227	16	168	43
+350	Precinct 21				Over Votes	0	0	0	0
+351	Precinct 21				Under Votes	72	1	50	21
+352	Precinct 21	"Justice, 13th Ct of App Dist, Pl 5"							
+353	Precinct 21				REP Jon West	415	11	334	70
+354	Precinct 21				DEM Regi Compian Richardson	204	16	149	39
+355	Precinct 21				Over Votes	0	0	0	0
+356	Precinct 21				Under Votes	77	1	54	22
+357	Precinct 21	"Dist Judge, 24th Judicial Dist"							
+358	Precinct 21				REP Lisa Harvey Moore	466	11	381	74
+359	Precinct 21				Over Votes	0	0	0	0
+360	Precinct 21				Under Votes	230	17	156	57
+361	Precinct 21	"Dist Judge, 135th Judicial Dist"							
+362	Precinct 21				REP Kemper Stephen Williams	482	11	394	77
+363	Precinct 21				Over Votes	0	0	0	0
+364	Precinct 21				Under Votes	214	17	143	54
+365	Precinct 21	"Dist Attorney, 24th Judicial Dist"							
+366	Precinct 21				REP Brian Michael Cromeens	469	11	383	75
+367	Precinct 21				Over Votes	0	0	0	0
+368	Precinct 21				Under Votes	227	17	154	56
+369	Precinct 21								
+370	Precinct 21	County Attorney							
+371	Precinct 21				Write-ins	161	5	127	29
+372	Precinct 21				Over Votes	0	0	0	0
+373	Precinct 21				Under Votes	535	23	410	102
+374	Precinct 21	Sheriff							
+375	Precinct 21				REP Roy Boyd Jr	487	11	390	86
+376	Precinct 21				Over Votes	0	0	0	0
+377	Precinct 21				Under Votes	209	17	147	45
+378	Precinct 21	County Tax Assessor-Collector							
+379	Precinct 21				REP Michelle Garcia	513	14	409	90
+380	Precinct 21				Over Votes	0	0	0	0
+381	Precinct 21				Under Votes	183	14	128	41
+382	Precinct 21	"Constable, Precinct No. 1"							
+383	Precinct 21				REP Kevin Story	452	12	366	74
+384	Precinct 21				Over Votes	0	0	0	0
+385	Precinct 21				Under Votes	244	16	171	57
+386	Precinct 22								
+387	Precinct 22	Registered Voters				279			
+388	Precinct 22	Ballots Cast				186	6	113	67
+389	Precinct 22	Ballots Cast - Blank				0	0	0	0
+390	Precinct 22	President							
+391	Precinct 22				REP Donald J. Trump	150	3	102	45
+392	Precinct 22				DEM Kamala D. Harris	35	3	11	21
+393	Precinct 22				LIB Chase Oliver	1	0	0	1
+394	Precinct 22				GRN Jill Stein	0	0	0	0
+395	Precinct 22				Write-ins	0	0	0	0
+396	Precinct 22				Over Votes	0	0	0	0
+397	Precinct 22				Under Votes	0	0	0	0
+398	Precinct 22	U.S. Senate							
+399	Precinct 22				REP Ted Cruz	138	3	96	39
+400	Precinct 22				DEM Colin Allred	40	3	12	25
+401	Precinct 22				LIB Ted Brown	3	0	2	1
+402	Precinct 22				Write-ins	0	0	0	0
+403	Precinct 22				Over Votes	0	0	0	0
+404	Precinct 22				Under Votes	5	0	3	2
+405	Precinct 22								
+406	Precinct 22	"US Representative, Dist 27"							
+407	Precinct 22				REP Michael Cloud	137	3	96	38
+408	Precinct 22				DEM Tanya Lloyd	37	3	11	23
+409	Precinct 22				Over Votes	0	0	0	0
+410	Precinct 22				Under Votes	12	0	6	6
+411	Precinct 22	Railroad Commissioner							
+412	Precinct 22				REP Christi Craddick	131	3	96	32
+413	Precinct 22				DEM Katherine Culbert	36	3	10	23
+414	Precinct 22				LIB Hawk Dunlap	6	0	2	4
+415	Precinct 22				GRN Eddie Espinoza	4	0	1	3
+416	Precinct 22				Write-ins	0	0	0	0
+417	Precinct 22				Over Votes	0	0	0	0
+418	Precinct 22				Under Votes	9	0	4	5
+419	Precinct 22	"Justice, Supreme Court, Pl 2"							
+420	Precinct 22				REP Jimmy Blacklock	138	3	96	39
+421	Precinct 22				DEM DaSean Jones	36	3	12	21
+422	Precinct 22				Over Votes	0	0	0	0
+423	Precinct 22				Under Votes	12	0	5	7
+424	Precinct 22	"Justice, Supreme Court, Pl 4"							
+425	Precinct 22				REP John Devine	135	3	97	35
+426	Precinct 22				DEM Christine Vinh Weems	37	3	11	23
+427	Precinct 22				Over Votes	0	0	0	0
+428	Precinct 22				Under Votes	14	0	5	9
+429	Precinct 22								
+430	Precinct 22	"Justice, Supreme Court, Pl 6"							
+431	Precinct 22				REP Jane Bland	134	3	95	36
+432	Precinct 22				DEM Bonnie Lee Goldstein	37	3	13	21
+433	Precinct 22				LIB J. David Roberson	6	0	2	4
+434	Precinct 22				Over Votes	0	0	0	0
+435	Precinct 22				Under Votes	9	0	3	6
+436	Precinct 22	"Presiding Judge, Ct of Crim App"							
+437	Precinct 22				REP David J. Schenck	139	3	98	38
+438	Precinct 22				DEM Holly Taylor	37	3	12	22
+439	Precinct 22				Over Votes	0	0	0	0
+440	Precinct 22				Under Votes	10	0	3	7
+441	Precinct 22	"Judge, Ct of Crim App, Pl 7"							
+442	Precinct 22				REP Gina Parker	140	3	99	38
+443	Precinct 22				DEM Nancy Mulder	35	3	10	22
+444	Precinct 22				Over Votes	0	0	0	0
+445	Precinct 22				Under Votes	11	0	4	7
+446	Precinct 22	"Judge, Ct of Crim App, Pl 8"							
+447	Precinct 22				REP Lee Finley	138	3	98	37
+448	Precinct 22				DEM Chika Anyiam	36	3	11	22
+449	Precinct 22				Over Votes	0	0	0	0
+450	Precinct 22				Under Votes	12	0	4	8
+451	Precinct 22								
+452	Precinct 22	"Member, State BoE, Dist 3"							
+453	Precinct 22				DEM Marisa Perez-Diaz	67	3	28	36
+454	Precinct 22				Over Votes	0	0	0	0
+455	Precinct 22				Under Votes	119	3	85	31
+456	Precinct 22	"State Representative, Dist 30"							
+457	Precinct 22				REP AJ Louderback	137	3	98	36
+458	Precinct 22				DEM Stephanie R. Bassham	35	3	8	24
+459	Precinct 22				Over Votes	0	0	0	0
+460	Precinct 22				Under Votes	14	0	7	7
+461	Precinct 22	"Chief Justice, 13th Ct of App Dist"							
+462	Precinct 22				REP Jaime Tijerina	133	3	96	34
+463	Precinct 22				DEM Gina Benavides	40	3	10	27
+464	Precinct 22				Over Votes	0	0	0	0
+465	Precinct 22				Under Votes	13	0	7	6
+466	Precinct 22	"Justice, 13th Ct of App Dist, Pl 2"							
+467	Precinct 22				REP Jenny Cron	131	3	95	33
+468	Precinct 22				DEM Nora Longoria	40	3	12	25
+469	Precinct 22				Over Votes	0	0	0	0
+470	Precinct 22				Under Votes	15	0	6	9
+471	Precinct 22								
+472	Precinct 22	"Justice, 13th Ct of App Dist, Pl 4"							
+473	Precinct 22				REP Ysmael D. Fonseca	131	3	95	33
+474	Precinct 22				DEM Joe Martinez	40	3	11	26
+475	Precinct 22				Over Votes	0	0	0	0
+476	Precinct 22				Under Votes	15	0	7	8
+477	Precinct 22	"Justice, 13th Ct of App Dist, Pl 5"							
+478	Precinct 22				REP Jon West	135	3	96	36
+479	Precinct 22				DEM Regi Compian Richardson	36	2	10	24
+480	Precinct 22				Over Votes	0	0	0	0
+481	Precinct 22				Under Votes	15	1	7	7
+482	Precinct 22	"Dist Judge, 24th Judicial Dist"							
+483	Precinct 22				REP Lisa Harvey Moore	150	4	99	47
+484	Precinct 22				Over Votes	0	0	0	0
+485	Precinct 22				Under Votes	36	2	14	20
+486	Precinct 22	"Dist Judge, 135th Judicial Dist"							
+487	Precinct 22				REP Kemper Stephen Williams	149	4	99	46
+488	Precinct 22				Over Votes	0	0	0	0
+489	Precinct 22				Under Votes	37	2	14	21
+490	Precinct 22	"Dist Attorney, 24th Judicial Dist"							
+491	Precinct 22				REP Brian Michael Cromeens	149	4	100	45
+492	Precinct 22				Over Votes	0	0	0	0
+493	Precinct 22				Under Votes	37	2	13	22
+494	Precinct 22								
+495	Precinct 22	County Attorney							
+496	Precinct 22				Write-ins	40	4	21	15
+497	Precinct 22				Over Votes	0	0	0	0
+498	Precinct 22				Under Votes	146	2	92	52
+499	Precinct 22	Sheriff							
+500	Precinct 22				REP Roy Boyd Jr	156	4	105	47
+501	Precinct 22				Over Votes	0	0	0	0
+502	Precinct 22				Under Votes	30	2	8	20
+503	Precinct 22	County Tax Assessor-Collector							
+504	Precinct 22				REP Michelle Garcia	158	5	101	52
+505	Precinct 22				Over Votes	0	0	0	0
+506	Precinct 22				Under Votes	28	1	12	15
+507	Precinct 22	"Constable, Precinct No. 1"							
+508	Precinct 22				REP Kevin Story	151	4	100	47
+509	Precinct 22				Over Votes	0	0	0	0
+510	Precinct 22				Under Votes	35	2	13	20
+511	Precinct 31								
+512	Precinct 31	Registered Voters				643			
+513	Precinct 31	Ballots Cast				462	14	360	88
+514	Precinct 31	Ballots Cast - Blank				0	0	0	0
+515	Precinct 31	President							
+516	Precinct 31				REP Donald J. Trump	369	11	297	61
+517	Precinct 31				DEM Kamala D. Harris	84	3	57	24
+518	Precinct 31				LIB Chase Oliver	3	0	2	1
+519	Precinct 31				GRN Jill Stein	4	0	3	1
+520	Precinct 31				Write-ins	0	0	0	0
+521	Precinct 31				Over Votes	0	0	0	0
+522	Precinct 31				Under Votes	2	0	1	1
+523	Precinct 31	U.S. Senate							
+524	Precinct 31				REP Ted Cruz	351	11	281	59
+525	Precinct 31				DEM Colin Allred	94	3	66	25
+526	Precinct 31				LIB Ted Brown	9	0	7	2
+527	Precinct 31				Write-ins	1	0	0	1
+528	Precinct 31				Over Votes	0	0	0	0
+529	Precinct 31				Under Votes	7	0	6	1
+530	Precinct 31								
+531	Precinct 31	"US Representative, Dist 27"							
+532	Precinct 31				REP Michael Cloud	358	11	288	59
+533	Precinct 31				DEM Tanya Lloyd	84	3	56	25
+534	Precinct 31				Over Votes	0	0	0	0
+535	Precinct 31				Under Votes	20	0	16	4
+536	Precinct 31	Railroad Commissioner							
+537	Precinct 31				REP Christi Craddick	331	9	269	53
+538	Precinct 31				DEM Katherine Culbert	77	4	51	22
+539	Precinct 31				LIB Hawk Dunlap	14	1	12	1
+540	Precinct 31				GRN Eddie Espinoza	17	0	10	7
+541	Precinct 31				Write-ins	0	0	0	0
+542	Precinct 31				Over Votes	2	0	1	1
+543	Precinct 31				Under Votes	21	0	17	4
+544	Precinct 31	"Justice, Supreme Court, Pl 2"							
+545	Precinct 31				REP Jimmy Blacklock	349	11	284	54
+546	Precinct 31				DEM DaSean Jones	87	3	55	29
+547	Precinct 31				Over Votes	0	0	0	0
+548	Precinct 31				Under Votes	26	0	21	5
+549	Precinct 31	"Justice, Supreme Court, Pl 4"							
+550	Precinct 31				REP John Devine	344	10	277	57
+551	Precinct 31				DEM Christine Vinh Weems	90	4	59	27
+552	Precinct 31				Over Votes	0	0	0	0
+553	Precinct 31				Under Votes	28	0	24	4
+554	Precinct 31								
+555	Precinct 31	"Justice, Supreme Court, Pl 6"							
+556	Precinct 31				REP Jane Bland	339	9	276	54
+557	Precinct 31				DEM Bonnie Lee Goldstein	83	3	55	25
+558	Precinct 31				LIB J. David Roberson	14	2	7	5
+559	Precinct 31				Over Votes	0	0	0	0
+560	Precinct 31				Under Votes	26	0	22	4
+561	Precinct 31	"Presiding Judge, Ct of Crim App"							
+562	Precinct 31				REP David J. Schenck	348	10	279	59
+563	Precinct 31				DEM Holly Taylor	88	4	58	26
+564	Precinct 31				Over Votes	0	0	0	0
+565	Precinct 31				Under Votes	26	0	23	3
+566	Precinct 31	"Judge, Ct of Crim App, Pl 7"							
+567	Precinct 31				REP Gina Parker	348	11	281	56
+568	Precinct 31				DEM Nancy Mulder	81	3	54	24
+569	Precinct 31				Over Votes	0	0	0	0
+570	Precinct 31				Under Votes	33	0	25	8
+571	Precinct 31	"Judge, Ct of Crim App, Pl 8"							
+572	Precinct 31				REP Lee Finley	348	11	283	54
+573	Precinct 31				DEM Chika Anyiam	82	3	53	26
+574	Precinct 31				Over Votes	0	0	0	0
+575	Precinct 31				Under Votes	32	0	24	8
+576	Precinct 31								
+577	Precinct 31	"Member, State BoE, Dist 3"							
+578	Precinct 31				DEM Marisa Perez-Diaz	181	6	131	44
+579	Precinct 31				Over Votes	0	0	0	0
+580	Precinct 31				Under Votes	281	8	229	44
+581	Precinct 31	"State Representative, Dist 30"							
+582	Precinct 31				REP AJ Louderback	345	11	277	57
+583	Precinct 31				DEM Stephanie R. Bassham	94	3	64	27
+584	Precinct 31				Over Votes	0	0	0	0
+585	Precinct 31				Under Votes	23	0	19	4
+586	Precinct 31	"Chief Justice, 13th Ct of App Dist"							
+587	Precinct 31				REP Jaime Tijerina	340	11	274	55
+588	Precinct 31				DEM Gina Benavides	88	3	59	26
+589	Precinct 31				Over Votes	0	0	0	0
+590	Precinct 31				Under Votes	34	0	27	7
+591	Precinct 31	"Justice, 13th Ct of App Dist, Pl 2"							
+592	Precinct 31				REP Jenny Cron	341	11	274	56
+593	Precinct 31				DEM Nora Longoria	86	3	59	24
+594	Precinct 31				Over Votes	0	0	0	0
+595	Precinct 31				Under Votes	35	0	27	8
+596	Precinct 31								
+597	Precinct 31	"Justice, 13th Ct of App Dist, Pl 4"							
+598	Precinct 31				REP Ysmael D. Fonseca	338	11	271	56
+599	Precinct 31				DEM Joe Martinez	89	3	61	25
+600	Precinct 31				Over Votes	0	0	0	0
+601	Precinct 31				Under Votes	35	0	28	7
+602	Precinct 31	"Justice, 13th Ct of App Dist, Pl 5"							
+603	Precinct 31				REP Jon West	347	11	280	56
+604	Precinct 31				DEM Regi Compian Richardson	77	3	50	24
+605	Precinct 31				Over Votes	0	0	0	0
+606	Precinct 31				Under Votes	38	0	30	8
+607	Precinct 31	"Dist Judge, 24th Judicial Dist"							
+608	Precinct 31				REP Lisa Harvey Moore	376	11	298	67
+609	Precinct 31				Over Votes	0	0	0	0
+610	Precinct 31				Under Votes	86	3	62	21
+611	Precinct 31	"Dist Judge, 135th Judicial Dist"							
+612	Precinct 31				REP Kemper Stephen Williams	378	10	301	67
+613	Precinct 31				Over Votes	0	0	0	0
+614	Precinct 31				Under Votes	84	4	59	21
+615	Precinct 31	"Dist Attorney, 24th Judicial Dist"							
+616	Precinct 31				REP Brian Michael Cromeens	383	11	305	67
+617	Precinct 31				Over Votes	0	0	0	0
+618	Precinct 31				Under Votes	79	3	55	21
+619	Precinct 31								
+620	Precinct 31	County Attorney							
+621	Precinct 31				Write-ins	108	2	83	23
+622	Precinct 31				Over Votes	0	0	0	0
+623	Precinct 31				Under Votes	354	12	277	65
+624	Precinct 31	Sheriff							
+625	Precinct 31				REP Roy Boyd Jr	386	11	304	71
+626	Precinct 31				Over Votes	0	0	0	0
+627	Precinct 31				Under Votes	76	3	56	17
+628	Precinct 31	County Tax Assessor-Collector							
+629	Precinct 31				REP Michelle Garcia	388	11	304	73
+630	Precinct 31				Over Votes	0	0	0	0
+631	Precinct 31				Under Votes	74	3	56	15
+632	Precinct 31	"County Commissioner, Precinct No. 3"							
+633	Precinct 31				REP Kirby Brumby	362	11	287	64
+634	Precinct 31				Over Votes	0	0	0	0
+635	Precinct 31				Under Votes	100	3	73	24
+636	Precinct 31								
+637	Precinct 31	"Constable, Precinct No. 2"							
+638	Precinct 31				REP Bill Zappe	375	10	297	68
+639	Precinct 31				Over Votes	0	0	0	0
+640	Precinct 31				Under Votes	87	4	63	20
+641	Precinct 32								
+642	Precinct 32	Registered Voters				644			
+643	Precinct 32	Ballots Cast				511	14	351	146
+644	Precinct 32	Ballots Cast - Blank				1	0	1	0
+645	Precinct 32	President							
+646	Precinct 32				REP Donald J. Trump	452	11	314	127
+647	Precinct 32				DEM Kamala D. Harris	53	3	33	17
+648	Precinct 32				LIB Chase Oliver	3	0	1	2
+649	Precinct 32				GRN Jill Stein	1	0	1	0
+650	Precinct 32				Write-ins	1	0	1	0
+651	Precinct 32				Over Votes	0	0	0	0
+652	Precinct 32				Under Votes	1	0	1	0
+653	Precinct 32	U.S. Senate							
+654	Precinct 32				REP Ted Cruz	438	10	310	118
+655	Precinct 32				DEM Colin Allred	62	3	36	23
+656	Precinct 32				LIB Ted Brown	6	0	4	2
+657	Precinct 32				Write-ins	0	0	0	0
+658	Precinct 32				Over Votes	0	0	0	0
+659	Precinct 32				Under Votes	5	1	1	3
+660	Precinct 32								
+661	Precinct 32	"US Representative, Dist 27"							
+662	Precinct 32				REP Michael Cloud	445	11	308	126
+663	Precinct 32				DEM Tanya Lloyd	47	3	29	15
+664	Precinct 32				Over Votes	0	0	0	0
+665	Precinct 32				Under Votes	19	0	14	5
+666	Precinct 32	Railroad Commissioner							
+667	Precinct 32				REP Christi Craddick	429	11	299	119
+668	Precinct 32				DEM Katherine Culbert	44	3	27	14
+669	Precinct 32				LIB Hawk Dunlap	14	0	10	4
+670	Precinct 32				GRN Eddie Espinoza	3	0	0	3
+671	Precinct 32				Write-ins	1	0	1	0
+672	Precinct 32				Over Votes	0	0	0	0
+673	Precinct 32				Under Votes	20	0	14	6
+674	Precinct 32	"Justice, Supreme Court, Pl 2"							
+675	Precinct 32				REP Jimmy Blacklock	444	12	308	124
+676	Precinct 32				DEM DaSean Jones	43	2	28	13
+677	Precinct 32				Over Votes	0	0	0	0
+678	Precinct 32				Under Votes	24	0	15	9
+679	Precinct 32	"Justice, Supreme Court, Pl 4"							
+680	Precinct 32				REP John Devine	437	12	303	122
+681	Precinct 32				DEM Christine Vinh Weems	47	2	31	14
+682	Precinct 32				Over Votes	0	0	0	0
+683	Precinct 32				Under Votes	27	0	17	10
+684	Precinct 32								
+685	Precinct 32	"Justice, Supreme Court, Pl 6"							
+686	Precinct 32				REP Jane Bland	429	12	298	119
+687	Precinct 32				DEM Bonnie Lee Goldstein	46	2	29	15
+688	Precinct 32				LIB J. David Roberson	9	0	6	3
+689	Precinct 32				Over Votes	0	0	0	0
+690	Precinct 32				Under Votes	27	0	18	9
+691	Precinct 32	"Presiding Judge, Ct of Crim App"							
+692	Precinct 32				REP David J. Schenck	435	12	305	118
+693	Precinct 32				DEM Holly Taylor	48	2	29	17
+694	Precinct 32				Over Votes	0	0	0	0
+695	Precinct 32				Under Votes	28	0	17	11
+696	Precinct 32	"Judge, Ct of Crim App, Pl 7"							
+697	Precinct 32				REP Gina Parker	432	12	298	122
+698	Precinct 32				DEM Nancy Mulder	45	2	29	14
+699	Precinct 32				Over Votes	0	0	0	0
+700	Precinct 32				Under Votes	34	0	24	10
+701	Precinct 32	"Judge, Ct of Crim App, Pl 8"							
+702	Precinct 32				REP Lee Finley	437	11	304	122
+703	Precinct 32				DEM Chika Anyiam	48	3	30	15
+704	Precinct 32				Over Votes	0	0	0	0
+705	Precinct 32				Under Votes	26	0	17	9
+706	Precinct 32								
+707	Precinct 32	"Member, State BoE, Dist 3"							
+708	Precinct 32				DEM Marisa Perez-Diaz	159	8	97	54
+709	Precinct 32				Over Votes	0	0	0	0
+710	Precinct 32				Under Votes	352	6	254	92
+711	Precinct 32	"State Representative, Dist 30"							
+712	Precinct 32				REP AJ Louderback	436	11	305	120
+713	Precinct 32				DEM Stephanie R. Bassham	49	2	30	17
+714	Precinct 32				Over Votes	0	0	0	0
+715	Precinct 32				Under Votes	26	1	16	9
+716	Precinct 32	"Chief Justice, 13th Ct of App Dist"							
+717	Precinct 32				REP Jaime Tijerina	434	12	302	120
+718	Precinct 32				DEM Gina Benavides	47	2	28	17
+719	Precinct 32				Over Votes	0	0	0	0
+720	Precinct 32				Under Votes	30	0	21	9
+721	Precinct 32	"Justice, 13th Ct of App Dist, Pl 2"							
+722	Precinct 32				REP Jenny Cron	433	11	302	120
+723	Precinct 32				DEM Nora Longoria	52	3	32	17
+724	Precinct 32				Over Votes	0	0	0	0
+725	Precinct 32				Under Votes	26	0	17	9
+726	Precinct 32								
+727	Precinct 32	"Justice, 13th Ct of App Dist, Pl 4"							
+728	Precinct 32				REP Ysmael D. Fonseca	427	10	298	119
+729	Precinct 32				DEM Joe Martinez	50	3	30	17
+730	Precinct 32				Over Votes	0	0	0	0
+731	Precinct 32				Under Votes	34	1	23	10
+732	Precinct 32	"Justice, 13th Ct of App Dist, Pl 5"							
+733	Precinct 32				REP Jon West	435	11	301	123
+734	Precinct 32				DEM Regi Compian Richardson	45	3	28	14
+735	Precinct 32				Over Votes	0	0	0	0
+736	Precinct 32				Under Votes	31	0	22	9
+737	Precinct 32	"Dist Judge, 24th Judicial Dist"							
+738	Precinct 32				REP Lisa Harvey Moore	443	12	306	125
+739	Precinct 32				Over Votes	0	0	0	0
+740	Precinct 32				Under Votes	68	2	45	21
+741	Precinct 32	"Dist Judge, 135th Judicial Dist"							
+742	Precinct 32				REP Kemper Stephen Williams	440	12	304	124
+743	Precinct 32				Over Votes	0	0	0	0
+744	Precinct 32				Under Votes	71	2	47	22
+745	Precinct 32	"Dist Attorney, 24th Judicial Dist"							
+746	Precinct 32				REP Brian Michael Cromeens	442	12	306	124
+747	Precinct 32				Over Votes	0	0	0	0
+748	Precinct 32				Under Votes	69	2	45	22
+749	Precinct 32								
+750	Precinct 32	County Attorney							
+751	Precinct 32				Write-ins	110	1	83	26
+752	Precinct 32				Over Votes	0	0	0	0
+753	Precinct 32				Under Votes	401	13	268	120
+754	Precinct 32	Sheriff							
+755	Precinct 32				REP Roy Boyd Jr	440	13	302	125
+756	Precinct 32				Over Votes	0	0	0	0
+757	Precinct 32				Under Votes	71	1	49	21
+758	Precinct 32	County Tax Assessor-Collector							
+759	Precinct 32				REP Michelle Garcia	432	13	297	122
+760	Precinct 32				Over Votes	0	0	0	0
+761	Precinct 32				Under Votes	79	1	54	24
+762	Precinct 32	"County Commissioner, Precinct No. 3"							
+763	Precinct 32				REP Kirby Brumby	423	12	289	122
+764	Precinct 32				Over Votes	0	0	0	0
+765	Precinct 32				Under Votes	88	2	62	24
+766	Precinct 32								
+767	Precinct 32	"Constable, Precinct No. 2"							
+768	Precinct 32				REP Bill Zappe	425	13	287	125
+769	Precinct 32				Over Votes	0	0	0	0
+770	Precinct 32				Under Votes	86	1	64	21
+771	Precinct 41								
+772	Precinct 41	Registered Voters				398			
+773	Precinct 41	Ballots Cast				308	17	212	79
+774	Precinct 41	Ballots Cast - Blank				0	0	0	0
+775	Precinct 41	President							
+776	Precinct 41				REP Donald J. Trump	262	10	184	68
+777	Precinct 41				DEM Kamala D. Harris	46	7	28	11
+778	Precinct 41				LIB Chase Oliver	0	0	0	0
+779	Precinct 41				GRN Jill Stein	0	0	0	0
+780	Precinct 41				Write-ins	0	0	0	0
+781	Precinct 41				Over Votes	0	0	0	0
+782	Precinct 41				Under Votes	0	0	0	0
+783	Precinct 41	U.S. Senate							
+784	Precinct 41				REP Ted Cruz	254	10	179	65
+785	Precinct 41				DEM Colin Allred	45	6	28	11
+786	Precinct 41				LIB Ted Brown	5	0	3	2
+787	Precinct 41				Write-ins	3	0	2	1
+788	Precinct 41				Over Votes	0	0	0	0
+789	Precinct 41				Under Votes	1	1	0	0
+790	Precinct 41								
+791	Precinct 41	"US Representative, Dist 27"							
+792	Precinct 41				REP Michael Cloud	263	10	184	69
+793	Precinct 41				DEM Tanya Lloyd	40	6	24	10
+794	Precinct 41				Over Votes	0	0	0	0
+795	Precinct 41				Under Votes	5	1	4	0
+796	Precinct 41	Railroad Commissioner							
+797	Precinct 41				REP Christi Craddick	255	10	180	65
+798	Precinct 41				DEM Katherine Culbert	34	6	19	9
+799	Precinct 41				LIB Hawk Dunlap	5	0	2	3
+800	Precinct 41				GRN Eddie Espinoza	4	0	2	2
+801	Precinct 41				Write-ins	0	0	0	0
+802	Precinct 41				Over Votes	0	0	0	0
+803	Precinct 41				Under Votes	10	1	9	0
+804	Precinct 41	"Justice, Supreme Court, Pl 2"							
+805	Precinct 41				REP Jimmy Blacklock	255	10	178	67
+806	Precinct 41				DEM DaSean Jones	42	6	24	12
+807	Precinct 41				Over Votes	0	0	0	0
+808	Precinct 41				Under Votes	11	1	10	0
+809	Precinct 41	"Justice, Supreme Court, Pl 4"							
+810	Precinct 41				REP John Devine	251	9	176	66
+811	Precinct 41				DEM Christine Vinh Weems	42	6	24	12
+812	Precinct 41				Over Votes	0	0	0	0
+813	Precinct 41				Under Votes	15	2	12	1
+814	Precinct 41								
+815	Precinct 41	"Justice, Supreme Court, Pl 6"							
+816	Precinct 41				REP Jane Bland	249	9	173	67
+817	Precinct 41				DEM Bonnie Lee Goldstein	40	6	23	11
+818	Precinct 41				LIB J. David Roberson	5	0	4	1
+819	Precinct 41				Over Votes	0	0	0	0
+820	Precinct 41				Under Votes	14	2	12	0
+821	Precinct 41	"Presiding Judge, Ct of Crim App"							
+822	Precinct 41				REP David J. Schenck	248	10	172	66
+823	Precinct 41				DEM Holly Taylor	44	6	26	12
+824	Precinct 41				Over Votes	0	0	0	0
+825	Precinct 41				Under Votes	16	1	14	1
+826	Precinct 41	"Judge, Ct of Crim App, Pl 7"							
+827	Precinct 41				REP Gina Parker	248	10	174	64
+828	Precinct 41				DEM Nancy Mulder	40	6	22	12
+829	Precinct 41				Over Votes	0	0	0	0
+830	Precinct 41				Under Votes	20	1	16	3
+831	Precinct 41	"Judge, Ct of Crim App, Pl 8"							
+832	Precinct 41				REP Lee Finley	255	10	177	68
+833	Precinct 41				DEM Chika Anyiam	36	6	20	10
+834	Precinct 41				Over Votes	0	0	0	0
+835	Precinct 41				Under Votes	17	1	15	1
+836	Precinct 41								
+837	Precinct 41	"Member, State BoE, Dist 3"							
+838	Precinct 41				DEM Marisa Perez-Diaz	94	10	61	23
+839	Precinct 41				Over Votes	0	0	0	0
+840	Precinct 41				Under Votes	214	7	151	56
+841	Precinct 41	"State Representative, Dist 30"							
+842	Precinct 41				REP AJ Louderback	255	9	178	68
+843	Precinct 41				DEM Stephanie R. Bassham	42	5	27	10
+844	Precinct 41				Over Votes	0	0	0	0
+845	Precinct 41				Under Votes	11	3	7	1
+846	Precinct 41	"Chief Justice, 13th Ct of App Dist"							
+847	Precinct 41				REP Jaime Tijerina	249	10	172	67
+848	Precinct 41				DEM Gina Benavides	42	5	26	11
+849	Precinct 41				Over Votes	0	0	0	0
+850	Precinct 41				Under Votes	17	2	14	1
+851	Precinct 41	"Justice, 13th Ct of App Dist, Pl 2"							
+852	Precinct 41				REP Jenny Cron	248	10	173	65
+853	Precinct 41				DEM Nora Longoria	40	5	24	11
+854	Precinct 41				Over Votes	0	0	0	0
+855	Precinct 41				Under Votes	20	2	15	3
+856	Precinct 41								
+857	Precinct 41	"Justice, 13th Ct of App Dist, Pl 4"							
+858	Precinct 41				REP Ysmael D. Fonseca	249	10	171	68
+859	Precinct 41				DEM Joe Martinez	39	5	24	10
+860	Precinct 41				Over Votes	0	0	0	0
+861	Precinct 41				Under Votes	20	2	17	1
+862	Precinct 41	"Justice, 13th Ct of App Dist, Pl 5"							
+863	Precinct 41				REP Jon West	255	10	176	69
+864	Precinct 41				DEM Regi Compian Richardson	38	5	24	9
+865	Precinct 41				Over Votes	0	0	0	0
+866	Precinct 41				Under Votes	15	2	12	1
+867	Precinct 41	"Dist Judge, 24th Judicial Dist"							
+868	Precinct 41				REP Lisa Harvey Moore	266	11	184	71
+869	Precinct 41				Over Votes	0	0	0	0
+870	Precinct 41				Under Votes	42	6	28	8
+871	Precinct 41	"Dist Judge, 135th Judicial Dist"							
+872	Precinct 41				REP Kemper Stephen Williams	262	11	179	72
+873	Precinct 41				Over Votes	0	0	0	0
+874	Precinct 41				Under Votes	46	6	33	7
+875	Precinct 41	"Dist Attorney, 24th Judicial Dist"							
+876	Precinct 41				REP Brian Michael Cromeens	263	9	182	72
+877	Precinct 41				Over Votes	0	0	0	0
+878	Precinct 41				Under Votes	45	8	30	7
+879	Precinct 41								
+880	Precinct 41	County Attorney							
+881	Precinct 41				Write-ins	65	2	43	20
+882	Precinct 41				Over Votes	0	0	0	0
+883	Precinct 41				Under Votes	243	15	169	59
+884	Precinct 41	Sheriff							
+885	Precinct 41				REP Roy Boyd Jr	272	11	187	74
+886	Precinct 41				Over Votes	0	0	0	0
+887	Precinct 41				Under Votes	36	6	25	5
+888	Precinct 41	County Tax Assessor-Collector							
+889	Precinct 41				REP Michelle Garcia	268	11	186	71
+890	Precinct 41				Over Votes	0	0	0	0
+891	Precinct 41				Under Votes	40	6	26	8
+892	Precinct 41	"Constable, Precinct No. 2"							
+893	Precinct 41				REP Bill Zappe	265	11	181	73
+894	Precinct 41				Over Votes	0	0	0	0
+895	Precinct 41				Under Votes	43	6	31	6
+896	Precinct 42								
+897	Precinct 42	Registered Voters				680			
+898	Precinct 42	Ballots Cast				515	18	263	234
+899	Precinct 42	Ballots Cast - Blank				0	0	0	0
+900	Precinct 42	President							
+901	Precinct 42				REP Donald J. Trump	454	12	222	220
+902	Precinct 42				DEM Kamala D. Harris	58	5	41	12
+903	Precinct 42				LIB Chase Oliver	0	0	0	0
+904	Precinct 42				GRN Jill Stein	3	1	0	2
+905	Precinct 42				Write-ins	0	0	0	0
+906	Precinct 42				Over Votes	0	0	0	0
+907	Precinct 42				Under Votes	0	0	0	0
+908	Precinct 42	U.S. Senate							
+909	Precinct 42				REP Ted Cruz	437	12	216	209
+910	Precinct 42				DEM Colin Allred	65	5	43	17
+911	Precinct 42				LIB Ted Brown	13	1	4	8
+912	Precinct 42				Write-ins	0	0	0	0
+913	Precinct 42				Over Votes	0	0	0	0
+914	Precinct 42				Under Votes	0	0	0	0
+915	Precinct 42								
+916	Precinct 42	"US Representative, Dist 27"							
+917	Precinct 42				REP Michael Cloud	459	12	228	219
+918	Precinct 42				DEM Tanya Lloyd	47	6	31	10
+919	Precinct 42				Over Votes	0	0	0	0
+920	Precinct 42				Under Votes	9	0	4	5
+921	Precinct 42	Railroad Commissioner							
+922	Precinct 42				REP Christi Craddick	443	11	218	214
+923	Precinct 42				DEM Katherine Culbert	48	4	33	11
+924	Precinct 42				LIB Hawk Dunlap	10	2	4	4
+925	Precinct 42				GRN Eddie Espinoza	2	0	1	1
+926	Precinct 42				Write-ins	1	0	1	0
+927	Precinct 42				Over Votes	0	0	0	0
+928	Precinct 42				Under Votes	11	1	6	4
+929	Precinct 42	"Justice, Supreme Court, Pl 2"							
+930	Precinct 42				REP Jimmy Blacklock	456	13	226	217
+931	Precinct 42				DEM DaSean Jones	46	5	31	10
+932	Precinct 42				Over Votes	0	0	0	0
+933	Precinct 42				Under Votes	13	0	6	7
+934	Precinct 42	"Justice, Supreme Court, Pl 4"							
+935	Precinct 42				REP John Devine	449	12	220	217
+936	Precinct 42				DEM Christine Vinh Weems	52	6	36	10
+937	Precinct 42				Over Votes	0	0	0	0
+938	Precinct 42				Under Votes	14	0	7	7
+939	Precinct 42								
+940	Precinct 42	"Justice, Supreme Court, Pl 6"							
+941	Precinct 42				REP Jane Bland	442	13	221	208
+942	Precinct 42				DEM Bonnie Lee Goldstein	52	5	36	11
+943	Precinct 42				LIB J. David Roberson	6	0	0	6
+944	Precinct 42				Over Votes	0	0	0	0
+945	Precinct 42				Under Votes	15	0	6	9
+946	Precinct 42	"Presiding Judge, Ct of Crim App"							
+947	Precinct 42				REP David J. Schenck	442	12	219	211
+948	Precinct 42				DEM Holly Taylor	55	6	36	13
+949	Precinct 42				Over Votes	0	0	0	0
+950	Precinct 42				Under Votes	18	0	8	10
+951	Precinct 42	"Judge, Ct of Crim App, Pl 7"							
+952	Precinct 42				REP Gina Parker	450	12	221	217
+953	Precinct 42				DEM Nancy Mulder	48	6	33	9
+954	Precinct 42				Over Votes	0	0	0	0
+955	Precinct 42				Under Votes	17	0	9	8
+956	Precinct 42	"Judge, Ct of Crim App, Pl 8"							
+957	Precinct 42				REP Lee Finley	453	14	222	217
+958	Precinct 42				DEM Chika Anyiam	46	4	33	9
+959	Precinct 42				Over Votes	0	0	0	0
+960	Precinct 42				Under Votes	16	0	8	8
+961	Precinct 42								
+962	Precinct 42	"Member, State BoE, Dist 3"							
+963	Precinct 42				DEM Marisa Perez-Diaz	173	8	84	81
+964	Precinct 42				Over Votes	0	0	0	0
+965	Precinct 42				Under Votes	342	10	179	153
+966	Precinct 42	"State Representative, Dist 30"							
+967	Precinct 42				REP AJ Louderback	449	12	223	214
+968	Precinct 42				DEM Stephanie R. Bassham	51	5	33	13
+969	Precinct 42				Over Votes	0	0	0	0
+970	Precinct 42				Under Votes	15	1	7	7
+971	Precinct 42	"Chief Justice, 13th Ct of App Dist"							
+972	Precinct 42				REP Jaime Tijerina	444	12	217	215
+973	Precinct 42				DEM Gina Benavides	52	6	36	10
+974	Precinct 42				Over Votes	0	0	0	0
+975	Precinct 42				Under Votes	19	0	10	9
+976	Precinct 42	"Justice, 13th Ct of App Dist, Pl 2"							
+977	Precinct 42				REP Jenny Cron	442	14	216	212
+978	Precinct 42				DEM Nora Longoria	56	4	38	14
+979	Precinct 42				Over Votes	0	0	0	0
+980	Precinct 42				Under Votes	17	0	9	8
+981	Precinct 42								
+982	Precinct 42	"Justice, 13th Ct of App Dist, Pl 4"							
+983	Precinct 42				REP Ysmael D. Fonseca	438	11	217	210
+984	Precinct 42				DEM Joe Martinez	52	7	35	10
+985	Precinct 42				Over Votes	0	0	0	0
+986	Precinct 42				Under Votes	25	0	11	14
+987	Precinct 42	"Justice, 13th Ct of App Dist, Pl 5"							
+988	Precinct 42				REP Jon West	449	13	220	216
+989	Precinct 42				DEM Regi Compian Richardson	46	5	32	9
+990	Precinct 42				Over Votes	0	0	0	0
+991	Precinct 42				Under Votes	20	0	11	9
+992	Precinct 42	"Dist Judge, 24th Judicial Dist"							
+993	Precinct 42				REP Lisa Harvey Moore	453	14	226	213
+994	Precinct 42				Over Votes	0	0	0	0
+995	Precinct 42				Under Votes	62	4	37	21
+996	Precinct 42	"Dist Judge, 135th Judicial Dist"							
+997	Precinct 42				REP Kemper Stephen Williams	454	14	227	213
+998	Precinct 42				Over Votes	0	0	0	0
+999	Precinct 42				Under Votes	61	4	36	21
+1000	Precinct 42	"Dist Attorney, 24th Judicial Dist"							
+1001	Precinct 42				REP Brian Michael Cromeens	452	13	226	213
+1002	Precinct 42				Over Votes	0	0	0	0
+1003	Precinct 42				Under Votes	63	5	37	21
+1004	Precinct 42								
+1005	Precinct 42	County Attorney							
+1006	Precinct 42				Write-ins	99	3	74	22
+1007	Precinct 42				Over Votes	0	0	0	0
+1008	Precinct 42				Under Votes	416	15	189	212
+1009	Precinct 42	Sheriff							
+1010	Precinct 42				REP Roy Boyd Jr	465	14	232	219
+1011	Precinct 42				Over Votes	0	0	0	0
+1012	Precinct 42				Under Votes	50	4	31	15
+1013	Precinct 42	County Tax Assessor-Collector							
+1014	Precinct 42				REP Michelle Garcia	454	14	224	216
+1015	Precinct 42				Over Votes	0	0	0	0
+1016	Precinct 42				Under Votes	61	4	39	18
+1017	Precinct 42	"Constable, Precinct No. 2"							
+1018	Precinct 42				REP Bill Zappe	456	14	228	214
+1019	Precinct 42				Over Votes	0	0	0	0
+1020	Precinct 42				Under Votes	59	4	35	20
+1021	Precinct 43								
+1022	Precinct 43	Registered Voters				455			
+1023	Precinct 43	Ballots Cast				345	14	277	54
+1024	Precinct 43	Ballots Cast - Blank				0	0	0	0
+1025	Precinct 43	President							
+1026	Precinct 43				REP Donald J. Trump	304	10	248	46
+1027	Precinct 43				DEM Kamala D. Harris	38	4	28	6
+1028	Precinct 43				LIB Chase Oliver	2	0	0	2
+1029	Precinct 43				GRN Jill Stein	0	0	0	0
+1030	Precinct 43				Write-ins	1	0	1	0
+1031	Precinct 43				Over Votes	0	0	0	0
+1032	Precinct 43				Under Votes	0	0	0	0
+1033	Precinct 43	U.S. Senate							
+1034	Precinct 43				REP Ted Cruz	292	10	238	44
+1035	Precinct 43				DEM Colin Allred	43	4	31	8
+1036	Precinct 43				LIB Ted Brown	4	0	4	0
+1037	Precinct 43				Write-ins	1	0	1	0
+1038	Precinct 43				Over Votes	0	0	0	0
+1039	Precinct 43				Under Votes	5	0	3	2
+1040	Precinct 43								
+1041	Precinct 43	"US Representative, Dist 27"							
+1042	Precinct 43				REP Michael Cloud	300	10	243	47
+1043	Precinct 43				DEM Tanya Lloyd	33	3	25	5
+1044	Precinct 43				Over Votes	0	0	0	0
+1045	Precinct 43				Under Votes	12	1	9	2
+1046	Precinct 43	Railroad Commissioner							
+1047	Precinct 43				REP Christi Craddick	290	11	236	43
+1048	Precinct 43				DEM Katherine Culbert	34	3	27	4
+1049	Precinct 43				LIB Hawk Dunlap	6	0	4	2
+1050	Precinct 43				GRN Eddie Espinoza	2	0	2	0
+1051	Precinct 43				Write-ins	0	0	0	0
+1052	Precinct 43				Over Votes	0	0	0	0
+1053	Precinct 43				Under Votes	13	0	8	5
+1054	Precinct 43	"Justice, Supreme Court, Pl 2"							
+1055	Precinct 43				REP Jimmy Blacklock	301	10	244	47
+1056	Precinct 43				DEM DaSean Jones	30	3	23	4
+1057	Precinct 43				Over Votes	0	0	0	0
+1058	Precinct 43				Under Votes	14	1	10	3
+1059	Precinct 43	"Justice, Supreme Court, Pl 4"							
+1060	Precinct 43				REP John Devine	296	10	239	47
+1061	Precinct 43				DEM Christine Vinh Weems	34	3	27	4
+1062	Precinct 43				Over Votes	0	0	0	0
+1063	Precinct 43				Under Votes	15	1	11	3
+1064	Precinct 43								
+1065	Precinct 43	"Justice, Supreme Court, Pl 6"							
+1066	Precinct 43				REP Jane Bland	290	10	235	45
+1067	Precinct 43				DEM Bonnie Lee Goldstein	31	3	23	5
+1068	Precinct 43				LIB J. David Roberson	8	0	7	1
+1069	Precinct 43				Over Votes	0	0	0	0
+1070	Precinct 43				Under Votes	16	1	12	3
+1071	Precinct 43	"Presiding Judge, Ct of Crim App"							
+1072	Precinct 43				REP David J. Schenck	293	10	238	45
+1073	Precinct 43				DEM Holly Taylor	34	3	27	4
+1074	Precinct 43				Over Votes	0	0	0	0
+1075	Precinct 43				Under Votes	18	1	12	5
+1076	Precinct 43	"Judge, Ct of Crim App, Pl 7"							
+1077	Precinct 43				REP Gina Parker	291	10	238	43
+1078	Precinct 43				DEM Nancy Mulder	32	3	25	4
+1079	Precinct 43				Over Votes	0	0	0	0
+1080	Precinct 43				Under Votes	22	1	14	7
+1081	Precinct 43	"Judge, Ct of Crim App, Pl 8"							
+1082	Precinct 43				REP Lee Finley	299	10	243	46
+1083	Precinct 43				DEM Chika Anyiam	29	3	22	4
+1084	Precinct 43				Over Votes	0	0	0	0
+1085	Precinct 43				Under Votes	17	1	12	4
+1086	Precinct 43								
+1087	Precinct 43	"Member, State BoE, Dist 3"							
+1088	Precinct 43				DEM Marisa Perez-Diaz	121	5	96	20
+1089	Precinct 43				Over Votes	0	0	0	0
+1090	Precinct 43				Under Votes	224	9	181	34
+1091	Precinct 43	"State Representative, Dist 30"							
+1092	Precinct 43				REP AJ Louderback	288	11	233	44
+1093	Precinct 43				DEM Stephanie R. Bassham	34	2	27	5
+1094	Precinct 43				Over Votes	0	0	0	0
+1095	Precinct 43				Under Votes	23	1	17	5
+1096	Precinct 43	"Chief Justice, 13th Ct of App Dist"							
+1097	Precinct 43				REP Jaime Tijerina	288	10	233	45
+1098	Precinct 43				DEM Gina Benavides	36	3	29	4
+1099	Precinct 43				Over Votes	0	0	0	0
+1100	Precinct 43				Under Votes	21	1	15	5
+1101	Precinct 43	"Justice, 13th Ct of App Dist, Pl 2"							
+1102	Precinct 43				REP Jenny Cron	285	10	231	44
+1103	Precinct 43				DEM Nora Longoria	38	3	31	4
+1104	Precinct 43				Over Votes	0	0	0	0
+1105	Precinct 43				Under Votes	22	1	15	6
+1106	Precinct 43								
+1107	Precinct 43	"Justice, 13th Ct of App Dist, Pl 4"							
+1108	Precinct 43				REP Ysmael D. Fonseca	286	10	232	44
+1109	Precinct 43				DEM Joe Martinez	35	3	28	4
+1110	Precinct 43				Over Votes	0	0	0	0
+1111	Precinct 43				Under Votes	24	1	17	6
+1112	Precinct 43	"Justice, 13th Ct of App Dist, Pl 5"							
+1113	Precinct 43				REP Jon West	295	10	240	45
+1114	Precinct 43				DEM Regi Compian Richardson	29	3	22	4
+1115	Precinct 43				Over Votes	0	0	0	0
+1116	Precinct 43				Under Votes	21	1	15	5
+1117	Precinct 43	"Dist Judge, 24th Judicial Dist"							
+1118	Precinct 43				REP Lisa Harvey Moore	296	12	242	42
+1119	Precinct 43				Over Votes	0	0	0	0
+1120	Precinct 43				Under Votes	49	2	35	12
+1121	Precinct 43	"Dist Judge, 135th Judicial Dist"							
+1122	Precinct 43				REP Kemper Stephen Williams	299	12	243	44
+1123	Precinct 43				Over Votes	0	0	0	0
+1124	Precinct 43				Under Votes	46	2	34	10
+1125	Precinct 43	"Dist Attorney, 24th Judicial Dist"							
+1126	Precinct 43				REP Brian Michael Cromeens	297	12	239	46
+1127	Precinct 43				Over Votes	0	0	0	0
+1128	Precinct 43				Under Votes	48	2	38	8
+1129	Precinct 43								
+1130	Precinct 43	County Attorney							
+1131	Precinct 43				Write-ins	77	0	71	6
+1132	Precinct 43				Over Votes	0	0	0	0
+1133	Precinct 43				Under Votes	268	14	206	48
+1134	Precinct 43	Sheriff							
+1135	Precinct 43				REP Roy Boyd Jr	311	13	251	47
+1136	Precinct 43				Over Votes	0	0	0	0
+1137	Precinct 43				Under Votes	34	1	26	7
+1138	Precinct 43	County Tax Assessor-Collector							
+1139	Precinct 43				REP Michelle Garcia	299	13	239	47
+1140	Precinct 43				Over Votes	0	0	0	0
+1141	Precinct 43				Under Votes	46	1	38	7
+1142	Precinct 43	"Constable, Precinct No. 2"							
+1143	Precinct 43				REP Bill Zappe	288	13	230	45
+1144	Precinct 43				Over Votes	0	0	0	0
+1145	Precinct 43				Under Votes	57	1	47	9
